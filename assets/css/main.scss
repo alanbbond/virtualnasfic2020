@@ -1,0 +1,244 @@
+---
+---
+
+$dark: rgb(45,52,84);
+$medium: rgb(159,167,199);
+$medium-light: rgb(202,205,224);
+$light: rgb(237,240,252);
+$very-light: rgb(245,247,255);
+$white: rgb(250,250,250);
+$highlight: rgb(201, 242, 253);
+
+$main-padding: 0.25rem;
+
+body {
+  font-family: "Josefin Sans", "Proxima Nova", Helvetica, Corbel, sans-serif;
+  line-height: 1.1rem;
+  background-color: $very-light;
+  margin: 0;
+  font-size: 1rem;
+}
+
+h1 {
+  color: $dark;
+  font-size: 3rem;
+  margin: 4rem 0 3rem 0;
+  line-height: 3rem;
+}
+
+h2 {
+  color: $dark;
+  font-size: 2rem;
+  margin: 3rem 0 2rem 0;
+  line-height: 2rem;
+}
+
+h3 {
+  margin: 2rem 0 1.25rem 0;
+  line-height: 1.75rem;
+}
+
+blockquote {
+  padding: 0.25rem 1rem 1rem 1rem;
+  background-color: $light;
+}
+
+a {
+  word-break: break-all;
+}
+
+header {
+  background: url('/assets/images/Columbus-NASFiC-logo-for-header-2.png'), $dark;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  margin: 0;
+
+  .logo-spacer {
+    margin: 1rem;
+    height: 1rem;
+    width: 8rem;
+  }
+
+  h1 {
+    margin: 1rem 1rem 0.25rem 15rem;
+    color: $medium-light;
+    font-size: 2.25rem;
+    line-height: 2rem;
+  }
+
+  nav {
+    margin: 0;
+
+    ul {
+      display: flex;
+      flex-direction: row;
+      padding: 0;
+      margin: 0;
+      list-style-type: none;
+
+      li {
+        position: relative;
+        width: 4rem;
+        padding: 0.5rem;
+        margin: 0.25rem 0.5rem 0 0.5rem;
+        height: 1.5rem;
+        border-radius: 0.25rem 0.25rem 0 0;
+        background-color: $medium-light;
+        color: $dark;
+        font-weight: bold;
+        box-shadow: inset 0.2rem 0.2rem 0.3rem $very-light;
+        &.this-page {
+          background-color: $very-light;
+        }
+        &:not(.this-page) {
+          box-shadow: inset 0 -0.3rem 0.4rem $medium;
+        }
+        a, span {
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 100%;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          text-align: center;
+          color: inherit;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+.container {
+  padding: 1rem;
+  width: 50rem;
+  min-height: calc(100vh - 12rem);
+  margin: 0 auto;
+}
+
+/* agreement */
+
+.agreement-container {
+  width: 30rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: calc(100vh - 10rem);
+
+  &>label {
+    margin: 2.5rem 0 0 0;
+    padding-right: 3rem;
+    position: relative;
+  }
+
+  .agreement-checkbox:not(:checked) + label::before {
+    content: attr(data-caption);
+    position: absolute;
+    left: 1rem;
+    top: -1.75rem;
+    height: 1rem;
+    width: fit-content;
+  }
+
+  .agreement-checkbox:checked + label::after {
+    content: '';
+    position: absolute;
+    right: 0.25rem;
+    top: calc(50% - 1.1rem);
+    height: 2.5rem;
+    width: 2rem;
+    background: url('/assets/images/yes.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  input {
+    height: 1.5rem;
+    margin: 0 0.5rem 1rem 0.5rem;
+  }
+
+  button {
+    width: fit-content;
+    align-self: flex-end;
+  }
+
+}
+
+.button, button {
+  padding: 1rem;
+  background-color: $light;
+  border-radius: 0.5rem;
+  border: 0.1rem solid $highlight;
+  box-shadow:
+    inset 0.2rem 0.2rem 0.3rem $very-light,
+    inset -0.2rem -0.2rem 0.1rem $medium,
+    0.2rem 0.2rem 0.3rem $medium-light,
+    -0.2rem 0.2rem 0.3rem $medium-light,
+    0.2rem -0.2rem 0.3rem $medium-light;
+}
+
+.dealer-listing {
+  min-height: 16rem;
+  h2 {
+    margin-top: -1rem;
+  }
+}
+
+/* footer */
+
+footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* images */
+
+.floatimage, .full-size-image {
+    position: relative;
+    height: 12rem;
+    border: 0.5rem solid $dark;
+    margin: 0.25rem 1rem 1rem 1rem;
+    padding: 1rem;
+    background-size: cover;
+
+    a {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+}
+.floatimage {
+    width: 12rem;
+}
+.full-size-image {
+    width: 100%
+}
+.floatimage > span.bottom {
+    position: absolute;
+    bottom: 0;
+}
+.caption {
+    color: $light;
+    font-size: large;
+    font-weight: bold;
+    text-shadow:
+      0.1rem 0.1rem $dark,
+      0.1rem 0 $dark,
+      -0.1rem -0.1rem $dark,
+      -0.1rem 0 $dark,
+      -0.1rem 0.1rem $dark,
+      0 0.1rem $dark,
+      0.1rem -0.1rem $dark,
+      0 -0.1rem $dark;
+}

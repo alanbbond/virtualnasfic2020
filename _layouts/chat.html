@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+  <title>Virtual NASFiC 2020 {{ page.title }}</title>
+  <meta name="description"
+    content="The 2020 North American Science Fiction Convention online. {{ page.title }}." />
+  <meta property="og:url"
+    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:title" content="{{ page.title | append: ' - ' }}Virtual NASFiC 2020" />
+  <meta property="og:description"
+    content="The 2020 North American Science Fiction Convention online." />
+  <meta property="og:image" content="{{ site.url }}/assets/images/Columbus-NASFIC-2020_landing_image.jpg" />
+  <link href="assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico"  | absolute_url }}" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:500|Josefin+Sans:300,600" rel="stylesheet"
+    type="text/css">
+</head>
+
+<body class="pages">
+  <main class="main">
+    <header>
+      <div class="logo-spacer"></div>
+      <h1>Access Portal</h1>
+      <nav style="display: none">
+        <ul class="pages-nav">
+        {% assign navs = site.pages | sort: "order" %}
+          {% for nav in navs %}
+          {% if nav.category == "pages" %}
+            {% if nav.title == page.title %}
+            <li class="this-page" >
+              <span>{{ nav.title }}</span>
+            {% else %}
+            <li>
+              <a href="{{ nav.url | absolute_url }}">{{ nav.title }}</a>
+            {% endif %}
+            </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </nav>
+    </header>
+    {{ content }}
+    {% include agreement.html %}
+    {% include footer.html %}
+  </main>
+  <script>
+    const agreement = localStorage.getItem('NASFiC_2020_agreement');
+    if (agreement) {
+      const form = document.getElementById('agreement-form');
+      if (form) {
+        form.style.display = "none";
+      }
+      const agreement_container = document.getElementById('agreement-container');
+      if (agreement_container) {
+        agreement_container.style.display = "none";
+      }
+      const nav = document.getElementsByTagName('nav')[0];
+      if (nav) {
+        nav.style.display = "block";
+      }
+    }
+    if (window.document.documentMode) {
+      var main = document.getElementsByClassName('main')[0];
+      var iesupportmsg = document.createElement('div');
+      iesupportmsg.innerText = "We're sorry, but Internet Explorer is not supported."
+      main.appendChild(iesupportmsg);
+    }
+  </script>
+</body>
+</html>
