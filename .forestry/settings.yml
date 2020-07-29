@@ -6,11 +6,10 @@ webhook_url:
 sections:
 - type: document
   path: _data/schedule.yml
-  label: Schedule Database
-  match: "**/*"
+  label: Schedule Entries
 - type: document
   path: _data/dealers.yml
-  label: Dealer Database
+  label: Dealer Entries
 - type: jekyll-pages
   label: Pages
   create: all
