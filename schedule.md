@@ -2,7 +2,7 @@
 title: Schedule
 layout: default
 category: pages
-order: 1
+order: 2
 ---
 
 # Events

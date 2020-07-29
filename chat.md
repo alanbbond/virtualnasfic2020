@@ -2,7 +2,7 @@
 title: Chat
 layout: chat
 category: pages
-order: "3"
+order: 4
 
 ---
 <widgetbot
