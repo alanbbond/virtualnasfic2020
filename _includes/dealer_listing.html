@@ -1,10 +1,12 @@
 <section class="dealer-listing">
-  <div class="floatimage" style="background-image: url('{{ site.baseurl | prepend: site.url }}/assets/images/{{ include.filename }}'); float: {{ include.side }}">
-    <a href="{{ include.link }}"></a>
+  <div
+    class="floatimage"
+    style="background-image: url('{{ site.baseurl | prepend: site.url }}/assets/images/{{ dealer.filename }}'); float: left;">
+    <a href="{{ dealer.link }}"></a>
   </div>
   <p>&nbsp;</p>
-  <h2>{{ include.title }}</h2>
-  <p class="link"><a href="{{ include.link }}">Link to shop</a></p>
-  <p>{{ include.description }}</p>
+  <h2>{{ dealer.name }}</h2>
+  <p class="link"><a href="{{ dealer.link }}">Link to shop</a></p>
+  <p>{{ dealer.description }}</p>
 </section>
 
