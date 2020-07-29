@@ -17,8 +17,8 @@ fields:
 - type: text
   name: category
   label: Category
-  description: <strong>This page won't be shown in the menu unless this is set to
-    "page".</strong><br>For now. Later we could make new categories like "public"
+  description: <strong>This page won't be shown in the menu unless the category is
+    set to "pages".</strong><br>For now. Later we could make new categories like "public"
     vs "access_controlled" if you want.
   hidden: false
 - type: number
