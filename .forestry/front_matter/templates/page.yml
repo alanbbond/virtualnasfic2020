@@ -25,3 +25,5 @@ fields:
   name: order
   label: Order In Navigation Menu
   description: The order in which this page appears in the navigation menu.
+pages:
+- index.md

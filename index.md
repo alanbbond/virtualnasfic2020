@@ -2,6 +2,7 @@
 title: Home
 layout: default
 category: pages
+order: 1
 
 ---
 # Welcome to Columbus NASFiC 2020 Online!
