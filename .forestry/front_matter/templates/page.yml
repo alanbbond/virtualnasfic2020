@@ -24,7 +24,8 @@ fields:
 - type: number
   name: order
   label: Order In Navigation Menu
-  description: The order in which this page appears in the navigation menu.
+  description: The order in which this page appears in the navigation menu. <strong>Every
+    page must have a numeral here or the build will fail.</strong>
 pages:
 - 404.html
 - chat.md
