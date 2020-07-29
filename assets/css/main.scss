@@ -193,6 +193,21 @@ header {
   }
 }
 
+.schedule-listing {
+  .byline {
+    display: flex;
+    justify-content: space-between;
+
+    .presenters {
+      font-style: italic;
+    }
+
+    .time {
+      font-weight: bold;
+    }
+  }
+}
+
 /* footer */
 
 footer {
