@@ -27,3 +27,4 @@ fields:
   description: The order in which this page appears in the navigation menu.
 pages:
 - index.md
+- schedule.md
