@@ -26,6 +26,7 @@ fields:
   label: Order In Navigation Menu
   description: The order in which this page appears in the navigation menu.
 pages:
+- 404.html
 - chat.md
 - dealers.md
 - index.md
