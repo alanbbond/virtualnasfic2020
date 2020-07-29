@@ -6,20 +6,20 @@ fields:
   name: title
   label: Title
   description: "<strong>This is what shows up in the nav menu, and the end of the
-    URL</strong>. So keep it short. If you want a longer title, just put it in a large
-    font at the top of the page content."
+    URL</strong>.<br>So keep it short. If you want a longer title, just put it in
+    a large font at the top of the page content."
 - type: text
   name: layout
   label: Layout
-  description: <strong>Everything should just use "default" for this.</strong> (Except
+  description: <strong>Every page should just use "default" for this.</strong><br>(Except
     for the Chat page; its special layout allows our Discord to take up the full page
     width.)
 - type: text
   name: category
   label: Category
   description: <strong>This page won't be shown in the menu unless this is set to
-    "page".</strong> For now. Later we could make new categories like "public" vs
-    "access_controlled" if we want.
+    "page".</strong><br>For now. Later we could make new categories like "public"
+    vs "access_controlled" if you want.
   hidden: false
 - type: number
   name: order
