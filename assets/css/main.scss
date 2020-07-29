@@ -48,7 +48,7 @@ a {
 }
 
 header {
-  background: url('{{ site.baseurl }}/assets/images/Columbus-NASFiC-logo-for-header-2.png'), $dark;
+  background: url('{{ absolute_url }}/assets/images/Columbus-NASFiC-logo-for-header-2.png'), $dark;
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 1rem;
@@ -156,7 +156,7 @@ header {
     top: calc(50% - 1.1rem);
     height: 2.5rem;
     width: 2rem;
-    background: url('{{ site.baseurl }}/assets/images/yes.svg');
+    background: url('{{ absolute_url }}/assets/images/yes.svg');
     background-size: contain;
     background-repeat: no-repeat;
   }
