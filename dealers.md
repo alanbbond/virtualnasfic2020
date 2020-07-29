@@ -2,7 +2,7 @@
 title: Dealers
 layout: default
 category: pages
-order: 2
+order: 3
 ---
 
 # Dealers
