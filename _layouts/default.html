@@ -41,7 +41,7 @@
         </ul>
       </nav>
     </header>
-    <section class="container">
+    <section class="container" hidden>
       {{ content }}
       {% include agreement.html %}
     </section>
@@ -57,6 +57,10 @@
       const agreement_container = document.getElementById('agreement-container');
       if (agreement_container) {
         agreement_container.style.display = "none";
+      }
+      const container = document.getElementsByClassName("container")[0];
+      if (container) {
+        container.style.display = "block";
       }
       const nav = document.getElementsByTagName('nav')[0];
       if (nav) {
