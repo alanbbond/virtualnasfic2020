@@ -1,3 +1,3 @@
-<div class="full-width-image" style="background-image: url('{{ absolute_url }}/assets/images/{{ include.filename }}'); width: 100%">
+<div class="full-width-image" style="background-image: url('{{ site.url | append: site.baseurl }}/assets/images/{{ include.filename }}'); width: 100%">
   <span class="caption {{ include.caption_vert_align }}">{{ include.caption }}</span>
 </div>

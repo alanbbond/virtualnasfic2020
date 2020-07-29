@@ -33,7 +33,7 @@
               <span>{{ nav.title }}</span>
             {% else %}
             <li>
-              <a href="{{ absolute_url }}">{{ nav.title }}</a>
+              <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
             {% endif %}
             </li>
           {% endif %}
