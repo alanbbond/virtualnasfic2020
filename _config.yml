@@ -1,5 +1,5 @@
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
-
+baseurl: https://mattarnold.github.io/virtualnasfic2020/
 theme: jekyll-theme-minimal
