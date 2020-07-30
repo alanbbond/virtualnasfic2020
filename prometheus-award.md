@@ -6,7 +6,6 @@ order:
 published: false
 
 ---
-
 ![WilliaEditor, writer and LFS president](/assets/images/william-h-stoddard-with-cat.jpeg "William H. Stoddard")
 
 William H. Stoddard is a copy editor specializing in scientific and scholarly publications. He has written more than two dozen GURPS supplements for Steve Jackson Games, beginning with GURPS Steampunk in 2000, which won an Origins Award for best role playing supplement. He is the president of the Libertarian Futurist Society, and many of his essays and reviews have appeared on its Prometheus blog ([http://lfs.org/blog/](http://lfs.org/blog/ "http://lfs.org/blog/")).
@@ -25,4 +24,10 @@ Panelists
 
 F. Paul Wilson
 
+**Prometheus Awards’ 40th Anniversary Ceremony**
+
 ![](/assets/images/fpaulwilson-300dpi.jpg "F. Paul Wilson")
+
+F. Paul Wilson presenting Best Novel and Sarah Hoyt presenting Hall of Fame category
+
+The Prometheus Awards, first presented in 1979 to F. Paul Wilson and administered by the nonprofit Libertarian Futurist Society (www.lfs.org), recognizes outstanding pro-freedom and/or anti-authoritarian speculative fiction. Winners are selected in a ranked vote by LFS members from finalist slates in annual categories for Best Novel and Best Classic Fiction (Hall of Fame). The 2020 awards ceremony features novelists F. Paul Wilson and Sarah Hoyt, with acceptance speeches by the winners. Among past winners: Hans Christian Anderson, Ray Bradbury, Ernest Cline, Cory Doctorow, Harlan Ellison, Robert Heinlein, Hoyt, Ursula LeGuin, Ken MacLeod, George Orwell, Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton, Jack Williamson, Wilson and Robert Anton Wilson.)
