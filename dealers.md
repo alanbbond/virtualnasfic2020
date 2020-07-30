@@ -3,7 +3,6 @@ title: Dealers
 layout: default
 category: pages
 order: 3
-published: false
 
 ---
 # Dealers
