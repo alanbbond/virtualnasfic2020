@@ -18,8 +18,8 @@ fields:
   name: category
   label: Category
   description: <strong>This page won't be shown in the menu unless the category is
-    set to "pages".</strong><br>For now. Later we could make new categories like "public"
-    vs "access_controlled" if you want.
+    set to "pages".</strong><br>(Alan expressed some interest in making new categories
+    like "public" vs "access_controlled".)
   hidden: false
 - type: number
   name: order
