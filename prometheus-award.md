@@ -10,7 +10,7 @@ published: false
 
 William H. Stoddard is a copy editor specializing in scientific and scholarly publications. He has written more than two dozen GURPS supplements for Steve Jackson Games, beginning with GURPS Steampunk in 2000, which won an Origins Award for best role playing supplement. He is the president of the Libertarian Futurist Society, and many of his essays and reviews have appeared on its Prometheus blog ([http://lfs.org/blog/](http://lfs.org/blog/ "http://lfs.org/blog/")).
 
-**Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades, from F. Paul Wilson and Robert Heinlein to Today.**
+### Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades, from F. Paul Wilson and Robert Heinlein to Today
 
 How have our visions of a free, dynamic and better future, with universal respect for each other’s rights, evolved and changed in science fiction/fantasy? What about cautionary dystopian visions, from Orwell’s 1984 and Animal Farm to Doctorow’s Little Brother? Prometheus-winning authors Sarah Hoyt (Darkship Thieves) and F. Paul Wilson (An Enemy of the State, Repairman Jack series) will join journalists Michael Grossberg and Tom Jackson in examining the perennial tensions between Liberty and Power and cooperation versus coercion, as reflected in these and other authors’ diverse Prometheus Award winners over the past 40 years.
 
@@ -20,17 +20,23 @@ Moderator Tom Jackson
 
 ![Moderator](/assets/images/tom-jackson.jpg "Tom Jackson")
 
+Tom Jackson, an Ohio resident, is a newspaper reporter for _The Sandusky Register_ who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, [RAWIllumination.net](http://rawillumination.net/), devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society ([lfs.org](http://lfs.org)), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.
+
 Panelists
 
 F. Paul Wilson
 
-**Prometheus Awards’ 40th Anniversary Ceremony**
+### Prometheus Awards’ 40th Anniversary Ceremony
 
 Saturday, August 22nd - Afternoon
 
 Moderator Michael Grossberg
 
-Moderator Michael GrossbergModerator Tom Jackson![Moderator](/assets/images/michael-grossberg-2020.jpeg "Michael Grossberg")
+![Moderator](/assets/images/michael-grossberg-2020.jpeg "Michael Grossberg")
+
+Michael Grossberg co-founded the Libertarian Futurist Society ([lfs.org](http://lfs.org)), established in 1981 to sustain the Prometheus Awards, and chairs the Prometheus Awards Best Novel Finalist Judging Committee, which selects annual slates of finalists_._ A theater critic and arts reporter since the early 1980s, Michael has contributed to six books, including critical essays for the annual _Best Plays Theatre Yearbook,_ and an essay/afterword for the first paperback edition of J. Neil Schulman's Prometheus-winning novel_The Rainbow Cadenza_; written reviews for _Reason_magazine, wrote a regional column for years with Backstage, the national performing-arts weekly; and helped lead the American Theatre Critics Association and administer its national new-play and regional-Tony awards. Michael won the 2019 Society of Professional Journalists awards for Best Critic in Ohio (also won in 2015) and Best Arts Reporting (won seven times).
+
+Moderator Tom Jackson
 
 Moderator Tom Jackson
 
