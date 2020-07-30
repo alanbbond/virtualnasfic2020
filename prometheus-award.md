@@ -26,20 +26,22 @@ F. Paul Wilson
 
 **Prometheus Awards’ 40th Anniversary Ceremony**
 
+Saturday, August 22nd - Afternoon
+
 Moderator Michael Grossberg
 
-![Moderator](/assets/images/michael-grossberg-2020.jpeg "Michael Grossberg")
+Moderator Michael GrossbergModerator Tom Jackson![Moderator](/assets/images/michael-grossberg-2020.jpeg "Michael Grossberg")
 
 Moderator Tom Jackson
 
 ![Modertor](/assets/images/tom-jackson.jpg "Tom Jackson")
 
-![Panelist and Prometheus winner](/assets/images/fpaulwilson-300dpi.jpg "F. Paul Wilson")
-
 Prometheus winner F. Paul Wilson presenting Best Novel category
 
-![Panelis and Prometheus winner ](/assets/images/sarah-hoyt-n.jpg "Sarah Hoyt")
+![Panelist and Prometheus winner](/assets/images/fpaulwilson-300dpi.jpg "F. Paul Wilson")
 
 Prometheus winner Sarah Hoyt presenting Hall of Fame category
+
+![Panelis and Prometheus winner ](/assets/images/sarah-hoyt-n.jpg "Sarah Hoyt")
 
 The Prometheus Awards, first presented in 1979 to F. Paul Wilson and administered by the nonprofit Libertarian Futurist Society ([www.lfs.org]()), recognizes outstanding pro-freedom and/or anti-authoritarian speculative fiction. Winners are selected in a ranked vote by LFS members from finalist slates in annual categories for Best Novel and Best Classic Fiction (Hall of Fame). The 2020 awards ceremony features novelists F. Paul Wilson and Sarah Hoyt, with acceptance speeches by the winners. Among past winners: Hans Christian Anderson, Ray Bradbury, Ernest Cline, Cory Doctorow, Harlan Ellison, Robert Heinlein, Hoyt, Ursula LeGuin, Ken MacLeod, George Orwell, Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton, Jack Williamson, Wilson and Robert Anton Wilson.)
