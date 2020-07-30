@@ -51,7 +51,7 @@ A quick way to create a bulleted list is to start a line with a dash, then a spa
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png" width="25%" style="float: left; margin-right: 1rem;" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_toolbar_screenshot.png" width="50%" style="float: left; margin-right: 1rem;" />
 
 This toolbar will make your text selection in the editor into bold, italic, a hyperlink, or a list.
 
@@ -67,7 +67,7 @@ Click the image button to add an image. Remember that you need to go to the side
 
 If we published a page, and you turn "Draft" to "ON", the page no longer appears on the site.
 
-If you do some work on a published page, but you don't want the work to appear on the site yet, don't turn on "Draft", or the page would be invisible on the site. Instead, just leave this editor without clicking the "Save" button. Never fear-- Forestry saved your work for you automatically. The next time you come back to the editor for this page, Forestry will ask you if you wish to restore your work here,or discard it.
+If you do some work on a published page, but you don't want the work to appear on the site yet, don't turn on "Draft", or the page would be invisible on the site. Instead, just leave this editor without clicking the "Save" button. Never fear-- Forestry saved your work for you automatically. The next time you come back to the editor for this page, Forestry will ask you if you wish to restore your work here, or discard it.
 
 "Preview" is currently broken. I'm working with Forestry support to find out why.
 
