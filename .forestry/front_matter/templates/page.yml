@@ -5,9 +5,9 @@ fields:
 - type: text
   name: title
   label: Title
-  description: "<strong>This is what shows up in the nav menu, and the end of the
-    URL</strong>.<br>So keep it short. If you want a longer title, just put it in
-    a large font at the top of the page content. (Hi, this is Matt.)"
+  description: "<strong>Whatever is typed in this field is what shows up in the nav
+    menu, and the end of the URL</strong>.<br>So keep it short. If you want a longer
+    title, just type it in a large font at the top of the page content."
 - type: text
   name: layout
   label: Layout
@@ -17,15 +17,17 @@ fields:
 - type: text
   name: category
   label: Category
-  description: <strong>This page won't be shown in the menu unless the category is
-    set to "pages".</strong><br>(Alan expressed some interest in making new categories
-    like "public" vs "access_controlled".)
+  description: <strong>This page won't be shown in the menu unless "pages" has been
+    typed into this field.</strong><br>(Alan expressed some interest in making new
+    categories like "public" vs "access_controlled".)
   hidden: false
 - type: number
   name: order
   label: Order In Navigation Menu
   description: The order in which this page appears in the navigation menu. <strong>Every
-    page must have a numeral here or the build will fail.</strong>
+    page must have a numeral here, or the whole site will stay the same and no longer
+    take anyone's edits until this is fixed here.</strong> Don't spell it out like
+    the word "two", don't make it a decimal, don't put quotes around it.
 pages:
 - 404.html
 - chat.md
