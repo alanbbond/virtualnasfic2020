@@ -98,7 +98,7 @@ Do you know Markdown? It's what you use when writing a Reddit comment, to add bo
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_data_sidebar_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/screenshots/forestry_collection_sidebar.png" width="50%" />
 
 Click on a Collection in the Sidebar to create, edit, or delete individual scheduled events, or dealers, or whatever it is a Collection of.
 
@@ -112,7 +112,7 @@ If you want to change how the listings look, just ask me for it. If you want to 
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_data_create_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/screenshots/forestry_collection_create.png" width="50%" />
 
 This button lets you add a new listing to the Collection you clicked in the Sidebar.
 
@@ -120,7 +120,7 @@ This button lets you add a new listing to the Collection you clicked in the Side
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_data_create_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/screenshots/forestry_collection_handle.png" width="50%" />
 
 Each listing in the sidebar has a handle which you can drag up and down, to re-order of the listings in the Collection. For example, if events appear out of order in the Schedule, this is how you fix it.
 
@@ -128,11 +128,11 @@ Each listing in the sidebar has a handle which you can drag up and down, to re-o
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_data_create_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/screenshots/forestry_collection_editor.png" width="50%" />
 
 Click on the title of a listing in a Collection to bring up a form where you can edit all of that listing's fields:
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_data_create_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/screenshots/forestry_collection_editor.png" width="50%" />
 
 </section>
 
