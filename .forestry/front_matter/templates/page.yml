@@ -11,7 +11,7 @@ fields:
 - type: text
   name: layout
   label: Layout
-  description: <strong>Every page should just use "default" for this.</strong><br>(Except
+  description: <strong>Every page should just have "default" typed in here.</strong><br>(Except
     for the Chat page; its special layout allows our Discord to take up the full page
     width.)
 - type: text
