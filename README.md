@@ -1,5 +1,5 @@
 # virtualnasfic2020
-
+<div style="width: 50%">
 Matt Arnold, matt.mattarn+nasfic@gmail.com
 
 If you're seeing this, you are staff of Columbus NASFiC 2020. I added you as an editor of our Virtual NASFiC Access Portal. Forestry.io will serve as a content editing tool for the site. This cannot edit things like colors, layout, fonts, spacing, or other presentational design decisions. Just bold, italic, headlines, links, and lists. **That is intentional.** This is intended to create, update, and delete only content-- bare words and images. The layout and styling is handled by the site itself. If you would like any styling changes, please describe it to me (Matt Arnold matt.mattarn+nasfic@gmail.com), and I will quickly implement it for you.
@@ -39,3 +39,4 @@ If you do some work on a published page, but you don't want the work to appear o
 "Preview" is currently broken. I'm working with Forestry support to find out why.
 
 Do you know Markdown? It's what you use when writing a Reddit comment, to add bold and italic and whatnot. This entire system is secretly converting your work to Markdown for you. If you prefer to type Markdown directly, click the three-dot symbol in the upper right, and from the menu, choose "Raw Editor".
+</div>
