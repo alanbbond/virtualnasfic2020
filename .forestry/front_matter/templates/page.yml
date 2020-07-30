@@ -7,7 +7,7 @@ fields:
   label: Title
   description: "<strong>This is what shows up in the nav menu, and the end of the
     URL</strong>.<br>So keep it short. If you want a longer title, just put it in
-    a large font at the top of the page content."
+    a large font at the top of the page content. (Hi, this is Matt.)"
 - type: text
   name: layout
   label: Layout
