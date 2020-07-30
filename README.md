@@ -1,5 +1,18 @@
 # virtualnasfic2020
-<div style="width: 50%; display: flex; flex-direction: column;">
+<style type="text/css" media="screen">
+  .forestry-non-technical-user-instructions section {
+    border: 0.1rem solid #333;
+    margin: 0.25rem;
+    padding: 0.5rem;
+  }
+  .forestry-non-technical-user-instructions img {
+    border: 0.1rem solid #333;
+    float: left;
+    margin-right: 1rem;
+  }
+</style>
+
+<div class="forestry-non-technical-user-instructions" style="width: 50%; display: flex; flex-direction: column;">
 
 <section>
 
@@ -19,7 +32,7 @@ Please do not be shy at all about playing around with Forestry. You can't break 
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_sidebar_screenshot.png" width="25%" style="float: left; margin-right: 1rem;" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_sidebar_screenshot.png" width="25%" style="" />
 
 This is the Sidebar. In "Schedule Entries" and "Dealer Entries", you can create or edit individual scheduled events or dealers. Think of these as rows in a table. If you want to add a table with a new kind of data to the site, I can add it for you here.
 
@@ -33,7 +46,7 @@ In "Pages", you can pick out which Page you wish to edit or create.
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields_screenshot.png" width="50%" style="float: left; margin-right: 1rem;" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields_screenshot.png" width="50%" />
 
 When you're creating or editing a Page, be sure to read and follow the explanatory instruction labels that I wrote on all these fields. For example, in "Category", you have to type the word "pages".
 
@@ -41,7 +54,7 @@ When you're creating or editing a Page, be sure to read and follow the explanato
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png" width="25%" style="float: left; margin-right: 1rem;" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png" width="25%" />
 
 You can just type into this whole area, and select part or all of what you've typed. It's a typical text editor. The large font line at the top is part of the editor too. It's set to be a headline paragraph.
 
@@ -51,7 +64,7 @@ A quick way to create a bulleted list is to start a line with a dash, then a spa
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_toolbar_screenshot.png" width="50%" style="float: left; margin-right: 1rem;" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_toolbar_screenshot.png" width="50%" />
 
 This toolbar will make your text selection in the editor into bold, italic, a hyperlink, or a list.
 
@@ -63,7 +76,7 @@ Click the image button to add an image. Remember that you need to go to the side
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_save_screenshot.png" width="25%" style="float: left; margin-right: 1rem;" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_save_screenshot.png" width="25%" />
 
 If we published a page, and you turn "Draft" to "ON", the page no longer appears on the site.
 
