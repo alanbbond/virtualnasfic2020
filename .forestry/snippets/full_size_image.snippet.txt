@@ -1,1 +1,0 @@
-{% include full_width_image.html filename="" height="" %}
