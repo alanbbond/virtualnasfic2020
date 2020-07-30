@@ -1,12 +1,19 @@
 <section class="schedule-listing">
   <h3>{{ event.title }}</h3>
-  <p class="link"><a href="{{ event.link }}"></a></p>
   <p class="byline">
-    <span class="presenters">
-      {{ event.presenters }}
+    <span class="link">
+      <a href="{{ event.link }}">Link To Teleconference</a>
     </span>
     <span class="time">
       {{ event.day }}, {{ event.time }}
+    </span>
+  </p>
+  <p class="byline">
+    <span class="moderators">
+      Moderator: {{ event.moderators }}
+    </span>
+    <span class="presenters">
+      {{ event.presenters }}
     </span>
   </p>
   <p class="description">{{ event.description }}</p>
