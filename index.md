@@ -18,4 +18,4 @@ Stuff that we can add to this home page using Forestry.io include:
 * It's possible to put a blog on this page if we want to
 * If you want, we could take all the content from Wordpress, put it on this site, and make it so you don't have to click the agreement to see it
 
-{% include full_width_image.html filename="Columbus-NASFIC-2020_landing_image.jpg" height="50rem" %}
+{% include full_width_image.html filename="Columbus-NASFIC-2020_landing_image.png" height="50rem" %}
