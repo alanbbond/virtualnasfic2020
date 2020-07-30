@@ -12,8 +12,7 @@ Please do not be shy at all about playing around with Forestry. You can't break 
 
 {% include full_width_image.html filename="forestry_overview_screenshot.png" height="50rem" %}
 
-<div class="floatimage" style="background-image: url(https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_sidebar_screenshot.png); float: left; width: 50%;">
-</div>
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_sidebar_screenshot.png" width="25%" float="left" />
 
 This is the Sidebar. In "Schedule Entries" and "Dealer Entries", you can create or edit individual scheduled events or dealers. Think of these as rows in a table. If you want to add a table with a new kind of data to the site, I can add it for you here.
 
@@ -23,20 +22,17 @@ In "Pages", you can pick out which Page you wish to edit or create.
 
 "Media" lets you upload images or other media assets to the site, so that you can use them when editing a page.
 
-<div class="floatimage" style="background-image: url(https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields_screenshot.png); float: left; width: 50%;">
-</div>
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields_screenshot.png" width="50%" float="left" />
 
 When you're creating or editing a Page, **be sure to read and follow** the explanatory instruction labels that I wrote on all these fields. For example, in "Category", you have to type the word "pages".
 
-<div class="floatimage" style="background-image: url(https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png); float: left; width: 50%;">
-</div>
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png" width="50%" float="left" />
 
 You can just type into this whole area, and select part or all of what you've typed. It's a typical text editor. The large font line at the top is part of the editor too. It's set to be a headline paragraph.
 
 A quick way to create a bulleted list is to start a line with a dash, then a space.
 
-<div class="floatimage" style="background-image: url(https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png); float: left; width: 50%;">
-</div>
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png" width="50%" float="left" />
 
 This toolbar will make your text selection in the editor into bold, italic, a hyperlink, or a list.
 
@@ -44,8 +40,7 @@ You can click the { } button to see some snippets I set up for you. Snippets are
 
 Click the image button to add an image. Remember that you need to go to the sidebar and click "Media" to upload your image.
 
-<div class="floatimage" style="background-image: url(https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_save_screenshot.png); float: left; width: 50%;">
-</div>
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_save_screenshot.png" width="50%" float="left" />
 
 If we published a page, and you turn "Draft" to "ON", the page no longer appears on the site.
 
