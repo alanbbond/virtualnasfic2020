@@ -36,12 +36,19 @@ Moderator Tom Jackson
 
 ![Modertor](/assets/images/tom-jackson.jpg "Tom Jackson")
 
+Tom Jackson, an Ohio resident, is a newspaper reporter for _The Sandusky Register_ who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, [RAWIllumination.net](http://rawillumination.net/), devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society ([lfs.org](http://lfs.org)), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.
+
 Prometheus winner F. Paul Wilson presenting Best Novel category
 
 ![Panelist and Prometheus winner](/assets/images/fpaulwilson-300dpi.jpg "F. Paul Wilson")
 
+F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning science fiction, horror, adventure, medical thrillers, young-adult, etc. – including the Prometheus Award ([www.lfs.org](http://www.lfs.org/)) winners _Wheels within Wheels,_ an sf murder mystery; Sims; _Healer;_and _An Enemy of the State._Wilson, who sold his first story to Analog in 1970 and has 8 million books in U.S. print, is best known as creator of the urban mercenary Repairman Jack (featured in his latest novel _The Last Christmas_). Among his New York Times bestsellers: _The Keep_ (also a 1983 Paramount film),_The Tomb, Harbingers, By the Sword, The Dark at the End,_ and_Nightworld_.  
+ 
+
 Prometheus winner Sarah Hoyt presenting Hall of Fame category
 
 ![Panelis and Prometheus winner ](/assets/images/sarah-hoyt-n.jpg "Sarah Hoyt")
+
+Sarah Hoyt, a Colorado resident, is an American science fiction, fantasy, mystery, and historical fiction writer. After moving to the United States in the early 1980s, and becoming a U.S. citizen in 1988, she began writing under her own name and under the noms de plume Sarah D'Almeida, Elise Hyatt, Sarah Marques, Laurien Gardner and Sarah Marques de Almeida Hoyt. Hoyt won the 2011 Prometheus Award for Best Novel for her science fiction novel _Darkship Thieves,_ the first in a future-history series of novels set within our solar system and including a libertarian anarchist society in the asteroids_._ She also won the 2018 Dragon Award for Best Alternate History Novel for _Uncharted_, co-authored with Kevin J. Anderson.
 
 The Prometheus Awards, first presented in 1979 to F. Paul Wilson and administered by the nonprofit Libertarian Futurist Society ([www.lfs.org]()), recognizes outstanding pro-freedom and/or anti-authoritarian speculative fiction. Winners are selected in a ranked vote by LFS members from finalist slates in annual categories for Best Novel and Best Classic Fiction (Hall of Fame). The 2020 awards ceremony features novelists F. Paul Wilson and Sarah Hoyt, with acceptance speeches by the winners. Among past winners: Hans Christian Anderson, Ray Bradbury, Ernest Cline, Cory Doctorow, Harlan Ellison, Robert Heinlein, Hoyt, Ursula LeGuin, Ken MacLeod, George Orwell, Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton, Jack Williamson, Wilson and Robert Anton Wilson.)
