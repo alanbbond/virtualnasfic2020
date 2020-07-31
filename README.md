@@ -136,4 +136,12 @@ Click on the title of a listing in a Collection to bring up a form where you can
 
 </section>
 
+<section>
+
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_collection_save.png" width="50%" />
+
+Don't forget to save your changes to the Collection.
+
+</section>
+
 </div>
