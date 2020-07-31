@@ -1,20 +1,44 @@
+---
+- name: Another Made-Up Dealer
+  link: https://etsy.com
+  filename: quietnovastudios.com
+  description: Test.
 - name: Amazing Stephanie's Crafts Galore
   link: https://etsy.com
   filename: quietnovastudios.jpg
-  description: Visit Stephanie for all of your yarncrafting needs! She also takes pride in unique jewelry pieces and plaques with funny sayings, as well as wood burned character boxes. Adding a sentence about this being a fake Dealer for purposes of demonstrating the site; this sentence ensures the paragraph has at least one line break.
+  description: Visit Stephanie for all of your yarncrafting needs! She also takes
+    pride in unique jewelry pieces and plaques with funny sayings, as well as wood
+    burned character boxes. Adding a sentence about this being a fake Dealer for purposes
+    of demonstrating the site; this sentence ensures the paragraph has at least one
+    line break.
 - name: The Wonder Emporium
   link: https://etsy.com
   filename: studio42.jpg
-  description: Too many high-quality tchotchkes to list. We're sure to carry that one thing you had your eye on. Or find a piece of memorabilia you didn't even know you wanted. Adding a sentence about this being a fake Dealer for purposes of demonstrating the site; this sentence ensures the paragraph has at least one line break.
+  description: Too many high-quality tchotchkes to list. We're sure to carry that
+    one thing you had your eye on. Or find a piece of memorabilia you didn't even
+    know you wanted. Adding a sentence about this being a fake Dealer for purposes
+    of demonstrating the site; this sentence ensures the paragraph has at least one
+    line break.
 - name: Galactic Griffin
   link: https://etsy.com
   filename: turtletree.jpg
-  description: Your fandoms. Handmade. Wallets, purses, skirts, notepads, and tribbles!!! All handmade by a pair of geeky sisters who love all things geek. <br/><br/> Adding a sentence about this being a fake Dealer for purposes of demonstrating the site; this sentence ensures the paragraph has at least one line break.
+  description: Your fandoms. Handmade. Wallets, purses, skirts, notepads, and tribbles!!!
+    All handmade by a pair of geeky sisters who love all things geek. <br/><br/> Adding
+    a sentence about this being a fake Dealer for purposes of demonstrating the site;
+    this sentence ensures the paragraph has at least one line break.
 - name: Skytop Studio
   link: https://etsy.com
   filename: turtletree.jpg
-  description: Presenting fantasy-inspired ceramic vessels & sculptures, upcycled retro media crafts, and pop-culture cross-stitch samplers. We encourage custom orders':' wedding cake toppers, wi-fi plaques, favorite quotes or character mashups, etc. <br/><br/> Adding a sentence about this being a fake Dealer for purposes of demonstrating the site; this sentence ensures the paragraph has at least one line break.
+  description: Presenting fantasy-inspired ceramic vessels & sculptures, upcycled
+    retro media crafts, and pop-culture cross-stitch samplers. We encourage custom
+    orders':' wedding cake toppers, wi-fi plaques, favorite quotes or character mashups,
+    etc. <br/><br/> Adding a sentence about this being a fake Dealer for purposes
+    of demonstrating the site; this sentence ensures the paragraph has at least one
+    line break.
 - name: Planetfall Designs
   link: https://etsy.com
   filename: tiesthatbynde.jpg
-  description: Stop by Planetfall Designs for NASFiC Souvenirs as well as original t-shirt designs for fans of SF, gaming and pop culture! Adding a sentence about this being a fake Dealer for purposes of demonstrating the site; this sentence ensures the paragraph has at least one line break.
+  description: Stop by Planetfall Designs for NASFiC Souvenirs as well as original
+    t-shirt designs for fans of SF, gaming and pop culture! Adding a sentence about
+    this being a fake Dealer for purposes of demonstrating the site; this sentence
+    ensures the paragraph has at least one line break.
