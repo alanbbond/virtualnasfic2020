@@ -1,7 +1,7 @@
 ---
 title: Chat
 layout: chat
-category: pages
+category: accesscontrol
 order: 4
 
 ---

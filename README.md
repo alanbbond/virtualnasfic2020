@@ -46,8 +46,6 @@ This is the Sidebar.
 
 In "Pages", you can pick out which Page you wish to edit or create.
 
-"Posts" would be for making blog posts, but we are not running a blog at the moment. Feel free to request that I set up this feature.
-
 "Media" lets you upload images or other media assets to the site, so that you can use them when editing a page.
 
 </section>
@@ -56,8 +54,7 @@ In "Pages", you can pick out which Page you wish to edit or create.
 
 <img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields.png" width="66%" />
 
-When you're creating or editing a Page, be sure to read and follow the explanatory instruction labels that I wrote on all these fields. For example, when creating a new Page, you have to type the word "pages" into Category.
-
+When you're creating or editing a Page, be sure to read and follow the explanatory instruction labels that I wrote on all these fields.
 </section>
 
 <section>

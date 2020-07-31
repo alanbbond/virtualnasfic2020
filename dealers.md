@@ -1,7 +1,7 @@
 ---
 title: Dealers
 layout: default
-category: pages
+category: accesscontrol
 order: 3
 
 ---

@@ -21,13 +21,15 @@
 <body class="pages">
   <main class="main">
     <header>
-      <div class="logo-spacer"></div>
+      <div class="logo-link">
+        <a href="/"></a>
+      </div>
       <h1>Access Portal</h1>
-      <nav style="display: none">
-        <ul class="pages-nav">
+      <nav class="access-control-nav" style="display: none">
+        <ul>
         {% assign navs = site.pages | sort: "order" %}
           {% for nav in navs %}
-          {% if nav.category == "pages" %}
+          {% if nav.category == "accesscontrol" %}
             {% if nav.title == page.title %}
             <li class="this-page" >
               <span>{{ nav.title }}</span>
@@ -41,6 +43,23 @@
         </ul>
       </nav>
     </header>
+    <nav class="public-nav">
+      <ul>
+      {% assign navs = site.pages | sort: "order" %}
+        {% for nav in navs %}
+        {% if nav.category == "public" and nav.title != "Home" %}
+          {% if nav.title == page.title %}
+          <li class="this-page" >
+            <span>{{ nav.title }}</span>
+          {% else %}
+          <li>
+            <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
+          {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </nav>
     <section class="container" hidden>
       {{ content }}
     </section>

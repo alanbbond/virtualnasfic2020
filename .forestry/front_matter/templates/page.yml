@@ -17,9 +17,8 @@ fields:
 - type: text
   name: category
   label: Category
-  description: <strong>This page won't be shown in the menu unless "pages" has been
-    typed into this field.</strong><br>(Alan expressed some interest in making new
-    categories like "public" vs "access_controlled".)
+  description: <strong>If anyone may see this page, type "public".<br> But if
+    they must first sign the agreement, type "accesscontrol" instead.</strong>
   hidden: false
 - type: number
   name: order

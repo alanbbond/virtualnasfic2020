@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-category: pages
+category: public
 order: 1
 
 ---

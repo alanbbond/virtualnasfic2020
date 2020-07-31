@@ -1,8 +1,4 @@
 ---
-- name: Another Made-Up Dealer
-  link: https://etsy.com
-  filename: quietnovastudios.com
-  description: Test.
 - name: Amazing Stephanie's Crafts Galore
   link: https://etsy.com
   filename: quietnovastudios.jpg
