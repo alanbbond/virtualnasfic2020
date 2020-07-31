@@ -32,13 +32,13 @@ Please do not be shy at all about playing around with Forestry. You can't break 
 
 ### Instructions
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_overview_screenshot.png" width="100%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_overview.png" width="100%" />
 
 </section>
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_sidebar_screenshot.png" width="50%" style="" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_sidebar.png" width="50%" style="" />
 
 This is the Sidebar.
 
@@ -54,7 +54,7 @@ In "Pages", you can pick out which Page you wish to edit or create.
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields_screenshot.png" width="66%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_fields.png" width="66%" />
 
 When you're creating or editing a Page, be sure to read and follow the explanatory instruction labels that I wrote on all these fields. For example, when creating a new Page, you have to type the word "pages" into Category.
 
@@ -62,7 +62,7 @@ When you're creating or editing a Page, be sure to read and follow the explanato
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_editor.png" width="50%" />
 
 You can just type into this whole area, and select part or all of what you've typed. It's a typical text editor. The large font line at the top is part of the editor too. It's set to be a headline paragraph.
 
@@ -72,7 +72,7 @@ A quick way to create a bulleted list is to start a line with a dash, then a spa
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_toolbar_screenshot.png" width="66%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_toolbar.png" width="66%" />
 
 This toolbar will make your text selection in the editor into bold, italic, a hyperlink, or a list.
 
@@ -84,7 +84,7 @@ Click the image button to add an image. Remember that you need to upload your im
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_save_screenshot.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_save.png" width="50%" />
 
 If we published a page, but you turn "Draft" to "ON", the page no longer appears on the site until we turn it back to "OFF".
 
