@@ -98,6 +98,14 @@ Do you know Markdown? It's what you use when writing a Reddit comment, to add bo
 
 <section>
 
+### Collections
+
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_collections.png" width="100%" />
+
+</section>
+
+<section>
+
 <img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_collection_sidebar.png" width="50%" />
 
 Click on a Collection in the Sidebar to create, edit, or delete individual scheduled events, or dealers, or whatever it is a Collection of.
