@@ -128,7 +128,7 @@ Each listing in the sidebar has a handle which you can drag up and down, to re-o
 
 <section>
 
-<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_collection_editor.png" width="50%" />
+<img src="https://mattarnold.github.io/virtualnasfic2020/assets/images/forestry_collection_edit.png" width="50%" />
 
 Click on the title of a listing in a Collection to bring up a form where you can edit all of that listing's fields:
 
