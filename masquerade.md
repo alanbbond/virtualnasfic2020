@@ -1,9 +1,8 @@
 ---
 title: Masquerade
-layout: ''
-category: ''
-order: 
-published: false
+layout: default
+category: public
+order: 2
 
 ---
 We would like to invite you to participate in the NASFIC 2020 masquerade. The masquerade is open to people of all costuming skill levels and is held on Saturday night of the con. It will be following the International Costumers’ Guild guidelines for rules and skill levels, adapted for virtual use.

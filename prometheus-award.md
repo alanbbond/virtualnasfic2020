@@ -1,9 +1,8 @@
 ---
 title: Prometheus Award
-layout: ''
-category: ''
-order: 
-published: false
+layout: default
+category: public
+order: 3
 
 ---
 ![WilliaEditor, writer and LFS president](/assets/images/william-h-stoddard-with-cat.jpeg "William H. Stoddard")

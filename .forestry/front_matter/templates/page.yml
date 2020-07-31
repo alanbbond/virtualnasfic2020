@@ -17,8 +17,8 @@ fields:
 - type: text
   name: category
   label: Category
-  description: <strong>If anyone may see this page, type "public".<br> But if
-    they must first sign the agreement, type "accesscontrol" instead.</strong>
+  description: <strong>If anyone may see this page, type "public".<br> But if they
+    must first sign the agreement, type "accesscontrol" instead.</strong>
   hidden: false
 - type: number
   name: order
