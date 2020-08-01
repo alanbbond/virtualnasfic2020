@@ -9,6 +9,10 @@ order: 9
 
 New "Virtual" Dates: Friday, August 21 - Sunday, August 23
 
+### What is Worldcon or NASFiC exactly? How are they related?
+
+The World Science Fiction Convention (Worldcon) is an annual convention held since 1939 (skipping 1942-1945), which gathers fans (and pros) from around the world. Worldcon is also where members vote for the Hugo awards. Worldcon 75 (2017) was held in Helsinki, Finland. Worldcon 77 (2019) will be in Dublin, Ireland. Whenever Worldcon is held off of North America, a North American Science Fiction Convention (NASFiC), is optionally held as well. The NASFiC is an alternative for fans who can't make it to Worldcon overseas. The location of the NASFiC is determined by members of a Worldcon (or NASFiC) through a voting process. NASFiC 2017 was held in San Juan, Puerto Rico, and Layton, Utah hosted the NASFiC in 2019. See [www.spikecon.org](http://www.spikecon.org) for more information. The NASFiC for 2020 Will be in Columbus, Oh and Worldcon 78 (2020) will be held in Wellington, New Zealand. Visit [https://conzealand.nz](https://conzealand.nz "https://conzealand.nz") for details.
+
 ### Executive Leadership:
 
 * Lisa Garrison (Ragsdale), Con Chair
