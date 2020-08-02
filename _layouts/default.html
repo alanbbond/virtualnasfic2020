@@ -57,7 +57,7 @@
       </div>
     </header>
     {% if page.title == "Chat" %}
-    <section hidden>
+    <section class="chat" hidden>
     {% else %}
     <section class="container" hidden>
     {% endif %}
@@ -80,6 +80,10 @@
       const container = document.getElementsByClassName("container")[0];
       if (container) {
         container.style.display = "block";
+      }
+      const chat = document.getElementsByClassName("chat")[0];
+      if (chat) {
+        chat.style.display = "block";
       }
       const accesscontrolnav = document.getElementsByClassName('accesscontrol');
       if (accesscontrolnav) {
