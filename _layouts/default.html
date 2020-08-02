@@ -24,42 +24,38 @@
       <div class="logo-link">
         <a href="/"></a>
       </div>
-      <h1>Access Portal</h1>
-      <nav class="access-control-nav" style="display: none">
-        <ul>
-        {% assign navs = site.pages | sort: "order" %}
+      <div class="header-content">
+        <h1>Virtual Access Portal</h1>
+        <nav>
+          <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
+          <ul>
+          {% assign navs = site.pages | sort: "order" %}
           {% for nav in navs %}
-          {% if nav.category == "accesscontrol" %}
-            {% if nav.title == page.title %}
-            <li class="this-page" >
+            {% if nav.category == "public" %}
+              {% if nav.title == page.title %}
+            <li class="this-page public" >
               <span>{{ nav.title }}</span>
-            {% else %}
-            <li>
+              {% else %}
+            <li class="public">
               <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
-            {% endif %}
+              {% endif %}
             </li>
-          {% endif %}
-        {% endfor %}
-        </ul>
-      </nav>
+            {% endif %}
+            {% if nav.category == "accesscontrol" %}
+              {% if nav.title == page.title %}
+            <li class="this-page accesscontrol" style="display: none">
+              <span>{{ nav.title }}</span>
+                {% else %}
+              <li class="accesscontrol" style="display: none">
+                <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
+                {% endif %}
+              </li>
+                {% endif %}
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
     </header>
-    <nav class="public-nav">
-      <ul>
-      {% assign navs = site.pages | sort: "order" %}
-        {% for nav in navs %}
-        {% if nav.category == "public" and nav.title != "Home" %}
-          {% if nav.title == page.title %}
-          <li class="this-page" >
-            <span>{{ nav.title }}</span>
-          {% else %}
-          <li>
-            <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
-          {% endif %}
-          </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </nav>
     <section class="container" hidden>
       {{ content }}
     </section>
@@ -81,9 +77,11 @@
       if (container) {
         container.style.display = "block";
       }
-      const nav = document.getElementsByTagName('nav')[0];
-      if (nav) {
-        nav.style.display = "block";
+      const accesscontrolnav = document.getElementsByClassName('accesscontrol');
+      if (accesscontrolnav) {
+        Array.from(accesscontrolnav).forEach((li) => {
+          li.style.display = "block";
+        })
       }
     }
     if (window.document.documentMode) {

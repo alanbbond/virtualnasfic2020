@@ -3,3 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+assets/images/forestry_data.psd
+assets/images/forestry_overview.psd
