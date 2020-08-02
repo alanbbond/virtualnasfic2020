@@ -41,7 +41,7 @@ Anyone may choose to compete in a higher skill division. Group presentations wil
 
 Please review these rules carefully. _Violation of any rule may disqualify an entry._ Please help us make the masquerade safe and enjoyable.
 
-1. Costumes/Cosplay that are historically or otherwise offensive, including bigoted iconography or symbolism
+1. No costumes/Cosplay that are historically or otherwise offensive, including bigoted iconography or symbolism.
 2. We expect your entry to be compliant to the [Columbus NASFiC Code of Conduct.](https://columbus2020nasfic.org/code-of-conduct-anti-harassment-policy)
 3. Purchased costumes may not be entered in competition unless modified for your presentation. Credit must be given for all makeup and costume construction.
 4. Video Submissions must be kept no longer 30 seconds for smaller groups/individuals and 1 minute for larger groups. If there is a reason you think you need a longer amount of time, it must be approved by the Masquerade Director.
