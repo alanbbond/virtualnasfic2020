@@ -41,9 +41,9 @@ Anyone may choose to compete in a higher skill division. Group presentations wil
 
 Please review these rules carefully. _Violation of any rule may disqualify an entry._ Please help us make the masquerade safe and enjoyable.
 
-1. **No cultural appropriation. Cultures are not costumes.**
+1. Costumes/Cosplay that are historically or otherwise offensive, including bigoted iconography or symbolism
 2. We expect your entry to be compliant to the [Columbus NASFiC Code of Conduct.](https://columbus2020nasfic.org/code-of-conduct-anti-harassment-policy)
-3. Purchased or rented costumes may not be entered in competition. Credit must be given for all makeup and costume construction.
+3. Purchased costumes may not be entered in competition unless modified for your presentation. Credit must be given for all makeup and costume construction.
 4. Video Submissions must be kept no longer 30 seconds for smaller groups/individuals and 1 minute for larger groups. If there is a reason you think you need a longer amount of time, it must be approved by the Masquerade Director.
 5. It is preferred that videos are shot horizontally and not vertically in 720p and 30 frames per second.
 6. Sound accompaniment should be included with your application. Please provide high quality audio files that are ready to be played as-is, without additional editing. Your entry will be streamed on YouTube so your music must be royalty free. Some recommended sites for this are epidemicsound and bensound.
