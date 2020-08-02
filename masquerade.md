@@ -11,7 +11,7 @@ We would like to invite you to participate in the NASFIC 2020 masquerade. The ma
 
 As we are streaming this event and we acknowledge that not all participants will want to submit videos of themselves, we are allowing people to enter themselves for Workmanship Judging, Presentation Judging or both.
 
-Due to editing and judging needs, registration will be closed on August 16th at 11:59pm PST.
+Due to editing and judging needs, registration will be closed on August 17th at 11:59pm EST.
 
 {% include float_image.html filename="blah.jpg" side="right" %}
 
@@ -23,7 +23,7 @@ Due to editing and judging needs, registration will be closed on August 16th at 
 
 **NASFIC Masquerade Skill Divisions**
 
-Anyone may choose to compete in 
+Anyone may choose to compete in
 
 {% include float_image.html filename="" side="" %}
 
