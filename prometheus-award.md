@@ -19,6 +19,8 @@ William H. Stoddard is a copy editor specializing in scientific and scholarly pu
 
 &nbsp;  
 
+&nbsp;  
+
 ## Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades, from F. Paul Wilson and Robert Heinlein to Today
 
 How have our visions of a free, dynamic and better future, with universal respect for each other’s rights, evolved and changed in science fiction/fantasy? What about cautionary dystopian visions, from Orwell’s 1984 and Animal Farm to Doctorow’s Little Brother? Prometheus-winning authors Sarah Hoyt (Darkship Thieves) and F. Paul Wilson (An Enemy of the State, Repairman Jack series) will join journalists Michael Grossberg and Tom Jackson in examining the perennial tensions between Liberty and Power and cooperation versus coercion, as reflected in these and other authors’ diverse Prometheus Award winners over the past 40 years.  
@@ -31,7 +33,9 @@ How have our visions of a free, dynamic and better future, with universal respec
 
 Tom Jackson, an Ohio resident, is a newspaper reporter for _The Sandusky Register_ who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, [RAWIllumination.net](http://rawillumination.net/), devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society ([lfs.org](http://lfs.org)), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.  
 
-{% include float_image.html filename="fpaulwilson-300dpi.jpg" side="right" %}
+&nbsp;  
+
+{% include float_image.html filename="fpaulwilson-300dpi.jpg" side="left" %}
 
 ### Panelist: F. Paul Wilson
 
