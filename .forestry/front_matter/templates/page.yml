@@ -11,12 +11,11 @@ fields:
 - type: text
   name: layout
   label: Layout
-  description: <strong>Every page should just have "default" typed in here.</strong><br>(Except
-    for the Chat page; its special layout allows our Discord to take up the full page
-    width.)
+  description: <strong>Every page should just have "default" typed in here.</strong>
+  hidden: true
 - type: text
   name: category
-  label: Category
+  label: Public Or Access Controlled
   description: <strong>If anyone may see this page, type "public".<br> But if they
     must first sign the agreement, type "accesscontrol" instead.</strong>
   hidden: false
