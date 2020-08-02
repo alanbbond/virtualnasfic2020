@@ -7,7 +7,7 @@ order: 3
 ---
 # Dealers
 
-Hours will be Saturday 11am to 3pm
+Hours in the Discord will be Saturday 11am to 3pm
 
 {% for dealer in site.data.dealers %}
 {% include dealer_listing.html %}
