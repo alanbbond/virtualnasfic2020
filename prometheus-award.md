@@ -9,17 +9,15 @@ order: 3
 
 The Prometheus Awards, first presented in 1979 to F. Paul Wilson and administered by the nonprofit Libertarian Futurist Society ([www.lfs.org]()), recognizes outstanding pro-freedom and/or anti-authoritarian speculative fiction. Winners are selected in a ranked vote by LFS members from finalist slates in annual categories for Best Novel and Best Classic Fiction (Hall of Fame). The 2020 awards ceremony features novelists F. Paul Wilson and Sarah Hoyt, with acceptance speeches by the winners. Among past winners: Hans Christian Anderson, Ray Bradbury, Ernest Cline, Cory Doctorow, Harlan Ellison, Robert Heinlein, Hoyt, Ursula LeGuin, Ken MacLeod, George Orwell, Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton, Jack Williamson, Wilson and Robert Anton Wilson.)  
 
-.
-
 {% include float_image.html filename="william-h-stoddard-with-cat.jpeg" side="left" %}
 
 William H. Stoddard is a copy editor specializing in scientific and scholarly publications. He has written more than two dozen GURPS supplements for Steve Jackson Games, beginning with GURPS Steampunk in 2000, which won an Origins Award for best role playing supplement. He is the president of the Libertarian Futurist Society, and many of his essays and reviews have appeared on its Prometheus blog ([http://lfs.org/blog/](http://lfs.org/blog/ "http://lfs.org/blog/")).  
 
-.
+&nbsp;  
 
-.
+&nbsp;  
 
-.
+&nbsp;  
 
 ## Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades, from F. Paul Wilson and Robert Heinlein to Today
 
@@ -33,10 +31,11 @@ How have our visions of a free, dynamic and better future, with universal respec
 
 Tom Jackson, an Ohio resident, is a newspaper reporter for _The Sandusky Register_ who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, [RAWIllumination.net](http://rawillumination.net/), devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society ([lfs.org](http://lfs.org)), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.  
 
+{% include float_image.html filename="fpaulwilson-300dpi.jpg" side="right" %}
+
 ### Panelist: F. Paul Wilson
 
-{% include float_image.html filename="michael-grossberg-2020.jpeg  
-" side="left" %}
+F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning science fiction, horror, adventure, medical thrillers, young-adult, etc. – including the Prometheus Award ([www.lfs.org](http://www.lfs.org/)) winners _Wheels within Wheels,_ an sf murder mystery; Sims; _Healer;_and _An Enemy of the State._Wilson, who sold his first story to Analog in 1970 and has 8 million books in U.S. print, is best known as creator of the urban mercenary Repairman Jack (featured in his latest novel The Last Christmas_). Among his New York Times bestsellers: _The Keep_ (also a 1983 Paramount film),_The Tomb, Harbingers, By the Sword, The Dark at the End,_ and_Nightworld.    
 
 ## Prometheus Awards’ 40th Anniversary Ceremony
 
