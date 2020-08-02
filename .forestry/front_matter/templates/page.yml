@@ -4,19 +4,17 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: Title
-  description: "<strong>Whatever is typed in this field is what shows up in the nav
-    menu, and the end of the URL</strong>.<br>So keep it short. If you want a longer
-    title, just type it in a large font at the top of the page content."
+  label: Title In Nav Menu
+  description: "<strong>Keep it short. Max 2 words, 10 characters each.</strong> If
+    you want a longer title, just type that as a headline at the top of the page content."
 - type: text
   name: layout
   label: Layout
-  description: <strong>Every page should just have "default" typed in here.</strong><br>(Except
-    for the Chat page; its special layout allows our Discord to take up the full page
-    width.)
+  description: <strong>Every page should just have "default" typed in here.</strong>
+  hidden: true
 - type: text
   name: category
-  label: Category
+  label: Public Or Access Controlled
   description: <strong>If anyone may see this page, type "public".<br> But if they
     must first sign the agreement, type "accesscontrol" instead.</strong>
   hidden: false
