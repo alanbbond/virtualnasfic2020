@@ -5,11 +5,15 @@ category: public
 order: 2
 
 ---
+# Masquerade
+
 We would like to invite you to participate in the NASFIC 2020 masquerade. The masquerade is open to people of all costuming skill levels and is held on Saturday night of the con. It will be following the International Costumers’ Guild guidelines for rules and skill levels, adapted for virtual use.
 
 As we are streaming this event and we acknowledge that not all participants will want to submit videos of themselves, we are allowing people to enter themselves for Workmanship Judging, Presentation Judging or both.
 
 Due to editing and judging needs, registration will be closed on August 16th at 11:59pm PST.
+
+{% include float_image.html filename="blah.jpg" side="right" %}
 
 **Masquerade Judging**
 
@@ -19,7 +23,11 @@ Due to editing and judging needs, registration will be closed on August 16th at 
 
 **NASFIC Masquerade Skill Divisions**
 
-Anyone may choose to compete in a higher skill division. Group presentations will be judged based on the highest skill division of the individual members.
+Anyone may choose to compete in 
+
+{% include float_image.html filename="" side="" %}
+
+a higher skill division. Group presentations will be judged based on the highest skill division of the individual members.
 
 **Novice** is for any contestant who has not previously won an award for a costume in any masquerade, or who has won a maximum of two awards in the Novice division for different costumes at a world-class convention masquerade such as World Con or Costume Con, or at a regional convention masquerade such as Norwescon or Marcon.
 
