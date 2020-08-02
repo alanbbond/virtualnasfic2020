@@ -1,6 +1,6 @@
 ---
 title: Chat
-layout: chat
+layout: default
 category: accesscontrol
 order: 4
 

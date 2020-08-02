@@ -56,7 +56,11 @@
         </nav>
       </div>
     </header>
+    {% if page.title == "Chat" %}
+    <section hidden>
+    {% else %}
     <section class="container" hidden>
+    {% endif %}
       {{ content }}
     </section>
     {% include agreement.html %}
