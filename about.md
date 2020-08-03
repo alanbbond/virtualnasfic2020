@@ -7,7 +7,9 @@ order: 9
 ---
 # ABOUT US
 
-New "Virtual" Dates: Friday, August 21 - Sunday, August 23
+## New "Virtual" Dates: Friday, August 21 - Sunday, August 23
+
+We've been exploring the possibility of providing an Online event for all of you. We are happy to announce that this is now a reality. We have a small team working hard to put together the best online event we can for you to enjoy at the end of August. Due to our transition we've revised our dates to reflect the limit of our planning capabilities at this point; they are now Friday, August 21st-Sunday, August 23rd.
 
 ## What exactly is Worldcon or NASFiC? How are they related?
 
