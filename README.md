@@ -85,9 +85,9 @@ Click the image button to add an image. Remember that you need to upload your im
 
 If we published a page, but you turn "Draft" to "ON", the page no longer appears on the site until we turn it back to "OFF".
 
-If you do some work on a published page, but you don't want the work to appear on the site yet, don't turn on "Draft". Instead, just leave this editor without clicking the "Save" button. Never fear-- Forestry auto-saved your work. The next time you come back to the editor for this page, Forestry will ask you if you wish to restore your work here, or discard it.
+If you click the little eye button, you go to another page called a Preview. It's a temporary version of the site which shows what your changes will look like.
 
-"Preview" is currently broken. I'm working with Forestry support to find out why.
+If you do some work on a published page, but you don't want the work to appear on the site yet, don't turn on "Draft". Instead, just leave this editor without clicking the "Save" button. Never fear-- Forestry auto-saved your work. The next time you come back to the editor for this page, Forestry will ask you if you wish to restore your work here, or discard it.
 
 Do you know Markdown? It's what you use when writing a Reddit comment, to add bold and italic and whatnot. This entire system is secretly converting your work to Markdown for you. If you prefer to type Markdown directly, click the three-dot symbol in the upper right, and from the menu, choose "Raw Editor".
 
