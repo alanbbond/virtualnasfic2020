@@ -1,18 +1,25 @@
 ---
 - name: Brian Herbert
   role: Author Guest of Honor
+  filename: brian-herbert.jpeg
 - name: Kevin J. Anderson
   role: Author Guest of Honor
+  filename: kevin-j-anderson.jpeg
 - name: Stephanie Law
   role: Artist Guest of Honor
+  filename: stephanie-law.jpeg
 - name: Christopher J. Garcia
   role: Editor Guest of Honor
+  filename: christopher-j-garcia.jpeg
 - name: Marc Millis
   role: Science Guest of Honor
+  filename: marc-millis.jpeg
 - name: Sue and Steve Francis
   role: Fan Guests of Honor
+  filename: sue-and-steve-francis.jpeg
 - name: Eric Flint
   role: 1632 Minicon Guest
+  filename: eric-flint.jpeg
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
