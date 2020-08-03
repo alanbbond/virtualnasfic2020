@@ -5,17 +5,19 @@ category: public
 order: 2
 
 ---
+# Masquerade
+
 We would like to invite you to participate in the NASFIC 2020 masquerade. The masquerade is open to people of all costuming skill levels and is held on Saturday night of the con. It will be following the International Costumers’ Guild guidelines for rules and skill levels, adapted for virtual use.
 
 As we are streaming this event and we acknowledge that not all participants will want to submit videos of themselves, we are allowing people to enter themselves for Workmanship Judging, Presentation Judging or both.
 
-Due to editing and judging needs, registration will be closed on August 16th at 11:59pm PST.
+Due to editing and judging needs, registration will be closed on **August 17** at **11:59pm EST**.
 
 **Masquerade Judging**
 
-**Presentation** consists of your presentation on video. It judges everything from your costume’s appearance from your video, to how you act and move, to your music and voiceovers, etc. The Judges will give awards divided by skill levels and excellence of performance within those different skill levels. You can register to be judged for presentation [here](https://forms.gle/BX2qeG9uXFqcZgcj7)
+**Presentation** consists of your presentation on video. It judges everything from your costume’s appearance from your video, to how you act and move, to your music and voiceovers, etc. The Judges will give awards divided by skill levels and excellence of performance within those different skill levels. You can register to be judged for presentation [here](https://forms.gle/BX2qeG9uXFqcZgcj7).
 
-**Workmanship** judging allows the opportunity to consider exceptional accomplishment in crafting costumes, props, and accessories. This is the place where exquisite attention to detail may be recognized. Re-creation costumes (a costume whose design is copied from a film, television show, theatrical presentation, book illustration, comic, work of art, or other medium) must provide a color picture of the original for the workmanship judges. If you wish to participate, please include close ups of your costumes and props with your entry. You can register to be judged for workmanship [here](https://forms.gle/jqSzCW8tbGPckkD4A)
+**Workmanship** judging allows the opportunity to consider exceptional accomplishment in crafting costumes, props, and accessories. This is the place where exquisite attention to detail may be recognized. Re-creation costumes (a costume whose design is copied from a film, television show, theatrical presentation, book illustration, comic, work of art, or other medium) must provide a color picture of the original for the workmanship judges. If you wish to participate, please include close ups of your costumes and props with your entry. You can register to be judged for workmanship [here](https://forms.gle/jqSzCW8tbGPckkD4A).
 
 **NASFIC Masquerade Skill Divisions**
 
