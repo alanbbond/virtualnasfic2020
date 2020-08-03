@@ -28,11 +28,11 @@ Worldcon 78 (2020) will be held in Wellington, New Zealand. Visit [https://conze
 * **Social Media** Katharine Bond
 * **Souvenir Book** Joseph Vlad Stockman [vlad.stockman@gmail.com](mailto:vlad.stockman@gmail.com)
 * **Programming** Anne Grey [program@columbus2020nasfic.org](mailto:program@columbus2020nasfic.org)
-* **Digital Transition** Alan Bond nasfictransition@gmail.com
-* **Writer's Workshop & ROF** Kelly Strait [columbusprogramming@gmail.com](mailto:columbusprogramming@gmail.com)
-* **RoFCon** Joy Ward (co-editor with Eric Flynt of Ring of Fire Press)
-* **General & Art** Anne Gray
-* **Masquerade** Jackie Nordquist
-* **Filk** Roberta Slocumb
+  * **Digital Transition** Alan Bond nasfictransition@gmail.com
+  * **Writer's Workshop & ROF** Kelly Strait [columbusprogramming@gmail.com](mailto:columbusprogramming@gmail.com)
+  * **RoFCon** Joy Ward (co-editor with Eric Flynt of Ring of Fire Press)
+  * **General & Art** Anne Gray
+  * **Masquerade** Jackie Nordquist
+  * **Filk** Roberta Slocumb
 * **Club Tables** Gary Blog
 * **Volunteers** Don Glover
