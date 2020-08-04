@@ -23,7 +23,7 @@ class="nasfic-chat"
 const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
 const resizeVideoAndChat = () => {
-  const w = (window.innerWidth / 2) - 10;
+  const w = (window.innerWidth / 2) - 20;
   // Maintain a 4-3 aspect ratio
   const h = (w / 4) * 3;
   nasfic_video.style.width = `${w}px`;
