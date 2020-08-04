@@ -7,11 +7,11 @@ order: 2
 ---
 # Masquerade
 
-We would like to invite you to participate in the NASFIC 2020 masquerade. The masquerade is open to people of all costuming skill levels and is held on Saturday night of the con. It will be following the International Costumers’ Guild guidelines for rules and skill levels, adapted for virtual use.
+We would like to invite you to participate in the NASFiC 2020 masquerade. The masquerade is open to people of all costuming skill levels and is held on Saturday August 22nd at 6:30pm EST. It will be following the International Costumers’ Guild guidelines for rules and skill levels, adapted for virtual use.
 
 As we are streaming this event and we acknowledge that not all participants will want to submit videos of themselves, we are allowing people to enter themselves for Workmanship Judging, Presentation Judging or both.
 
-Due to editing and judging needs, registration will be closed on **August 17** at **11:59pm EST**.
+Due to editing and judging needs, registration will be closed on **August 17** at **11:59pm EST**. If you have any questions, please contact the Masquerade Director at nasfictransition@gmail.com.
 
 **Masquerade Judging**
 
