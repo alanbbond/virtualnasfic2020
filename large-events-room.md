@@ -7,4 +7,11 @@ order: 5
 ---
 # Large Events Room
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><widgetbot
+server="680949000295284757"
+channel="723567823577677885"
+width="45%"
+height="20vh"
+
+</widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
