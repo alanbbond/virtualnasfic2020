@@ -14,7 +14,7 @@ order: 5
 server="680949000295284757"
 channel="740005240069292072"
 width="45%"
-height="18vh"
+height="53vh"
 
 > </widgetbot>
 > <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
