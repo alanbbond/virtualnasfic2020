@@ -147,11 +147,18 @@ header {
   }
 }
 
-.container {
+.public-container, .accesscontrol-container {
   padding: 1rem;
-  width: 50rem;
   min-height: calc(100vh - 12rem);
   margin: 0 auto;
+}
+.public-container {
+  width: 50rem;
+}
+
+.accesscontrol {
+  display: flex;
+  flex-direction: row;
 }
 
 /* agreement */

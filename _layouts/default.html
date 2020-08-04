@@ -56,14 +56,14 @@
         </nav>
       </div>
     </header>
-    {% if page.title == "Chat" %}
-    <section class="chat" hidden>
+    {% if page.category == "accesscontrol" %}
+    {% include agreement.html %}
+    <section class="accesscontrol-container" hidden>
     {% else %}
-    <section class="container" hidden>
+    <section class="public-container">
     {% endif %}
       {{ content }}
     </section>
-    {% include agreement.html %}
     {% include footer.html %}
   </main>
   <script>
@@ -77,13 +77,9 @@
       if (agreement_container) {
         agreement_container.style.display = "none";
       }
-      const container = document.getElementsByClassName("container")[0];
-      if (container) {
-        container.style.display = "block";
-      }
-      const chat = document.getElementsByClassName("chat")[0];
-      if (chat) {
-        chat.style.display = "block";
+      const accesscontainer = document.getElementsByClassName("accesscontrol-container")[0];
+      if (accesscontainer) {
+        accesscontainer.style.display = "block";
       }
       const accesscontrolnav = document.getElementsByClassName('accesscontrol');
       if (accesscontrolnav) {
