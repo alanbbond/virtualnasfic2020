@@ -11,7 +11,7 @@ fields:
   name: layout
   label: Layout
   description: <strong>Every page should just have "default" typed in here.</strong>
-  hidden: true
+  hidden: false
 - type: text
   name: category
   label: Public Or Access Controlled
