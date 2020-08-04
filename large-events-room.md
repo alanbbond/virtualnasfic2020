@@ -1,6 +1,6 @@
 ---
 title: Large Events Room
-layout: ''
+layout: default
 category: accesscontrol
 order: 5
 
