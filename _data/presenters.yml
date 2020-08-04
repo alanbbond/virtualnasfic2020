@@ -2,24 +2,48 @@
 - name: Brian Herbert
   role: Author Guest of Honor
   filename: brian-herbert.jpeg
+  twitter: DuneAuthor
+  facebook: brianherbertnovels
+  website: https://www.brianherbertnovels.com/
 - name: Kevin J. Anderson
   role: Author Guest of Honor
   filename: kevin-j-anderson.jpeg
+  twitter: TheKJA
+  facebook: KJAauthor
+  website: https://www.wordfire.com/
+  instagram: TheRealKJA
 - name: Stephanie Law
   role: Artist Guest of Honor
   filename: stephanie-law.jpeg
+  twitter: shadowscapes
+  facebook: Shadowscapes
+  website: https://www.shadowscapes.com/
+  instagram: spmlaw
+  patreon: StephanieLaw
 - name: Christopher J. Garcia
   role: Editor Guest of Honor
   filename: christopher-j-garcia.jpeg
+  facebook: JohnnyEponymous
+  website: https://efanzines.com/DrinkTank/index.htm
 - name: Marc Millis
   role: Science Guest of Honor
   filename: marc-millis.jpeg
+  description: See his TEDx Brussels talk "Building 'Icarus'" at https://www.youtube.com/watch?v=9doOLHeW8p4
+  website: https://www.centauri-dreams.org/2019/09/20/marc-millis-testing-possible-spacedrives/
 - name: Sue and Steve Francis
   role: Fan Guests of Honor
   filename: sue-and-steve-francis.jpeg
+- name: Tom Smith
+  role: Toastmaster
+  filename: tom-smith.jpeg
+  facebook: filkertom
+  website: http://tomsmithonline.com
+  patreon: filkertom
 - name: Eric Flint
   role: 1632 Minicon Guest
   filename: eric-flint.jpeg
+  facebook: EricFlint1632
+  website: https://ericflint.net/
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
