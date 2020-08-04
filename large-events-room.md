@@ -22,13 +22,15 @@ class="nasfic-chat"
 <script>
 const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
-window.addEventListener("resize", () => {
-    const w = window.innerWidth - 10;
-    // Maintain a 4-3 aspect ratio
-    const h = (w / 4) * 3;
-    nasfic_video.style.width = `${w}px`;
-    nasfic_chat.style.width  = `${w}px`;
-    nasfic_video.style.height = `${h}px`;
-    nasfic_chat.style.height  = `${h}px`;
-});
+const resizeVideoAndChat = () => {
+  const w = (window.innerWidth / 2) - 10;
+  // Maintain a 4-3 aspect ratio
+  const h = (w / 4) * 3;
+  nasfic_video.style.width = `${w}px`;
+  nasfic_chat.style.width  = `${w}px`;
+  nasfic_video.style.height = `${h}px`;
+  nasfic_chat.style.height  = `${h}px`;
+} 
+window.addEventListener("resize", resizeVideoAndChat);
+resizeVideoAndChat();
 </script>
