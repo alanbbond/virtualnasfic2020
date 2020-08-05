@@ -31,6 +31,8 @@ const resizeVideoAndChat = () => {
   nasfic_video.style.height = `${h}px`;
   nasfic_chat.style.height  = `${h}px`;
 } 
-window.addEventListener("resize", resizeVideoAndChat);
+window.addEventListener("resize", resizeVideoAndChat, false);
+document.addEventListener('fullscreenchange', resizeVideoAndChat, false);
+
 resizeVideoAndChat();
 </script>
