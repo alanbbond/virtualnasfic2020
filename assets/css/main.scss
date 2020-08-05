@@ -122,6 +122,7 @@ header {
           justify-content: center;
           text-align: center;
           color: inherit;
+          white-space: nowrap;
 
           &.this-page {
             background-color: $very-light;

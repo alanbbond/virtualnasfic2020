@@ -1,5 +1,5 @@
 ---
-title: Chat
+title: Lobby
 layout: default
 category: accesscontrol
 order: 4
