@@ -34,20 +34,22 @@
             {% if nav.category == "public" %}
               {% if nav.title == page.title %}
             <li class="this-page public" >
-              <span>{{ nav.title }}</span>
+              {{ nav.title }}
               {% else %}
             <li class="public">
-              <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
+              <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"></a>
+              {{ nav.title }}
               {% endif %}
             </li>
             {% endif %}
             {% if nav.category == "accesscontrol" %}
               {% if nav.title == page.title %}
             <li class="this-page accesscontrol" style="display: none">
-              <span>{{ nav.title }}</span>
+              {{ nav.title }}
                 {% else %}
               <li class="accesscontrol" style="display: none">
-                <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">{{ nav.title }}</a>
+                <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"></a>
+                {{ nav.title }}
                 {% endif %}
               </li>
                 {% endif %}
