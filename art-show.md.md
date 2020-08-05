@@ -1,8 +1,8 @@
 ---
-title: ''
-layout: ''
-category: ''
-order: 
+title: Art Show
+layout: default
+category: public
+order: 4
 
 ---
 # NASFIC VIRTUAL ART SHOW
