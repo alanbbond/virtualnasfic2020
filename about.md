@@ -11,6 +11,25 @@ order: 9
 
 We've been exploring the possibility of providing an Online event for all of you. We are happy to announce that this is now a reality. We have a small team working hard to put together the best online event we can for you to enjoy at the end of August. Due to our transition we've revised our dates to reflect the limit of our planning capabilities at this point; they are now Friday, August 21st-Sunday, August 23rd.
 
+## Email Contact info:
+
+> nasfictransition@gmail.com
+> Contact the transition team to volunteer to help with the digital pivot.
+
+> dealers@columbus2020nasfic.org
+> Contact this email if you would like to be in our dealers room
+
+> info@columbus2020nasfic.org
+> Use this email is you need general info about the Columbus NASFiC
+
+> finance@columbus2020nasfic.org
+> Use this email if you have any questions regarding payments and other financial info.
+
+> program@columbus2020nasfic.org
+> Contact our programming department if you have ideas, want to appear, or need additional info about our Programming panels and Special Events
+
+Please add the columbus2020nasfic.org to your white list / safe senders list to make sure you get all of the Columbus NASFiC emails
+
 ## What exactly is Worldcon or NASFiC? How are they related?
 
 The World Science Fiction Convention (Worldcon) is an annual convention held since 1939 (skipping 1942-1945), which gathers fans (and pros) from around the world. Worldcon is also where members vote for the Hugo awards.
