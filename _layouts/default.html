@@ -91,6 +91,14 @@
           li.style.display = "block";
         })
       }
+      const staff_btn = document.getElementsByClassName('reveal-agreement-form-btn')[0];
+      if (staff_btn) {
+        staff_btn.addEventListener('click', function () {
+          if (agreement_container) {
+            agreement_container.style.display = "block";
+          }
+        })
+      }
     }
     if (window.document.documentMode) {
       var main = document.getElementsByClassName('main')[0];
