@@ -1,5 +1,4 @@
 markdown: kramdown
 # plugins:
 #   - jekyll-seo-tag
-baseurl: /virtualnasfic2020
 theme: jekyll-theme-minimal
