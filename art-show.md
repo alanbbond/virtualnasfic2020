@@ -2,7 +2,7 @@
 title: Art Show
 layout: default
 category: public
-order: 4
+order: 5
 
 ---
 # NASFIC VIRTUAL ART SHOW

@@ -2,7 +2,7 @@
 title: Prometheus Award
 layout: default
 category: public
-order: 3
+order: 7
 
 ---
 # The Prometheus Award

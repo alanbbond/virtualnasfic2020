@@ -26,8 +26,8 @@
       </div>
       <div class="header-content">
         <h1>Virtual Access Portal</h1>
+        <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
         <nav>
-          <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
           <ul>
           {% assign navs = site.pages | sort: "order" %}
           {% for nav in navs %}
@@ -42,6 +42,8 @@
               {% endif %}
             </li>
             {% endif %}
+          </ul>
+          <ul>
             {% if nav.category == "accesscontrol" %}
               {% if nav.title == page.title %}
             <li class="this-page accesscontrol" style="display: none">

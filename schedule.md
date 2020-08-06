@@ -1,8 +1,8 @@
 ---
 title: Schedule
 layout: default
-category: accesscontrol
-order: 2
+category: public
+order: 8
 
 ---
 # Events

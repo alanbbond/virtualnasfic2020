@@ -2,7 +2,7 @@
 title: Contact
 layout: default
 category: public
-order: 5
+order: 6
 
 ---
 ## Contact Us

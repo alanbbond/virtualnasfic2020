@@ -1,18 +1,20 @@
 ---
-title: Large Events Room
+title: Olentangy Room
 layout: default
 category: accesscontrol
-order: 5
+order: 3
 
 ---
-# Large Events Room
+# The Olentangy Event Room
+
+Named for the Olentangy River
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
 </iframe>
 
 <widgetbot
 server="680949000295284757"
-channel="740005240069292072"
+channel="740005453509034025"
 width="45%"
 height="53vh"
 class="nasfic-chat"
