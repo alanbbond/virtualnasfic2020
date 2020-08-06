@@ -70,42 +70,6 @@
     </section>
     {% include footer.html %}
   </main>
-  <script>
-    const agreement = localStorage.getItem('NASFiC_2020_agreement');
-    if (agreement) {
-      const form = document.getElementById('agreement-form');
-      if (form) {
-        form.style.display = "none";
-      }
-      const agreement_container = document.getElementById('agreement-container');
-      if (agreement_container) {
-        agreement_container.style.display = "none";
-      }
-      const accesscontainer = document.getElementsByClassName("accesscontrol-container")[0];
-      if (accesscontainer) {
-        accesscontainer.style.display = "block";
-      }
-      const accesscontrolnav = document.getElementsByClassName('accesscontrol');
-      if (accesscontrolnav) {
-        Array.from(accesscontrolnav).forEach((li) => {
-          li.style.display = "block";
-        })
-      }
-      const staff_btn = document.getElementsByClassName('reveal-agreement-form-btn')[0];
-      if (staff_btn) {
-        staff_btn.addEventListener('click', function () {
-          if (agreement_container) {
-            agreement_container.style.display = "block";
-          }
-        })
-      }
-    }
-    if (window.document.documentMode) {
-      var main = document.getElementsByClassName('main')[0];
-      var iesupportmsg = document.createElement('div');
-      iesupportmsg.innerText = "We're sorry, but Internet Explorer is not supported."
-      main.appendChild(iesupportmsg);
-    }
-  </script>
+  <script type="text/javascript" src="{{ site.baseurl | prepend: site.url }}/assets/js/access.js" />
 </body>
 </html>

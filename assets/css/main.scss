@@ -365,8 +365,8 @@ ul.social-links-menu {
 }
 
 .reveal-agreement-form-btn {
-  display: none;
-  position: absolute;
+  visibility: none;
+  position: fixed;
   bottom: 0;
   right: 0;
   width: 3rem;
