@@ -5,9 +5,6 @@ category: public
 order: 1
 
 ---
-# Welcome to Columbus NASFiC 2020 Online!
-
-Enjoy the convention! Please explore with the tabs in the header.
 
 {% include full_width_image.html filename="Columbus-NASFIC-2020_landing_image.png" height="50rem" %}
 
