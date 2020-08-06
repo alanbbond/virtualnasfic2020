@@ -2,7 +2,7 @@
 title: How To Attend
 layout: default
 category: public
-order: 3
+order: 2
 
 ---
 # HOW TO ATTEND?

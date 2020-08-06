@@ -2,7 +2,7 @@
 title: Scioto Room
 layout: default
 category: accesscontrol
-order: 2
+order: 12
 
 ---
 # The Scioto Event Room
