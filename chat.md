@@ -5,6 +5,8 @@ category: accesscontrol
 order: 4
 
 ---
+When viewing Discord in the lobby you will only be able to use text chat functions.  To access the video chat functions you will need to use the Discord App.
+
 <widgetbot
 server="680949000295284757"
 channel="723567502663352460"
