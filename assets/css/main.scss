@@ -228,9 +228,12 @@ header {
 }
 
 .dealer-listing {
-  min-height: 16rem;
-  h2 {
-    margin-top: -1rem;
+  margin-top: -0.5rem;
+  border-top: 0.5rem solid $dark;
+  border-bottom: 0.5rem solid $dark;
+
+  .dealer-info {
+    max-width: 45rem;
   }
 }
 
@@ -328,8 +331,8 @@ footer {
   background-color: transparent;
 }
 .gallery-image {
-  width: 12vw;
-  height: 9vw;
+  width: 24rem;
+  height: 15vw;
   margin: 1rem;
   background-color: $light;
   background-size: cover;
@@ -339,7 +342,7 @@ footer {
   border-radius: 1rem;
 }
 .lightbox-image {
-  width: 100%;
+  width: calc(100% - 23rem);
   height: 64rem;
   background-color: $light;
   border: unset;
