@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: default
 category: Public
-order: 15
+order: 9
 
 ---
 # Code of Conduct Anti-Harassment Policy:
