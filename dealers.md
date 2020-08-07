@@ -1,5 +1,5 @@
 ---
-title: Dealers
+title: Dealers Room
 layout: default
 category: public
 order: 14
