@@ -5,7 +5,6 @@ category: public
 order: 1
 
 ---
-
 {% include full_width_image.html filename="Columbus-NASFIC-2020_landing_image.png" height="50rem" %}
 
 ### 07/22/2020
@@ -21,26 +20,6 @@ In recognition of the difficulty of these times we are offering this event for F
 If you would like to volunteer with us in this challenging transition please fill out [our volunteer survey](https://form.jotform.com/201906040573044?fbclid=IwAR1I79sPqqTA08fb3Ue4yMIkZR_913tq87qv5dnlg6pHrw0mTCUDrk8mKPQ). If you would like to join us as a program participant please email program@columbus2020nasfic.org .
 
 Thanks
-
-Lisa Garrison, Chair  
-Dale Mazzola, Vice Chair  
-Kim Williams, Treasurer
-
-### 05/20/2020
-
-Dear Members,
-
-Like so many conventions affected by Covid-19, NASFIC has been involved in some very challenging negotiations. Because Ohio is trying to open up its economy, we are likely to have some heavy cancellation fees imposed by our facilities. Therefore, we are unlikely to be able to offer any meaningful level of membership refunds.
-
-We originally felt that any small residual amount could be spent on a low-cost book celebrating our Guests or passed along to a future event to benefit fans in general. We were wrong. If we gave the impression that we were prioritizing the Souvenir book or pass-along funds over the needs of our members, even those in hardship, we’re sorry.
-
-We were also wrong to make such an announcement on a likely outcome before the actual negotiations were finalized. We apologize for those misjudgments, as of now negotiations are still ongoing.
-
-If refunds can be offered, we will. We will also ask anyone who can waive a refund requests do so. We hope to give those most in a more meaningful amount. As soon as we know the amount left over, we will post a refund process.
-
-Although we will absolutely not produce a physical Souvenir / Program Book, we will look into an electronic publication instead.
-
-We understand people will be disappointed by the news that we will probably not be able to make more substantial refunds. We are negotiating in good faith, with our other partners in town, to seek the best possible settlement. I wish I could be more optimistic, but I’m staying realistic and hoping for the best.
 
 Lisa Garrison, Chair  
 Dale Mazzola, Vice Chair  
