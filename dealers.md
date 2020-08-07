@@ -5,7 +5,7 @@ category: public
 order: 14
 
 ---
-# Dealers
+# Info For Dealers
 
 ## Columbus NASFiC 2020 Virtual Dealer Room FAQ
 
