@@ -316,6 +316,46 @@ footer {
       0 -0.1rem $dark;
 }
 
+
+/* gallery */
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: auto;
+  border: none;
+  background-color: transparent;
+}
+.gallery-image {
+  width: 12vw;
+  height: 9vw;
+  margin: 1rem;
+  background-color: $light;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1rem solid $medium;
+  border-radius: 1rem;
+}
+.lightbox-image {
+  width: 100%;
+  height: 64rem;
+  background-color: $light;
+  border: unset;
+  border-radius: unset;
+}
+
+.gallery-image:not(.lightbox-image):hover {
+  border-color: $dark;
+  background-color: $dark;
+}
+
+hr {
+  height: 1rem;
+  background-color: $dark;
+}
+
 /* social media */
 .screen-reader-text {
   display: none;
@@ -365,7 +405,6 @@ ul.social-links-menu {
 }
 
 .reveal-agreement-form-btn {
-  visibility: hidden;
   position: fixed;
   bottom: 0;
   right: 0;
