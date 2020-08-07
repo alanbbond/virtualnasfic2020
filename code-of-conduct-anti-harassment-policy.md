@@ -2,7 +2,7 @@
 title: Code of conduct anti-harassment policy
 layout: default
 category: Public
-order: 
+order: 15
 published: false
 
 ---
