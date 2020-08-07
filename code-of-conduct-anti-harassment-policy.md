@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: CoC
 layout: default
 category: Public
 order: 15
