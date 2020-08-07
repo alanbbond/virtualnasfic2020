@@ -2,7 +2,8 @@
 title: Olentangy Room
 layout: default
 category: accesscontrol
-order: 13
+order: "13"
+published: false
 
 ---
 # The Olentangy Event Room
