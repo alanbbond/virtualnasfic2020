@@ -1,7 +1,7 @@
 ---
 title: Dealers Room
 layout: default
-category: private
+category: accesscontrol
 order: 5
 
 ---
