@@ -7,8 +7,6 @@ order: 14
 ---
 # Dealers
 
-Hours in the Discord will be Saturday 11am to 3pm.
-
 ## Columbus NASFiC 2020 Virtual Dealer Room FAQ
 
 Please read this FAQ if you are interested in being a dealer at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Virtual Dealer Room.
@@ -19,7 +17,7 @@ NASFiC 2020 has cancelled our physical convention due to pandemic safety concern
 
 ## How are you going to have a virtual Dealer Room? How is that even going to work?
 
-We are planning our virtual Dealer Room experience to be 2 parts; a website gallery and collection of links and a dedicated Discord channel for the convention weekend. The first will allow attendees to see a curated list of dealers and how to contact them for transactions and questions; the second will allow dealers a chance to chat online via text, audio, or webcam with attendees during core dealer hours.
+We are planning our virtual Dealer Room experience to be 2 parts; a website gallery and collection of links and a dedicated Discord channel for the convention weekend. The first will allow attendees to see a curated list of dealers and how to contact them for transactions and questions; the second will allow dealers a chance to chat online via text, audio, or webcam with attendees during core dealer hours. Hours in the Discord will be Saturday 11am to 3pm.
 
 ## How much will this cost dealers?
 
