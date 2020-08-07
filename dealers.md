@@ -1,7 +1,7 @@
 ---
 title: Dealers
 layout: default
-category: accesscontrol
+category: public
 order: 14
 
 ---
