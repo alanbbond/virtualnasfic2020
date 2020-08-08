@@ -247,7 +247,7 @@ header {
     display: flex;
     justify-content: space-between;
 
-    .presenters, .moderators {
+    .programparticipants, .moderators {
       font-style: italic;
     }
 
@@ -257,7 +257,7 @@ header {
   }
 }
 
-.presenter-listing {
+.program-participant-listing {
   min-height: 18rem;
   display: flex;
   flex-direction: row;
@@ -266,7 +266,7 @@ header {
     margin-top: 3rem;
   }
 
-  .presenter-info {
+  .program-participant-info {
     width: 40rem;
     display: flex;
     flex-wrap: wrap;
@@ -400,6 +400,7 @@ ul.social-links-menu {
   display: flex;
   flex-direction: row;
   list-style-type: none;
+  padding-left: 0;
 
   li.social-link {
     height: 1.25rem;

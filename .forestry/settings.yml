@@ -12,8 +12,8 @@ sections:
   path: _data/schedule.yml
   label: Schedule Entries
 - type: document
-  path: _data/presenters.yml
-  label: Presenter Entries
+  path: _data/programparticipants.yml
+  label: Program Participant Entries
 - type: document
   path: _data/dealers.yml
   label: Dealer Entries

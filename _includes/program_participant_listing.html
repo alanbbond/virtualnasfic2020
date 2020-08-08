@@ -1,0 +1,51 @@
+<section class="program-participant-listing">
+  <div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ programparticipant.filename }}'); float: 'left'">
+  </div>
+  <div class="program-participant-info">
+    <h2>{{ programparticipant.name }}</h2>
+    {% if programparticipant.role.size > 0 %}
+    <h3>{{ programparticipant.role }}</h3>
+    {% endif %}
+    {% if programparticipant.facebook or programparticipant.twitter or programparticipant.instagram or programparticipant.patreon or programparticipant.discord %}
+    <ul class="social-links-menu">
+      {% if programparticipant.facebook %}
+      <li class="facebook social-link">
+        <a href="https://www.facebook.com/groups/{programparticipant.facebook}/">
+        <span class="screen-reader-text">Facebook</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if programparticipant.twitter %}
+      <li class="twitter social-link">
+        <a href="https://twitter.com/{{programparticipant.twitter}}">
+          <span class="screen-reader-text">Twitter</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if programparticipant.instagram %}
+      <li class="instagram social-link">
+        <a href="https://www.instagram.com/{{programparticipant.instagram}}/">
+          <span class="screen-reader-text">Instagram</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if programparticipant.patreon %}
+      <li class="patreon social-link">
+        <a href="https://www.instagram.com/{{programparticipant.patreon}}/">
+          <span class="screen-reader-text">Patreon</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if programparticipant.discord %}
+      <li class="discord social-link">
+        <a href="https://www.instagram.com/{{programparticipant.discord}}/">
+          <span class="screen-reader-text">Discord</span>
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+    {% endif %}
+    <p><a href="{{ programparticipant.website }}">Website</a></p>
+    <p>{{ programparticipant.description | markdownify }}</p>
+  </div>
+</section>

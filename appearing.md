@@ -7,16 +7,16 @@ order: 11
 ---
 # Guests Of Honor
 
-{% for presenter in site.data.presenters %}
-{% if presenter.category contains "Guest" %}
-{% include presenter_listing.html %}
+{% for programparticipant in site.data.programparticipants %}
+{% if programparticipant.category contains "Guest" %}
+{% include program_participant_listing.html %}
 {% endif %}
 {% endfor %}
 
-# Presenters
+# Program Participants
 
-{% for presenter in site.data.presenters %}
-{% unless presenter.category contains "Guest" %}
-{% include presenter_listing.html %}
+{% for programparticipant in site.data.programparticipants %}
+{% unless programparticipant.category contains "Guest" %}
+{% include program_participant_listing.html %}
 {% endunless %}
 {% endfor %}
