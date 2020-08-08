@@ -49,7 +49,7 @@ How have our visions of a free, dynamic and better future, with universal respec
 
 Tom Jackson, an Ohio resident, is a newspaper reporter for _The Sandusky Register_ who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, [RAWIllumination.net](http://rawillumination.net/), devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society ([lfs.org](http://lfs.org)), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.
 
-{% include float_image.html filename="fpaulwilson-300dpi.jpg" side="left" %}
+{% include float_image.html filename="fpaulwilson-300dpi.jpg" side="right" %}
 
 ### Panelist: F. Paul Wilson
 
