@@ -13,12 +13,8 @@ fields:
   - name: guest_of_honor
     type: boolean
     label: guest of honor
-    description: Determines whether they appear in Guest Of Honor lists.
-  - type: text
-    name: category
-    label: category
-    description: '"Guest of Honor" or something else. This will not be shown to site
-      visitors. It will determine which lists they appear in, such as guests of honor.'
+    description: If this toggle slides to the right and goes from grey to a color,
+      this person appears in Guest Of Honor lists.
   - type: text
     name: role
     label: role
