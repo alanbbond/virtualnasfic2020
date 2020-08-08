@@ -6,7 +6,17 @@
   twitter: DuneAuthor
   facebook: brianherbertnovels
   website: https://www.brianherbertnovels.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis viverra orci eu iaculis. Nullam venenatis magna est, eget molestie magna venenatis sit amet. In sed lacus vel ante iaculis cursus. Fusce in congue ligula, sodales pulvinar lectus. Maecenas lorem lacus, malesuada eget lobortis ut, interdum sed odio. Mauris nec nibh placerat, mollis dui vitae, rhoncus tortor. Morbi egestas, risus non accumsan suscipit, eros neque commodo ligula, at viverra ligula elit sit amet enim. Nulla dictum purus eget libero congue, sit amet ornare massa mollis. Duis in velit quis massa maximus efficitur in id tortor. Integer non risus interdum nisl mattis tincidunt. Pellentesque auctor, nisi eget pharetra ultricies, ipsum tortor bibendum ante, id aliquet nibh justo sed ligula. Sed ac elit facilisis, vestibulum justo a, consectetur diam.
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+    sagittis viverra orci eu iaculis. Nullam venenatis magna est, eget molestie magna
+    venenatis sit amet. In sed lacus vel ante iaculis cursus. Fusce in congue ligula,
+    sodales pulvinar lectus. Maecenas lorem lacus, malesuada eget lobortis ut, interdum
+    sed odio. Mauris nec nibh placerat, mollis dui vitae, rhoncus tortor. Morbi egestas,
+    risus non accumsan suscipit, eros neque commodo ligula, at viverra ligula elit
+    sit amet enim. Nulla dictum purus eget libero congue, sit amet ornare massa mollis.
+    Duis in velit quis massa maximus efficitur in id tortor. Integer non risus interdum
+    nisl mattis tincidunt. Pellentesque auctor, nisi eget pharetra ultricies, ipsum
+    tortor bibendum ante, id aliquet nibh justo sed ligula. Sed ac elit facilisis,
+    vestibulum justo a, consectetur diam.
 - name: Kevin J. Anderson
   category: Guest of Honor
   role: Author Guest of Honor
@@ -15,7 +25,13 @@
   facebook: KJAauthor
   website: https://www.wordfire.com/
   instagram: TheRealKJA
-  description: Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed suscipit lacus orci, id porta arcu sollicitudin venenatis. Donec consequat quam in metus fermentum, non euismod ipsum convallis. Fusce euismod ipsum lobortis ipsum luctus, in scelerisque nisi ultrices. Etiam eget interdum arcu. Nam nec massa volutpat, facilisis ante et, vestibulum odio. Sed tincidunt ex neque, ut pellentesque nisl venenatis in. Sed tempus mi id venenatis laoreet. Vestibulum at nulla sit amet odio finibus blandit sed in diam.
+  description: Orci varius natoque penatibus et magnis dis parturient montes, nascetur
+    ridiculus mus. Sed suscipit lacus orci, id porta arcu sollicitudin venenatis.
+    Donec consequat quam in metus fermentum, non euismod ipsum convallis. Fusce euismod
+    ipsum lobortis ipsum luctus, in scelerisque nisi ultrices. Etiam eget interdum
+    arcu. Nam nec massa volutpat, facilisis ante et, vestibulum odio. Sed tincidunt
+    ex neque, ut pellentesque nisl venenatis in. Sed tempus mi id venenatis laoreet.
+    Vestibulum at nulla sit amet odio finibus blandit sed in diam.
 - name: Stephanie Law
   category: Guest of Honor
   role: Artist Guest of Honor
@@ -25,14 +41,30 @@
   website: https://www.shadowscapes.com/
   instagram: spmlaw
   patreon: StephanieLaw
-  description: Pellentesque et finibus felis, vel rutrum lectus. Etiam eu orci nisl. Phasellus sem odio, luctus a scelerisque vitae, luctus nec urna. Pellentesque at felis erat. Quisque a erat aliquet, sagittis diam eu, auctor velit. Curabitur congue ac ipsum sit amet volutpat. Cras ut orci id elit molestie hendrerit. Morbi eget lacus consectetur, venenatis dolor a, malesuada ex. Cras consequat mauris tellus, quis venenatis metus posuere non. In sit amet luctus ex. Etiam dapibus turpis dui, in hendrerit augue ultrices vel. Quisque vulputate purus id leo eleifend lobortis. Quisque felis arcu.
+  description: Pellentesque et finibus felis, vel rutrum lectus. Etiam eu orci nisl.
+    Phasellus sem odio, luctus a scelerisque vitae, luctus nec urna. Pellentesque
+    at felis erat. Quisque a erat aliquet, sagittis diam eu, auctor velit. Curabitur
+    congue ac ipsum sit amet volutpat. Cras ut orci id elit molestie hendrerit. Morbi
+    eget lacus consectetur, venenatis dolor a, malesuada ex. Cras consequat mauris
+    tellus, quis venenatis metus posuere non. In sit amet luctus ex. Etiam dapibus
+    turpis dui, in hendrerit augue ultrices vel. Quisque vulputate purus id leo eleifend
+    lobortis. Quisque felis arcu.
 - name: Christopher J. Garcia
   category: Guest of Honor
   role: Editor Guest of Honor
   filename: christopher-j-garcia.jpeg
   facebook: JohnnyEponymous
   website: https://efanzines.com/DrinkTank/index.htm
-  description: Suspendisse interdum vehicula mauris, et tincidunt neque accumsan molestie. Suspendisse tincidunt convallis neque ac consectetur. Vivamus id imperdiet lorem. Nulla euismod tellus at nisi auctor, vitae tempus lectus vehicula. Nullam pellentesque sodales tellus, nec volutpat justo mattis in. Vestibulum sed blandit nunc. Sed laoreet magna velit, non mattis leo egestas nec. Nulla facilisi. Nulla tristique ut nisi in condimentum. Maecenas volutpat ac enim non porta. Fusce finibus enim lectus, eget consequat orci scelerisque sed. Proin molestie ante sit amet erat pretium placerat. Pellentesque venenatis tortor blandit turpis bibendum rhoncus. Pellentesque lobortis, erat vel tristique pellentesque, leo tortor molestie nulla, at feugiat odio libero nec nunc. Morbi rhoncus consequat ante, ut.
+  description: Suspendisse interdum vehicula mauris, et tincidunt neque accumsan molestie.
+    Suspendisse tincidunt convallis neque ac consectetur. Vivamus id imperdiet lorem.
+    Nulla euismod tellus at nisi auctor, vitae tempus lectus vehicula. Nullam pellentesque
+    sodales tellus, nec volutpat justo mattis in. Vestibulum sed blandit nunc. Sed
+    laoreet magna velit, non mattis leo egestas nec. Nulla facilisi. Nulla tristique
+    ut nisi in condimentum. Maecenas volutpat ac enim non porta. Fusce finibus enim
+    lectus, eget consequat orci scelerisque sed. Proin molestie ante sit amet erat
+    pretium placerat. Pellentesque venenatis tortor blandit turpis bibendum rhoncus.
+    Pellentesque lobortis, erat vel tristique pellentesque, leo tortor molestie nulla,
+    at feugiat odio libero nec nunc. Morbi rhoncus consequat ante, ut.
 - name: Marc Millis
   category: Guest of Honor
   role: Science Guest of Honor
@@ -42,8 +74,18 @@
 - name: Sue and Steve Francis
   category: Guest of Honor
   role: Fan Guests of Honor
-  filename: sue-and-steve-francis.jpeg
-  description: Proin tellus nulla, ultricies eget sollicitudin eget, euismod at massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur posuere diam semper ipsum vestibulum ultrices. Duis arcu mauris, lobortis ac accumsan ac, mollis eget dolor. Vestibulum quam dui, faucibus vitae dapibus ac, commodo vel nisl. Mauris arcu nisi, sodales a finibus nec, eleifend sit amet leo. Vivamus nisi ante, porta a scelerisque ut, semper et nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non aliquet tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam volutpat tellus vel urna auctor, non consectetur sapien ultricies. Maecenas eget cursus enim, ac eleifend erat. Nulla vitae hendrerit est. Pellentesque at ipsum leo.
+  filename: sue-and-steve-francis.jpg
+  description: Proin tellus nulla, ultricies eget sollicitudin eget, euismod at massa.
+    Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+    himenaeos. Curabitur posuere diam semper ipsum vestibulum ultrices. Duis arcu
+    mauris, lobortis ac accumsan ac, mollis eget dolor. Vestibulum quam dui, faucibus
+    vitae dapibus ac, commodo vel nisl. Mauris arcu nisi, sodales a finibus nec, eleifend
+    sit amet leo. Vivamus nisi ante, porta a scelerisque ut, semper et nunc. Lorem
+    ipsum dolor sit amet, consectetur adipiscing elit. Nunc non aliquet tortor. Orci
+    varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Aliquam volutpat tellus vel urna auctor, non consectetur sapien ultricies. Maecenas
+    eget cursus enim, ac eleifend erat. Nulla vitae hendrerit est. Pellentesque at
+    ipsum leo.
 - name: Tom Smith
   category: Guest of Honor
   role: Toastmaster
@@ -61,7 +103,14 @@
   category: Presenter
   role: Moderator
   filename: tom-jackson.jpg
-  description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky Register who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, RAWIllumination.net, devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society (lfs.org), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.
+  description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky
+    Register who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma.
+    He writes a blog, RAWIllumination.net, devoted to writers Robert Anton Wilson
+    and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy).
+    He has been active in fandom for years, contributing to fanzines, attending conventions
+    and participating in the apas APA-50 and FAPA. He is a member of the board of
+    the Libertarian Futurist Society (lfs.org), which presents the Prometheus Award,
+    and serves as a judge on the Prometheus Award nominating committee.
 - name: F. Paul Wilson
   category: Presenter
   role: Panelist
@@ -69,4 +118,12 @@
   website: https://repairmanjack.com/
   facebook: RealFPaulWilson
   twitter: fpaulwilson
-  description: "F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning science fiction, horror, adventure, medical thrillers, young-adult, etc. – including the Prometheus Award (www.lfs.org) winners Wheels within Wheels, an sf murder mystery; Sims; _Healer;_and _An Enemy of the State.Wilson, who sold his first story to Analog in 1970 and has 8 million books in U.S. print, is best known as creator of the urban mercenary Repairman Jack (featured in his latest novel The Last Christmas). Among his New York Times bestsellers: The Keep (also a 1983 Paramount film),The Tomb, Harbingers, By the Sword, The Dark at the End, and_Nightworld."
+  description: 'F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner
+    and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning
+    science fiction, horror, adventure, medical thrillers, young-adult, etc. – including
+    the Prometheus Award (www.lfs.org) winners Wheels within Wheels, an sf murder
+    mystery; Sims; _Healer;_and _An Enemy of the State.Wilson, who sold his first
+    story to Analog in 1970 and has 8 million books in U.S. print, is best known as
+    creator of the urban mercenary Repairman Jack (featured in his latest novel The
+    Last Christmas). Among his New York Times bestsellers: The Keep (also a 1983 Paramount
+    film),The Tomb, Harbingers, By the Sword, The Dark at the End, and_Nightworld.'
