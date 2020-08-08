@@ -29,7 +29,7 @@ And of course we still have our wonderful Guests of Honor:
 
 #### Ring of Fire Guest  Eric Flint
 
-Opening Ceremonies is at 3 pm on Friday, August 21st. That evening will also include a memorial to the great author, editor and mentor Mike Resnick, who unfortunately died in the past year.  Mike was a regular at Ohio cons and we are honored that his wife Carol and daughter Laura are giving us the honor of trusting us with this event.
+Opening Ceremonies is at 3 pm on Friday, August 21st. That evening will also include a memorial to the great author, editor and mentor Mike Resnick, who unfortunately died this past year.  Mike was a regular at Ohio cons and we are honored that his wife Carol and daughter Laura are trusting us with this event.
 
 Other highlights for the weekend will include the Chesley Awards and the Prometheus Awards.  Please give yourself a break from the mundane world and join us, for the 2020 North American Science Fiction Convention!
 
