@@ -10,6 +10,10 @@ fields:
     name: name
     label: name
     description: The program participant's name.
+  - name: guest_of_honor
+    type: boolean
+    label: guest of honor
+    description: Determines whether they appear in Guest Of Honor lists.
   - type: text
     name: category
     label: category
