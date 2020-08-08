@@ -15,6 +15,7 @@
     to the Tabat Quartet, *Gods of Tabat* (Wordfire Press, 2021).
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Brandon Wilson
   category:
   - Presenter
@@ -33,6 +34,7 @@
     and has been a guest on several film oriented podcasts."
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Laurence Raphael Brothers
   category: ''
   role: ''
@@ -49,6 +51,7 @@
     for more stories that can be read or listened to online. Pronouns: he/him.'
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Kathryn Sullivan
   category:
   - Presenter
@@ -67,6 +70,7 @@
     forests in a magical world.'
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Ben Yalow
   category:
   - Presenter
@@ -84,6 +88,7 @@
     the works of deserving classic SF writers.
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: William S. Higgins
   category:
   - Presenter
@@ -101,6 +106,7 @@
     a fan group devoted to do-it-yourself technology.
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Alaya Dawn Johnson
   category:
   - Presenter
@@ -123,6 +129,7 @@
     its role in the religious-agricultural calendar.
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Brian Herbert
   category: Guest of Honor
   role: Author Guest of Honor
@@ -133,6 +140,7 @@
   description: ''
   instagram: ''
   discord: ''
+  guest_of_honor: true
 - name: Kevin J. Anderson
   category: Guest of Honor
   role: Author Guest of Honor
@@ -151,6 +159,7 @@
     and his wife Rebecca Moesta are the publishers of WordFire Press. His most recent
     novels are *Stake*, *Kill Zone*, and *Spine of the Dragon*.
   discord: ''
+  guest_of_honor: false
 - name: Stephanie Law
   category: Guest of Honor
   role: Artist Guest of Honor
@@ -171,6 +180,7 @@
     She taught The Fantastic Workshop of Nashville, TN in 2016 and 2018, and won Best
     in Show at Dragoncon in 2015 for *When Flowers Dream*. '
   discord: ''
+  guest_of_honor: false
 - name: Christopher J. Garcia
   category: Guest of Honor
   role: Editor Guest of Honor
@@ -183,6 +193,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Marc Millis
   category: Guest of Honor
   role: Science Guest of Honor
@@ -193,6 +204,7 @@
   facebook: ''
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Sue and Steve Francis
   category: Guest of Honor
   role: Fan Guests of Honor
@@ -206,6 +218,7 @@
   website: ''
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Tom Smith
   category: Guest of Honor
   role: Toastmaster
@@ -223,6 +236,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Eric Flint
   category: Guest of Honor
   role: 1632 Minicon Guest
@@ -239,6 +253,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: Tom Jackson
   category: Presenter
   role: Moderator
@@ -256,6 +271,7 @@
   website: ''
   instagram: ''
   discord: ''
+  guest_of_honor: false
 - name: F. Paul Wilson
   category: Presenter
   role: ''
@@ -275,3 +291,4 @@
     and *Nightworld*.'
   instagram: ''
   discord: ''
+  guest_of_honor: false
