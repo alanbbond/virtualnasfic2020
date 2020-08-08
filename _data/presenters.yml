@@ -1,4 +1,114 @@
 ---
+- name: Cat Rambo
+  category: ''
+  role: ''
+  filename: cat-rambo.png
+  twitter: ''
+  facebook: ''
+  website: http://www.kittywumpus.net
+  description: Cat Rambo lives, writes, and teaches somewhere in the Pacific Northwest.
+    Their 200+ fiction publications include stories in Asimov’s, Clarkesworld Magazine,
+    and The Magazine of Fantasy and Science Fiction. Their most recent works are Nebula
+    Award winner Carpe Glitter (Meerkat Press) and on-going serial novella Baby Driver.
+    Forthcoming are fantasy novel Exiles of Tabat (Wordfire Press, fall 2020), space
+    opera You Sexy Thing (Tor Macmillan, 2021) and the conclusion to the Tabat Quartet,
+    Gods of Tabat (Wordfire Press, 2021).
+- name: Brandon Wilson
+  category:
+  - Presenter
+  role: ''
+  filename: brandon-wilson.jpg
+  twitter: Geniusbastard
+  facebook: ''
+  website: ''
+  description: "Brandon Wilson is a filmmaker and lecturer. Born and raised in Los
+    Angeles, he attended UCLA where he took a B.A. in African-American Studies and
+    an M.F.A. from the UCLA School of Theater, Film, and Television. Wilson has directed
+    two micro-budget features: 2005’s The Man Who Couldn’t… which is on YouTube, and
+    Sepulveda from 2016, which is streaming for free on Vimeo. \nWilson teaches Film
+    Analysis for Filmmakers and Introduction to Editing courses at UCLA. He also teaches
+    at Columbia College Hollywood and Long Beach Community College.  He blogs and
+    has been a guest on several film oriented podcasts."
+- name: Laurence Raphael Brothers
+  category: ''
+  role: ''
+  filename: laurence-brothers.jpg
+  twitter: lbrothers
+  facebook: ''
+  website: https://laurencebrothers.com/
+  description: 'Laurence Raphael Brothers is a writer and a technologist with 5 patents
+    and a background in AI and Internet R&D. More than 30 of his short stories have
+    appeared in magazines such as Nature, PodCastle, the New Haven Review, and Galaxy''s
+    Edge. His WWI-era fantasy novel "Twilight Patrol" and his romantic noir urban
+    fantasy novella "The Demons of Wall Street" were both just recently published.
+    Follow him on twitter: @lbrothers or visit https://laurencebrothers.com/bibliography
+    for more stories that can be read or listened to online. Pronouns: he/him.'
+- name: Kathryn Sullivan
+  category:
+  - Presenter
+  role: ''
+  filename: kathryn-sullivan.jpg
+  twitter: ''
+  facebook: KathrynSullivan.author
+  website: http://kathrynsullivan.com
+  description: 'Kathryn Sullivan writes young adult science fiction and fantasy, including
+    fantasy novel THE CRYSTAL THRONE and short story collection AGENTS, ADEPTS & APPRENTICES.
+    She has essays in the Hugo Award winning CHICKS DIG TIME LORDS and in CHILDREN
+    OF TIME: COMPANIONS OF DOCTOR WHO and OUTSIDE IN. She is owned by a large cockatoo,
+    who graciously allows her to write about other animals, as well as birdlike aliens.
+    Kathryn lives in Winona, MN, where the river bluffs along the Mississippi River
+    double as cliffs on alien planets or the deep mysterious forests in a magical
+    world.  '
+- name: Ben Yalow
+  category:
+  - Presenter
+  role: ''
+  filename: ben-yalow.jpg
+  twitter: ''
+  facebook: ''
+  website: ''
+  description: Ben Yalow has attended about 800 cons, and worked on about a third
+    of them, at positions from gopher to regional convention chair, and Worldcon Division
+    Head/Chair staff, on multiple continents. He co-founded SMOFcon, to help conrunners
+    interchange information with each other, and was the Fan GoH at Discon3 and at
+    the San Diego NASFiC in 1990. He has edited four books for NESFA Press, which
+    regularly publishes books by the Guests of Honor of Boskone in addition to reprinting
+    the works of deserving classic SF writers .
+- name: William S. Higgins
+  category:
+  - Presenter
+  role: ''
+  filename: bill-higgins.jpg
+  twitter: MrBeamJockey
+  facebook: ''
+  website: ''
+  description: William S. Higgins works as a radiation safety physicist at Fermilab,
+    where he is involved in the transport of high-energy particle beams. As a volunteer
+    in NASA's Solar System Ambassador program, he speaks and writes about spaceflight,
+    astronomy, and other topics in science and technology. He plays baritone ukulele,
+    if not skillfully, then with enthusiasm. Long active in Chicago's fandom, he researches
+    the intertwined history of SF and science. He's a member of General Technics,
+    a fan group devoted to do-it-yourself technology.
+- name: Alaya Dawn Johnson
+  category:
+  - Presenter
+  role: Panelist
+  filename: alaya-johnson.jpg
+  twitter: ''
+  facebook: ''
+  website: http://www.alayadawnjohnson.com
+  description: Alaya Dawn Johnson is the author of seven novels for adults and young
+    adults. Her most recent novel for adults, Trouble the Saints, was released in
+    July 2020 from Tor books. A short story collection, Reconstruction, is forthcoming
+    in November 2020 from Small Beer Press. Her young adult novel The Summer Prince
+    was longlisted for the National Book Award for Young People's Literature, while
+    her novel Love Is the Drug won the Andre Norton/Nebula Award for Middle Grade/Young
+    Adult fiction. Her short stories have appeared in many magazines and anthologies,
+    including Best American Science Fiction and Fantasy 2015, A Phoenix First Must
+    Burn, Feral Youth, and Zombies vs. Unicorns. She lives in Mexico where she received
+    a master’s degree with honors in Mesoamerican Studies at the Universidad Nacional
+    Autónoma de México, for her thesis on pre-Columbian fermented food and its role
+    in the religious-agricultural calendar.
 - name: Brian Herbert
   category: Guest of Honor
   role: Author Guest of Honor
@@ -6,7 +116,17 @@
   twitter: DuneAuthor
   facebook: brianherbertnovels
   website: https://www.brianherbertnovels.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis viverra orci eu iaculis. Nullam venenatis magna est, eget molestie magna venenatis sit amet. In sed lacus vel ante iaculis cursus. Fusce in congue ligula, sodales pulvinar lectus. Maecenas lorem lacus, malesuada eget lobortis ut, interdum sed odio. Mauris nec nibh placerat, mollis dui vitae, rhoncus tortor. Morbi egestas, risus non accumsan suscipit, eros neque commodo ligula, at viverra ligula elit sit amet enim. Nulla dictum purus eget libero congue, sit amet ornare massa mollis. Duis in velit quis massa maximus efficitur in id tortor. Integer non risus interdum nisl mattis tincidunt. Pellentesque auctor, nisi eget pharetra ultricies, ipsum tortor bibendum ante, id aliquet nibh justo sed ligula. Sed ac elit facilisis, vestibulum justo a, consectetur diam.
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+    sagittis viverra orci eu iaculis. Nullam venenatis magna est, eget molestie magna
+    venenatis sit amet. In sed lacus vel ante iaculis cursus. Fusce in congue ligula,
+    sodales pulvinar lectus. Maecenas lorem lacus, malesuada eget lobortis ut, interdum
+    sed odio. Mauris nec nibh placerat, mollis dui vitae, rhoncus tortor. Morbi egestas,
+    risus non accumsan suscipit, eros neque commodo ligula, at viverra ligula elit
+    sit amet enim. Nulla dictum purus eget libero congue, sit amet ornare massa mollis.
+    Duis in velit quis massa maximus efficitur in id tortor. Integer non risus interdum
+    nisl mattis tincidunt. Pellentesque auctor, nisi eget pharetra ultricies, ipsum
+    tortor bibendum ante, id aliquet nibh justo sed ligula. Sed ac elit facilisis,
+    vestibulum justo a, consectetur diam.
 - name: Kevin J. Anderson
   category: Guest of Honor
   role: Author Guest of Honor
@@ -15,7 +135,15 @@
   facebook: KJAauthor
   website: https://www.wordfire.com/
   instagram: TheRealKJA
-  description: Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed suscipit lacus orci, id porta arcu sollicitudin venenatis. Donec consequat quam in metus fermentum, non euismod ipsum convallis. Fusce euismod ipsum lobortis ipsum luctus, in scelerisque nisi ultrices. Etiam eget interdum arcu. Nam nec massa volutpat, facilisis ante et, vestibulum odio. Sed tincidunt ex neque, ut pellentesque nisl venenatis in. Sed tempus mi id venenatis laoreet. Vestibulum at nulla sit amet odio finibus blandit sed in diam.
+  description: Kevin J. Anderson has published more than 165 books, 56 of which have
+    been national or international bestsellers.  He has written numerous novels in
+    the Star Wars, X-Files, and Dune universes, as well as steampunk fantasy novels
+    Clockwork Angels and Clockwork Lives, written with legendary rock drummer Neil
+    Peart. His original works include the Saga of Seven Suns series, the Terra Incognita
+    fantasy trilogy, and his humorous horror series featuring Dan Shamble, Zombie
+    PI. He has edited numerous anthologies, written comics and games. Anderson and
+    his wife Rebecca Moesta are the publishers of WordFire Press. His most recent
+    novels are Stake, Kill Zone, and Spine of the Dragon.
 - name: Stephanie Law
   category: Guest of Honor
   role: Artist Guest of Honor
@@ -25,14 +153,25 @@
   website: https://www.shadowscapes.com/
   instagram: spmlaw
   patreon: StephanieLaw
-  description: Pellentesque et finibus felis, vel rutrum lectus. Etiam eu orci nisl. Phasellus sem odio, luctus a scelerisque vitae, luctus nec urna. Pellentesque at felis erat. Quisque a erat aliquet, sagittis diam eu, auctor velit. Curabitur congue ac ipsum sit amet volutpat. Cras ut orci id elit molestie hendrerit. Morbi eget lacus consectetur, venenatis dolor a, malesuada ex. Cras consequat mauris tellus, quis venenatis metus posuere non. In sit amet luctus ex. Etiam dapibus turpis dui, in hendrerit augue ultrices vel. Quisque vulputate purus id leo eleifend lobortis. Quisque felis arcu.
+  description: 'Stephanie Law is a multi-media artist and illustrator from California.
+    Primarily working in watercolor, gold and silver leaf, and ink, she adds texture
+    and dimension both within her pictures and in the frames of them. Stephanie has
+    been a dancer for almost two decades, and she uses her experience of how the human
+    body moves and emotes to create a bridge into her artwork, not only to depict
+    humans, but also trees, other plants, insects, ephemeral guides and strange creatures.
+    Early on, her career moved through the illustration and gaming world, but in recent
+    decades she has focused more on her own body of work, gallery shows, and publications.
+    She taught The Fantastic Workshop of Nashville, TN in 2016 and 2018, and won Best
+    in Show at Dragoncon in 2015 for When Flowers Dream. '
 - name: Christopher J. Garcia
   category: Guest of Honor
   role: Editor Guest of Honor
   filename: christopher-j-garcia.jpeg
   facebook: JohnnyEponymous
-  website: https://efanzines.com/DrinkTank/index.htm
-  description: Suspendisse interdum vehicula mauris, et tincidunt neque accumsan molestie. Suspendisse tincidunt convallis neque ac consectetur. Vivamus id imperdiet lorem. Nulla euismod tellus at nisi auctor, vitae tempus lectus vehicula. Nullam pellentesque sodales tellus, nec volutpat justo mattis in. Vestibulum sed blandit nunc. Sed laoreet magna velit, non mattis leo egestas nec. Nulla facilisi. Nulla tristique ut nisi in condimentum. Maecenas volutpat ac enim non porta. Fusce finibus enim lectus, eget consequat orci scelerisque sed. Proin molestie ante sit amet erat pretium placerat. Pellentesque venenatis tortor blandit turpis bibendum rhoncus. Pellentesque lobortis, erat vel tristique pellentesque, leo tortor molestie nulla, at feugiat odio libero nec nunc. Morbi rhoncus consequat ante, ut.
+  website: http://journeyplanet.weebly.com
+  description: 'Christopher J Garcia is a writer, filmmaker, festival programmer,curator,
+    historian, podcaster, and painter from Boulder Creek, CA. He''s won a couple of
+    Hugos, has a couple of kids, and is an all-around enthusiast. '
 - name: Marc Millis
   category: Guest of Honor
   role: Science Guest of Honor
@@ -42,8 +181,11 @@
 - name: Sue and Steve Francis
   category: Guest of Honor
   role: Fan Guests of Honor
-  filename: sue-and-steve-francis.jpeg
-  description: Proin tellus nulla, ultricies eget sollicitudin eget, euismod at massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur posuere diam semper ipsum vestibulum ultrices. Duis arcu mauris, lobortis ac accumsan ac, mollis eget dolor. Vestibulum quam dui, faucibus vitae dapibus ac, commodo vel nisl. Mauris arcu nisi, sodales a finibus nec, eleifend sit amet leo. Vivamus nisi ante, porta a scelerisque ut, semper et nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non aliquet tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam volutpat tellus vel urna auctor, non consectetur sapien ultricies. Maecenas eget cursus enim, ac eleifend erat. Nulla vitae hendrerit est. Pellentesque at ipsum leo.
+  filename: sue-and-steve-francis.jpg
+  description: 'Sue and Steve Francis contributed greatly to the long-running success
+    of RiverCon in Louisville, Kentucky. They are also recognized for their fan writing,
+    and were the Down Under Fan Fund (DUFF) delegates from North America to Australia
+    in 2008. '
 - name: Tom Smith
   category: Guest of Honor
   role: Toastmaster
@@ -51,22 +193,51 @@
   facebook: filkertom
   website: http://tomsmithonline.com
   patreon: filkertom
+  description: For 35 years, Tom Smith has been the morel conches of filk -- that
+    is, he's in the dark a lot and makes weird noises when you hold him to your ear.
+    However, he does have two dozen albums, fourteen Pegasus Awards for excellence
+    in filk, a spot in the Filk Hall of Fame, and a decent collection of movies, games,
+    comics, and Lego, so we took pity and let him in. He'll have at least two concerts
+    this weekend, filled with ludicrous whimsy, dark romance, and multilingual puns.
+    You have been warned.
 - name: Eric Flint
   category: Guest of Honor
   role: 1632 Minicon Guest
   filename: eric-flint.jpeg
   facebook: EricFlint1632
   website: https://ericflint.net/
+  description: Eric Flint's writing career began with the science fiction novel Mother
+    of Demons. With David Drake, he has collaborated on the six-volume Belisarius
+    series, as well as a novel entitled The Tyrant. His alternate history novel 1632
+    was published in 2000, and has led to a long-running series with many novels and
+    anthologies in print. In addition, he’s written a number of science fiction and
+    fantasy novels. He now has more than sixty novels in print as well as many pieces
+    of short fiction and dozens of anthologies which he’s edited.
 - name: Tom Jackson
   category: Presenter
   role: Moderator
   filename: tom-jackson.jpg
-  description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky Register who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma. He writes a blog, RAWIllumination.net, devoted to writers Robert Anton Wilson and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy). He has been active in fandom for years, contributing to fanzines, attending conventions and participating in the apas APA-50 and FAPA. He is a member of the board of the Libertarian Futurist Society (lfs.org), which presents the Prometheus Award, and serves as a judge on the Prometheus Award nominating committee.
+  description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky
+    Register who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma.
+    He writes a blog, RAWIllumination.net, devoted to writers Robert Anton Wilson
+    and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy).
+    He has been active in fandom for years, contributing to fanzines, attending conventions
+    and participating in the apas APA-50 and FAPA. He is a member of the board of
+    the Libertarian Futurist Society (lfs.org), which presents the Prometheus Award,
+    and serves as a judge on the Prometheus Award nominating committee.
 - name: F. Paul Wilson
   category: Presenter
-  role: Panelist
+  role: ''
   filename: fpaulwilson-300dpi.jpg
   website: https://repairmanjack.com/
   facebook: RealFPaulWilson
   twitter: fpaulwilson
-  description: "F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning science fiction, horror, adventure, medical thrillers, young-adult, etc. – including the Prometheus Award (www.lfs.org) winners Wheels within Wheels, an sf murder mystery; Sims; _Healer;_and _An Enemy of the State.Wilson, who sold his first story to Analog in 1970 and has 8 million books in U.S. print, is best known as creator of the urban mercenary Repairman Jack (featured in his latest novel The Last Christmas). Among his New York Times bestsellers: The Keep (also a 1983 Paramount film),The Tomb, Harbingers, By the Sword, The Dark at the End, and_Nightworld."
+  description: 'F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner
+    and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning
+    science fiction, horror, adventure, medical thrillers, young-adult, etc. – including
+    the Prometheus Award (www.lfs.org) winners Wheels within Wheels, an sf murder
+    mystery; Sims; _Healer;_and _An Enemy of the State.Wilson, who sold his first
+    story to Analog in 1970 and has 8 million books in U.S. print, is best known as
+    creator of the urban mercenary Repairman Jack (featured in his latest novel The
+    Last Christmas). Among his New York Times bestsellers: The Keep (also a 1983 Paramount
+    film),The Tomb, Harbingers, By the Sword, The Dark at the End, and_Nightworld.'
