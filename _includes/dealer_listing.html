@@ -2,8 +2,8 @@
   <div class="gallery">
     <div class="dealer-info">
       <h2>{{ dealer.name }}</h2>
-      <p class="link"><a href="{{ dealer.link }}">Link to shop</a></p>
-      <p>{{ dealer.description }}</p>
+      <p class="link">{{ dealer.link | markdownify}}</p>
+      <p>{{ dealer.description | markdownify }}</p>
     </div>
     {% if dealer.image_filenames.size > 0 %}
     {% for file in dealer.image_filenames %}
