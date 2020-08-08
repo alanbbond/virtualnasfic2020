@@ -18,7 +18,8 @@ fields:
   - type: text
     name: role
     label: role
-    description: This will be shown to site visitors, and may be anything.
+    description: This label will be displayed to site visitors, and may be anything.
+      "Toastmaster", "Moderator", whatever the attendee needs to know.
   - type: file
     name: filename
     label: filename
