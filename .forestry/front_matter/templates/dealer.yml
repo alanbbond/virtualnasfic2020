@@ -14,21 +14,6 @@ fields:
     name: link
     label: link
     description: A link to this dealer's external site.
-  - type: file
-    name: filename1
-    label: filename1
-  - type: file
-    name: filename2
-    label: filename2
-  - type: file
-    name: filename3
-    label: filename3
-  - type: file
-    name: filename4
-    label: filename4
-  - type: file
-    name: filename5
-    label: filename5
   - type: textarea
     name: description
     label: description
