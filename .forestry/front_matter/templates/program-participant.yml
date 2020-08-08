@@ -18,8 +18,10 @@ fields:
   - type: text
     name: role
     label: role
-    description: This label will be displayed to site visitors, and may be anything.
-      "Toastmaster", "Moderator", whatever the attendee needs to know.
+    description: Label or labels which will be displayed to site visitors everywhere
+      that they view the listing describing this person's details. "Toastmaster",
+      "Moderator", "Panelist". (A Schedule Entry ignores this. Each event has its
+      own lists for who is a Moderator or Panelist for that event.)
   - type: file
     name: filename
     label: filename
@@ -31,9 +33,23 @@ fields:
     description: This accepts Markdown for italics and so forth. <a href="https://commonmark.org/help/"
       title="https://commonmark.org/help/" target="_blank">https://commonmark.org/help/</a>
   - type: text
-    name: website
-    label: website
-    description: 'You may type Markdown links with braces and parens, like this: ```[link
+    name: website1
+    label: website1
+    description: 'You may type Markdown links with braces and parens, like this: <br>```[link
+      the reader will see](https://full-url.com/with-all-segments/)```'
+  - name: website2
+    type: text
+    config:
+      required: false
+    description: 'You may type Markdown links with braces and parens, like this: <br>```[link
+      the reader will see](https://full-url.com/with-all-segments/)```'
+    label: website2
+  - name: website3
+    type: text
+    config:
+      required: false
+    label: website3
+    description: 'You may type Markdown links with braces and parens, like this: <br>```[link
       the reader will see](https://full-url.com/with-all-segments/)```'
   - type: text
     name: facebook
