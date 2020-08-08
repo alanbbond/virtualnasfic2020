@@ -257,6 +257,20 @@ header {
   }
 }
 
+.presenter-listing {
+  min-height: 18rem;
+  display: flex;
+  flex-direction: row;
+
+  .floatimage {
+    margin-top: 3rem;
+  }
+
+  .presenter-info {
+    width: 40rem;
+  }
+}
+
 /* footer */
 
 footer {
