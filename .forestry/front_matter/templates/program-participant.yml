@@ -49,3 +49,5 @@ fields:
       required: false
     label: discord
     description: The segment of the url that comes after https://discord.gg/
+pages:
+- _data/programparticipants.yml
