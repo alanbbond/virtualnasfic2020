@@ -20,8 +20,8 @@ fields:
     label: role
     description: Label or labels which will be displayed to site visitors everywhere
       that they view the listing describing this person's details. "Toastmaster",
-      "Moderator", "Panelist". (A Schedule Entry listing ignores this. An event has
-      its own lists for who is a Moderator or Panelist for that event.)
+      "Moderator", "Panelist". (A Schedule Entry ignores this. Each event has its
+      own lists for who is a Moderator or Panelist for that event.)
   - type: file
     name: filename
     label: filename
