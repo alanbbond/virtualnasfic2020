@@ -25,9 +25,11 @@ fields:
   - type: text
     name: twitter
     label: twitter
+    description: The segment that appears after https://twitter.com/
   - type: text
     name: facebook
     label: facebook
+    description: The segment that appears after https://facebook.com/
   - type: text
     name: website
     label: website
@@ -41,3 +43,10 @@ fields:
   label: instagram
   description: Only the segment that appears after <a href="https://www.instagram.com/"
     title="https://www.instagram.com/" target="_blank">https://www.instagram.com/</a>
+- name: discord
+  type: text
+  config:
+    required: false
+  label: discord
+  description: The segment that appears after <a href="https://discord.gg/" title="https://discord.gg/"
+    target="_blank">https://discord.gg/</a>
