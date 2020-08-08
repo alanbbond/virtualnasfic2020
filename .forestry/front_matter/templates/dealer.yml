@@ -30,3 +30,8 @@ fields:
   - type: textarea
     name: description
     label: description
+  - name: image_filenames
+    type: image_gallery
+    config: {}
+    label: image filenames
+    description: A list of images that appear in this dealer's gallery.
