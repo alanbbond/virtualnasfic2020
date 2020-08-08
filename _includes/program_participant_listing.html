@@ -46,7 +46,7 @@
     </ul>
     {% endif %}
     {% if programparticipant.website.size > 0 %}
-    <p><a href="{{ programparticipant.website | markdownify }}">Website</a></p>
+    <p><a href="{{ programparticipant.website }}">Website</a></p>
     {% endif %}
     <p>{{ programparticipant.description | markdownify }}</p>
   </div>
