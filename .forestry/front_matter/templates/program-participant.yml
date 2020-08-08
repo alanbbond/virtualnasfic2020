@@ -18,8 +18,9 @@ fields:
   - type: text
     name: role
     label: role
-    description: This label will be displayed to site visitors, and may be anything.
-      "Toastmaster", "Moderator", whatever the attendee needs to know.
+    description: Label or labels which will be displayed to site visitors everywhere
+      that they view the listing describing this person's details. "Toastmaster",
+      "Moderator", "Panelist".
   - type: file
     name: filename
     label: filename
