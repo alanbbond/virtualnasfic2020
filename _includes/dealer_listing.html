@@ -5,25 +5,11 @@
       <p class="link"><a href="{{ dealer.link }}">Link to shop</a></p>
       <p>{{ dealer.description }}</p>
     </div>
-    {% if dealer.filename1 %}
-    <div class="gallery-image" style="background-image: url('/assets/images/{{ dealer.filename1 }}')">
+    {% if dealer.image_filenames.size > 0 %}
+    {% for file in dealer.image_filenames %}
+    <div class="gallery-image" style="background-image: url('{{ file }}')">
     </div>
-    {% endif %}
-    {% if dealer.filename2 %}
-    <div class="gallery-image" style="background-image: url('/assets/images/{{ dealer.filename2 }}')">
-    </div>
-    {% endif %}
-    {% if dealer.filename3 %}
-    <div class="gallery-image" style="background-image: url('/assets/images/{{ dealer.filename3 }}')">
-    </div>
-    {% endif %}
-    {% if dealer.filename4 %}
-    <div class="gallery-image" style="background-image: url('/assets/images/{{ dealer.filename4 }}')">
-    </div>
-    {% endif %}
-    {% if dealer.filename5 %}
-    <div class="gallery-image" style="background-image: url('/assets/images/{{ dealer.filename5 }}')">
-    </div>
+    {% endfor %}
     {% endif %}
   </div>
 </section>
