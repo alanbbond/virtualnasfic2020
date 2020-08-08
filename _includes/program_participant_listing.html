@@ -8,35 +8,35 @@
     {% endif %}
     {% if programparticipant.facebook or programparticipant.twitter or programparticipant.instagram or programparticipant.patreon or programparticipant.discord %}
     <ul class="social-links-menu">
-      {% if programparticipant.facebook %}
+      {% if programparticipant.facebook.size > 0 %}
       <li class="facebook social-link">
         <a href="https://www.facebook.com/groups/{{programparticipant.facebook}}/">
         <span class="screen-reader-text">Facebook</span>
         </a>
       </li>
       {% endif %}
-      {% if programparticipant.twitter %}
+      {% if programparticipant.twitter.size > 0 %}
       <li class="twitter social-link">
         <a href="https://twitter.com/{{programparticipant.twitter}}">
           <span class="screen-reader-text">Twitter</span>
         </a>
       </li>
       {% endif %}
-      {% if programparticipant.instagram %}
+      {% if programparticipant.instagram.size > 0 %}
       <li class="instagram social-link">
         <a href="https://www.instagram.com/{{programparticipant.instagram}}/">
           <span class="screen-reader-text">Instagram</span>
         </a>
       </li>
       {% endif %}
-      {% if programparticipant.patreon %}
+      {% if programparticipant.patreon.size > 0 %}
       <li class="patreon social-link">
         <a href="https://www.instagram.com/{{programparticipant.patreon}}/">
           <span class="screen-reader-text">Patreon</span>
         </a>
       </li>
       {% endif %}
-      {% if programparticipant.discord %}
+      {% if programparticipant.discord.size > 0 %}
       <li class="discord social-link">
         <a href="https://www.instagram.com/{{programparticipant.discord}}/">
           <span class="screen-reader-text">Discord</span>
@@ -45,7 +45,9 @@
       {% endif %}
     </ul>
     {% endif %}
+    {% if programparticipant.website.size > 0 %}
     <p><a href="{{ programparticipant.website | markdownify }}">Website</a></p>
+    {% endif %}
     <p>{{ programparticipant.description | markdownify }}</p>
   </div>
 </section>
