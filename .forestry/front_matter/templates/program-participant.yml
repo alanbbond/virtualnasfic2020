@@ -39,6 +39,8 @@ fields:
   - type: textarea
     name: description
     label: description
+    description: This accepts Markdown for italics and so forth. <a href="https://commonmark.org/help/"
+      title="https://commonmark.org/help/" target="_blank">https://commonmark.org/help/</a>
   - name: instagram
     type: text
     config:
