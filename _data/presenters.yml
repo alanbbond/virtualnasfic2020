@@ -1,4 +1,19 @@
 ---
+- name: Ben Yalow
+  category:
+  - Presenter
+  role: Panelist
+  filename: ben-yalow.jpg
+  twitter: ''
+  facebook: ''
+  website: ''
+  description: Ben Yalow has attended about 800 cons, and worked on about a third
+    of them, at positions from gopher to regional convention chair, and Worldcon Division
+    Head/Chair staff, on multiple continents. He co-founded SMOFcon, to help conrunners
+    interchange information with each other, and was the Fan GoH at Discon3 and at
+    the San Diego NASFiC in 1990. He has edited four books for NESFA Press, which
+    regularly publishes books by the Guests of Honor of Boskone in addition to reprinting
+    the works of deserving classic SF writers .
 - name: William S. Higgins
   category:
   - Presenter
