@@ -33,8 +33,8 @@ fields:
   - type: text
     name: website
     label: website
-    description: 'You may type Markdown links with braces and parens, like this: `[link
-      the reader will see](https://full-url.com/with-all-segments/)'
+    description: 'You may type Markdown links with braces and parens, like this: ```[link
+      the reader will see](https://full-url.com/with-all-segments/)```'
   - type: text
     name: facebook
     label: facebook
