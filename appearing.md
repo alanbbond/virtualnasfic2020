@@ -8,7 +8,7 @@ order: 11
 # Guests Of Honor
 
 {% for programparticipant in site.data.programparticipants %}
-{% if programparticipant.category contains "Guest" %}
+{% if programparticipant.guest_of_honor == true %}
 {% include program_participant_listing.html %}
 {% endif %}
 {% endfor %}
@@ -16,7 +16,7 @@ order: 11
 # Program Participants
 
 {% for programparticipant in site.data.programparticipants %}
-{% unless programparticipant.category contains "Guest" %}
+{% unless programparticipant.guest_of_honor == true %}
 {% include program_participant_listing.html %}
 {% endunless %}
 {% endfor %}

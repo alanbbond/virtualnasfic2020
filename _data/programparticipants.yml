@@ -1,6 +1,5 @@
 ---
 - name: Cat Rambo
-  category: ''
   role: ''
   filename: cat-rambo.png
   twitter: ''
@@ -36,7 +35,6 @@
   discord: ''
   guest_of_honor: false
 - name: Laurence Raphael Brothers
-  category: ''
   role: ''
   filename: laurence-brothers.jpg
   twitter: lbrothers
@@ -131,7 +129,6 @@
   discord: ''
   guest_of_honor: false
 - name: Brian Herbert
-  category: Guest of Honor
   role: Author Guest of Honor
   filename: brian-herbert.jpeg
   twitter: DuneAuthor
@@ -142,7 +139,6 @@
   discord: ''
   guest_of_honor: true
 - name: Kevin J. Anderson
-  category: Guest of Honor
   role: Author Guest of Honor
   filename: kevin-j-anderson.jpeg
   twitter: TheKJA
@@ -159,9 +155,8 @@
     and his wife Rebecca Moesta are the publishers of WordFire Press. His most recent
     novels are *Stake*, *Kill Zone*, and *Spine of the Dragon*.
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Stephanie Law
-  category: Guest of Honor
   role: Artist Guest of Honor
   filename: stephanie-law.jpeg
   twitter: shadowscapes
@@ -180,9 +175,8 @@
     She taught The Fantastic Workshop of Nashville, TN in 2016 and 2018, and won Best
     in Show at Dragoncon in 2015 for *When Flowers Dream*. '
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Christopher J. Garcia
-  category: Guest of Honor
   role: Editor Guest of Honor
   filename: christopher-j-garcia.jpeg
   facebook: JohnnyEponymous
@@ -193,9 +187,8 @@
   twitter: ''
   instagram: ''
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Marc Millis
-  category: Guest of Honor
   role: Science Guest of Honor
   filename: marc-millis.jpeg
   description: See [his TEDx Brussels talk "Building 'Icarus'"](https://www.youtube.com/watch?v=9doOLHeW8p4)!
@@ -204,9 +197,8 @@
   facebook: ''
   instagram: ''
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Sue and Steve Francis
-  category: Guest of Honor
   role: Fan Guests of Honor
   filename: sue-and-steve-francis.jpg
   description: 'Sue and Steve Francis contributed greatly to the long-running success
@@ -218,9 +210,8 @@
   website: ''
   instagram: ''
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Tom Smith
-  category: Guest of Honor
   role: Toastmaster
   filename: tom-smith.jpeg
   facebook: filkertom
@@ -236,9 +227,8 @@
   twitter: ''
   instagram: ''
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Eric Flint
-  category: Guest of Honor
   role: 1632 Minicon Guest
   filename: eric-flint.jpeg
   facebook: EricFlint1632
@@ -253,9 +243,8 @@
   twitter: ''
   instagram: ''
   discord: ''
-  guest_of_honor: false
+  guest_of_honor: true
 - name: Tom Jackson
-  category: Presenter
   role: Moderator
   filename: tom-jackson.jpg
   description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky
@@ -273,7 +262,6 @@
   discord: ''
   guest_of_honor: false
 - name: F. Paul Wilson
-  category: Presenter
   role: ''
   filename: fpaulwilson-300dpi.jpg
   website: https://repairmanjack.com/
