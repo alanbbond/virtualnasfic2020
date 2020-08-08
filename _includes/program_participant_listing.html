@@ -45,8 +45,14 @@
       {% endif %}
     </ul>
     {% endif %}
-    {% if programparticipant.website.size > 0 %}
-    {{ programparticipant.website | markdownify }}
+    {% if programparticipant.website1.size > 0 %}
+    {{ programparticipant.website1 | markdownify }}
+    {% endif %}
+    {% if programparticipant.website2.size > 0 %}
+    {{ programparticipant.website2 | markdownify }}
+    {% endif %}
+    {% if programparticipant.website3.size > 0 %}
+    {{ programparticipant.website3 | markdownify }}
     {% endif %}
     <p>{{ programparticipant.description | markdownify }}</p>
   </div>

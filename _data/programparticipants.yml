@@ -22,7 +22,9 @@
   filename: brandon-wilson.jpg
   twitter: Geniusbastard
   facebook: ''
-  website: ''
+  website1: ''
+  website2: ''
+  website3: ''
   description: "Brandon Wilson is a filmmaker and lecturer. Born and raised in Los
     Angeles, he attended UCLA where he took a B.A. in African-American Studies and
     an M.F.A. from the UCLA School of Theater, Film, and Television. Wilson has directed
@@ -76,7 +78,9 @@
   filename: ben-yalow.jpg
   twitter: ''
   facebook: ''
-  website: ''
+  website1: ''
+  website2: ''
+  website3: ''
   description: Ben Yalow has attended about 800 cons, and worked on about a third
     of them, at positions from gopher to regional convention chair, and Worldcon Division
     Head/Chair staff, on multiple continents. He co-founded SMOFcon, to help conrunners
@@ -94,7 +98,9 @@
   filename: bill-higgins.jpg
   twitter: MrBeamJockey
   facebook: ''
-  website: ''
+  website1: ''
+  website2: ''
+  website3: ''
   description: William S. Higgins works as a radiation safety physicist at Fermilab,
     where he is involved in the transport of high-energy particle beams. As a volunteer
     in NASA's Solar System Ambassador program, he speaks and writes about spaceflight,
@@ -207,7 +213,9 @@
     in 2008. '
   twitter: ''
   facebook: ''
-  website: ''
+  website1: ''
+  website2: ''
+  website3: ''
   instagram: ''
   discord: ''
   guest_of_honor: true
@@ -257,7 +265,9 @@
     and serves as a judge on the Prometheus Award nominating committee.
   twitter: ''
   facebook: ''
-  website: ''
+  website1: ''
+  website2: ''
+  website3: ''
   instagram: ''
   discord: ''
   guest_of_honor: false
