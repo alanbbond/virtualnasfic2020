@@ -1,4 +1,18 @@
 ---
+- name: Laurence Raphael Brothers
+  category: ''
+  role: Panelist
+  filename: laurence-brothers.jpg
+  twitter: lbrothers
+  facebook: ''
+  website: https://laurencebrothers.com/
+  description: 'Laurence Raphael Brothers is a writer and a technologist with 5 patents
+    and a background in AI and Internet R&D. More than 30 of his short stories have
+    appeared in magazines such as Nature, PodCastle, the New Haven Review, and Galaxy''s
+    Edge. His WWI-era fantasy novel "Twilight Patrol" and his romantic noir urban
+    fantasy novella "The Demons of Wall Street" were both just recently published.
+    Follow him on twitter: @lbrothers or visit https://laurencebrothers.com/bibliography
+    for more stories that can be read or listened to online. Pronouns: he/him.'
 - name: Kathryn Sullivan
   category:
   - Presenter
