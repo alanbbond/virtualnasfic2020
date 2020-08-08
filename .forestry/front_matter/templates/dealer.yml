@@ -1,0 +1,32 @@
+---
+label: Dealer
+hide_body: true
+fields:
+- type: field_group_list
+  name: Dealers
+  label: Dealers
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: filename1
+    label: filename1
+  - type: file
+    name: filename2
+    label: filename2
+  - type: file
+    name: filename3
+    label: filename3
+  - type: file
+    name: filename4
+    label: filename4
+  - type: file
+    name: filename5
+    label: filename5
+  - type: textarea
+    name: description
+    label: description
