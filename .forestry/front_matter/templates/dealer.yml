@@ -9,9 +9,11 @@ fields:
   - type: text
     name: name
     label: name
+    description: The name of this dealer or their business.
   - type: text
     name: link
     label: link
+    description: A link to this dealer's external site.
   - type: file
     name: filename1
     label: filename1
@@ -30,6 +32,7 @@ fields:
   - type: textarea
     name: description
     label: description
+    description: The descriptive paragraph about this dealer.
   - name: image_filenames
     type: image_gallery
     config: {}
