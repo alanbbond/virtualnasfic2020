@@ -25,24 +25,24 @@ fields:
     label: filename
     description: Click on this to select or replace an image which you have uploaded
       with the "Media" link in the sidebar.
-  - type: text
-    name: twitter
-    label: twitter
-    description: The segment that appears after https://twitter.com/
-  - type: text
-    name: facebook
-    label: facebook
-    description: The segment that appears after https://facebook.com/
-  - type: text
-    name: website
-    label: website
-    description: 'You may type Markdown links with braces and parens, like this: [link
-      the reader will see](https://full-url.com/with-all-segments/)'
   - type: textarea
     name: description
     label: description
     description: This accepts Markdown for italics and so forth. <a href="https://commonmark.org/help/"
       title="https://commonmark.org/help/" target="_blank">https://commonmark.org/help/</a>
+  - type: text
+    name: website
+    label: website
+    description: 'You may type Markdown links with braces and parens, like this: [link
+      the reader will see](https://full-url.com/with-all-segments/)'
+  - type: text
+    name: facebook
+    label: facebook
+    description: The segment that appears after https://facebook.com/
+  - type: text
+    name: twitter
+    label: twitter
+    description: The segment that appears after https://twitter.com/
   - name: instagram
     type: text
     config:
