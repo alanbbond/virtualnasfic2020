@@ -1,4 +1,19 @@
 ---
+- name: William S. Higgins
+  category:
+  - Presenter
+  role: Panelist
+  filename: bill-higgins.jpg
+  twitter: MrBeamJockey
+  facebook: ''
+  website: ''
+  description: William S. Higgins works as a radiation safety physicist at Fermilab,
+    where he is involved in the transport of high-energy particle beams. As a volunteer
+    in NASA's Solar System Ambassador program, he speaks and writes about spaceflight,
+    astronomy, and other topics in science and technology. He plays baritone ukulele,
+    if not skillfully, then with enthusiasm. Long active in Chicago's fandom, he researches
+    the intertwined history of SF and science. He's a member of General Technics,
+    a fan group devoted to do-it-yourself technology.
 - name: Alaya Dawn Johnson
   category:
   - Presenter
