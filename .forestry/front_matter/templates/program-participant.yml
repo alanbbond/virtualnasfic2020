@@ -36,3 +36,9 @@ fields:
   - type: textarea
     name: description
     label: description
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: instagram
+    description: The segment of the URL that comes after https://instagram.com/
