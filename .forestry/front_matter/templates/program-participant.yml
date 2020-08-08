@@ -1,0 +1,52 @@
+---
+label: Program Participant
+hide_body: true
+fields:
+- type: field_group_list
+  name: Programparticipants
+  label: Programparticipants
+  fields:
+  - type: text
+    name: name
+    label: name
+    description: The program participant's name.
+  - type: text
+    name: category
+    label: category
+    description: '"Guest of Honor" or something else. This will not be shown to site
+      visitors. It will determine which lists they appear in, such as guests of honor.'
+  - type: text
+    name: role
+    label: role
+    description: This will be shown to site visitors, and may be anything.
+  - type: file
+    name: filename
+    label: filename
+  - type: text
+    name: twitter
+    label: twitter
+    description: The segment that appears after https://twitter.com/
+  - type: text
+    name: facebook
+    label: facebook
+    description: The segment that appears after https://facebook.com/
+  - type: text
+    name: website
+    label: website
+  - type: textarea
+    name: description
+    label: description
+- name: instagram
+  type: text
+  config:
+    required: false
+  label: instagram
+  description: Only the segment that appears after <a href="https://www.instagram.com/"
+    title="https://www.instagram.com/" target="_blank">https://www.instagram.com/</a>
+- name: discord
+  type: text
+  config:
+    required: false
+  label: discord
+  description: The segment that appears after <a href="https://discord.gg/" title="https://discord.gg/"
+    target="_blank">https://discord.gg/</a>
