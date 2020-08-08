@@ -23,6 +23,8 @@ fields:
   - type: file
     name: filename
     label: filename
+    description: Click on this to select or replace an image which you have uploaded
+      with the "Media" link in the sidebar.
   - type: text
     name: twitter
     label: twitter
