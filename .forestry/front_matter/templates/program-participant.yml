@@ -31,10 +31,26 @@ fields:
     description: This accepts Markdown for italics and so forth. <a href="https://commonmark.org/help/"
       title="https://commonmark.org/help/" target="_blank">https://commonmark.org/help/</a>
   - type: text
-    name: website
-    label: website
+    name: website1
+    label: website1
     description: 'You may type Markdown links with braces and parens, like this: ```[link
       the reader will see](https://full-url.com/with-all-segments/)```'
+  - name: website2
+    type: text
+    config:
+      required: false
+    description: 'You may type Markdown links with braces and parens, like this: ```[link
+      the reader will see](<a href="https://full-url.com/with-all-segments/" title="https://full-url.com/with-all-segments/"
+      target="_blank">https://full-url.com/with-all-segments/</a>)```'
+    label: website2
+  - name: website3
+    type: text
+    config:
+      required: false
+    label: website3
+    description: 'You may type Markdown links with braces and parens, like this: ```[link
+      the reader will see](<a href="https://full-url.com/with-all-segments/" title="https://full-url.com/with-all-segments/"
+      target="_blank">https://full-url.com/with-all-segments/</a>)```'
   - type: text
     name: facebook
     label: facebook
