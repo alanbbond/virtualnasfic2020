@@ -42,3 +42,9 @@ fields:
       required: false
     label: instagram
     description: The segment of the URL that comes after https://instagram.com/
+  - name: discord
+    type: text
+    config:
+      required: false
+    label: discord
+    description: The segment of the url that comes after https://discord.gg/
