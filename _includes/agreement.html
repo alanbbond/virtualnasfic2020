@@ -4,8 +4,13 @@
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
   onload=""></iframe>
 <section class="agreement-container">
-  <form id="agreement-form" action="https://docs.google.com/forms/d/e/1FAIpQLSfPMhfK1i3gUqqsiYjbErhB40u2KB4VnLfrOCQrfvhhqUMS_A/formResponse" 
-  method="post" target="hidden_iframe" onsubmit="nasfic_agreement_submitted=true;   localStorage.setItem('NASFiC_2020_agreement', true);">
+  <form
+    id="agreement-form"
+    action="https://docs.google.com/forms/d/e/1FAIpQLSfPMhfK1i3gUqqsiYjbErhB40u2KB4VnLfrOCQrfvhhqUMS_A/formResponse" 
+    method="post"
+    target="hidden_iframe"
+    onsubmit="nasfic_agreement_submitted=true; localStorage.setItem('NASFiC_2020_agreement', true); setTimeout(()=> { window.location.replace(window.location.pathname + window.location.search + window.location.hash }, 500);"
+  >
   <input class="agreement-checkbox" id="coc-agreement" type="checkbox" name="entry.424891793_sentinel" hidden required />
   <label class="agreement button" for="coc-agreement" data-caption="Please click here:">I agree to abide by the Code Of Conduct.</label>
   <input class="agreement-checkbox" id="recording-agreement" type="checkbox" name="entry.1821752882_sentinel" hidden required />
@@ -45,7 +50,7 @@
         name_checkbox.checked = name_entered;
         var valid = (coc_checked && recording_checked && name_entered);
         submit_agreement_btn.disabled = !valid; 
-    }, 500);
+      }, 500);
     }
   });
 </script>
