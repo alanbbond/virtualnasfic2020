@@ -14,8 +14,9 @@
     opera You Sexy Thing (Tor Macmillan, 2021) and the conclusion to the Tabat Quartet,
     Gods of Tabat (Wordfire Press, 2021).
 - name: Brandon Wilson
-  category: ''
-  role: Panelist
+  category:
+  - Presenter
+  role: ''
   filename: brandon-wilson.jpg
   twitter: Geniusbastard
   facebook: ''
