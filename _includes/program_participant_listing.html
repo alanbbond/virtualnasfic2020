@@ -45,7 +45,7 @@
       {% endif %}
     </ul>
     {% endif %}
-    <p><a href="{{ programparticipant.website }}">Website</a></p>
+    <p><a href="{{ programparticipant.website | markdownify }}">Website</a></p>
     <p>{{ programparticipant.description | markdownify }}</p>
   </div>
 </section>
