@@ -40,3 +40,5 @@ fields:
     description: A list of images that appear in this dealer's gallery. Click here
       to select or replace images, which you have uploaded in the Media link on the
       sidebar.
+pages:
+- _data/dealers.yml

@@ -11,6 +11,11 @@
     burned character boxes. Adding a sentence about this being a fake Dealer for purposes
     of demonstrating the site; this sentence ensures the paragraph has at least one
     line break.
+  image_filenames:
+  - "/assets/images/quietnovastudios.jpg"
+  - "/assets/images/studio42.jpg"
+  - "/assets/images/tiesthatbynde.jpg"
+  - "/assets/images/turtletree.jpg"
 - name: The Wonder Emporium
   link: https://etsy.com
   filename1: quietnovastudios.jpg
@@ -20,6 +25,10 @@
     know you wanted. Adding a sentence about this being a fake Dealer for purposes
     of demonstrating the site; this sentence ensures the paragraph has at least one
     line break.
+  filename3: ''
+  filename4: ''
+  filename5: ''
+  image_filenames: []
 - name: Galactic Griffin
   link: https://etsy.com
   filename1: quietnovastudios.jpg
@@ -30,6 +39,8 @@
     All handmade by a pair of geeky sisters who love all things geek. <br/><br/> Adding
     a sentence about this being a fake Dealer for purposes of demonstrating the site;
     this sentence ensures the paragraph has at least one line break.
+  filename4: ''
+  image_filenames: []
 - name: Skytop Studio
   link: https://etsy.com
   filename3: turtletree.jpg
@@ -41,6 +52,9 @@
     etc. <br/><br/> Adding a sentence about this being a fake Dealer for purposes
     of demonstrating the site; this sentence ensures the paragraph has at least one
     line break.
+  filename1: ''
+  filename2: ''
+  image_filenames: []
 - name: Planetfall Designs
   link: https://etsy.com
   filename1: quietnovastudios.jpg
@@ -52,3 +66,4 @@
     t-shirt designs for fans of SF, gaming and pop culture! Adding a sentence about
     this being a fake Dealer for purposes of demonstrating the site; this sentence
     ensures the paragraph has at least one line break.
+  image_filenames: []
