@@ -43,6 +43,10 @@ How have our visions of a free, dynamic and better future, with universal respec
 
 ### Saturday, August 22nd - Afternoon
 
+### Moderator: Michael Grossberg
+
+Michael Grossberg co-founded the Libertarian Futurist Society ([lfs.org](http://lfs.org)), established in 1981 to sustain the Prometheus Awards, and chairs the Prometheus Awards Best Novel Finalist Judging Committee, which selects annual slates of finalists_._ A theater critic and arts reporter since the early 1980s, Michael has contributed to six books, including critical essays for the annual _Best Plays Theatre Yearbook,_ and an essay/afterword for the first paperback edition of J. Neil Schulman's Prometheus-winning novel_The Rainbow Cadenza_; written reviews for _Reason_magazine, wrote a regional column for years with Backstage, the national performing-arts weekly; and helped lead the American Theatre Critics Association and administer its national new-play and regional-Tony awards. Michael won the 2019 Society of Profession_Journalists awards for Best Critic in Ohio (also  2015) and Best Arts Reporting (won seven times)._
+
 {% include float_image.html filename="tom-jackson.jpg" side="left" %}
 
 ### Moderator: Tom Jackson
@@ -60,3 +64,9 @@ F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner and Prom
 ### Panelist: William H. Stoddard
 
 William H. Stoddard is a copy editor specializing in scientific and scholarly publications. He has written more than two dozen GURPS supplements for Steve Jackson Games, beginning with GURPS Steampunk in 2000, which won an Origins Award for best role playing supplement. He is the president of the Libertarian Futurist Society, and many of his essays and reviews have appeared on its Prometheus blog ([http://lfs.org/blog/](http://lfs.org/blog/ "http://lfs.org/blog/")).
+
+{% include float_image.html filename="sarah-hoyt-n.jpg" side="right" %}
+
+### Panelist:  Sarah Hoyt
+
+Sarah Hoyt, a Colorado resident, is an American science fiction, fantasy, mystery, and historical fiction writer. After moving to the United States in the early 1980s, and becoming a U.S. citizen in 1988, she began writing under her own name and under the noms de plume Sarah D'Almeida, Elise Hyatt, Sarah Marques, Laurien Gardner and Sarah Marques de Almeida Hoyt. Hoyt won the 2011 Prometheus Award for Best Novel for her science fiction novel _Darkship Thieves,_ the first in a future-history series of novels set within our solar system and including a libertarian anarchist society in the asteroids_._ She also won the 2018 Dragon Award for Best Alternate History Novel for _Uncharted_, co-authored with Kevin J. Anderson.
