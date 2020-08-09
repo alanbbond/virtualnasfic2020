@@ -1,4 +1,23 @@
 ---
+- name: Ada Palmer
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/ada-palmer.jpg"
+  description: 'Ada Palmer’s Terra Ignota series (Tor Books, starting with "Too Like
+    the Lightning") explores a future of borderless nations and globally commixing
+    populations. She teaches history at the University of Chicago, studying the Renaissance,
+    Enlightenment, heresy, atheism, radical thought, and censorship. She composes
+    music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
+    performs with the group Sassafrass. She studies anime/manga, especially Osamu
+    Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
+    She blogs at ExUrbe.com.'
+  website1: exurbe.com
+  website2: adapalmer.com
+  website3: voices.uchicago.edu/censorship
+  facebook: ''
+  twitter: Ada_Palmer
+  instagram: ''
+  discord: ''
 - name: Malka Older
   guest_of_honor: false
   role: ''
