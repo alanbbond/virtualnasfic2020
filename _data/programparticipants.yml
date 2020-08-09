@@ -1,9 +1,15 @@
 ---
-- name: ''
+- name: Steven Gould
   guest_of_honor: false
   role: ''
-  filename: ''
-  description: ''
+  filename: "/assets/images/steven-gould.jpg"
+  description: Steven Gould is the author of over ten novels from Tor Books. JUMPER,
+    his first novel, was made into the 2008 motion picture starring Hayden Christensen,
+    Rachel Bilson, Samuel R. Jackson, and Jamie Bell. IMPULSE, the third novel in
+    the JUMPER series, is the source material for the YouTube Originals television
+    series of the same name starring Maddie Hasson, Sarah Desjardins, Enuka Okuma,
+    and Missy Pyle. Season One and Two are is availble now. Steven was President of
+    SFWA from 2013-2015.
   website1: ''
   website2: ''
   website3: ''
