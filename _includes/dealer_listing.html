@@ -2,7 +2,24 @@
   <div class="gallery">
     <div class="dealer-info">
       <h2>{{ dealer.name }}</h2>
+      <p><i>{{ dealer.what_is_sold }}</i></p>
       <p class="link">{{ dealer.link | markdownify}}</p>
+      {% if dealer.contact.size > 0 or dealer.city.size > 0 or dealer.state.size > 0 %}
+      <p>
+        {% if dealer.contact.size > 0 %}
+        {{dealer.contact}},
+        {% endif %}
+        {% if dealer.city.size > 0 %}
+        {{dealer.city}},
+        {% endif %}
+        {% if dealer.state.size > 0 %}
+        {{dealer.state}}
+        {% endif %}
+      </p>
+      {% endif %}
+      {% if dealer.restrictions %}
+      <p>{{ dealer.restrictions }}</p>
+      {% endif %}
       <p>{{ dealer.description | markdownify }}</p>
     </div>
     {% if dealer.image_filenames.size > 0 %}
