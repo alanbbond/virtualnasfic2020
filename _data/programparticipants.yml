@@ -1,4 +1,23 @@
 ---
+- name: Malka Older
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/malka-older.jpg"
+  description: Malka Older is a writer, aid worker, and sociologist. Her science-fiction
+    political thriller Infomocracy was named one of the best books of 2016 by Kirkus,
+    Book Riot, and the Washington Post. She is the creator of the serial Ninth Step
+    Station, currently running on Serial Box, and her short story collection And Other
+    Disasters came out in November 2019. She is a Faculty Associate at Arizona State
+    University’s School for the Future of Innovation in Society and her opinions can
+    be found in The New York Times, The Nation, Foreign Policy, and NBC THINK, among
+    other places.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: https://www.facebook.com/MalkaOlderAuthor/
+  twitter: ''
+  instagram: ''
+  discord: ''
 - website1: ''
   website2: ''
   website3: ''
