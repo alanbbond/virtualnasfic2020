@@ -2,7 +2,7 @@
 title: About
 layout: default
 category: public
-order: 3
+order: 10
 
 ---
 # ABOUT US

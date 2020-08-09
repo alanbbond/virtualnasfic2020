@@ -2,7 +2,7 @@
 title: Schedule
 layout: default
 category: public
-order: 9
+order: 4
 
 ---
 # Events

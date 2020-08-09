@@ -27,7 +27,15 @@
         <h1>Virtual Access Portal</h1>
         <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
         <nav>
-          <ul>
+          <ul class="rooms-menu">
+          {% assign navs = site.pages | sort: "order" %}
+          {% for nav in navs %}
+          {% if nav.category == "accesscontrol" %}
+            <li class="room">{{ nav.title }}</li>
+          {% endif %}
+          {% endfor %}
+          </ul>
+          <ul class="public-menu">
           {% assign navs = site.pages | sort: "order" %}
           {% for nav in navs %}
             {% if nav.category == "public" %}
@@ -41,19 +49,6 @@
               {% endif %}
             </li>
             {% endif %}
-          </ul>
-          <ul>
-            {% if nav.category == "accesscontrol" %}
-              {% if nav.title == page.title %}
-            <li class="this-page accesscontrol" style="display: none">
-              {{ nav.title }}
-                {% else %}
-              <li class="accesscontrol" style="display: none">
-                <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"></a>
-                {{ nav.title }}
-                {% endif %}
-              </li>
-                {% endif %}
           {% endfor %}
           </ul>
         </nav>

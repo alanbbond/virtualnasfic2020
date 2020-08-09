@@ -1,8 +1,8 @@
 ---
-title: Appearing
+title: Guests
 layout: default
 category: public
-order: 11
+order: 3
 
 ---
 # Guests Of Honor

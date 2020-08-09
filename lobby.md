@@ -2,7 +2,7 @@
 title: Lobby
 layout: default
 category: accesscontrol
-order: 4
+order: 1
 
 ---
 When viewing Discord in the lobby you will only be able to use text chat functions.  To access the video chat functions you will need to use the Discord App.
