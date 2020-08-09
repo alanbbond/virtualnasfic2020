@@ -1,4 +1,114 @@
 ---
+- name: Neil Clarke
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/neil-clarke.jpg"
+  description: Neil Clarke (neil-clarke.com) is the editor of the Hugo and World Fantasy
+    Award-winning Clarkesworld Magazine (clarkesworldmagazine.com) and several anthologies,
+    including the Best Science Fiction of the Year series. He has been a finalist
+    for the Hugo Award for Best Editor (Short Form) eight times, won the Chesley Award
+    for Best Art Director three times, and received the Solstice Award from SFWA in
+    2019. He currently lives in NJ with his wife and two sons.
+  website1: "[Neil-Clarke.com](http://neil-clarke.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Aliette de Bodard
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/aliette-debodard.jpg"
+  description: Aliette de Bodard lives and works in Paris. She has won three Nebula
+    Awards, a Locus Award, a British Fantasy Award and four British Science Fiction
+    Association Awards, and was a double Hugo finalist for 2019 (Best Series and Best
+    Novella). Her most recent book is Of Dragons, Feasts and Murders, a fantasy of
+    manners and murders set in an alternate 19th Century Vietnamese court (upcoming
+    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection Of
+    Wars, and Memories, and Starlight is out from Subterranean Press. She lives in
+    Paris.
+  website1: "[Aliette de Bodard website](https://www.aliettedebodard.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: dave ring
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/dave-ring.jpeg"
+  description: 'dave ring is the chair of the OutWrite LGBTQ Book Festival in Washington,
+    DC. He has stories featured or forthcoming in a number of publications, including
+    Fireside Fiction, GlitterShip, and A Punk Rock Future. He is the publisher and
+    managing editor of Neon Hemlock Press, as well as the editor of Broken Metropolis:
+    Queer Tales of a City That Never Was from Mason Jar Press. More info at www.dave-ring.com.
+    Follow him at @slickhop.'
+  website1: "[www.dave-ring.com](http://www.exurbe.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: "@slickhop"
+  instagram: ''
+  discord: ''
+- name: Ada Palmer
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/ada-palmer.jpg"
+  description: 'Ada Palmer’s Terra Ignota series (Tor Books, starting with "Too Like
+    the Lightning") explores a future of borderless nations and globally commixing
+    populations. She teaches history at the University of Chicago, studying the Renaissance,
+    Enlightenment, heresy, atheism, radical thought, and censorship. She composes
+    music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
+    performs with the group Sassafrass. She studies anime/manga, especially Osamu
+    Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
+    She blogs at ExUrbe.com.'
+  website1: "[Blog](http://www.exurbe.com/)"
+  website2: "[Personal Site](adapalmer.com)"
+  website3: "[Censorship and Information Control During Information Revolutions](voices.uchicago.edu/censorship)"
+  facebook: ''
+  twitter: Ada_Palmer
+  instagram: ''
+  discord: ''
+- name: Malka Older
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/malka-older.jpg"
+  description: Malka Older is a writer, aid worker, and sociologist. Her science-fiction
+    political thriller Infomocracy was named one of the best books of 2016 by Kirkus,
+    Book Riot, and the Washington Post. She is the creator of the serial Ninth Step
+    Station, currently running on Serial Box, and her short story collection And Other
+    Disasters came out in November 2019. She is a Faculty Associate at Arizona State
+    University’s School for the Future of Innovation in Society and her opinions can
+    be found in The New York Times, The Nation, Foreign Policy, and NBC THINK, among
+    other places.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: https://www.facebook.com/MalkaOlderAuthor/
+  twitter: ''
+  instagram: ''
+  discord: ''
+- website1: ''
+  website2: ''
+  website3: ''
+  name: J. Holtham
+  guest_of_honor: false
+  role: Panelist
+  filename: "/assets/images/j-holtham.jpg"
+  description: 'J. HOLTHAM is a screenwriter, semi-retired playwright and blogger.
+    TV credits: PITCH (Fox), MARVEL’S CLOAK & DAGGER (Freeform), MARVEL’S JESSICA
+    JONES (Netflix), SUPERGIRL (CW). He was a 2016 Humanitas New Voices Fellow. His
+    screenplay Killers Anonymous was a finalist for the 2014 PAGE Screenwriting Award
+    and the 2014 Final Draft Big Break Contest, as well as a finalist for the Writers
+    Store’s Industry Insider Contest. His screenplay Hunter Lake was featured on The
+    Black List website and was a semi-finalist for the 2015 Blue Cat Screenplay Contest.
+    He is a proud product of public education.'
+  facebook: ''
+  twitter: "@jholtham"
+  instagram: ''
+  discord: ''
 - name: Victor Raymond
   filename: ''
   description: Victor Raymond is a writer, game designer, and activist, and has a
