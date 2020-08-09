@@ -14,7 +14,7 @@ Named for the Scioto River
 
 <widgetbot
 server="680949000295284757"
-channel="740005375973130330"
+channel="742086215968227336"
 width="45%"
 height="53vh"
 class="nasfic-chat"

@@ -14,7 +14,7 @@ Named for the Olentangy River
 
 <widgetbot
 server="680949000295284757"
-channel="740005453509034025"
+channel="742086242308718703"
 width="45%"
 height="53vh"
 class="nasfic-chat"

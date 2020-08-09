@@ -12,7 +12,7 @@ order: 2
 
 <widgetbot
 server="680949000295284757"
-channel="740005240069292072"
+channel="742086184364146739"
 width="45%"
 height="53vh"
 class="nasfic-chat"
