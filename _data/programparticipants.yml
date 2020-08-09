@@ -1,4 +1,23 @@
 ---
+- name: Mike Chen
+  guest_of_honor: false
+  role: Panelist
+  filename: "/assets/images/mike-chen.jpg"
+  description: 'Mike Chen is the author of _Here And Now And Then_ (a finalist for
+    Goodreads Choice - Best Sci-Fi, CALIBA Golden Poppy, and the Compton Crook Award)
+    and _A Beginning At The End_ ("a brilliant, fragile path through the darkness"
+    -- Library Journal). His short fiction is featured in Star Wars: From A Certain
+    Point Of View -- The Empire Strikes Back, and he has covered geek culture for
+    sites such as Tor.com, The Mary Sue, and StarTrek.com. In a previous life, he
+    covered the NHL for Fox Sports, SB Nation, and other outlets. A member of SFWA,
+    Mike lives in the Bay Area with his wife, daughter, and rescue animals.'
+  website1: " "
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: twitter.com/mikechenwriter
+  instagram: ''
+  discord: ''
 - name: Cat Rambo
   role: ''
   filename: cat-rambo.png
@@ -15,6 +34,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Brandon Wilson
   category:
   - Presenter
@@ -52,6 +74,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Kathryn Sullivan
   category:
   - Presenter
@@ -71,6 +96,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Ben Yalow
   category:
   - Presenter
@@ -134,6 +162,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Brian Herbert
   role: Author Guest of Honor
   filename: brian-herbert.jpeg
@@ -144,6 +175,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Kevin J. Anderson
   role: Author Guest of Honor
   filename: kevin-j-anderson.jpeg
@@ -162,6 +196,9 @@
     novels are *Stake*, *Kill Zone*, and *Spine of the Dragon*.
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Stephanie Law
   role: Artist Guest of Honor
   filename: stephanie-law.jpeg
@@ -182,6 +219,9 @@
     in Show at Dragoncon in 2015 for *When Flowers Dream*. '
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Christopher J. Garcia
   role: Editor Guest of Honor
   filename: christopher-j-garcia.jpeg
@@ -194,6 +234,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Marc Millis
   role: Science Guest of Honor
   filename: marc-millis.jpeg
@@ -204,6 +247,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Sue and Steve Francis
   role: Fan Guests of Honor
   filename: sue-and-steve-francis.jpg
@@ -236,6 +282,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Eric Flint
   role: 1632 Minicon Guest
   filename: eric-flint.jpeg
@@ -252,6 +301,9 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
+  website1: ''
+  website2: ''
+  website3: ''
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
@@ -290,3 +342,6 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
