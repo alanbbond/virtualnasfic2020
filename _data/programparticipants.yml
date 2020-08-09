@@ -1,6 +1,6 @@
 ---
 - name: Victor Raymond
-  filename: "/assets/images/victor-raymond.jpg"
+  filename: ''
   description: Victor Raymond is a writer, game designer, and activist, and has a
     PhD in Sociology with a graduate concentration in Women's Studies. He is bisexual
     and has been recognized for his LGBTQ+ activism as an invited guest to the White
@@ -13,18 +13,6 @@
   website3: ''
   guest_of_honor: false
   role: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-- website1: ''
-  website2: ''
-  website3: ''
-  name: ''
-  guest_of_honor: false
-  role: ''
-  filename: ''
-  description: ''
   facebook: ''
   twitter: ''
   instagram: ''
