@@ -1,4 +1,33 @@
 ---
+- name: ''
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Premee Mohamed
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: Premee Mohamed is an Indo-Caribbean scientist and speculative fiction
+    author based in Edmonton, Alberta. Her short fiction has appeared in a variety
+    of venues, including Analog, Escape Pod, Augur, and Nightmare Magazine. Her debut
+    novel, 'Beneath the Rising,' is out now from Solaris Books, with the sequel due
+    out in 2021. She can be found on Twitter at @premeesaurus and on her website at
+    www.premeemohamed.com.
+  website1: '[www.premeemohamed.com](www.preemamohamed.com "PreemaMohamed.com")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: "@premeesaurus"
+  instagram: ''
+  discord: ''
 - name: Neil Clarke
   guest_of_honor: false
   role: ''
