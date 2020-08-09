@@ -30,27 +30,38 @@ fields:
   - type: textarea
     name: description
     label: description
-    description: This accepts Markdown for italics and so forth. <a href="https://commonmark.org/help/"
-      title="https://commonmark.org/help/" target="_blank">https://commonmark.org/help/</a>
-  - type: text
-    name: website1
-    label: website1
-    description: 'You may type Markdown links with braces and parens, like this: <br>```[link
-      the reader will see](https://full-url.com/with-all-segments/)```'
-  - name: website2
-    type: text
+    description: A biographical summary.
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: website1
+    type: textarea
+    default: ''
     config:
       required: false
-    description: 'You may type Markdown links with braces and parens, like this: <br>```[link
-      the reader will see](https://full-url.com/with-all-segments/)```'
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website1
+  - name: website2
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: website2
   - name: website3
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: website3
-    description: 'You may type Markdown links with braces and parens, like this: <br>```[link
-      the reader will see](https://full-url.com/with-all-segments/)```'
   - type: text
     name: facebook
     label: facebook
