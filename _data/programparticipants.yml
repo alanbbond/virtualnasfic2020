@@ -1,4 +1,23 @@
 ---
+- name: Aliette de Bodard
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: Aliette de Bodard lives and works in Paris. She has won three Nebula
+    Awards, a Locus Award, a British Fantasy Award and four British Science Fiction
+    Association Awards, and was a double Hugo finalist for 2019 (Best Series and Best
+    Novella). Her most recent book is Of Dragons, Feasts and Murders, a fantasy of
+    manners and murders set in an alternate 19th Century Vietnamese court (upcoming
+    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection Of
+    Wars, and Memories, and Starlight is out from Subterranean Press. She lives in
+    Paris.
+  website1: "[Aliette de Bodard website](https://www.aliettedebodard.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: dave ring
   guest_of_honor: false
   role: ''
