@@ -30,6 +30,16 @@ fields:
     config:
       required: false
     label: What is sold
+  - name: link
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: link
+    description: A link to this dealer's external site.
   - type: textarea
     name: description
     label: description
@@ -50,15 +60,5 @@ fields:
     description: A list of images that appear in this dealer's gallery. Click here
       to select or replace images, which you have uploaded in the Media link on the
       sidebar.
-  - name: link
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: link
-    description: A link to this dealer's external site.
 pages:
 - _data/dealers.yml
