@@ -48,12 +48,24 @@
   - "/assets/images/loragray03.jpg"
   - "/assets/images/loragray04.jpg"
   - "/assets/images/loragray05.jpg"
-- name: ''
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  image_filenames: []
+- name: Silicon Valley Authors
+  contact: Valerie Frankel
+  city: Sunnyvale
+  state: CA
+  what_is_sold: Books
+  link: |-
+    [vefrankel.com](http://vefrankel.com "vefrankel.com"),
+
+    [https://www.amazon.com/Valerie-Estelle-Frankel/e/B004KMCLQK/](https://www.amazon.com/Valerie-Estelle-Frankel/e/B004KMCLQK/ "https://www.amazon.com/Valerie-Estelle-Frankel/e/B004KMCLQK/") [https://www.smashwords.com/profile/view/valeriefrankel](https://www.smashwords.com/profile/view/valeriefrankel "https://www.smashwords.com/profile/view/valeriefrankel")
+  description: Horror, fantasy, parodies, prehistoric goddess fiction, science fiction
+    with actual physics & guides to Thrones, Star Wars, Buffy, Dr Who…
+  restrictions: International shipping for higher flat fee
+  image_filenames:
+  - "/assets/images/siliconvalleyauthors.jpg"
+  - "/assets/images/silicon-valley-authors2.JPG"
+  - "/assets/images/silicon-valley-authors-3.jpg"
+  - "/assets/images/silicon-valley-authors-4.jpg"
+  - "/assets/images/siliconvalley-authors5.JPG"
+  - "/assets/images/silicon-valley-authors6.jpg"
+  - "/assets/images/silicon-valley-authors-7.jpg"
+  - "/assets/images/silicon-valley-authors8.jpg"
