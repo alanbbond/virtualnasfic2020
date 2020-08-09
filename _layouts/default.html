@@ -28,11 +28,18 @@
         <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
         <nav>
           <ul class="rooms-menu">
-          {% assign navs = site.pages | sort: "order" %}
-          {% for nav in navs %}
-          {% if nav.category == "accesscontrol" %}
-            <li class="room">{{ nav.title }}</li>
-          {% endif %}
+          {% assign rooms = site.pages | sort: "order" %}
+          {% for room in rooms %}
+          {% if room.category == "accesscontrol" %}
+            {% if room.title == page.title %}
+            <li class="this-page room">
+            {% else %}
+            <li class="room">
+            {% endif %}
+              <a href="{{ room.url | prepend: site.baseurl | prepend: site.url }}">
+              </a>
+              {{ room.title }}
+            </li>
           {% endfor %}
           </ul>
           <ul class="public-menu">
@@ -44,7 +51,8 @@
               {{ nav.title }}
               {% else %}
             <li class="public">
-              <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"></a>
+              <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">
+              </a>
               {{ nav.title }}
               {% endif %}
             </li>
