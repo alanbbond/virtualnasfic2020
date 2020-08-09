@@ -1,4 +1,33 @@
 ---
+- name: ''
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: ''
+  description: ''
+  restrictions: ''
+  image_filenames: []
+- name: Angelwear Creations
+  contact: Angela Jones-Parker
+  city: Renton
+  state: Washington
+  what_is_sold: Jewelry
+  link: "[https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav](https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav
+    \"https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav\")\n\nPlaces
+    to browse Angelwear Creations Jewelry.\n\n[www.angelwearcreations.com](http://angelwearcreations.com
+    \"www.angelwearcreations.com\")  \n[https://www.pinterest.com/angelwear01/](https://www.pinterest.com/angelwear01/
+    \"https://www.pinterest.com/angelwear01/\")  \n[https://www.facebook.com/AngelwearCreations/?ref=bookmarks](https://www.facebook.com/AngelwearCreations/?ref=bookmarks
+    \"https://www.facebook.com/AngelwearCreations/?ref=bookmarks\")"
+  description: Angelwear has your pretty shiny things! Take a look at my selection
+    online!
+  restrictions: Shipping outside the US is minimum $18.
+  image_filenames:
+  - "/assets/images/angelwearcreations1.jpg"
+  - "/assets/images/angelwearcreations2.jpg"
+  - "/assets/images/angelwearcreations3.jpg"
+  - "/assets/images/angelwearcreations-4.jpg"
+  - "/assets/images/angelwearcreations5.jpg"
 - name: Fantaminals
   link: http://www.fantaminals.com/
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
