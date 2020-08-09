@@ -43,7 +43,7 @@ How have our visions of a free, dynamic and better future, with universal respec
 
 ### Saturday, August 22nd - Afternoon
 
-### Moderator: Michael Grossberg
+### Panelist: Michael Grossberg
 
 Michael Grossberg co-founded the Libertarian Futurist Society ([lfs.org](http://lfs.org)), established in 1981 to sustain the Prometheus Awards, and chairs the Prometheus Awards Best Novel Finalist Judging Committee, which selects annual slates of finalists_._ A theater critic and arts reporter since the early 1980s, Michael has contributed to six books, including critical essays for the annual _Best Plays Theatre Yearbook,_ and an essay/afterword for the first paperback edition of J. Neil Schulman's Prometheus-winning novel_The Rainbow Cadenza_; written reviews for _Reason_magazine, wrote a regional column for years with Backstage, the national performing-arts weekly; and helped lead the American Theatre Critics Association and administer its national new-play and regional-Tony awards. Michael won the 2019 Society of Profession_Journalists awards for Best Critic in Ohio (also  2015) and Best Arts Reporting (won seven times)._
 
