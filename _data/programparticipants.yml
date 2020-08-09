@@ -1,4 +1,34 @@
 ---
+- name: Victor Raymond
+  filename: "/assets/images/victor-raymond.jpg"
+  description: Victor Raymond is a writer, game designer, and activist, and has a
+    PhD in Sociology with a graduate concentration in Women's Studies. He is bisexual
+    and has been recognized for his LGBTQ+ activism as an invited guest to the White
+    House in 2014, 2015, and 2016. He is also biracial, a member of the Rosebud Sioux
+    Tribe, and a founding member of the Carl Brandon Society. He has helped organize
+    conventions including Minicon, WisCon, MBLGTACC, and the SFRA Annual Conference.
+    He resides in Wisconsin with his partner, adopted kid, and two cats.
+  website1: carlbrandon.org
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- website1: ''
+  website2: ''
+  website3: ''
+  name: ''
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Mike Chen
   guest_of_honor: false
   role: Panelist
@@ -171,7 +201,14 @@
   twitter: DuneAuthor
   facebook: brianherbertnovels
   website: https://www.brianherbertnovels.com/
-  description: ''
+  description: Brian Herbert, the son of famed science fiction author Frank Herbert,
+    is the author of multiple New York Times bestsellers. He has won several literary
+    honors and has been nominated for the highest awards in science fiction. In 2003,
+    he published _Dreamer of Dune_, a moving biography of his father that was a Hugo
+    Award finalist. His other acclaimed novels include _Sidney’s Comet_, _Sudanna
+    Sudanna_, _The Race for God_, and _Man of Two Worlds_ (written with Frank Herbert),
+    in addition to the Hellhole trilogy and twelve Dune series novels coauthored with
+    Kevin J. Anderson.
   instagram: ''
   discord: ''
   guest_of_honor: true
