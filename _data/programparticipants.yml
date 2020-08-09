@@ -1,4 +1,21 @@
 ---
+- name: Neil Clarke
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/neil-clarke.jpg"
+  description: Neil Clarke (neil-clarke.com) is the editor of the Hugo and World Fantasy
+    Award-winning Clarkesworld Magazine (clarkesworldmagazine.com) and several anthologies,
+    including the Best Science Fiction of the Year series. He has been a finalist
+    for the Hugo Award for Best Editor (Short Form) eight times, won the Chesley Award
+    for Best Art Director three times, and received the Solstice Award from SFWA in
+    2019. He currently lives in NJ with his wife and two sons.
+  website1: "[Neil-Clarke.com](http://neil-clarke.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Aliette de Bodard
   guest_of_honor: false
   role: ''
