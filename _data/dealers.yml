@@ -1,13 +1,4 @@
 ---
-- name: ''
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  image_filenames: []
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -15,7 +6,7 @@
   what_is_sold: Jewelry
   link: "[https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav](https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav
     \"https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav\")\n\nPlaces
-    to browse Angelwear Creations Jewelry.\n\n[www.angelwearcreations.com](http://angelwearcreations.com
+    to browse Angelwear Creations Jewelry:\n\n[www.angelwearcreations.com](http://angelwearcreations.com
     \"www.angelwearcreations.com\")  \n[https://www.pinterest.com/angelwear01/](https://www.pinterest.com/angelwear01/
     \"https://www.pinterest.com/angelwear01/\")  \n[https://www.facebook.com/AngelwearCreations/?ref=bookmarks](https://www.facebook.com/AngelwearCreations/?ref=bookmarks
     \"https://www.facebook.com/AngelwearCreations/?ref=bookmarks\")"
@@ -23,11 +14,11 @@
     online!
   restrictions: Shipping outside the US is minimum $18.
   image_filenames:
-  - "/assets/images/angelwearcreations1.jpg"
-  - "/assets/images/angelwearcreations2.jpg"
-  - "/assets/images/angelwearcreations3.jpg"
-  - "/assets/images/angelwearcreations-4.jpg"
-  - "/assets/images/angelwearcreations5.jpg"
+  - "/assets/images/angelwearcreations-01.jpg"
+  - "/assets/images/angelwearcreations-02.jpg"
+  - "/assets/images/angelwearcreations-03.jpg"
+  - "/assets/images/angelwearcreations-04.jpg"
+  - "/assets/images/angelwearcreations-05.jpg"
 - name: Fantaminals
   link: http://www.fantaminals.com/
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
@@ -42,88 +33,18 @@
   state: New York
   what_is_sold: Free standing hardwood jigsawn puzzles and dragons
   restrictions: ''
-- name: Amazing Stephanie's Crafts Galore
-  link: https://etsy.com
-  description: Visit Stephanie for all of your yarncrafting needs! She also takes
-    pride in unique jewelry pieces and plaques with funny sayings, as well as wood
-    burned character boxes. Adding a sentence about this being a fake Dealer for purposes
-    of demonstrating the site; this sentence ensures the paragraph has at least one
-    line break.
-  image_filenames:
-  - "/assets/images/quietnovastudios.jpg"
-  - "/assets/images/studio42.jpg"
-  - "/assets/images/tiesthatbynde.jpg"
-  - "/assets/images/turtletree.jpg"
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
+- name: Lora Gray, Artist
+  contact: Lora Gray
+  city: Kent
+  state: Ohio
+  what_is_sold: Fine art prints
+  link: '[https://www.deviantart.com/loragray/shop/prints](https://www.deviantart.com/loragray/shop/prints
+    "https://www.deviantart.com/loragray/shop/prints")'
+  description: Dark fantasy and science fiction paintings, drawings and illustrations.
   restrictions: ''
-- name: The Wonder Emporium
-  link: "[Etsy Store](https://etsy.com)"
-  description: Too many high-quality tchotchkes to list. We're *sure* to carry that
-    one thing you had your eye on. Or find a piece of memorabilia you didn't even
-    know you wanted. Adding a sentence about this being a **fake Dealer** for purposes
-    of demonstrating the site; this sentence ensures the paragraph has at least one
-    line break.
   image_filenames:
-  - "/assets/images/quietnovastudios.jpg"
-  - "/assets/images/studio42.jpg"
-  - "/assets/images/tiesthatbynde.jpg"
-  - "/assets/images/turtletree.jpg"
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  restrictions: ''
-- name: Galactic Griffin
-  link: https://etsy.com
-  description: Your fandoms. Handmade. Wallets, purses, skirts, notepads, and tribbles!!!
-    All handmade by a pair of geeky sisters who love all things geek. <br/><br/> Adding
-    a sentence about this being a fake Dealer for purposes of demonstrating the site;
-    this sentence ensures the paragraph has at least one line break.
-  image_filenames:
-  - "/assets/images/quietnovastudios.jpg"
-  - "/assets/images/poisonivydesigns.jpg"
-  - "/assets/images/tiesthatbynde.jpg"
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  restrictions: ''
-- name: Skytop Studio
-  link: https://etsy.com
-  description: Presenting fantasy-inspired ceramic vessels & sculptures, upcycled
-    retro media crafts, and pop-culture cross-stitch samplers. We encourage custom
-    orders':' wedding cake toppers, wi-fi plaques, favorite quotes or character mashups,
-    etc. <br/><br/> Adding a sentence about this being a fake Dealer for purposes
-    of demonstrating the site; this sentence ensures the paragraph has at least one
-    line break.
-  image_filenames:
-  - "/assets/images/studio42.jpg"
-  - "/assets/images/quietnovastudios.jpg"
-  - "/assets/images/turtletree.jpg"
-  - "/assets/images/poisonivydesigns.jpg"
-  - "/assets/images/tiesthatbynde.jpg"
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  restrictions: ''
-- name: Planetfall Designs
-  link: https://etsy.com
-  description: Stop by Planetfall Designs for NASFiC Souvenirs as well as original
-    t-shirt designs for fans of SF, gaming and pop culture! Adding a sentence about
-    this being a fake Dealer for purposes of demonstrating the site; this sentence
-    ensures the paragraph has at least one line break.
-  image_filenames:
-  - "/assets/images/studio42.jpg"
-  - "/assets/images/quietnovastudios.jpg"
-  - "/assets/images/turtletree.jpg"
-  - "/assets/images/poisonivydesigns.jpg"
-  - "/assets/images/tiesthatbynde.jpg"
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  restrictions: ''
+  - "/assets/images/loragray01.jpg"
+  - "/assets/images/loragray02.jpg"
+  - "/assets/images/loragray03.jpg"
+  - "/assets/images/loragray04.jpg"
+  - "/assets/images/loragray05.jpg"
