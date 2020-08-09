@@ -1,5 +1,5 @@
 ---
-title: OnliDealers
+title: Online Dealers
 layout: default
 category: accesscontrol
 order: 5
