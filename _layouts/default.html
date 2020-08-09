@@ -27,7 +27,7 @@
         <h1>Virtual Access Portal</h1>
         <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
         <nav>
-          <ul class="rooms-menu">
+          <ul class="rooms-menu" style="display: none;">
           {% assign rooms = site.pages | sort: "order" %}
           {% for room in rooms %}
           {% if room.category == "accesscontrol" %}
@@ -88,7 +88,7 @@
       if (accesscontainer) {
         accesscontainer.style.display = "block";
       }
-      const accesscontrolnav = document.getElementsByClassName('accesscontrol');
+      const accesscontrolnav = document.getElementsByClassName('rooms-menu');
       if (accesscontrolnav) {
         Array.from(accesscontrolnav).forEach((li) => {
           li.style.display = "block";
