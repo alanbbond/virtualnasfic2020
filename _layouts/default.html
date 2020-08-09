@@ -91,23 +91,18 @@
       const accesscontrolnav = document.getElementsByClassName('rooms-menu');
       if (accesscontrolnav) {
         Array.from(accesscontrolnav).forEach((li) => {
-          li.style.display = "block";
+          li.style.display = "flex";
         })
       }
     }
     const staff_btn = document.getElementsByClassName('reveal-agreement-form-btn')[0];
-    console.log('staff button ', staff_btn);
     if (staff_btn) {
-      console.log(' button exists');
       staff_btn.addEventListener('click', function (e) {
-        console.log('clicked button ', e);
         if (agreement_container) {
-          console.log('agreement_container exists ', agreement_container);
           agreement_container.style.display = "block";
         }
         const agreement_form = document.getElementById('agreement-form');
         if (agreement_form) {
-          console.log('agreement_form exists ', agreement_form);
           agreement_form.style.display = "flex";
         }
       }, false);
