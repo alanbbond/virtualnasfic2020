@@ -1,4 +1,16 @@
 ---
+- name: Fantaminals
+  link: http://www.fantaminals.com/
+  description: 'I make and design free-standing, interlocking jigsaw puzzles.  I also
+    make a few one-piece Fantasy Creatures which either stand or hang. My creations
+    are divided up among six different categories: Carousel Animals, Dinosaurs, Living
+    Creatures (Sub-categories: Dogs, Fish & Others), Zodiac and Other.'
+  image_filenames:
+  - "/assets/images/fantaminals-05.jpg"
+  - "/assets/images/fantaminals-04.jpg"
+  - "/assets/images/fantaminals-03.jpg"
+  - "/assets/images/fantaminals-02.jpg"
+  - "/assets/images/fantaminals-01.jpg"
 - name: Amazing Stephanie's Crafts Galore
   link: https://etsy.com
   description: Visit Stephanie for all of your yarncrafting needs! She also takes
