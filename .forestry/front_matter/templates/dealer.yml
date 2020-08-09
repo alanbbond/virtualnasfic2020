@@ -38,12 +38,6 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-  - type: text
-    name: link
-    label: link
-    description: 'A link to this dealer''s external site. You may type Markdown links
-      with braces and parens, like this: <br>```[link the reader will see](<a href="https://full-url.com/with-all-segments/"
-      title="https://full-url.com/with-all-segments/" target="_blank">https://full-url.com/with-all-segments/</a>)```'
   - name: restrictions
     type: text
     config:
@@ -56,5 +50,15 @@ fields:
     description: A list of images that appear in this dealer's gallery. Click here
       to select or replace images, which you have uploaded in the Media link on the
       sidebar.
+  - name: link
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: link
+    description: A link to this dealer's external site.
 pages:
 - _data/dealers.yml
