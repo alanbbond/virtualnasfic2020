@@ -1,4 +1,20 @@
 ---
+- name: W.A. (Bill) Thomason
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/bill-thomason-1.jpg"
+  description: Bill Thomson, a retired biochemist/medical writer now working on a
+    sword-and-sorcery novel, has a broad interest in all aspects of science and the
+    future. This includes both social and technological aspects, which are strongly
+    interdependent. Bill, who has been legally blind for the past 20 years, is also
+    active in the disability community and has worked Access at a number of Worldcons.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Oghenechovwe Donald Ekpeki
   guest_of_honor: false
   role: ''
