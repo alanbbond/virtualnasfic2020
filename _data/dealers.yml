@@ -28,12 +28,7 @@
   description: Angelwear has your pretty shiny things! Take a look at my selection
     online!
   restrictions: Shipping outside the US is minimum $18.
-  image_filenames:
-  - "/assets/images/angelwearcreations1.jpg"
-  - "/assets/images/angelwearcreations2.jpg"
-  - "/assets/images/angelwearcreations3.jpg"
-  - "/assets/images/angelwearcreations-4.jpg"
-  - "/assets/images/angelwearcreations5.jpg"
+  image_filenames: []
 - name: Fantaminals
   link: http://www.fantaminals.com/
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
