@@ -1,10 +1,7 @@
 ---
 - name: Fantaminals
   link: http://www.fantaminals.com/
-  description: 'I make and design free-standing, interlocking jigsaw puzzles.  I also
-    make a few one-piece Fantasy Creatures which either stand or hang. My creations
-    are divided up among six different categories: Carousel Animals, Dinosaurs, Living
-    Creatures (Sub-categories: Dogs, Fish & Others), Zodiac and Other.'
+  description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
   image_filenames:
   - "/assets/images/fantaminals-05.jpg"
   - "/assets/images/fantaminals-04.jpg"
