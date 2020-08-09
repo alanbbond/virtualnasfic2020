@@ -87,7 +87,7 @@ header {
     align-items: flex-end;
     flex-wrap: wrap;
 
-    h1, h3 {
+    h1, h2 {
       margin: 1rem 1rem 0.5rem 0;
       color: $medium-light;
       text-align: right;
@@ -95,8 +95,9 @@ header {
     h1 {
       line-height: 2rem;
     }
-    h3 {
+    h2 {
       line-height: 1.2rem;
+      font-size: 1.4rem;
     }
 
     nav {

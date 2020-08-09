@@ -21,11 +21,11 @@
   <main class="main">
     <header>
       <div class="logo-link">
-        <a href="/" alt="Home"></a>
+        <a href="/" alt="Home" title="Home"></a>
       </div>
       <div class="header-content">
         <h1>Virtual Access Portal</h1>
-        <h3>NASFiC 2020, Friday, August 21 - Sunday, August 23</h3>
+        <h2>NASFiC 2020, Friday, August 21 - Sunday, August 23</h2>
         <nav>
           <ul class="rooms-menu" style="display: none;">
           {% assign rooms = site.pages | sort: "order" %}
@@ -36,7 +36,10 @@
             {% else %}
             <li class="room">
             {% endif %}
-              <a href="{{ room.url | prepend: site.baseurl | prepend: site.url }}">
+              <a
+                href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
+                title="{{ room.title }}"
+              >
               </a>
               {{ room.title }}
             </li>
@@ -52,7 +55,10 @@
               {{ nav.title }}
               {% else %}
             <li class="public">
-              <a href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}">
+              <a 
+                href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"
+                title="{{ room.title }}"
+              >
               </a>
               {{ nav.title }}
               {% endif %}
