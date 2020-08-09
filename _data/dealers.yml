@@ -20,7 +20,7 @@
   - "/assets/images/angelwearcreations-04.jpg"
   - "/assets/images/angelwearcreations-05.jpg"
 - name: Fantaminals
-  link: http://www.fantaminals.com/
+  link: '[http://www.fantaminals.com/](http://www.fantaminals.com/ "http://www.fantaminals.com/")'
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
   image_filenames:
   - "/assets/images/fantaminals-05.jpg"
