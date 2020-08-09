@@ -34,6 +34,10 @@ fields:
     name: description
     label: description
     description: The descriptive paragraph about this dealer.
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: link
     label: link
