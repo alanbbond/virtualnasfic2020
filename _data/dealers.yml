@@ -1,13 +1,19 @@
 ---
-- name: ''
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
+- name: Lora Gray, Artist
+  contact: Lora Gray
+  city: Kent
+  state: Ohio
+  what_is_sold: Fine art prints
+  link: '[https://www.deviantart.com/loragray/shop/prints](https://www.deviantart.com/loragray/shop/prints
+    "https://www.deviantart.com/loragray/shop/prints")'
+  description: Dark fantasy and science fiction paintings, drawings and illustrations.
   restrictions: ''
-  image_filenames: []
+  image_filenames:
+  - "/assets/images/loragray01.jpg"
+  - "/assets/images/loragray02.jpg"
+  - "/assets/images/loragray03.jpg"
+  - "/assets/images/loragray04.jpg"
+  - "/assets/images/loragray05.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
