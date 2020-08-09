@@ -10,14 +10,39 @@ fields:
     name: name
     label: name
     description: The name of this dealer or their business.
-  - type: text
-    name: link
-    label: link
-    description: A link to this dealer's external site.
+  - name: contact
+    type: text
+    config:
+      required: false
+    label: contact
+  - name: city
+    type: text
+    config:
+      required: false
+    label: city
+  - name: state
+    type: text
+    config:
+      required: false
+    label: state
+  - name: what_is_sold
+    type: text
+    config:
+      required: false
+    label: What is sold
   - type: textarea
     name: description
     label: description
     description: The descriptive paragraph about this dealer.
+  - type: text
+    name: link
+    label: link
+    description: A link to this dealer's external site.
+  - name: restrictions
+    type: text
+    config:
+      required: false
+    label: restrictions
   - name: image_filenames
     type: image_gallery
     config: {}
