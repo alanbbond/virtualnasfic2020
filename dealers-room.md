@@ -13,7 +13,7 @@ Please read this FAQ if you are interested in being a dealer at NASFiC 2020. You
 
 ## What’s going on? What IS this?
 
-NASFiC 2020 has cancelled our physical convention due to pandemic safety concerns. We are instead presenting a virtual convention event over the same weekend, August 20-23, 2020. This event will be online primarily through use of a Discord Server, the Columbus 2020 NASFiC website, and may also have a presence on Twitch, Zoom and YouTube. Please check the NASFiC website for further information. As this is new territory for all concerned we don’t know what it will end up being but we won’t find out unless we start doing!
+NASFiC 2020 has cancelled the physical convention due to pandemic safety concerns. We are instead presenting a virtual convention event over the same weekend, August 20-23, 2020. This event will be online primarily through use of a Discord Server, the Columbus 2020 NASFiC website, and may also have a presence on Zoom and YouTube. Please check the NASFiC website for further information. As this is new territory for all concerned we don’t know what it will end up being but we won’t find out unless we start doing!
 
 ## How are you going to have a virtual Dealer Room? How is that even going to work?
 
@@ -21,7 +21,7 @@ We are planning our virtual Dealer Room experience to be 2 parts; a website gall
 
 ## How much will this cost dealers?
 
-Nothing. We are offering this experience as a way to keep our community engaged while it’s not safe to gather in groups. You are not required to be a member of NASFiC nor are there dealer fees to pay. If you are inclined to donate to NASFiC please visit the website for contact information on how to do so.
+**Nothing**. We are offering this experience as a way to keep our community engaged while it’s not safe to gather in groups. We hope that you as dealers will find it beneficial to bring attention to your wares this way, just as other attendees will enjoy discovering them. You are not required to be a member of NASFiC nor are there dealer fees to pay. If you are inclined to donate to NASFiC please visit the website for contact information on how to do so.
 
 ## Who’s going to be there?
 
