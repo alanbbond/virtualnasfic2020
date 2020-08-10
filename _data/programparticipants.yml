@@ -3,16 +3,16 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/ada-palmer.jpg"
-  description: 'Ada Palmer’s Terra Ignota series (Tor Books, starting with "Too Like
-    the Lightning") explores a future of borderless nations and globally commixing
+  description: 'Ada Palmer’s _Terra Ignota_ series (Tor Books, starting with _Too
+    Like the Lightning_) explores a future of borderless nations and globally commixing
     populations. She teaches history at the University of Chicago, studying the Renaissance,
     Enlightenment, heresy, atheism, radical thought, and censorship. She composes
     music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
     performs with the group Sassafrass. She studies anime/manga, especially Osamu
     Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
-    She blogs at ExUrbe.com.'
-  website1: "[Blog](http://www.exurbe.com/)"
-  website2: '[Personal Site](https://adapalmer.com/ "Personal Site")'
+    She blogs at [ExUrbe.com]().'
+  website1: ''
+  website2: "[adapalmer.com]()"
   website3: "[Censorship and Information Control During Information Revolutions](https://voices.uchicago.edu/censorship)"
   facebook: ''
   twitter: Ada_Palmer
@@ -50,10 +50,10 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/alec-nevalalee.jpg"
-  description: 'Alec Nevala-Lee was a 2019 Hugo and Locus Award finalist for Astounding:
-    John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden
-    Age of Science Fiction (Dey Street Books / HarperCollins), which was named one
-    of the best nonfiction books of the year by The Economist. Syndromes, an audio
+  description: 'Alec Nevala-Lee was a 2019 Hugo and Locus Award finalist for _Astounding:
+    John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard_, _and the
+    Golden Age of Science Fiction_ (Dey Street Books / HarperCollins), which was named
+    one of the best nonfiction books of the year by The Economist. Syndromes, an audio
     original collection of thirteen of his short stories from Analog, was released
     earlier this year by Recorded Books. He is currently at work on a biography of
     the architectural designer Buckminster Fuller, which is scheduled to be published
@@ -73,10 +73,10 @@
   description: Aliette de Bodard lives and works in Paris. She has won three Nebula
     Awards, a Locus Award, a British Fantasy Award and four British Science Fiction
     Association Awards, and was a double Hugo finalist for 2019 (Best Series and Best
-    Novella). Her most recent book is Of Dragons, Feasts and Murders, a fantasy of
-    manners and murders set in an alternate 19th Century Vietnamese court (upcoming
-    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection Of
-    Wars, and Memories, and Starlight is out from Subterranean Press. She lives in
+    Novella). Her most recent book is _Of Dragons, Feasts and Murders_, a fantasy
+    of manners and murders set in an alternate 19th Century Vietnamese court (upcoming
+    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection _Of
+    Wars, and Memories, and Starlight_ is out from Subterranean Press. She lives in
     Paris.
   website1: "[Aliette de Bodard website](https://www.aliettedebodard.com)"
   website2: ''
@@ -264,9 +264,8 @@
     DC. He has stories featured or forthcoming in a number of publications, including
     Fireside Fiction, GlitterShip, and A Punk Rock Future. He is the publisher and
     managing editor of [Neon Hemlock Press](https://www.neonhemlock.com/ "Neon Hemlock
-    Press"), as well as the editor of Broken Metropolis: Queer Tales of a City That
-    Never Was from Mason Jar Press. More info at www.dave-ring.com. Follow him at
-    @slickhop.'
+    Press"), as well as the editor of _Broken Metropolis: Queer Tales of a City That
+    Never Was_ from Mason Jar Press.  '
   website1: "[www.dave-ring.com](http://www.dave-ring.com)"
   website2: ''
   website3: ''
@@ -279,13 +278,13 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/day-almohamed.jpg"
-  description: Day Al-Mohamed is author of YA novels, “The Labyrinth’s Archivist,”
-    “Baba Ali and the Clockwork Djinn” and is a host on Idobi Radio’s “Geek Girl Riot”.
-    In addition to fiction, she works in comics and film. She is a founding member
-    of FWD-Doc (Documentary Filmmakers with Disabilities), a Docs in Progress Fellowship
-    alumna and a graduate of the VONA/Voices Writing Workshop. Her award-winning film,
-    “The Invalid Corps” will screen on Maryland Public television this fall. When
-    not creating, Al-Mohamed works as a policy advisor with the federal government.
+  description: Day Al-Mohamed is author of YA novels, _The Labyrinth’s Archivist_
+    and _Baba Ali and the Clockwork Djinn_, and is a host on Idobi Radio’s “Geek Girl
+    Riot”. In addition to fiction, she works in comics and film. She is a founding
+    member of FWD-Doc (Documentary Filmmakers with Disabilities), a Docs in Progress
+    Fellowship alumna and a graduate of the VONA/Voices Writing Workshop. Her award-winning
+    film, _The Invalid Corps_, will screen on Maryland Public television this fall.
+    When not creating, Al-Mohamed works as a policy advisor with the federal government.
     She lives in Washington DC with her wife and guide dog.
   website1: "[www.DayAlMohamed.com]()"
   website2: "[www.InvalidCorpsFilm.com](www.InvalidCorpsFilm.com)"
@@ -337,8 +336,8 @@
   filename: "/assets/images/elsa-sjunneson.jpg"
   description: Hugo, Aurora and BFA winning editor and author Elsa Sjunneson is a
     Deafblind hurricane in a vintage dress. She's written Jessica Jones for Serial
-    Box, fiction and non-Fiction for Uncanny and opinions for CNN. She lives in the
-    PNW behind a fairy hedge.
+    Box, fiction and non-fiction for Uncanny and opinions for CNN. She lives in the
+    Pacific Northwest behind a fairy hedge.
   website1: ''
   website2: ''
   website3: ''
@@ -351,17 +350,17 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/farah-mendlesohn.jpg"
-  description: 'Farah Mendlesohn won a Hugo with Edward James in 2005 for The Cambridge
-    Companion to Fantasy Literature. She is also the author of Diana Wynne Jones:
-    The Fantastic Tradition and Children''s Literature, Rhetorics of Fantasy, with
-    Edward James, A Short History of Fantasy, The Inter-galactic Playground: A Critical
-    Study of Children''s and Teens'' Science Fiction, with Michael M. Levy Children’s
-    Fantasy Literature: An Introduction, which won the World Fantasy Award and the
-    Mythopeic Award in 2017. In 2019 year she published, The Pleasant Profession of
-    Robert A. Heinlein, and sometime at the end of 2020 her book on children’s literature,
-    memory and the English Civil Wars will come out from Palgrave. She is now the
-    only three time winner of the BSFA award for non-fiction and is now neck and neck
-    with John Clute for Hugo nominations.'
+  description: 'Farah Mendlesohn won a Hugo with Edward James in 2005 for _The Cambridge
+    Companion to Fantasy Literature_. She is also the author of _Diana Wynne Jones:
+    The Fantastic Tradition and Children''s Literature, Rhetorics of Fantasy_, with
+    Edward James, _A Short History of Fantasy, The Inter-galactic Playground: A Critical
+    Study of Children''s and Teens'' Science Fiction_, with Michael M. Levy _Children’s
+    Fantasy Literature: An Introduction_, which won the World Fantasy Award and the
+    Mythopeic Award in 2017. In 2019 year she published, _The Pleasant Profession
+    of Robert A. Heinlein_, and sometime at the end of 2020 her book on children’s
+    literature, memory and the English Civil Wars will come out from Palgrave. She
+    is now the only three time winner of the BSFA award for non-fiction and is now
+    neck and neck with John Clute for Hugo nominations.'
   website1: ''
   website2: ''
   website3: ''
@@ -443,7 +442,7 @@
     and Czech. Born and raised in the American South, Jason currently works in the
     media industry in the Midwestern United States. His previous experience includes
     work as an archaeologist and as a Peace Corps Volunteer.
-  website1: '[http://www.jasonsanford.com/](http://www.jasonsanford.com/ "http://www.jasonsanford.com/")'
+  website1: " [www.jasonsanford.com](www.jasonsanford.com)"
   website2: ''
   website3: ''
   facebook: ''
