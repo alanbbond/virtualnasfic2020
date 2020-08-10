@@ -82,5 +82,11 @@ fields:
       required: false
     label: discord
     description: The segment of the url that comes after https://discord.gg/
+  - name: patreon
+    type: text
+    config:
+      required: false
+    label: patreon
+    description: The segment after https://www.patreon.com/
 pages:
 - _data/programparticipants.yml
