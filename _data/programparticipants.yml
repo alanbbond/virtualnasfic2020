@@ -3,16 +3,16 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/ada-palmer.jpg"
-  description: 'Ada Palmer’s Terra Ignota series (Tor Books, starting with "Too Like
-    the Lightning") explores a future of borderless nations and globally commixing
+  description: 'Ada Palmer’s _Terra Ignota_ series (Tor Books, starting with _Too
+    Like the Lightning_) explores a future of borderless nations and globally commixing
     populations. She teaches history at the University of Chicago, studying the Renaissance,
     Enlightenment, heresy, atheism, radical thought, and censorship. She composes
     music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
     performs with the group Sassafrass. She studies anime/manga, especially Osamu
     Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
-    She blogs at ExUrbe.com.'
-  website1: "[Blog](http://www.exurbe.com/)"
-  website2: '[Personal Site](https://adapalmer.com/ "Personal Site")'
+    She blogs at [ExUrbe.com]().'
+  website1: ''
+  website2: "[adapalmer.com]()"
   website3: "[Censorship and Information Control During Information Revolutions](https://voices.uchicago.edu/censorship)"
   facebook: ''
   twitter: Ada_Palmer
@@ -46,6 +46,26 @@
   website2: ''
   website3: ''
   patreon: ''
+- name: Alec Nevala-Lee
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/alec-nevalalee.jpg"
+  description: 'Alec Nevala-Lee was a 2019 Hugo and Locus Award finalist for _Astounding:
+    John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard_, _and the
+    Golden Age of Science Fiction_ (Dey Street Books / HarperCollins), which was named
+    one of the best nonfiction books of the year by The Economist. Syndromes, an audio
+    original collection of thirteen of his short stories from Analog, was released
+    earlier this year by Recorded Books. He is currently at work on a biography of
+    the architectural designer Buckminster Fuller, which is scheduled to be published
+    by HarperCollins in 2021.'
+  website1: "[www.nevalalee.com](www.nevalalee.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Aliette de Bodard
   guest_of_honor: false
   role: ''
@@ -53,10 +73,10 @@
   description: Aliette de Bodard lives and works in Paris. She has won three Nebula
     Awards, a Locus Award, a British Fantasy Award and four British Science Fiction
     Association Awards, and was a double Hugo finalist for 2019 (Best Series and Best
-    Novella). Her most recent book is Of Dragons, Feasts and Murders, a fantasy of
-    manners and murders set in an alternate 19th Century Vietnamese court (upcoming
-    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection Of
-    Wars, and Memories, and Starlight is out from Subterranean Press. She lives in
+    Novella). Her most recent book is _Of Dragons, Feasts and Murders_, a fantasy
+    of manners and murders set in an alternate 19th Century Vietnamese court (upcoming
+    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection _Of
+    Wars, and Memories, and Starlight_ is out from Subterranean Press. She lives in
     Paris.
   website1: "[Aliette de Bodard website](https://www.aliettedebodard.com)"
   website2: ''
@@ -236,6 +256,26 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Dara Naraghi
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/dara-naraghi.png"
+  description: 'Dara Naraghi was born in Iran and educated in the United States. He
+    has written comics and graphic novels of all types, from self-published zines
+    to New York Times best sellers. His work has been published by The OSU Alumni
+    Magazine, DC Comics, IDW Publishing, Image Comics, Dark Horse Comics, NBM Graphic
+    Novels, and others. His Persia Blues graphic novel series was nominated by the
+    American Library Association for several prizes, and has won the SPACE prize for
+    best graphic novel twice. Dara lives in Columbus, Ohio with his lovely wife and
+    their two dogs: a cool corgi and a multifarious mutt.'
+  website1: "[www.daranaraghi.com]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: daranaraghi
+  discord: ''
+  patreon: ''
 - name: dave ring
   guest_of_honor: false
   role: ''
@@ -244,14 +284,33 @@
     DC. He has stories featured or forthcoming in a number of publications, including
     Fireside Fiction, GlitterShip, and A Punk Rock Future. He is the publisher and
     managing editor of [Neon Hemlock Press](https://www.neonhemlock.com/ "Neon Hemlock
-    Press"), as well as the editor of Broken Metropolis: Queer Tales of a City That
-    Never Was from Mason Jar Press. More info at www.dave-ring.com. Follow him at
-    @slickhop.'
+    Press"), as well as the editor of _Broken Metropolis: Queer Tales of a City That
+    Never Was_ from Mason Jar Press.  '
   website1: "[www.dave-ring.com](http://www.dave-ring.com)"
   website2: ''
   website3: ''
   facebook: ''
   twitter: "@slickhop"
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Day Al-Mohamed
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/day-almohamed.jpg"
+  description: Day Al-Mohamed is author of YA novels, _The Labyrinth’s Archivist_
+    and _Baba Ali and the Clockwork Djinn_, and is a host on Idobi Radio’s “Geek Girl
+    Riot”. In addition to fiction, she works in comics and film. She is a founding
+    member of FWD-Doc (Documentary Filmmakers with Disabilities), a Docs in Progress
+    Fellowship alumna and a graduate of the VONA/Voices Writing Workshop. Her award-winning
+    film, _The Invalid Corps_, will screen on Maryland Public television this fall.
+    When not creating, Al-Mohamed works as a policy advisor with the federal government.
+    She lives in Washington DC with her wife and guide dog.
+  website1: "[www.DayAlMohamed.com]()"
+  website2: "[www.InvalidCorpsFilm.com](www.InvalidCorpsFilm.com)"
+  website3: ''
+  facebook: ''
+  twitter: DayAlMohamed
   instagram: ''
   discord: ''
   patreon: ''
@@ -265,6 +324,26 @@
     to read SF, to go to cons and to Harry, and to remain happily married.
   website1: '[Harry SF & Fantasy Club](http://www.harrysf.org "Harry SF & Fantasy
     Club")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Eboni Dunbar
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/eboni-dunbar.jpg"
+  description: 'Eboni J Dunbar (She/her) is a queer, black woman who writes queer
+    and black speculative fiction. She resides in the San Francisco Bay Area with
+    her partner. She received her BA from Macalester College in English and her MFA
+    in Creative Writing from Mills College. She is a VONA and Voodoonauts Alum, a
+    managing editor for _FIYAH Literary Magazine_ and a freelance reviewer. Her work
+    can be found in _FIYAH Literary Magazine_, _Drabblecast_, _Anathema: Spec from
+    the margins_ and _Nightlight Podcast_. She also has a forthcoming novella from
+    Neon Hemlock, coming Fall 2020.'
+  website1: ''
   website2: ''
   website3: ''
   facebook: ''
@@ -297,13 +376,36 @@
   filename: "/assets/images/elsa-sjunneson.jpg"
   description: Hugo, Aurora and BFA winning editor and author Elsa Sjunneson is a
     Deafblind hurricane in a vintage dress. She's written Jessica Jones for Serial
-    Box, fiction and non-Fiction for Uncanny and opinions for CNN. She lives in the
-    PNW behind a fairy hedge.
+    Box, fiction and non-fiction for Uncanny and opinions for CNN. She lives in the
+    Pacific Northwest behind a fairy hedge.
   website1: ''
   website2: ''
   website3: ''
   facebook: ''
   twitter: snarkbat
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Farah Mendlesohn
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/farah-mendlesohn.jpg"
+  description: 'Farah Mendlesohn won a Hugo with Edward James in 2005 for _The Cambridge
+    Companion to Fantasy Literature_. She is also the author of _Diana Wynne Jones:
+    The Fantastic Tradition and Children''s Literature, Rhetorics of Fantasy_, with
+    Edward James, _A Short History of Fantasy, The Inter-galactic Playground: A Critical
+    Study of Children''s and Teens'' Science Fiction_, with Michael M. Levy _Children’s
+    Fantasy Literature: An Introduction_, which won the World Fantasy Award and the
+    Mythopeic Award in 2017. In 2019 year she published, _The Pleasant Profession
+    of Robert A. Heinlein_, and sometime at the end of 2020 her book on children’s
+    literature, memory and the English Civil Wars will come out from Palgrave. She
+    is now the only three time winner of the BSFA award for non-fiction and is now
+    neck and neck with John Clute for Hugo nominations.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: effjayem
   instagram: ''
   discord: ''
   patreon: ''
@@ -365,6 +467,29 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Jason Sanford
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: Jason Sanford is a two-time finalist for the Nebula Award and has published
+    more than a dozen stories in the British SF magazine Interzone, which also devoted
+    a special issue to his fiction. In addition he has published numerous stories
+    in magazines such as Asimov’s Science Fiction, Analog, InterGalactic Medicine
+    Show, Beneath Ceaseless Skies, and other places along with appearances in multiple
+    "year's best" anthologies and other books including The New Voices of Science
+    Fiction, edited by Hannu Rajaniemi and Jacob Weisman. His fiction has been translated
+    into nearly a dozen languages including Chinese, Spanish, French, Russian, Polish,
+    and Czech. Born and raised in the American South, Jason currently works in the
+    media industry in the Midwestern United States. His previous experience includes
+    work as an archaeologist and as a Peace Corps Volunteer.
+  website1: " [www.jasonsanford.com](www.jasonsanford.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Jennifer Blackstream
   guest_of_honor: false
   role: ''
@@ -373,8 +498,7 @@
     and paranormal romance. She is amazed and grateful to have made a writing career
     out of a Master’s degree in Psychology, hours of couch-detecting watching Miss
     Fisher’s Murder Mysteries, and endless research into mythology and fairy tales.
-  website1: '[https://www.jenniferblackstream.com](https://www.jenniferblackstream.com
-    "https://www.jenniferblackstream.com")'
+  website1: '[JenniferBlackstream.com](https://www.jenniferblackstream.com "JenniferBlackstream.com")'
   website2: ''
   website3: ''
   facebook: JenniferBlackstream8675309
@@ -388,12 +512,15 @@
   filename: "/assets/images/jeremy-holcomb.png"
   description: Jeremy Holcomb is a game system designer focusing on board, card and
     collectable card games. He has designed and published over 20 board games, including
-    The Duke (Catalyst Games), Timesteams (Bucephalus Games), and Anachronism (TriKing
-    Games). Holcomb’s The White Box (Atlas Games) provides a tool kit for new designers
-    looking into making board games, and he has been teaching game design for over
-    a decade via the ASUW experimental college and DigiPen Institute of Technology,
-    where he now serves as the program director for the Bachelor of Arts in Game Design
-    program. His personal quest is to play every game that exists at least once.
+    [The Duke](https://www.catalystgamelabs.com/casual-games/the-duke/ "The Duke")
+    (Catalyst Games), [Timestreams](https://boardgamegeek.com/image/398753/timestreams-deck-1-stone-age-vs-future-tech
+    "Timestreams") (Bucephalus Games), and [Anachronism](https://boardgamegeek.com/boardgame/14038/anachronism
+    "Anachronism") (TriKing Games). Holcomb’s [The White Box](https://dev1.atlas-games.com/product_tables/AG2903/
+    "The White Box") (Atlas Games) provides a tool kit for new designers looking into
+    making board games, and he has been teaching game design for over a decade via
+    the ASUW experimental college and DigiPen Institute of Technology, where he now
+    serves as the program director for the Bachelor of Arts in Game Design program.
+    His personal quest is to play every game that exists at least once.
   website1: ''
   website2: ''
   website3: ''
@@ -406,13 +533,13 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/jim-hines.jpg"
-  description: Jim C. Hines is the author of the Magic ex Libris series, the Princess
-    series of fairy tale retellings, the humorous Goblin Quest trilogy, and the Fable
-    Legends tie-in Blood of Heroes. His latest novel is Terminal Uprising, book two
-    in the humorous science fiction Janitors of the Post-Apocalypse trilogy. He’s
-    an active blogger, and won the 2012 Hugo Award for Best Fan Writer. He lives in
-    mid-Michigan with his family.
-  website1: '[http://www.jimchines.com](http://www.jimchines.com "http://www.jimchines.com")'
+  description: Jim C. Hines is the author of the _Magic ex Libris_ series, the _Princess_
+    series of fairy tale retellings, the humorous _Goblin Quest_ trilogy, and the
+    _Fable Legends_ tie-in _Blood of Heroes_. His latest novel is _Terminal Uprising_,
+    book two in the humorous science fiction _Janitors of the Post-Apocalypse_ trilogy.
+    He’s an active blogger, and won the 2012 Hugo Award for Best Fan Writer. He lives
+    in mid-Michigan with his family.
+  website1: '[Jim C. Hines website](https://www.jimchines.com/ "Jim C. Hines website")'
   website2: ''
   website3: ''
   facebook: ''
@@ -486,7 +613,7 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/julie-washington.jpg"
-  description: Julie is the former editor and founder of the newszine Cleveland Ansible,
+  description: Julie is the former editor and founder of the newszine _Cleveland Ansible_,
     and a Clarion graduate. She has written numerous interviews and reviews of SF
     authors and movies for the Cleveland Plain Dealer newspaper. She helped organize
     the Masquerade Contest at Marcon for two years. She is an active member of the
@@ -518,9 +645,30 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: http://kathrynsullivan.com
+  website1: "[kathrynsullivan.com]()"
   website2: ''
   website3: ''
+  patreon: ''
+- name: L.D. Lewis
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: 'L.D. Lewis is an award-winning SF/F writer and editor, and serves
+    as a founding creator, Art Director, and Project Manager for the World Fantasy
+    Award-winning and Hugo Award-nominated _FIYAH Literary Magazine_. She also serves
+    as Grant Administrator for the Speculative Literature Foundation and as a researcher
+    for the LeVar Burton Reads podcast, and Director of FIYAHCON. She is the author
+    of _A Ruin of Shadows_ (Dancing Star Press, 2018) and her published short fiction
+    includes appearances in FIYAH, PodCastle, Strange Horizons, Anathema: Spec from
+    the Margins, and Fireside Magazine, among others. She lives in Georgia with her
+    coffee habit and an impressive Funko Pop! collection.'
+  website1: "[ldlewiswrites.com]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ellethevillain
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: Laurence Raphael Brothers
   role: ''
@@ -537,7 +685,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: https://laurencebrothers.com/
+  website1: "[laurencebrothers.com]()"
   website2: ''
   website3: ''
   patreon: ''
@@ -551,7 +699,7 @@
     novel The Girl With the Star-Stained Soul. Her writing has appeared in publications
     such as Asimov’s Science Fiction, Apex Magazine, Nightmare Magazine, Pseudopod,
     Strange Horizons, and Best Horror of the Year. She lives in Columbus, Ohio.
-  website1: www.lucysnyder.com
+  website1: "[www.lucysnyder.com]()"
   website2: ''
   website3: ''
   facebook: ''
@@ -719,14 +867,13 @@
     been awarded an honourable mention in the L. Ron Hubbard Writers of the Future
     Contest, twice. His short story “The Witching Hour,” made the Tangent Online Recommended
     Reading List and won the Nommo award for best short story by an African. He has
-    been published in Selene Quarterly, Strange Horizons, Tor, and other venues, and
-    has works forthcoming in several journals, magazines and anthologies. He has guest
-    edited and co-edited several publications, including The Selene Quarterly, Invictus
-    Quarterly and Dominion: an Anthology of Speculative Fiction from Africa and the
-    African Diaspora. He is a member of the African Speculative Fiction Society, Codex,
-    the HWA, the BSFA, and the SFWA You can find him on Twitter at @penprince_NSA
-    and on his website [https://www.ekpeki.com](https://www.ekpeki.com "https://www.ekpeki.com")'
-  website1: '[https://www.ekpeki.com](https://www.ekpeki.com "https://www.ekpeki.com")'
+    been published in _Selene Quarterly_, _Strange Horizons_, _Tor_, and other venues,
+    and has works forthcoming in several journals, magazines and anthologies. He has
+    guest edited and co-edited several publications, including _The Selene Quarterly_,
+    _Invictus Quarterly_ and _Dominion: an Anthology of Speculative Fiction from Africa
+    and the African Diaspora_. He is a member of the African Speculative Fiction Society,
+    Codex, the HWA, the BSFA, and the SFWA.'
+  website1: "[www.ekpeki.com]()"
   website2: ''
   website3: ''
   facebook: penprince
@@ -798,12 +945,11 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/premee-mohamed.png"
-  description: Premee Mohamed is an Indo-Caribbean scientist and speculative fiction
+  description: 'Premee Mohamed is an Indo-Caribbean scientist and speculative fiction
     author based in Edmonton, Alberta. Her short fiction has appeared in a variety
     of venues, including Analog, Escape Pod, Augur, and Nightmare Magazine. Her debut
-    novel, 'Beneath the Rising,' is out now from Solaris Books, with the sequel due
-    out in 2021. She can be found on Twitter at @premeesaurus and on her website at
-    www.premeemohamed.com.
+    novel, ''Beneath the Rising,'' is out now from Solaris Books, with the sequel
+    due out in 2021.  '
   website1: '[www.premeemohamed.com](www.preemamohamed.com "PreemaMohamed.com")'
   website2: ''
   website3: ''
@@ -822,8 +968,7 @@
     that are forever locked away in a filing cabinet. She’s a geeky, disabled ENBY
     who enjoys getting her game on or staring at the ocean. She lives in Seattle with
     her husband, and their three kitties who enjoy lounging across the keyboard when
-    writing deadlines approach. Her hair color changes as often as this bio, and you
-    can find her at www.ravenoak.net.
+    writing deadlines approach. Her hair color changes as often as this bio.
   website1: "[www.ravenoak.net](www.ravenoak.net)"
   website2: ''
   website3: ''
@@ -838,7 +983,7 @@
   filename: "/assets/images/sherwood-smith.jpg"
   description: Sherwood Smith writes fantasy, science fiction, and historical novels
     for young and old.
-  website1: '[https://www.sherwoodsmith.net](https://www.sherwoodsmith.net "https://www.sherwoodsmith.net")'
+  website1: '[www.sherwoodsmith.net](https://www.sherwoodsmith.net "https://www.sherwoodsmith.net")'
   website2: ''
   website3: ''
   facebook: ''
@@ -875,7 +1020,7 @@
     ZNB Books. He began publishing short fiction in 2008, his most recently published
     story is "A Letter Home," his most recent book is After Hastings. In 1995, he
     created the Sidewise Award for Alternate History.
-  website1: "[http://www.sfsite.com/\\~silverag/afterhastings.html](http://www.sfsite.com/\\~silverag/afterhastings.html)"
+  website1: "[www.sfsite.com/\\~silverag/afterhastings.html](http://www.sfsite.com/\\~silverag/afterhastings.html)"
   website2: ''
   website3: ''
   facebook: ''
@@ -929,17 +1074,15 @@
   filename: "/assets/images/valjeanne-jeffers-1.jpg"
   description: 'Valjeanne Jeffers is a speculative fiction writer, a Spelman College
     graduate, and a member of the Horror Writers Association and the Carolina African
-    America Writers’ Collective. She is the author of nine books, including her Immortal
-    and her Mona Livelong: Paranormal Detective series. Valjeanne has been published
-    in numerous anthologies including: Steamfunk!;The Ringing Ear; Luminescent Threads:
-    Connections to Octavia E. Butler; Fitting In: Historical Accounts of Paranormal
-    Subcultures; Sycorax’s Daughters; Black Magic Women, The Bright Empire, and, most
-    recently, All the Songs We Sing, and Bledrotica Volume I.'
+    America Writers’ Collective. She is the author of nine books, including her _Immortal_
+    and her _Mona Livelong: Paranormal Detective_ series. Valjeanne has been published
+    in numerous anthologies including: _Steamfunk!_; _The Ringing Ear_; _Luminescent
+    Threads: Connections to Octavia E. Butler_; _Fitting In: Historical Accounts of
+    Paranormal Subcultures_; _Sycorax’s Daughters_; _Black Magic Women_, _The Bright
+    Empire_, and, most recently, _All the Songs We Sing_, and _Bledrotica Volume I_.'
   website1: "[www.vjeffersandqveal.com](www.vjeffersandqveal.com)"
-  website2: '[https://tehotep.wixsite.com/immortaliiiaudiobook](https://tehotep.wixsite.com/immortaliiiaudiobook
-    "https://tehotep.wixsite.com/immortaliiiaudiobook")'
-  website3: '[https://tehotep.wixsite.com/scierogenous](https://tehotep.wixsite.com/scierogenous
-    "https://tehotep.wixsite.com/scierogenous")'
+  website2: "[The Immortal III Audio Book](https://tehotep.wixsite.com/immortaliiiaudiobook)"
+  website3: "[Scierogenous](https://tehotep.wixsite.com/scierogenous)"
   facebook: ''
   twitter: ''
   instagram: ''
