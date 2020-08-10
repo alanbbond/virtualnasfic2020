@@ -1,21 +1,4 @@
 ---
-- name: Alma Alexander
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/alma-alexander.jpg"
-  description: Alma Alexander is an internationally published novelist, short story
-    writer and anthologist whose work spans more than two decades and stretches across
-    all aspects of fantasy and science fiction. She lives in the cedar woods of the
-    Pacific Northwest with her husband, two obligatory writer's cats, and assorted
-    visiting wildlife.
-  website1: '[http://www.AlmaAlexander.org](http://www.AlmaAlexander.org "http://www.AlmaAlexander.org")'
-  website2: '[https://www.patreon.com/AlmaAlexander](https://www.patreon.com/AlmaAlexander
-    "https://www.patreon.com/AlmaAlexander")'
-  website3: ''
-  facebook: AuthorAlmaAlexander
-  twitter: AlmaAlexander
-  instagram: ''
-  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -78,6 +61,23 @@
   website3: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+- name: Alma Alexander
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/alma-alexander.jpg"
+  description: Alma Alexander is an internationally published novelist, short story
+    writer and anthologist whose work spans more than two decades and stretches across
+    all aspects of fantasy and science fiction. She lives in the cedar woods of the
+    Pacific Northwest with her husband, two obligatory writer's cats, and assorted
+    visiting wildlife.
+  website1: '[http://www.AlmaAlexander.org](http://www.AlmaAlexander.org "http://www.AlmaAlexander.org")'
+  website2: '[https://www.patreon.com/AlmaAlexander](https://www.patreon.com/AlmaAlexander
+    "https://www.patreon.com/AlmaAlexander")'
+  website3: ''
+  facebook: AuthorAlmaAlexander
+  twitter: AlmaAlexander
   instagram: ''
   discord: ''
 - name: Ben Yalow
@@ -277,6 +277,23 @@
   description: Joel Zakem attended his first SF con in 1968 and has been attending
     (and occasionally working on cons) ever since.
   website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Jim C. Hines
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jim-hines.jpg"
+  description: Jim C. Hines is the author of the Magic ex Libris series, the Princess
+    series of fairy tale retellings, the humorous Goblin Quest trilogy, and the Fable
+    Legends tie-in Blood of Heroes. His latest novel is Terminal Uprising, book two
+    in the humorous science fiction Janitors of the Post-Apocalypse trilogy. He’s
+    an active blogger, and won the 2012 Hugo Award for Best Fan Writer. He lives in
+    mid-Michigan with his family.
+  website1: '[http://www.jimchines.com](http://www.jimchines.com "http://www.jimchines.com")'
   website2: ''
   website3: ''
   facebook: ''
