@@ -190,13 +190,14 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/cheryl-morgan.jpg"
-  description: Cheryl Morgan is a writer, editor and owner of Wizard’s Tower Press.
-    She has won four Hugo Awards. You can find her reviews in Salon Futura. Cheryl
-    has been a Guest of Honour at conventions and conferences in Finland, Croatia
-    and Austria.
-  website1: '[https://www.cheryl-morgan.com](https://www.cheryl-morgan.com "https://www.cheryl-morgan.com")'
-  website2: '[https://wizardstowerpress.com](https://wizardstowerpress.com "https://wizardstowerpress.com")'
-  website3: '[https://www.salonfutura.net](https://www.salonfutura.net "https://www.salonfutura.net")'
+  description: Cheryl Morgan is a writer, editor and owner of [Wizard’s Tower Press](https://wizardstowerpress.com/
+    "Wizard's Tower Press"). She has won four Hugo Awards. You can find her reviews
+    in [Salon Futura](https://www.salonfutura.net/ "Salon Futura"). Cheryl has been
+    a Guest of Honour at conventions and conferences in Finland, Croatia and Austria.
+  website1: '[Cheryl''s Mewsings](https://www.cheryl-morgan.com/ "Cheryl''s Mewsings")'
+  website2: '[Wizard''s Tower Press](https://wizardstowerpress.com/ "Wizard''s Tower
+    Press")'
+  website3: '[Salon Futura](Salon Futura "https://www.salonfutura.net")'
   facebook: ''
   twitter: cherylmorgan
   instagram: ''
