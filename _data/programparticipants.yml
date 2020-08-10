@@ -1,19 +1,4 @@
 ---
-- name: Doug Piero Carey
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/doug-pierocarey.jpg"
-  description: Doug Piero Carey started reading SF in 1970. His first convention was
-    Discon 2 in 1974. He joined Harry, the Canton, Ohio SF book club around 1981 and
-    married another fan, Mary Piero, in 1983. Doug lives in Ohio and has continued
-    to read SF, to go to cons and to Harry, and to remain happily married.
-  website1: www.harrysf.org
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -224,6 +209,20 @@
   twitter: ''
   instagram: ''
   discord: ''
+- name: Dan Tres Omi
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/dan-tresomi.jpg"
+  description: Dan Tres Omi is an educator, Hip Hop diplomat, Capoeira instrutor,
+    and pod-caster out of Dayton, Ohio.
+  website1: '[https://soundcloud.com/dantresomi](https://soundcloud.com/dantresomi
+    "https://soundcloud.com/dantresomi")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: dave ring
   guest_of_honor: false
   role: ''
@@ -239,6 +238,21 @@
   website3: ''
   facebook: ''
   twitter: "@slickhop"
+  instagram: ''
+  discord: ''
+- name: Doug Piero Carey
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/doug-pierocarey.jpg"
+  description: Doug Piero Carey started reading SF in 1970. His first convention was
+    Discon 2 in 1974. He joined Harry, the Canton, Ohio SF book club around 1981 and
+    married another fan, Mary Piero, in 1983. Doug lives in Ohio and has continued
+    to read SF, to go to cons and to Harry, and to remain happily married.
+  website1: www.harrysf.org
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Eileen Gunn
