@@ -46,6 +46,26 @@
   website2: ''
   website3: ''
   patreon: ''
+- name: Alec Nevala-Lee
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/alec-nevalalee.jpg"
+  description: 'Alec Nevala-Lee was a 2019 Hugo and Locus Award finalist for Astounding:
+    John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden
+    Age of Science Fiction (Dey Street Books / HarperCollins), which was named one
+    of the best nonfiction books of the year by The Economist. Syndromes, an audio
+    original collection of thirteen of his short stories from Analog, was released
+    earlier this year by Recorded Books. He is currently at work on a biography of
+    the architectural designer Buckminster Fuller, which is scheduled to be published
+    by HarperCollins in 2021.'
+  website1: "[www.nevalalee.com](www.nevalalee.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Aliette de Bodard
   guest_of_honor: false
   role: ''
@@ -324,6 +344,29 @@
   website3: ''
   facebook: ''
   twitter: snarkbat
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Farah Mendlesohn
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/farah-mendlesohn.jpg"
+  description: 'Farah Mendlesohn won a Hugo with Edward James in 2005 for The Cambridge
+    Companion to Fantasy Literature. She is also the author of Diana Wynne Jones:
+    The Fantastic Tradition and Children''s Literature, Rhetorics of Fantasy, with
+    Edward James, A Short History of Fantasy, The Inter-galactic Playground: A Critical
+    Study of Children''s and Teens'' Science Fiction, with Michael M. Levy Children’s
+    Fantasy Literature: An Introduction, which won the World Fantasy Award and the
+    Mythopeic Award in 2017. In 2019 year she published, The Pleasant Profession of
+    Robert A. Heinlein, and sometime at the end of 2020 her book on children’s literature,
+    memory and the English Civil Wars will come out from Palgrave. She is now the
+    only three time winner of the BSFA award for non-fiction and is now neck and neck
+    with John Clute for Hugo nominations.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: effjayem
   instagram: ''
   discord: ''
   patreon: ''
