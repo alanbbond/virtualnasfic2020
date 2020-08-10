@@ -1,20 +1,4 @@
 ---
-- name: Jennifer Blackstream
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/jennifer-blackstream.jpg"
-  description: Jennifer Blackstream is a USA Today bestselling author of urban fantasy
-    and paranormal romance. She is amazed and grateful to have made a writing career
-    out of a Master’s degree in Psychology, hours of couch-detecting watching Miss
-    Fisher’s Murder Mysteries, and endless research into mythology and fairy tales.
-  website1: '[https://www.jenniferblackstream.com](https://www.jenniferblackstream.com
-    "https://www.jenniferblackstream.com")'
-  website2: ''
-  website3: ''
-  facebook: JenniferBlackstream8675309
-  twitter: ''
-  instagram: ''
-  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -340,6 +324,22 @@
   twitter: "@jholtham"
   instagram: ''
   discord: ''
+- name: Jennifer Blackstream
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jennifer-blackstream.jpg"
+  description: Jennifer Blackstream is a USA Today bestselling author of urban fantasy
+    and paranormal romance. She is amazed and grateful to have made a writing career
+    out of a Master’s degree in Psychology, hours of couch-detecting watching Miss
+    Fisher’s Murder Mysteries, and endless research into mythology and fairy tales.
+  website1: '[https://www.jenniferblackstream.com](https://www.jenniferblackstream.com
+    "https://www.jenniferblackstream.com")'
+  website2: ''
+  website3: ''
+  facebook: JenniferBlackstream8675309
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Jeremy Holcomb
   guest_of_honor: false
   role: ''
@@ -660,6 +660,23 @@
   twitter: penprince_nsa
   instagram: ''
   discord: ''
+- name: Pablo Defendini
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: Pablo Defendini is the Publisher and Art Director of Fireside Magazine.
+    He is also a designer and developer for hire, with a focus on editorial design
+    for digital media. He helped launch Tor.com, before moving on to work for companies
+    that sit in the overlap between publishing and technology, like Open Road Media
+    and O'Reilly. Pablo was born and raised in San Juan, Puerto Rico, lives in New
+    York City, and works with people all over the world.
+  website1: "[firesidefiction.com]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Phoebe Barton
   guest_of_honor: false
   role: ''
@@ -844,7 +861,7 @@
   instagram: ''
   discord: ''
 - name: Victor Raymond
-  filename: ''
+  filename: "/assets/images/victor-raymond.jpg"
   description: Victor Raymond is a writer, game designer, and activist, and has a
     PhD in Sociology with a graduate concentration in Women's Studies. He is bisexual
     and has been recognized for his LGBTQ+ activism as an invited guest to the White
