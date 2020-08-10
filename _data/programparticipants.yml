@@ -1,27 +1,4 @@
 ---
-- name: Phoebe North
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/phoebe-north.jpg"
-  description: Phoebe North, a graduate of the University of Florida’s MFA program
-    in poetry, is the critically acclaimed author of Starglass and Starbreak. A new
-    novel will be forthcoming from HarperCollins/Balzer + Bray in 2021. North was
-    a finalist in 2018 with the Sustainable Arts Foundation. Other short fiction,
-    critical work, and poetry has appeared or is forthcoming with Analog, Daily Science
-    Fiction, Flash Fiction Magazine, the YA Review Network, Umbrella Journal, District
-    Lit, 2river View and Strange Horizons (among others), and in anthologies such
-    as the 2015 Young Explorer’s Adventure Guide, Among the Shadows and Speculative
-    Fiction 2015. North was named a 2013 Flying Start from Publisher’s Weekly. Writing
-    from a home in the Hudson Valley, they also enjoy gardening, spending time with
-    family, listening to obscure music on outdated formats, and fighting off the fear
-    of death by curating an astonishingly comprehensive social media presence.
-  website1: "[phoebe@phoebenorth.com](phoebe@phoebenorth.com)"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -682,6 +659,29 @@
   website3: ''
   facebook: ''
   twitter: aphoebebarton
+  instagram: ''
+  discord: ''
+- name: Phoebe North
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/phoebe-north.jpg"
+  description: Phoebe North, a graduate of the University of Florida’s MFA program
+    in poetry, is the critically acclaimed author of Starglass and Starbreak. A new
+    novel will be forthcoming from HarperCollins/Balzer + Bray in 2021. North was
+    a finalist in 2018 with the Sustainable Arts Foundation. Other short fiction,
+    critical work, and poetry has appeared or is forthcoming with Analog, Daily Science
+    Fiction, Flash Fiction Magazine, the YA Review Network, Umbrella Journal, District
+    Lit, 2river View and Strange Horizons (among others), and in anthologies such
+    as the 2015 Young Explorer’s Adventure Guide, Among the Shadows and Speculative
+    Fiction 2015. North was named a 2013 Flying Start from Publisher’s Weekly. Writing
+    from a home in the Hudson Valley, they also enjoy gardening, spending time with
+    family, listening to obscure music on outdated formats, and fighting off the fear
+    of death by curating an astonishingly comprehensive social media presence.
+  website1: "[phoebe@phoebenorth.com](phoebe@phoebenorth.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Premee Mohamed
