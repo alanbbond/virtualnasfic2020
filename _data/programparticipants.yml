@@ -1,28 +1,17 @@
 ---
-- name: ''
+- name: James Bacon
   guest_of_honor: false
   role: ''
-  filename: ''
-  description: ''
+  filename: "/assets/images/james-bacon.jpg"
+  description: James is a train driver from Ireland living in London who happens to
+    be a Hugo winning fanzine editor, fan of comics, Star Wars and fountain pens.
+    He wastes time sending mail, running conventions and especially enjoys the social
+    aspects of them. James instructs, assess and trains new Train Drivers.
   website1: ''
   website2: ''
   website3: ''
   facebook: ''
   twitter: ''
-  instagram: ''
-  discord: ''
-- name: Misha Stone
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/misha-stone.jpg"
-  description: Misha Stone (she/her) is a Reader Services Librarian in Seattle. She
-    serves on the Clarion West Writers Workshop board. Misha reads science fiction,
-    fantasy, lit fic, and romance, and is a karaoke enthusiast.
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ahsimlibrarian
   instagram: ''
   discord: ''
 - name: Ada Palmer
@@ -416,6 +405,20 @@
   website3: ''
   facebook: ''
   twitter: twitter.com/mikechenwriter
+  instagram: ''
+  discord: ''
+- name: Misha Stone
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/misha-stone.jpg"
+  description: Misha Stone (she/her) is a Reader Services Librarian in Seattle. She
+    serves on the Clarion West Writers Workshop board. Misha reads science fiction,
+    fantasy, lit fic, and romance, and is a karaoke enthusiast.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ahsimlibrarian
   instagram: ''
   discord: ''
 - name: Neil Clarke
