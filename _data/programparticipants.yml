@@ -197,6 +197,49 @@
   twitter: "@jholtham"
   instagram: ''
   discord: ''
+- name: Joel Zakem
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/joel-zakem.jpg"
+  description: Joel Zakem attended his first SF con in 1968 and has been attending
+    (and occasionally working on cons) ever since.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: John Medaille
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/john-medaille.jpg"
+  description: John is a science fiction and horror author with over thirty publishing
+    credits in small print journals and podcasts, including Pseudopod, EscapePod,
+    The Three-Lobed Burning Eye and The Red Penny Papers. John has a short fiction
+    podcast called Tripleplus Ungood, available on iTunes and Spotify.
+  website1: '[https://www.buzzsprout.com/974542](https://www.buzzsprout.com/974542
+    "https://www.buzzsprout.com/974542")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: John Wiswell
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/john-wiswell.jpg"
+  description: John (@Wiswell) is a disabled writer who lives where New York keeps
+    all its trees. He has been published in Uncanny Magazine, Nature Magazine, and
+    Fireside Magazine, among others.
+  website1: '[http://johnwiswell.blogspot.com](http://johnwiswell.blogspot.com "http://johnwiswell.blogspot.com")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: wiswell
+  instagram: ''
+  discord: ''
 - name: Kathryn Sullivan
   category:
   - Presenter
