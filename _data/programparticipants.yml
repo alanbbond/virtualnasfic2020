@@ -573,7 +573,7 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/julie-washington.jpg"
-  description: Julie is the former editor and founder of the newszine Cleveland Ansible,
+  description: Julie is the former editor and founder of the newszine _Cleveland Ansible_,
     and a Clarion graduate. She has written numerous interviews and reviews of SF
     authors and movies for the Cleveland Plain Dealer newspaper. She helped organize
     the Masquerade Contest at Marcon for two years. She is an active member of the
@@ -605,7 +605,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: http://kathrynsullivan.com
+  website1: "[kathrynsullivan.com]()"
   website2: ''
   website3: ''
   patreon: ''
@@ -624,7 +624,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: https://laurencebrothers.com/
+  website1: "[laurencebrothers.com]()"
   website2: ''
   website3: ''
   patreon: ''
@@ -638,7 +638,7 @@
     novel The Girl With the Star-Stained Soul. Her writing has appeared in publications
     such as Asimov’s Science Fiction, Apex Magazine, Nightmare Magazine, Pseudopod,
     Strange Horizons, and Best Horror of the Year. She lives in Columbus, Ohio.
-  website1: www.lucysnyder.com
+  website1: "[www.lucysnyder.com]()"
   website2: ''
   website3: ''
   facebook: ''
@@ -806,14 +806,13 @@
     been awarded an honourable mention in the L. Ron Hubbard Writers of the Future
     Contest, twice. His short story “The Witching Hour,” made the Tangent Online Recommended
     Reading List and won the Nommo award for best short story by an African. He has
-    been published in Selene Quarterly, Strange Horizons, Tor, and other venues, and
-    has works forthcoming in several journals, magazines and anthologies. He has guest
-    edited and co-edited several publications, including The Selene Quarterly, Invictus
-    Quarterly and Dominion: an Anthology of Speculative Fiction from Africa and the
-    African Diaspora. He is a member of the African Speculative Fiction Society, Codex,
-    the HWA, the BSFA, and the SFWA You can find him on Twitter at @penprince_NSA
-    and on his website [https://www.ekpeki.com](https://www.ekpeki.com "https://www.ekpeki.com")'
-  website1: '[https://www.ekpeki.com](https://www.ekpeki.com "https://www.ekpeki.com")'
+    been published in _Selene Quarterly_, _Strange Horizons_, _Tor_, and other venues,
+    and has works forthcoming in several journals, magazines and anthologies. He has
+    guest edited and co-edited several publications, including _The Selene Quarterly_,
+    _Invictus Quarterly_ and _Dominion: an Anthology of Speculative Fiction from Africa
+    and the African Diaspora_. He is a member of the African Speculative Fiction Society,
+    Codex, the HWA, the BSFA, and the SFWA.'
+  website1: "[www.ekpeki.com]()"
   website2: ''
   website3: ''
   facebook: penprince
@@ -885,12 +884,11 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/premee-mohamed.png"
-  description: Premee Mohamed is an Indo-Caribbean scientist and speculative fiction
+  description: 'Premee Mohamed is an Indo-Caribbean scientist and speculative fiction
     author based in Edmonton, Alberta. Her short fiction has appeared in a variety
     of venues, including Analog, Escape Pod, Augur, and Nightmare Magazine. Her debut
-    novel, 'Beneath the Rising,' is out now from Solaris Books, with the sequel due
-    out in 2021. She can be found on Twitter at @premeesaurus and on her website at
-    www.premeemohamed.com.
+    novel, ''Beneath the Rising,'' is out now from Solaris Books, with the sequel
+    due out in 2021.  '
   website1: '[www.premeemohamed.com](www.preemamohamed.com "PreemaMohamed.com")'
   website2: ''
   website3: ''
@@ -909,8 +907,7 @@
     that are forever locked away in a filing cabinet. She’s a geeky, disabled ENBY
     who enjoys getting her game on or staring at the ocean. She lives in Seattle with
     her husband, and their three kitties who enjoy lounging across the keyboard when
-    writing deadlines approach. Her hair color changes as often as this bio, and you
-    can find her at www.ravenoak.net.
+    writing deadlines approach. Her hair color changes as often as this bio.
   website1: "[www.ravenoak.net](www.ravenoak.net)"
   website2: ''
   website3: ''
@@ -925,7 +922,7 @@
   filename: "/assets/images/sherwood-smith.jpg"
   description: Sherwood Smith writes fantasy, science fiction, and historical novels
     for young and old.
-  website1: '[https://www.sherwoodsmith.net](https://www.sherwoodsmith.net "https://www.sherwoodsmith.net")'
+  website1: '[www.sherwoodsmith.net](https://www.sherwoodsmith.net "https://www.sherwoodsmith.net")'
   website2: ''
   website3: ''
   facebook: ''
@@ -962,7 +959,7 @@
     ZNB Books. He began publishing short fiction in 2008, his most recently published
     story is "A Letter Home," his most recent book is After Hastings. In 1995, he
     created the Sidewise Award for Alternate History.
-  website1: "[http://www.sfsite.com/\\~silverag/afterhastings.html](http://www.sfsite.com/\\~silverag/afterhastings.html)"
+  website1: "[www.sfsite.com/\\~silverag/afterhastings.html](http://www.sfsite.com/\\~silverag/afterhastings.html)"
   website2: ''
   website3: ''
   facebook: ''
@@ -1016,17 +1013,15 @@
   filename: "/assets/images/valjeanne-jeffers-1.jpg"
   description: 'Valjeanne Jeffers is a speculative fiction writer, a Spelman College
     graduate, and a member of the Horror Writers Association and the Carolina African
-    America Writers’ Collective. She is the author of nine books, including her Immortal
-    and her Mona Livelong: Paranormal Detective series. Valjeanne has been published
-    in numerous anthologies including: Steamfunk!;The Ringing Ear; Luminescent Threads:
-    Connections to Octavia E. Butler; Fitting In: Historical Accounts of Paranormal
-    Subcultures; Sycorax’s Daughters; Black Magic Women, The Bright Empire, and, most
-    recently, All the Songs We Sing, and Bledrotica Volume I.'
+    America Writers’ Collective. She is the author of nine books, including her _Immortal_
+    and her _Mona Livelong: Paranormal Detective_ series. Valjeanne has been published
+    in numerous anthologies including: _Steamfunk!_; _The Ringing Ear_; _Luminescent
+    Threads: Connections to Octavia E. Butler_; _Fitting In: Historical Accounts of
+    Paranormal Subcultures_; _Sycorax’s Daughters_; _Black Magic Women_, _The Bright
+    Empire_, and, most recently, _All the Songs We Sing_, and _Bledrotica Volume I_.'
   website1: "[www.vjeffersandqveal.com](www.vjeffersandqveal.com)"
-  website2: '[https://tehotep.wixsite.com/immortaliiiaudiobook](https://tehotep.wixsite.com/immortaliiiaudiobook
-    "https://tehotep.wixsite.com/immortaliiiaudiobook")'
-  website3: '[https://tehotep.wixsite.com/scierogenous](https://tehotep.wixsite.com/scierogenous
-    "https://tehotep.wixsite.com/scierogenous")'
+  website2: "[The Immortal III Audio Book](https://tehotep.wixsite.com/immortaliiiaudiobook)"
+  website3: "[Scierogenous](https://tehotep.wixsite.com/scierogenous)"
   facebook: ''
   twitter: ''
   instagram: ''
