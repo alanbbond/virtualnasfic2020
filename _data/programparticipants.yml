@@ -1,4 +1,23 @@
 ---
+- name: Jeremy Holcomb
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jeremy-holcomb.png"
+  description: Jeremy Holcomb is a game system designer focusing on board, card and
+    collectable card games. He has designed and published over 20 board games, including
+    The Duke (Catalyst Games), Timesteams (Bucephalus Games), and Anachronism (TriKing
+    Games). Holcomb’s The White Box (Atlas Games) provides a tool kit for new designers
+    looking into making board games, and he has been teaching game design for over
+    a decade via the ASUW experimental college and DigiPen Institute of Technology,
+    where he now serves as the program director for the Bachelor of Arts in Game Design
+    program. His personal quest is to play every game that exists at least once.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
