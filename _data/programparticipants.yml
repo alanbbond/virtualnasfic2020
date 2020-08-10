@@ -1,16 +1,14 @@
 ---
-- name: Jeremy Holcomb
+- name: Julie Washington
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/jeremy-holcomb.png"
-  description: Jeremy Holcomb is a game system designer focusing on board, card and
-    collectable card games. He has designed and published over 20 board games, including
-    The Duke (Catalyst Games), Timesteams (Bucephalus Games), and Anachronism (TriKing
-    Games). Holcomb’s The White Box (Atlas Games) provides a tool kit for new designers
-    looking into making board games, and he has been teaching game design for over
-    a decade via the ASUW experimental college and DigiPen Institute of Technology,
-    where he now serves as the program director for the Bachelor of Arts in Game Design
-    program. His personal quest is to play every game that exists at least once.
+  filename: "/assets/images/julie-washington.jpg"
+  description: Julie is the former editor and founder of the newszine Cleveland Ansible,
+    and a Clarion graduate. She has written numerous interviews and reviews of SF
+    authors and movies for the Cleveland Plain Dealer newspaper. She helped organize
+    the Masquerade Contest at Marcon for two years. She is an active member of the
+    Society for Creative Anachronism. Currently Julie lives in Cleveland with her
+    husband, two cats, dragons, piles of fabric and many books.
   website1: ''
   website2: ''
   website3: ''
@@ -214,6 +212,25 @@
     He is a proud product of public education.'
   facebook: ''
   twitter: "@jholtham"
+  instagram: ''
+  discord: ''
+- name: Jeremy Holcomb
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jeremy-holcomb.png"
+  description: Jeremy Holcomb is a game system designer focusing on board, card and
+    collectable card games. He has designed and published over 20 board games, including
+    The Duke (Catalyst Games), Timesteams (Bucephalus Games), and Anachronism (TriKing
+    Games). Holcomb’s The White Box (Atlas Games) provides a tool kit for new designers
+    looking into making board games, and he has been teaching game design for over
+    a decade via the ASUW experimental college and DigiPen Institute of Technology,
+    where he now serves as the program director for the Bachelor of Arts in Game Design
+    program. His personal quest is to play every game that exists at least once.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Joel Zakem
