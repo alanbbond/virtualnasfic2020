@@ -386,6 +386,18 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+- name: Valjeanne Jeffers
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/valjeanne-jeffers-1.jpg"
+  description: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Victor Raymond
   filename: ''
   description: Victor Raymond is a writer, game designer, and activist, and has a
