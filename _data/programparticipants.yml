@@ -1,19 +1,19 @@
 ---
-- name: Michael R. Underwood
+- name: Alma Alexander
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/mike-underwood.jpg"
-  description: Michael R. Underwood is an author, podcaster, and publishing professional.
-    His series include the Ree Reyes Geekomancy books, the Stabby Award finalist Genrenauts
-    series, Born to the Blade, and Annihilation Aria. He’s been a bookseller, sales
-    representative, and was the North American Sales & Marketing Manager for Angry
-    Robot Books. He is also a co-host of Speculate! and a guest host on the Hugo Award-finalist
-    The Skiffy and Fanty Show.
-  website1: www.michaelrunderwood.com
-  website2: ''
+  filename: "/assets/images/alma-alexander.jpg"
+  description: Alma Alexander is an internationally published novelist, short story
+    writer and anthologist whose work spans more than two decades and stretches across
+    all aspects of fantasy and science fiction. She lives in the cedar woods of the
+    Pacific Northwest with her husband, two obligatory writer's cats, and assorted
+    visiting wildlife.
+  website1: '[http://www.AlmaAlexander.org](http://www.AlmaAlexander.org "http://www.AlmaAlexander.org")'
+  website2: '[https://www.patreon.com/AlmaAlexander](https://www.patreon.com/AlmaAlexander
+    "https://www.patreon.com/AlmaAlexander")'
   website3: ''
-  facebook: ''
-  twitter: ''
+  facebook: AuthorAlmaAlexander
+  twitter: AlmaAlexander
   instagram: ''
   discord: ''
 - name: Ada Palmer
@@ -403,6 +403,23 @@
   twitter: mari_ness
   guest_of_honor: false
   facebook: ''
+  instagram: ''
+  discord: ''
+- name: Michael R. Underwood
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/mike-underwood.jpg"
+  description: Michael R. Underwood is an author, podcaster, and publishing professional.
+    His series include the Ree Reyes Geekomancy books, the Stabby Award finalist Genrenauts
+    series, Born to the Blade, and Annihilation Aria. He’s been a bookseller, sales
+    representative, and was the North American Sales & Marketing Manager for Angry
+    Robot Books. He is also a co-host of Speculate! and a guest host on the Hugo Award-finalist
+    The Skiffy and Fanty Show.
+  website1: www.michaelrunderwood.com
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Mike Chen
