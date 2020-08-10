@@ -1,6 +1,6 @@
 <section class="program-participant-listing">
   {% if programparticipant.filename.size > 0 %}
-  <div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ programparticipant.filename }}'); float: 'left'">
+  <div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ programparticipant.filename | remove: "/assets/images/" }}'); float: 'left'">
   </div>
   {% endif %}
   <div class="program-participant-info">
