@@ -1,15 +1,21 @@
 ---
-- name: Steven H. Silver
+- name: Phoebe North
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/steven-silver.jpg"
-  description: Steven H Silver is a seventeen-time Hugo Award nominee and was the
-    publisher of the Hugo-nominated fanzine Argentus as well as the editor and publisher
-    of ISFiC Press for 8 years. He has also edited books for DAW, NESFA Press, and
-    ZNB Books. He began publishing short fiction in 2008, his most recently published
-    story is "A Letter Home," his most recent book is After Hastings. In 1995, he
-    created the Sidewise Award for Alternate History.
-  website1: http://www.sfsite.com/\~silverag/afterhastings.html
+  filename: "/assets/images/phoebe-north.jpg"
+  description: Phoebe North, a graduate of the University of Florida’s MFA program
+    in poetry, is the critically acclaimed author of Starglass and Starbreak. A new
+    novel will be forthcoming from HarperCollins/Balzer + Bray in 2021. North was
+    a finalist in 2018 with the Sustainable Arts Foundation. Other short fiction,
+    critical work, and poetry has appeared or is forthcoming with Analog, Daily Science
+    Fiction, Flash Fiction Magazine, the YA Review Network, Umbrella Journal, District
+    Lit, 2river View and Strange Horizons (among others), and in anthologies such
+    as the 2015 Young Explorer’s Adventure Guide, Among the Shadows and Speculative
+    Fiction 2015. North was named a 2013 Flying Start from Publisher’s Weekly. Writing
+    from a home in the Hudson Valley, they also enjoy gardening, spending time with
+    family, listening to obscure music on outdated formats, and fighting off the fear
+    of death by curating an astonishingly comprehensive social media presence.
+  website1: "[phoebe@phoebenorth.com](phoebe@phoebenorth.com)"
   website2: ''
   website3: ''
   facebook: ''
@@ -195,6 +201,21 @@
   website1: ''
   website2: ''
   website3: ''
+- name: Cheryl Morgan
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/cheryl-morgan.jpg"
+  description: Cheryl Morgan is a writer, editor and owner of Wizard’s Tower Press.
+    She has won four Hugo Awards. You can find her reviews in Salon Futura. Cheryl
+    has been a Guest of Honour at conventions and conferences in Finland, Croatia
+    and Austria.
+  website1: '[https://www.cheryl-morgan.com](https://www.cheryl-morgan.com "https://www.cheryl-morgan.com")'
+  website2: '[https://wizardstowerpress.com](https://wizardstowerpress.com "https://wizardstowerpress.com")'
+  website3: '[https://www.salonfutura.net](https://www.salonfutura.net "https://www.salonfutura.net")'
+  facebook: ''
+  twitter: cherylmorgan
+  instagram: ''
+  discord: ''
 - name: Chris M. Barkley
   guest_of_honor: false
   role: ''
@@ -253,6 +274,21 @@
   website3: ''
   facebook: Eileengunn
   twitter: eileen_gunn
+  instagram: ''
+  discord: ''
+- name: Elsa R. Sjunneson
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/elsa-sjunneson.jpg"
+  description: Hugo, Aurora and BFA winning editor and author Elsa Sjunneson is a
+    Deafblind hurricane in a vintage dress. She's written Jessica Jones for Serial
+    Box, fiction and non-Fiction for Uncanny and opinions for CNN. She lives in the
+    PNW behind a fairy hedge.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: snarkbat
   instagram: ''
   discord: ''
 - name: F. Paul Wilson
@@ -330,19 +366,6 @@
   twitter: ''
   instagram: ''
   discord: ''
-- name: Joel Zakem
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/joel-zakem.jpg"
-  description: Joel Zakem attended his first SF con in 1968 and has been attending
-    (and occasionally working on cons) ever since.
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
 - name: Jim C. Hines
   guest_of_honor: false
   role: ''
@@ -354,6 +377,19 @@
     an active blogger, and won the 2012 Hugo Award for Best Fan Writer. He lives in
     mid-Michigan with his family.
   website1: '[http://www.jimchines.com](http://www.jimchines.com "http://www.jimchines.com")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Joel Zakem
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/joel-zakem.jpg"
+  description: Joel Zakem attended his first SF con in 1968 and has been attending
+    (and occasionally working on cons) ever since.
+  website1: ''
   website2: ''
   website3: ''
   facebook: ''
@@ -448,6 +484,23 @@
   website1: ''
   website2: ''
   website3: ''
+- name: Lucy A. Snyder
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/lucy-snyder.jpg"
+  description: Lucy A. Snyder is the Shirley Jackson Award-nominated and five-time
+    Bram Stoker Award-winning author of 14 books and over 100 published short stories.
+    Her most recent books are the collection Halloween Season and the forthcoming
+    novel The Girl With the Star-Stained Soul. Her writing has appeared in publications
+    such as Asimov’s Science Fiction, Apex Magazine, Nightmare Magazine, Pseudopod,
+    Strange Horizons, and Best Horror of the Year. She lives in Columbus, Ohio.
+  website1: www.lucysnyder.com
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: "@LucyASnyder"
+  instagram: ''
+  discord: ''
 - name: Malka Older
   guest_of_honor: false
   role: ''
@@ -498,6 +551,29 @@
   website1: "[www.maryannmohanraj.com](www.maryannmohanraj.com)"
   website2: "[www.speculativeliterature.org](www.speculativeliterature.org)"
   website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Michael Grossberg
+  description: Michael Grossberg co-founded the Libertarian Futurist Society (lfs.org),
+    established in 1981 to sustain the Prometheus Awards, and chairs the Prometheus
+    Awards Best Novel Finalist Judging Committee, which selects annual slates of finalists.
+    A theater critic and arts reporter since the early 1980s, Michael has contributed
+    to six books, including critical essays for the annual Best Plays Theatre Yearbook,
+    and an essay/afterword for the first paperback edition of J. Neil Schulman's Prometheus-winning
+    novel The Rainbow Cadenza; written reviews for Reason magazine; wrote a regional
+    column for years with Backstage, the national performing-arts weekly; and helped
+    lead for two decades the American Theatre Critics Association and administer its
+    national new-play and regional-Tony awards. Michael won the 2019 Society of Professional
+    Journalists awards for Best Critic in Ohio (also won in 2015) and Best Arts Reporting
+    (won seven times).
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/michael-grossberg.jpg"
   facebook: ''
   twitter: ''
   instagram: ''
@@ -644,6 +720,19 @@
   twitter: ''
   instagram: ''
   discord: ''
+- name: Sherwood Smith
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/sherwood-smith.jpg"
+  description: Sherwood Smith writes fantasy, science fiction, and historical novels
+    for young and old.
+  website1: '[https://www.sherwoodsmith.net](https://www.sherwoodsmith.net "https://www.sherwoodsmith.net")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Steven Gould
   guest_of_honor: false
   role: ''
@@ -656,6 +745,23 @@
     and Missy Pyle. Season One and Two are is availble now. Steven was President of
     SFWA from 2013-2015.
   website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Steven H. Silver
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/steven-silver.jpg"
+  description: Steven H Silver is a seventeen-time Hugo Award nominee and was the
+    publisher of the Hugo-nominated fanzine Argentus as well as the editor and publisher
+    of ISFiC Press for 8 years. He has also edited books for DAW, NESFA Press, and
+    ZNB Books. He began publishing short fiction in 2008, his most recently published
+    story is "A Letter Home," his most recent book is After Hastings. In 1995, he
+    created the Sidewise Award for Alternate History.
+  website1: http://www.sfsite.com/\~silverag/afterhastings.html
   website2: ''
   website3: ''
   facebook: ''
@@ -681,6 +787,25 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+- name: Valerie Estelle Frankel
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/valerie-frankel.jpeg"
+  description: Valerie Estelle Frankel is the author of 80 pop culture books, including
+    Hunting for Meaning in The Mandalorian; Inside the Captain Marvel Film; Star Wars
+    Meets the Eras of Feminism; and Who Tells Your Story? History, Pop Culture, and
+    Hidden Meanings in Hamilton. Others focus on women's roles in fiction, from her
+    heroine's journey guides From Girl to Goddess and Buffy and the Heroine's Journey
+    to books like Superheroines and the Epic Journey and The Many Faces of Katniss
+    Everdeen. Once a lecturer at San Jose State University, she now teaches at Mission
+    College and San Jose City College.
+  website1: "[www.vefrankel.com](www.vefrankel.com)"
+  website2: ''
+  website3: ''
+  facebook: valerie.frankel1
+  twitter: valeriefrankel
+  instagram: ''
+  discord: ''
 - name: Valjeanne Jeffers
   guest_of_honor: false
   role: ''
