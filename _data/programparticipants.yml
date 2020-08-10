@@ -1,23 +1,4 @@
 ---
-- name: Raven Oak
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/raven-oak.jpg"
-  description: Award-winning speculative fiction author Raven Oak is best known for
-    Amaskan’s Blood, Class-M Exile, and a dozen or so short stories. She’s even published
-    on the moon! Raven spent most of her K-12 education doodling 500 page monstrosities
-    that are forever locked away in a filing cabinet. She’s a geeky, disabled ENBY
-    who enjoys getting her game on or staring at the ocean. She lives in Seattle with
-    her husband, and their three kitties who enjoy lounging across the keyboard when
-    writing deadlines approach. Her hair color changes as often as this bio, and you
-    can find her at www.ravenoak.net.
-  website1: www.ravenoak.net
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -319,6 +300,21 @@
   twitter: ''
   instagram: ''
   discord: ''
+- name: Mari Ness
+  role: ''
+  filename: "/assets/images/mari-ness.jpg"
+  description: Mari Ness has published poetry and fiction in Tor.com, Clarkesworld,
+    Lightspeed, Uncanny, Nightmare, Fireside, Strange Horizons, Diabolical Plots,
+    Apex and Fantasy. For more, see her infrequently updated website at marikness.wordpress.com
+    or follow her on Twitter @mari_ness
+  website1: ''
+  website2: ''
+  website3: ''
+  twitter: mari_ness
+  guest_of_honor: false
+  facebook: ''
+  instagram: ''
+  discord: ''
 - name: Mike Chen
   guest_of_honor: false
   role: Panelist
@@ -409,6 +405,25 @@
   website3: ''
   facebook: ''
   twitter: "@premeesaurus"
+  instagram: ''
+  discord: ''
+- name: Raven Oak
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/raven-oak.jpg"
+  description: Award-winning speculative fiction author Raven Oak is best known for
+    Amaskan’s Blood, Class-M Exile, and a dozen or so short stories. She’s even published
+    on the moon! Raven spent most of her K-12 education doodling 500 page monstrosities
+    that are forever locked away in a filing cabinet. She’s a geeky, disabled ENBY
+    who enjoys getting her game on or staring at the ocean. She lives in Seattle with
+    her husband, and their three kitties who enjoy lounging across the keyboard when
+    writing deadlines approach. Her hair color changes as often as this bio, and you
+    can find her at www.ravenoak.net.
+  website1: www.ravenoak.net
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Steven Gould
