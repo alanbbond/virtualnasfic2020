@@ -1,13 +1,15 @@
 ---
-- name: James Bacon
+- name: Michael R. Underwood
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/james-bacon.jpg"
-  description: James is a train driver from Ireland living in London who happens to
-    be a Hugo winning fanzine editor, fan of comics, Star Wars and fountain pens.
-    He wastes time sending mail, running conventions and especially enjoys the social
-    aspects of them. James instructs, assess and trains new Train Drivers.
-  website1: ''
+  filename: "/assets/images/mike-underwood.jpg"
+  description: Michael R. Underwood is an author, podcaster, and publishing professional.
+    His series include the Ree Reyes Geekomancy books, the Stabby Award finalist Genrenauts
+    series, Born to the Blade, and Annihilation Aria. He’s been a bookseller, sales
+    representative, and was the North American Sales & Marketing Manager for Angry
+    Robot Books. He is also a co-host of Speculate! and a guest host on the Hugo Award-finalist
+    The Skiffy and Fanty Show.
+  website1: www.michaelrunderwood.com
   website2: ''
   website3: ''
   facebook: ''
@@ -215,6 +217,21 @@
   website1: ''
   website2: ''
   website3: ''
+- name: James Bacon
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/james-bacon.jpg"
+  description: James is a train driver from Ireland living in London who happens to
+    be a Hugo winning fanzine editor, fan of comics, Star Wars and fountain pens.
+    He wastes time sending mail, running conventions and especially enjoys the social
+    aspects of them. James instructs, assess and trains new Train Drivers.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - website1: ''
   website2: ''
   website3: ''
