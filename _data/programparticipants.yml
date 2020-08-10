@@ -209,6 +209,20 @@
   twitter: ''
   instagram: ''
   discord: ''
+- name: Dan Tres Omi
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/dan-tresomi.jpg"
+  description: Dan Tres Omi is an educator, Hip Hop diplomat, Capoeira instrutor,
+    and pod-caster out of Dayton, Ohio.
+  website1: '[https://soundcloud.com/dantresomi](https://soundcloud.com/dantresomi
+    "https://soundcloud.com/dantresomi")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: dave ring
   guest_of_honor: false
   role: ''
@@ -224,6 +238,21 @@
   website3: ''
   facebook: ''
   twitter: "@slickhop"
+  instagram: ''
+  discord: ''
+- name: Doug Piero Carey
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/doug-pierocarey.jpg"
+  description: Doug Piero Carey started reading SF in 1970. His first convention was
+    Discon 2 in 1974. He joined Harry, the Canton, Ohio SF book club around 1981 and
+    married another fan, Mary Piero, in 1983. Doug lives in Ohio and has continued
+    to read SF, to go to cons and to Harry, and to remain happily married.
+  website1: www.harrysf.org
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Eileen Gunn
@@ -414,6 +443,21 @@
   website3: ''
   facebook: ''
   twitter: wiswell
+  instagram: ''
+  discord: ''
+- name: Jordan Kurella
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jordan-kurella.jpg"
+  description: Jordan Kurella is a queer and disabled author who has lived all over
+    the world (including Moscow and Manhattan). In their past lives, they were a barista,
+    radio DJ, and social worker. Their work has been featured in Apex, Beneath Ceaseless
+    Skies, and Strange Horizons Magazines.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Julie Washington

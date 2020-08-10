@@ -11,7 +11,7 @@ order: 1
 
 Dear Members,
 
-We have put a great team together to make this NASFiC totally VIRTUAL! In the next two weeks we will be solidifying those who are participating in the program, the Art Show, the Masquerade, the Dealer's Room, and the writer's Workshop, as well as who will be hosting club tables and parties. If you want to do any of those things, please contact us ASAP.  None of this works without volunteers, just like in the real world, so please, [volunteer](https://form.jotform.com/201906040573044?fbclid=IwAR1I79sPqqTA08fb3Ue4yMIkZR_913tq87qv5dnlg6pHrw0mTCUDrk8mKPQ) early and often. 
+We have put a great team together to make this NASFiC totally VIRTUAL! In the next two weeks we will be solidifying those who are participating in the program, the Art Show, the Masquerade, the Dealer's Room, and the writer's Workshop, as well as who will be hosting club tables and parties. If you want to do any of those things, please contact us ASAP.  None of this works without volunteers, just like in the real world, so please, [volunteer](https://form.jotform.com/201906040573044?fbclid=IwAR1I79sPqqTA08fb3Ue4yMIkZR_913tq87qv5dnlg6pHrw0mTCUDrk8mKPQ) early and often.
 
 And of course we still have our wonderful Guests of Honor:
 
@@ -31,7 +31,7 @@ And of course we still have our wonderful Guests of Honor:
 
 Opening Ceremonies is at 3 pm on Friday, August 21st. That evening will also include a memorial to the great author, editor and mentor Mike Resnick, who unfortunately died this past year.  Mike was a regular at Ohio cons and we are honored that his wife Carol and daughter Laura are trusting us with this event.
 
-Other highlights for the weekend will include the Chesley Awards and the Prometheus Awards.  Please give yourself a break from the mundane world and join us, for the 2020 North American Science Fiction Convention!
+Other highlights for the weekend will include the Announcement of the Chesley Awards Nominees, and the Prometheus Awards.  Please give yourself a break from the mundane world and join us, for the 2020 North American Science Fiction Convention!
 
 ### 07/22/2020
 
