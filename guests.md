@@ -5,6 +5,9 @@ category: public
 order: 3
 
 ---
+
+{% include jump_to.html content=site.data.programparticipants %}
+
 # Guests Of Honor
 
 {% for programparticipant in site.data.programparticipants %}

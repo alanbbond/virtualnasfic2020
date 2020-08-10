@@ -1,0 +1,17 @@
+<div class="index">
+  Jump to:
+  {% for item in include.content %}
+  {% if item.guest_of_honor == true %}
+  <a href="#listing-{{ item.name | slugify}}" class="jump">
+    {{ item.name }}
+  </a>
+  {% endif %}
+  {% endfor %}
+  {% for item in include.content %}
+  {% unless item.guest_of_honor == true %}
+  <a href="#listing-{{ item.name | slugify}}" class="jump">
+    {{ item.name }}
+  </a>
+  {% endunless %}
+  {% endfor %}
+</div>

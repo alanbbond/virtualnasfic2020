@@ -1,4 +1,4 @@
-<section class="program-participant-listing">
+<section class="program-participant-listing" id="listing-{{ programparticipant.name | slugify }}">
   {% if programparticipant.filename.size > 0 %}
   <div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ programparticipant.filename | remove: "/assets/images/" }}'); float: 'left'">
   </div>
@@ -12,35 +12,35 @@
     <ul class="social-links-menu">
       {% if programparticipant.facebook.size > 0 %}
       <li class="facebook social-link">
-        <a href="https://www.facebook.com/groups/{{programparticipant.facebook}}/">
+        <a href="https://www.facebook.com/groups/{{programparticipant.facebook}}/" target="_blank">
         <span class="screen-reader-text">Facebook</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.twitter.size > 0 %}
       <li class="twitter social-link">
-        <a href="https://twitter.com/{{programparticipant.twitter}}">
+        <a href="https://twitter.com/{{programparticipant.twitter}}" target="_blank">
           <span class="screen-reader-text">Twitter</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.instagram.size > 0 %}
       <li class="instagram social-link">
-        <a href="https://www.instagram.com/{{programparticipant.instagram}}/">
+        <a href="https://www.instagram.com/{{programparticipant.instagram}}/" target="_blank">
           <span class="screen-reader-text">Instagram</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.patreon.size > 0 %}
       <li class="patreon social-link">
-        <a href="https://www.instagram.com/{{programparticipant.patreon}}/">
+        <a href="https://www.instagram.com/{{programparticipant.patreon}}/" target="_blank">
           <span class="screen-reader-text">Patreon</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.discord.size > 0 %}
       <li class="discord social-link">
-        <a href="https://www.instagram.com/{{programparticipant.discord}}/">
+        <a href="https://www.instagram.com/{{programparticipant.discord}}/" target="_blank">
           <span class="screen-reader-text">Discord</span>
         </a>
       </li>
