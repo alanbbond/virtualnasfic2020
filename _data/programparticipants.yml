@@ -18,6 +18,7 @@
   twitter: Ada_Palmer
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Alaya Dawn Johnson
   category:
   - Presenter
@@ -44,6 +45,7 @@
     Dawn Johnson Website")'
   website2: ''
   website3: ''
+  patreon: ''
 - name: Aliette de Bodard
   guest_of_honor: false
   role: ''
@@ -63,6 +65,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Alma Alexander
   guest_of_honor: false
   role: ''
@@ -73,13 +76,13 @@
     Pacific Northwest with her husband, two obligatory writer's cats, and assorted
     visiting wildlife.
   website1: '[AlmaAlexander.org](https://www.almaalexander.org/ "AlmaAlexander.org")'
-  website2: '[https://www.patreon.com/AlmaAlexander](https://www.patreon.com/AlmaAlexander
-    "https://www.patreon.com/AlmaAlexander")'
+  website2: ''
   website3: ''
   facebook: AuthorAlmaAlexander
   twitter: AlmaAlexander
   instagram: ''
   discord: ''
+  patreon: AlmaAlexander
 - name: Ben Yalow
   category:
   - Presenter
@@ -100,6 +103,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  patreon: ''
 - name: Beth Meacham
   guest_of_honor: false
   role: ''
@@ -122,6 +126,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Bill Thomasson
   guest_of_honor: false
   role: ''
@@ -138,6 +143,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Brandon Wilson
   category:
   - Presenter
@@ -159,6 +165,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  patreon: ''
 - name: Cat Rambo
   role: ''
   filename: cat-rambo.png
@@ -177,6 +184,7 @@
   website1: http://www.kittywumpus.net
   website2: ''
   website3: ''
+  patreon: ''
 - name: Cheryl Morgan
   guest_of_honor: false
   role: ''
@@ -192,6 +200,7 @@
   twitter: cherylmorgan
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Chris M. Barkley
   guest_of_honor: false
   role: ''
@@ -210,6 +219,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Dan Tres Omi
   guest_of_honor: false
   role: ''
@@ -224,6 +234,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: dave ring
   guest_of_honor: false
   role: ''
@@ -241,6 +252,7 @@
   twitter: "@slickhop"
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Doug Piero Carey
   guest_of_honor: false
   role: ''
@@ -256,6 +268,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Eileen Gunn
   guest_of_honor: false
   role: ''
@@ -281,6 +294,7 @@
   twitter: eileen_gunn
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Elsa R. Sjunneson
   guest_of_honor: false
   role: ''
@@ -296,6 +310,7 @@
   twitter: snarkbat
   instagram: ''
   discord: ''
+  patreon: ''
 - name: F. Paul Wilson
   role: ''
   filename: fpaulwilson-300dpi.jpg
@@ -317,6 +332,7 @@
   website1: "[Repairman Jack website](https://repairmanjack.com/)"
   website2: ''
   website3: ''
+  patreon: ''
 - name: James Bacon
   guest_of_honor: false
   role: ''
@@ -332,6 +348,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - website1: ''
   website2: ''
   website3: ''
@@ -351,6 +368,7 @@
   twitter: "@jholtham"
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Jennifer Blackstream
   guest_of_honor: false
   role: ''
@@ -367,6 +385,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Jeremy Holcomb
   guest_of_honor: false
   role: ''
@@ -386,6 +405,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Jim C. Hines
   guest_of_honor: false
   role: ''
@@ -403,6 +423,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Joel Zakem
   guest_of_honor: false
   role: ''
@@ -416,6 +437,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: John Medaille
   guest_of_honor: false
   role: ''
@@ -432,6 +454,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: John Wiswell
   guest_of_honor: false
   role: ''
@@ -446,6 +469,7 @@
   twitter: wiswell
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Jordan Kurella
   guest_of_honor: false
   role: ''
@@ -461,6 +485,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Julie Washington
   guest_of_honor: false
   role: ''
@@ -478,6 +503,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Kathryn Sullivan
   category:
   - Presenter
@@ -499,6 +525,7 @@
   website1: http://kathrynsullivan.com
   website2: ''
   website3: ''
+  patreon: ''
 - name: Laurence Raphael Brothers
   role: ''
   filename: laurence-brothers.jpg
@@ -517,6 +544,7 @@
   website1: https://laurencebrothers.com/
   website2: ''
   website3: ''
+  patreon: ''
 - name: Lucy A. Snyder
   guest_of_honor: false
   role: ''
@@ -534,6 +562,7 @@
   twitter: "@LucyASnyder"
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Malka Older
   guest_of_honor: false
   role: ''
@@ -553,6 +582,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Mari Ness
   role: ''
   filename: "/assets/images/mari-ness.jpg"
@@ -568,6 +598,7 @@
   facebook: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Mary Anne Mohanraj
   guest_of_honor: false
   role: ''
@@ -588,6 +619,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Michael Grossberg
   description: Michael Grossberg co-founded the Libertarian Futurist Society (lfs.org),
     established in 1981 to sustain the Prometheus Awards, and chairs the Prometheus
@@ -611,6 +643,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Michael R. Underwood
   guest_of_honor: false
   role: ''
@@ -628,6 +661,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Mike Chen
   guest_of_honor: false
   role: ''
@@ -647,6 +681,7 @@
   twitter: twitter.com/mikechenwriter
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Misha Stone
   guest_of_honor: false
   role: ''
@@ -661,6 +696,7 @@
   twitter: ahsimlibrarian
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Neil Clarke
   guest_of_honor: false
   role: ''
@@ -678,6 +714,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Oghenechovwe Donald Ekpeki
   guest_of_honor: false
   role: ''
@@ -700,6 +737,7 @@
   twitter: penprince_nsa
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Pablo Defendini
   guest_of_honor: false
   role: ''
@@ -717,6 +755,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Phoebe Barton
   guest_of_honor: false
   role: ''
@@ -734,6 +773,7 @@
   twitter: aphoebebarton
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Phoebe North
   guest_of_honor: false
   role: ''
@@ -757,6 +797,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Premee Mohamed
   guest_of_honor: false
   role: ''
@@ -774,6 +815,7 @@
   twitter: "@premeesaurus"
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Raven Oak
   guest_of_honor: false
   role: ''
@@ -793,6 +835,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Sherwood Smith
   guest_of_honor: false
   role: ''
@@ -806,6 +849,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Steven Gould
   guest_of_honor: false
   role: ''
@@ -824,6 +868,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Steven H. Silver
   guest_of_honor: false
   role: ''
@@ -841,6 +886,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
@@ -860,6 +906,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  patreon: ''
 - name: Valerie Estelle Frankel
   guest_of_honor: false
   role: ''
@@ -879,6 +926,7 @@
   twitter: valeriefrankel
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Valjeanne Jeffers
   guest_of_honor: false
   role: ''
@@ -900,6 +948,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: Victor Raymond
   filename: "/assets/images/victor-raymond.jpg"
   description: Victor Raymond is a writer, game designer, and activist, and has a
@@ -918,6 +967,7 @@
   twitter: ''
   instagram: ''
   discord: ''
+  patreon: ''
 - name: William S. Higgins
   category:
   - Presenter
@@ -938,6 +988,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+  patreon: ''
 - name: Brian Herbert
   role: Author Guest of Honor
   filename: brian-herbert.jpeg
@@ -958,6 +1009,7 @@
     Herbert Novels Site")'
   website2: ''
   website3: ''
+  patreon: ''
 - name: Kevin J. Anderson
   role: Author Guest of Honor
   filename: kevin-j-anderson.jpeg
@@ -979,6 +1031,7 @@
     ''"Kevin J. Anderson: Master Of Universes" Site'')'
   website2: ''
   website3: ''
+  patreon: ''
 - name: Stephanie Law
   role: Artist Guest of Honor
   filename: stephanie-law.jpeg
@@ -1017,6 +1070,7 @@
     "Journey Planet - 2015 Hugo Winner!")'
   website2: ''
   website3: ''
+  patreon: ''
 - name: Marc Millis
   role: Science Guest of Honor
   filename: marc-millis.jpeg
@@ -1030,6 +1084,7 @@
     "Mark Millis: Testing Possible Spacedrives")'
   website2: ''
   website3: ''
+  patreon: ''
 - name: Sue and Steve Francis
   role: Fan Guests of Honor
   filename: sue-and-steve-francis.jpg
@@ -1045,6 +1100,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
+  patreon: ''
 - name: Tom Smith
   role: Toastmaster
   filename: tom-smith.jpeg
@@ -1082,3 +1138,4 @@
   website1: '[EricFlint.net](https://ericflint.net/ "EricFlint.net")'
   website2: ''
   website3: ''
+  patreon: ''
