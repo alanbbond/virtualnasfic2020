@@ -183,7 +183,7 @@
   website3: ''
   name: J. Holtham
   guest_of_honor: false
-  role: Panelist
+  role: ''
   filename: "/assets/images/j-holtham.jpg"
   description: 'J. HOLTHAM is a screenwriter, semi-retired playwright and blogger.
     TV credits: PITCH (Fox), MARVEL’S CLOAK & DAGGER (Freeform), MARVEL’S JESSICA
@@ -367,6 +367,25 @@
   twitter: ''
   instagram: ''
   discord: ''
+- name: Tom Jackson
+  role: Moderator
+  filename: tom-jackson.jpg
+  description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky
+    Register who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma.
+    He writes a blog, RAWIllumination.net, devoted to writers Robert Anton Wilson
+    and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy).
+    He has been active in fandom for years, contributing to fanzines, attending conventions
+    and participating in the apas APA-50 and FAPA. He is a member of the board of
+    the Libertarian Futurist Society (lfs.org), which presents the Prometheus Award,
+    and serves as a judge on the Prometheus Award nominating committee.
+  twitter: ''
+  facebook: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
 - name: Victor Raymond
   filename: ''
   description: Victor Raymond is a writer, game designer, and activist, and has a
@@ -552,22 +571,3 @@
   website1: ''
   website2: ''
   website3: ''
-- name: Tom Jackson
-  role: Moderator
-  filename: tom-jackson.jpg
-  description: Tom Jackson, an Ohio resident, is a newspaper reporter for The Sandusky
-    Register who has also worked as a reporter in Cleveland, Ohio, and in Oklahoma.
-    He writes a blog, RAWIllumination.net, devoted to writers Robert Anton Wilson
-    and Robert Shea (Prometheus Hall of Fame winners for _The Illuminatus_trilogy).
-    He has been active in fandom for years, contributing to fanzines, attending conventions
-    and participating in the apas APA-50 and FAPA. He is a member of the board of
-    the Libertarian Futurist Society (lfs.org), which presents the Prometheus Award,
-    and serves as a judge on the Prometheus Award nominating committee.
-  twitter: ''
-  facebook: ''
-  website1: ''
-  website2: ''
-  website3: ''
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
