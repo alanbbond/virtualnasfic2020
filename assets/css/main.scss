@@ -29,14 +29,12 @@ body {
 
 h1 {
   color: $dark;
-  font-size: 3rem;
   margin: 0;
   line-height: 3rem;
 }
 
 h2 {
   color: $dark;
-  font-size: 2rem;
   margin: 3rem 0 2rem 0;
   line-height: 2rem;
 }
@@ -53,7 +51,7 @@ blockquote {
 
 header {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   background: $dark;
   margin: 0 0 1rem 0;
@@ -64,8 +62,7 @@ header {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    min-height: 100%;
-    width: 18%;
+    height: 3rem;
     margin: 0 1rem 0 0;
 
     a {
@@ -78,7 +75,6 @@ header {
   .header-content {
     margin: 0;
     padding: 0;
-    width: 77%;
     height: 100%;
     display: flex;
     flex-direction: row;
@@ -91,13 +87,6 @@ header {
       color: $medium-light;
       text-align: right;
     }
-    h1 {
-      line-height: 2rem;
-    }
-    h2 {
-      line-height: 1.2rem;
-      font-size: 1.4rem;
-    }
 
     nav {
       padding: 0;
@@ -106,11 +95,10 @@ header {
       flex-direction: column;
 
       ul.rooms-menu {
-        height: 3rem;
         align-items: center;
-        justify-content: flex-end;
 
         li {
+          flex-grow: 1;
           border-radius: 0.25rem;
           height: 1rem;
           box-shadow: inset 0.2rem 0.2rem 0.2rem $complement-very-light;
@@ -130,9 +118,9 @@ header {
 
       ul.public-menu {
         align-items: flex-end;
-        justify-content: flex-end;
 
         li {
+          flex-grow: 1;
           background-color: $medium-light;
           border-radius: 0.25rem 0.25rem 0 0;
           box-shadow: inset 0.2rem 0.2rem 0.3rem $very-light;
@@ -160,7 +148,7 @@ header {
           color: $dark;
           font-weight: bold;
           padding: 0.5rem;
-          margin: 0 0.5rem 0 0;
+          margin: 0.25rem;
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -191,9 +179,6 @@ header {
     margin-top: 1rem;
   }
 }
-.public-container {
-  width: 50rem;
-}
 
 .accesscontrol {
   display: flex;
@@ -203,7 +188,6 @@ header {
 /* agreement */
 
 .agreement-container > form {
-  width: 30rem;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -289,14 +273,13 @@ header {
 .program-participant-listing {
   min-height: 18rem;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 
   .floatimage {
     margin-top: 3rem;
   }
 
   .program-participant-info {
-    width: 40rem;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -406,8 +389,8 @@ footer {
   background-color: transparent;
 }
 .gallery-image {
-  width: 24rem;
-  height: 15vw;
+  width: 100%;
+  height: 80vw;
   margin: 1rem;
   background-color: $light;
   background-size: cover;
@@ -416,12 +399,9 @@ footer {
   border: 1rem solid $medium;
   border-radius: 1rem;
 }
+
 .lightbox-image {
-  width: calc(100% - 23rem);
-  height: 64rem;
-  background-color: $light;
-  border: unset;
-  border-radius: unset;
+  background-size: contain;
 }
 
 .gallery-image:not(.lightbox-image):hover {
@@ -488,6 +468,79 @@ ul.social-links-menu {
 }
 
 @media (min-width:1025px) {
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  header {
+    flex-direction: row;
+
+    .logo-link {
+      height: 5rem;
+      width: 18rem;
+    }
+
+    .header-content {
+      h1 {
+        line-height: 2rem;
+      }
+
+      h2 {
+        line-height: 1.2rem;
+        font-size: 1.4rem;
+      }
+
+      nav {
+
+        ul.rooms-menu {
+          height: 3rem;
+        }
+
+        ul {
+          justify-content: flex-end;
+
+          li {
+            margin: 0 0.5rem 0 0;
+          }
+        }
+      }
+    }
+  }
+
+  .public-container {
+    width: 50rem;
+  }
+
+  .program-participant-listing {
+    flex-direction: row;
+
+    .program-participant-info {
+      width: 40rem;
+    }
+  }
+
+  .agreement-container > form {
+    width: 30rem;
+  }
+
+  .gallery-image {
+    width: 24rem;
+    height: 15vw;
+  }
+
+  .lightbox-image {
+    width: calc(100% - 23rem);
+    height: 64rem;
+    background-color: $light;
+    border: unset;
+    border-radius: unset;
+  }
+
   footer {
     display: flex;
     flex-direction: row;
