@@ -7,6 +7,10 @@ order: 7
 ---
 # Info For Dealers
 
+## Apply:
+
+[Click here to go to the Dealer Application Form.](https://docs.google.com/forms/d/e/1FAIpQLSfuCzyut-dGxY33RgyNWReSl0girUJK9Ws8BkrON3LGU0MScQ/viewform?usp=sf_link "Dealer Application Form")
+
 ## Columbus NASFiC 2020 Virtual Dealer Room FAQ
 
 Please read this FAQ if you are interested in being a dealer at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Virtual Dealer Room.
@@ -42,3 +46,7 @@ As this will be primarily an online experience you will need to have an online p
 * A blurb to go with the above. Blurbs are 2-3 sentences of information about your business. Type of business/what you sell, what makes your business pertinent or interesting to our attendees, whether or not you accept wishlists/custom orders/wholesale or similar are all good things to put in a blurb. This is not meant to be a biography or list of accomplishments of your business.
 * Some kind of process for accepting sales while not physically present with a customer. This includes a shipping process. While NASFiC will not interfere with individual dealer practices we would really like attendees to be able to buy from dealers and if can’t or won’t ship your merchandise this isn’t a good fit for you.
 * If you wish to participate during the convention you will need to be able to access the Discord server. Instructions for how to do so will be posted on the NASFiC website but the minimum computer capability you will need is a computer with online access running Windows 7 or Mac OS 10.10 or a cell phone with iOS 10+ or Android 5+ as the OS. This will allow both text and voice chat. We anticipate “core hours” for dealer room Discord interaction and these times will be posted closer to the convention dates.
+
+## Apply:
+
+[Click here to go to the Dealer Application Form.](https://docs.google.com/forms/d/e/1FAIpQLSfuCzyut-dGxY33RgyNWReSl0girUJK9Ws8BkrON3LGU0MScQ/viewform?usp=sf_link "Dealer Application Form")
