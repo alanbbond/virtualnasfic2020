@@ -25,7 +25,6 @@
   filename: alaya-johnson.jpg
   twitter: ''
   facebook: ''
-  website: http://www.alayadawnjohnson.com
   description: Alaya Dawn Johnson is the author of seven novels for adults and young
     adults. Her most recent novel for adults, *Trouble the Saints*, was released in
     July 2020 from Tor books. A short story collection, *Reconstruction*, is forthcoming
@@ -41,7 +40,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: ''
+  website1: http://www.alayadawnjohnson.com
   website2: ''
   website3: ''
 - name: Aliette de Bodard
@@ -164,7 +163,6 @@
   filename: cat-rambo.png
   twitter: ''
   facebook: ''
-  website: http://www.kittywumpus.net
   description: Cat Rambo lives, writes, and teaches somewhere in the Pacific Northwest.
     Their 200+ fiction publications include stories in Asimov’s, Clarkesworld Magazine,
     and *The Magazine of Fantasy and Science Fiction*. Their most recent works are
@@ -175,7 +173,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: ''
+  website1: http://www.kittywumpus.net
   website2: ''
   website3: ''
 - name: Cheryl Morgan
@@ -271,7 +269,6 @@
 - name: F. Paul Wilson
   role: ''
   filename: fpaulwilson-300dpi.jpg
-  website: "[Repairman Jack website](https://repairmanjack.com/)"
   facebook: RealFPaulWilson
   twitter: fpaulwilson
   description: 'F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner
@@ -287,7 +284,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: ''
+  website1: "[Repairman Jack website](https://repairmanjack.com/)"
   website2: ''
   website3: ''
 - name: James Bacon
@@ -443,7 +440,6 @@
   filename: kathryn-sullivan.jpg
   twitter: ''
   facebook: KathrynSullivan.author
-  website: http://kathrynsullivan.com
   description: 'Kathryn Sullivan writes young adult science fiction and fantasy, including
     fantasy novel *The Crystal Throne* and short story collection *Agents*, *Adepts*,
     & *Apprentices*. She has essays in the Hugo Award winning *Chicks Dig Time Lords*
@@ -455,7 +451,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: ''
+  website1: http://kathrynsullivan.com
   website2: ''
   website3: ''
 - name: Laurence Raphael Brothers
@@ -463,7 +459,6 @@
   filename: laurence-brothers.jpg
   twitter: lbrothers
   facebook: ''
-  website: https://laurencebrothers.com/
   description: 'Laurence Raphael Brothers is a writer and a technologist with 5 patents
     and a background in AI and Internet R&D. More than 30 of his short stories have
     appeared in magazines such as *Nature*, *PodCastle*, *the New Haven Review*, and
@@ -474,7 +469,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: ''
+  website1: https://laurencebrothers.com/
   website2: ''
   website3: ''
 - name: Lucy A. Snyder
@@ -903,7 +898,6 @@
   filename: brian-herbert.jpeg
   twitter: DuneAuthor
   facebook: brianherbertnovels
-  website: https://www.brianherbertnovels.com/
   description: Brian Herbert, the son of famed science fiction author Frank Herbert,
     is the author of multiple New York Times bestsellers. He has won several literary
     honors and has been nominated for the highest awards in science fiction. In 2003,
@@ -924,7 +918,6 @@
   filename: kevin-j-anderson.jpeg
   twitter: TheKJA
   facebook: KJAauthor
-  website: https://www.wordfire.com/
   instagram: TheRealKJA
   description: Kevin J. Anderson has published more than 165 books, 56 of which have
     been national or international bestsellers.  He has written numerous novels in
@@ -937,7 +930,7 @@
     novels are *Stake*, *Kill Zone*, and *Spine of the Dragon*.
   discord: ''
   guest_of_honor: true
-  website1: ''
+  website1: https://www.wordfire.com/
   website2: ''
   website3: ''
 - name: Stephanie Law
@@ -945,7 +938,6 @@
   filename: stephanie-law.jpeg
   twitter: shadowscapes
   facebook: Shadowscapes
-  website: https://www.shadowscapes.com/
   instagram: spmlaw
   patreon: StephanieLaw
   description: 'Stephanie Law is a multi-media artist and illustrator from California.
@@ -960,14 +952,13 @@
     in Show at Dragoncon in 2015 for *When Flowers Dream*. '
   discord: ''
   guest_of_honor: true
-  website1: ''
+  website1: https://www.shadowscapes.com/
   website2: ''
   website3: ''
 - name: Christopher J. Garcia
   role: Editor Guest of Honor
   filename: christopher-j-garcia.jpeg
   facebook: JohnnyEponymous
-  website: http://journeyplanet.weebly.com
   description: 'Christopher J Garcia is a writer, filmmaker, festival programmer,curator,
     historian, podcaster, and painter from Boulder Creek, CA. He''s won a couple of
     Hugos, has a couple of kids, and is an all-around enthusiast. '
@@ -975,20 +966,19 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
-  website1: ''
+  website1: http://journeyplanet.weebly.com
   website2: ''
   website3: ''
 - name: Marc Millis
   role: Science Guest of Honor
   filename: marc-millis.jpeg
   description: See [his TEDx Brussels talk "Building 'Icarus'"](https://www.youtube.com/watch?v=9doOLHeW8p4)!
-  website: https://www.centauri-dreams.org/2019/09/20/marc-millis-testing-possible-spacedrives/
   twitter: ''
   facebook: ''
   instagram: ''
   discord: ''
   guest_of_honor: true
-  website1: ''
+  website1: https://www.centauri-dreams.org/2019/09/20/marc-millis-testing-possible-spacedrives/
   website2: ''
   website3: ''
 - name: Sue and Steve Francis
@@ -1010,7 +1000,6 @@
   role: Toastmaster
   filename: tom-smith.jpeg
   facebook: filkertom
-  website: http://tomsmithonline.com
   patreon: filkertom
   description: For 35 years, Tom Smith has been the morel conches of filk -- that
     is, he's in the dark a lot and makes weird noises when you hold him to your ear.
@@ -1023,14 +1012,13 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
-  website1: ''
+  website1: http://tomsmithonline.com
   website2: ''
   website3: ''
 - name: Eric Flint
   role: 1632 Minicon Guest
   filename: eric-flint.jpeg
   facebook: EricFlint1632
-  website: https://ericflint.net/
   description: Eric Flint's writing career began with the science fiction novel *Mother
     of Demons*. With David Drake, he has collaborated on the six-volume *Belisarius*
     series, as well as a novel entitled *The Tyrant*. His alternate history novel
@@ -1042,6 +1030,6 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
-  website1: ''
+  website1: https://ericflint.net/
   website2: ''
   website3: ''
