@@ -1,21 +1,4 @@
 ---
-- name: Julie Washington
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/julie-washington.jpg"
-  description: Julie is the former editor and founder of the newszine Cleveland Ansible,
-    and a Clarion graduate. She has written numerous interviews and reviews of SF
-    authors and movies for the Cleveland Plain Dealer newspaper. She helped organize
-    the Masquerade Contest at Marcon for two years. She is an active member of the
-    Society for Creative Anachronism. Currently Julie lives in Cleveland with her
-    husband, two cats, dragons, piles of fabric and many books.
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -100,6 +83,28 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
+- name: Beth Meacham
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/beth-meacham.jpg"
+  description: Beth Meacham has been a science fiction and fantasy editor for more
+    than 35 years. She has worked for Ace Books, Berkeley, and Tor, where she was
+    editor in chief from 1985 through 1989. She now works as an Executive Editor for
+    Tor, from her home in Arizona. Among the authors Beth has worked with are Kevin
+    J. Anderson, Orson Scott Card, Mary Robinette Kowal, Karl Schroeder, Spencer Ellsworth,
+    Cecelia Holland, Jay Lake, Elizabeth Bear, Pat Murphy, Sarah Monette, Mike Resnick,
+    Ken Scholes, Will Shetterly, John M. Ford, Michael Cassutt, Pat Murphy, Gordon
+    R. Dickson, Greg Bear, Kim Stanley Robinson, Tim Powers, Mike Brotherton, William
+    Gibson, David Brin, Pat Cadigan, Storm Constantine, Lisa Goldstein, Steven Gould,
+    Randy Henderson, Nancy Kress, Melanie Rawn, Charles Sheffield, Judith Tarr, Jack
+    Vance, Chelsea Quinn Yarbro and Jane Yolen.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Bill Thomasson
   guest_of_honor: false
   role: ''
@@ -274,6 +279,23 @@
   website3: ''
   facebook: ''
   twitter: wiswell
+  instagram: ''
+  discord: ''
+- name: Julie Washington
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/julie-washington.jpg"
+  description: Julie is the former editor and founder of the newszine Cleveland Ansible,
+    and a Clarion graduate. She has written numerous interviews and reviews of SF
+    authors and movies for the Cleveland Plain Dealer newspaper. She helped organize
+    the Masquerade Contest at Marcon for two years. She is an active member of the
+    Society for Creative Anachronism. Currently Julie lives in Cleveland with her
+    husband, two cats, dragons, piles of fabric and many books.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Kathryn Sullivan
