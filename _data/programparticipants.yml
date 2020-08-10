@@ -1,21 +1,88 @@
 ---
-- name: Phoebe Barton
+- name: Ada Palmer
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/phoebe-barton.jpg"
-  description: Phoebe Barton is a queer trans science fiction writer. Her short fiction
-    has appeared in venues such as Analog Science Fiction and Fact, On Spec, and Kaleidotrope,
-    anthologies from Bundoran Press and Alliteration Ink, and she is writing the interactive
-    fiction game The Luminous Underground for Choice of Games. She serves as an Associate
-    Editor at Escape Pod, and she is a 2019 graduate of the Clarion West Writers Workshop,
-    and lives with a robot in the sky above Toronto.
-  website1: "[PhoebeBartonSF.com](http://www.phoebebartonsf.com;)"
+  filename: "/assets/images/ada-palmer.jpg"
+  description: 'Ada Palmer’s Terra Ignota series (Tor Books, starting with "Too Like
+    the Lightning") explores a future of borderless nations and globally commixing
+    populations. She teaches history at the University of Chicago, studying the Renaissance,
+    Enlightenment, heresy, atheism, radical thought, and censorship. She composes
+    music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
+    performs with the group Sassafrass. She studies anime/manga, especially Osamu
+    Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
+    She blogs at ExUrbe.com.'
+  website1: "[Blog](http://www.exurbe.com/)"
+  website2: "[Personal Site](adapalmer.com)"
+  website3: "[Censorship and Information Control During Information Revolutions](voices.uchicago.edu/censorship)"
+  facebook: ''
+  twitter: Ada_Palmer
+  instagram: ''
+  discord: ''
+- name: Alaya Dawn Johnson
+  category:
+  - Presenter
+  role: Panelist
+  filename: alaya-johnson.jpg
+  twitter: ''
+  facebook: ''
+  website: http://www.alayadawnjohnson.com
+  description: Alaya Dawn Johnson is the author of seven novels for adults and young
+    adults. Her most recent novel for adults, *Trouble the Saints*, was released in
+    July 2020 from Tor books. A short story collection, *Reconstruction*, is forthcoming
+    in November 2020 from Small Beer Press. Her young adult novel *The Summer Prince*
+    was longlisted for the National Book Award for Young People's Literature, while
+    her novel *Love Is the Drug* won the Andre Norton/Nebula Award for Middle Grade/Young
+    Adult fiction. Her short stories have appeared in many magazines and anthologies,
+    including Best American Science Fiction and Fantasy 2015, *A Phoenix First Must
+    Burn*, *Feral Youth*, and *Zombies vs. Unicorns*. She lives in Mexico where she
+    received a master’s degree with honors in Mesoamerican Studies at the Universidad
+    Nacional Autónoma de México, for her thesis on pre-Columbian fermented food and
+    its role in the religious-agricultural calendar.
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
+- name: Aliette de Bodard
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/aliette-debodard.jpg"
+  description: Aliette de Bodard lives and works in Paris. She has won three Nebula
+    Awards, a Locus Award, a British Fantasy Award and four British Science Fiction
+    Association Awards, and was a double Hugo finalist for 2019 (Best Series and Best
+    Novella). Her most recent book is Of Dragons, Feasts and Murders, a fantasy of
+    manners and murders set in an alternate 19th Century Vietnamese court (upcoming
+    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection Of
+    Wars, and Memories, and Starlight is out from Subterranean Press. She lives in
+    Paris.
+  website1: "[Aliette de Bodard website](https://www.aliettedebodard.com)"
   website2: ''
   website3: ''
   facebook: ''
-  twitter: aphoebebarton
+  twitter: ''
   instagram: ''
   discord: ''
+- name: Ben Yalow
+  category:
+  - Presenter
+  role: ''
+  filename: ben-yalow.jpg
+  twitter: ''
+  facebook: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  description: Ben Yalow has attended about 800 cons, and worked on about a third
+    of them, at positions from gopher to regional convention chair, and Worldcon Division
+    Head/Chair staff, on multiple continents. He co-founded SMOFcon, to help conrunners
+    interchange information with each other, and was the Fan GoH at Discon3 and at
+    the San Diego NASFiC in 1990. He has edited four books for NESFA Press, which
+    regularly publishes books by the Guests of Honor of Boskone in addition to reprinting
+    the works of deserving classic SF writers.
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
 - name: Bill Thomasson
   guest_of_honor: false
   role: ''
@@ -26,6 +93,200 @@
     interdependent. Bill, who has been legally blind for the past 20 years, is also
     active in the disability community and has worked Access at a number of Worldcons.
   website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Brandon Wilson
+  category:
+  - Presenter
+  role: ''
+  filename: brandon-wilson.jpg
+  twitter: Geniusbastard
+  facebook: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  description: "Brandon Wilson is a filmmaker and lecturer. Born and raised in Los
+    Angeles, he attended UCLA where he took a B.A. in African-American Studies and
+    an M.F.A. from the UCLA School of Theater, Film, and Television. Wilson has directed
+    two micro-budget features: 2005’s *The Man Who Couldn’t…* which is on YouTube,
+    and *Sepulveda* from 2016, which is streaming for free on Vimeo. \n\nWilson teaches
+    Film Analysis for Filmmakers and Introduction to Editing courses at UCLA. He also
+    teaches at Columbia College Hollywood and Long Beach Community College.  He blogs
+    and has been a guest on several film oriented podcasts."
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
+- name: Cat Rambo
+  role: ''
+  filename: cat-rambo.png
+  twitter: ''
+  facebook: ''
+  website: http://www.kittywumpus.net
+  description: Cat Rambo lives, writes, and teaches somewhere in the Pacific Northwest.
+    Their 200+ fiction publications include stories in Asimov’s, Clarkesworld Magazine,
+    and *The Magazine of Fantasy and Science Fiction*. Their most recent works are
+    Nebula Award winner *Carpe Glitter* (Meerkat Press) and on-going serial novella
+    *Baby Driver*. Forthcoming are fantasy novel *Exiles of Tabat* (Wordfire Press,
+    fall 2020), space opera *You Sexy Thing* (Tor Macmillan, 2021) and the conclusion
+    to the Tabat Quartet, *Gods of Tabat* (Wordfire Press, 2021).
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
+- name: dave ring
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/dave-ring.jpeg"
+  description: 'dave ring is the chair of the OutWrite LGBTQ Book Festival in Washington,
+    DC. He has stories featured or forthcoming in a number of publications, including
+    Fireside Fiction, GlitterShip, and A Punk Rock Future. He is the publisher and
+    managing editor of Neon Hemlock Press, as well as the editor of Broken Metropolis:
+    Queer Tales of a City That Never Was from Mason Jar Press. More info at www.dave-ring.com.
+    Follow him at @slickhop.'
+  website1: "[www.dave-ring.com](http://www.exurbe.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: "@slickhop"
+  instagram: ''
+  discord: ''
+- name: F. Paul Wilson
+  role: ''
+  filename: fpaulwilson-300dpi.jpg
+  website: "[Repairman Jack website](https://repairmanjack.com/)"
+  facebook: RealFPaulWilson
+  twitter: fpaulwilson
+  description: 'F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner
+    and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning
+    science fiction, horror, adventure, medical thrillers, young-adult, etc. – including
+    the Prometheus Award (www.lfs.org) winners *Wheels within Wheels*, an sf murder
+    mystery; *Sims*; *Healer*; and *An Enemy of the State*. Wilson, who sold his first
+    story to Analog in 1970 and has 8 million books in U.S. print, is best known as
+    creator of the urban mercenary Repairman Jack (featured in his latest novel *The
+    Last Christmas*). Among his New York Times bestsellers: *The Keep* (also a 1983
+    Paramount film), *The Tomb*, *Harbingers*, *By the Sword*, *The Dark at the End*,
+    and *Nightworld*.'
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
+- website1: ''
+  website2: ''
+  website3: ''
+  name: J. Holtham
+  guest_of_honor: false
+  role: Panelist
+  filename: "/assets/images/j-holtham.jpg"
+  description: 'J. HOLTHAM is a screenwriter, semi-retired playwright and blogger.
+    TV credits: PITCH (Fox), MARVEL’S CLOAK & DAGGER (Freeform), MARVEL’S JESSICA
+    JONES (Netflix), SUPERGIRL (CW). He was a 2016 Humanitas New Voices Fellow. His
+    screenplay Killers Anonymous was a finalist for the 2014 PAGE Screenwriting Award
+    and the 2014 Final Draft Big Break Contest, as well as a finalist for the Writers
+    Store’s Industry Insider Contest. His screenplay Hunter Lake was featured on The
+    Black List website and was a semi-finalist for the 2015 Blue Cat Screenplay Contest.
+    He is a proud product of public education.'
+  facebook: ''
+  twitter: "@jholtham"
+  instagram: ''
+  discord: ''
+- name: Kathryn Sullivan
+  category:
+  - Presenter
+  role: ''
+  filename: kathryn-sullivan.jpg
+  twitter: ''
+  facebook: KathrynSullivan.author
+  website: http://kathrynsullivan.com
+  description: 'Kathryn Sullivan writes young adult science fiction and fantasy, including
+    fantasy novel *The Crystal Throne* and short story collection *Agents*, *Adepts*,
+    & *Apprentices*. She has essays in the Hugo Award winning *Chicks Dig Time Lords*
+    and in *Children Of Time: Companions Of Doctor Who* and *Outside In*. She is owned
+    by a large cockatoo, who graciously allows her to write about other animals, as
+    well as birdlike aliens. Kathryn lives in Winona, MN, where the river bluffs along
+    the Mississippi River double as cliffs on alien planets or the deep mysterious
+    forests in a magical world.'
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
+- name: Laurence Raphael Brothers
+  role: ''
+  filename: laurence-brothers.jpg
+  twitter: lbrothers
+  facebook: ''
+  website: https://laurencebrothers.com/
+  description: 'Laurence Raphael Brothers is a writer and a technologist with 5 patents
+    and a background in AI and Internet R&D. More than 30 of his short stories have
+    appeared in magazines such as *Nature*, *PodCastle*, *the New Haven Review*, and
+    *Galaxy''s Edge*. His WWI-era fantasy novel *Twilight Patrol* and his romantic
+    noir urban fantasy novella *The Demons of Wall Street* were both just recently
+    published. Follow him on twitter: @lbrothers or visit [his bibliography](https://laurencebrothers.com/bibliography)
+    for more stories that can be read or listened to online. Pronouns: he/him.'
+  instagram: ''
+  discord: ''
+  guest_of_honor: false
+  website1: ''
+  website2: ''
+  website3: ''
+- name: Malka Older
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/malka-older.jpg"
+  description: Malka Older is a writer, aid worker, and sociologist. Her science-fiction
+    political thriller Infomocracy was named one of the best books of 2016 by Kirkus,
+    Book Riot, and the Washington Post. She is the creator of the serial Ninth Step
+    Station, currently running on Serial Box, and her short story collection And Other
+    Disasters came out in November 2019. She is a Faculty Associate at Arizona State
+    University’s School for the Future of Innovation in Society and her opinions can
+    be found in The New York Times, The Nation, Foreign Policy, and NBC THINK, among
+    other places.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: https://www.facebook.com/MalkaOlderAuthor/
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Mike Chen
+  guest_of_honor: false
+  role: Panelist
+  filename: "/assets/images/mike-chen.jpg"
+  description: 'Mike Chen is the author of _Here And Now And Then_ (a finalist for
+    Goodreads Choice - Best Sci-Fi, CALIBA Golden Poppy, and the Compton Crook Award)
+    and _A Beginning At The End_ ("a brilliant, fragile path through the darkness"
+    -- Library Journal). His short fiction is featured in Star Wars: From A Certain
+    Point Of View -- The Empire Strikes Back, and he has covered geek culture for
+    sites such as Tor.com, The Mary Sue, and StarTrek.com. In a previous life, he
+    covered the NHL for Fox Sports, SB Nation, and other outlets. A member of SFWA,
+    Mike lives in the Bay Area with his wife, daughter, and rescue animals.'
+  website1: " "
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: twitter.com/mikechenwriter
+  instagram: ''
+  discord: ''
+- name: Neil Clarke
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/neil-clarke.jpg"
+  description: Neil Clarke (neil-clarke.com) is the editor of the Hugo and World Fantasy
+    Award-winning Clarkesworld Magazine (clarkesworldmagazine.com) and several anthologies,
+    including the Best Science Fiction of the Year series. He has been a finalist
+    for the Hugo Award for Best Editor (Short Form) eight times, won the Chesley Award
+    for Best Art Director three times, and received the Solstice Award from SFWA in
+    2019. He currently lives in NJ with his wife and two sons.
+  website1: "[Neil-Clarke.com](http://neil-clarke.com)"
   website2: ''
   website3: ''
   facebook: ''
@@ -54,22 +315,21 @@
   twitter: penprince_nsa
   instagram: ''
   discord: ''
-- name: Steven Gould
+- name: Phoebe Barton
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/steven-gould.jpg"
-  description: Steven Gould is the author of over ten novels from Tor Books. JUMPER,
-    his first novel, was made into the 2008 motion picture starring Hayden Christensen,
-    Rachel Bilson, Samuel R. Jackson, and Jamie Bell. IMPULSE, the third novel in
-    the JUMPER series, is the source material for the YouTube Originals television
-    series of the same name starring Maddie Hasson, Sarah Desjardins, Enuka Okuma,
-    and Missy Pyle. Season One and Two are is availble now. Steven was President of
-    SFWA from 2013-2015.
-  website1: ''
+  filename: "/assets/images/phoebe-barton.jpg"
+  description: Phoebe Barton is a queer trans science fiction writer. Her short fiction
+    has appeared in venues such as Analog Science Fiction and Fact, On Spec, and Kaleidotrope,
+    anthologies from Bundoran Press and Alliteration Ink, and she is writing the interactive
+    fiction game The Luminous Underground for Choice of Games. She serves as an Associate
+    Editor at Escape Pod, and she is a 2019 graduate of the Clarion West Writers Workshop,
+    and lives with a robot in the sky above Toronto.
+  website1: "[PhoebeBartonSF.com](http://www.phoebebartonsf.com;)"
   website2: ''
   website3: ''
   facebook: ''
-  twitter: ''
+  twitter: aphoebebarton
   instagram: ''
   discord: ''
 - name: Premee Mohamed
@@ -89,114 +349,22 @@
   twitter: "@premeesaurus"
   instagram: ''
   discord: ''
-- name: Neil Clarke
+- name: Steven Gould
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/neil-clarke.jpg"
-  description: Neil Clarke (neil-clarke.com) is the editor of the Hugo and World Fantasy
-    Award-winning Clarkesworld Magazine (clarkesworldmagazine.com) and several anthologies,
-    including the Best Science Fiction of the Year series. He has been a finalist
-    for the Hugo Award for Best Editor (Short Form) eight times, won the Chesley Award
-    for Best Art Director three times, and received the Solstice Award from SFWA in
-    2019. He currently lives in NJ with his wife and two sons.
-  website1: "[Neil-Clarke.com](http://neil-clarke.com)"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-- name: Aliette de Bodard
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/aliette-debodard.jpg"
-  description: Aliette de Bodard lives and works in Paris. She has won three Nebula
-    Awards, a Locus Award, a British Fantasy Award and four British Science Fiction
-    Association Awards, and was a double Hugo finalist for 2019 (Best Series and Best
-    Novella). Her most recent book is Of Dragons, Feasts and Murders, a fantasy of
-    manners and murders set in an alternate 19th Century Vietnamese court (upcoming
-    July 7th from JABberwocky Literary Agency, Inc.). Her short story collection Of
-    Wars, and Memories, and Starlight is out from Subterranean Press. She lives in
-    Paris.
-  website1: "[Aliette de Bodard website](https://www.aliettedebodard.com)"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-- name: dave ring
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/dave-ring.jpeg"
-  description: 'dave ring is the chair of the OutWrite LGBTQ Book Festival in Washington,
-    DC. He has stories featured or forthcoming in a number of publications, including
-    Fireside Fiction, GlitterShip, and A Punk Rock Future. He is the publisher and
-    managing editor of Neon Hemlock Press, as well as the editor of Broken Metropolis:
-    Queer Tales of a City That Never Was from Mason Jar Press. More info at www.dave-ring.com.
-    Follow him at @slickhop.'
-  website1: "[www.dave-ring.com](http://www.exurbe.com/)"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: "@slickhop"
-  instagram: ''
-  discord: ''
-- name: Ada Palmer
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/ada-palmer.jpg"
-  description: 'Ada Palmer’s Terra Ignota series (Tor Books, starting with "Too Like
-    the Lightning") explores a future of borderless nations and globally commixing
-    populations. She teaches history at the University of Chicago, studying the Renaissance,
-    Enlightenment, heresy, atheism, radical thought, and censorship. She composes
-    music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
-    performs with the group Sassafrass. She studies anime/manga, especially Osamu
-    Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
-    She blogs at ExUrbe.com.'
-  website1: "[Blog](http://www.exurbe.com/)"
-  website2: "[Personal Site](adapalmer.com)"
-  website3: "[Censorship and Information Control During Information Revolutions](voices.uchicago.edu/censorship)"
-  facebook: ''
-  twitter: Ada_Palmer
-  instagram: ''
-  discord: ''
-- name: Malka Older
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/malka-older.jpg"
-  description: Malka Older is a writer, aid worker, and sociologist. Her science-fiction
-    political thriller Infomocracy was named one of the best books of 2016 by Kirkus,
-    Book Riot, and the Washington Post. She is the creator of the serial Ninth Step
-    Station, currently running on Serial Box, and her short story collection And Other
-    Disasters came out in November 2019. She is a Faculty Associate at Arizona State
-    University’s School for the Future of Innovation in Society and her opinions can
-    be found in The New York Times, The Nation, Foreign Policy, and NBC THINK, among
-    other places.
+  filename: "/assets/images/steven-gould.jpg"
+  description: Steven Gould is the author of over ten novels from Tor Books. JUMPER,
+    his first novel, was made into the 2008 motion picture starring Hayden Christensen,
+    Rachel Bilson, Samuel R. Jackson, and Jamie Bell. IMPULSE, the third novel in
+    the JUMPER series, is the source material for the YouTube Originals television
+    series of the same name starring Maddie Hasson, Sarah Desjardins, Enuka Okuma,
+    and Missy Pyle. Season One and Two are is availble now. Steven was President of
+    SFWA from 2013-2015.
   website1: ''
   website2: ''
   website3: ''
-  facebook: https://www.facebook.com/MalkaOlderAuthor/
-  twitter: ''
-  instagram: ''
-  discord: ''
-- website1: ''
-  website2: ''
-  website3: ''
-  name: J. Holtham
-  guest_of_honor: false
-  role: Panelist
-  filename: "/assets/images/j-holtham.jpg"
-  description: 'J. HOLTHAM is a screenwriter, semi-retired playwright and blogger.
-    TV credits: PITCH (Fox), MARVEL’S CLOAK & DAGGER (Freeform), MARVEL’S JESSICA
-    JONES (Netflix), SUPERGIRL (CW). He was a 2016 Humanitas New Voices Fellow. His
-    screenplay Killers Anonymous was a finalist for the 2014 PAGE Screenwriting Award
-    and the 2014 Final Draft Big Break Contest, as well as a finalist for the Writers
-    Store’s Industry Insider Contest. His screenplay Hunter Lake was featured on The
-    Black List website and was a semi-finalist for the 2015 Blue Cat Screenplay Contest.
-    He is a proud product of public education.'
   facebook: ''
-  twitter: "@jholtham"
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Victor Raymond
@@ -217,126 +385,6 @@
   twitter: ''
   instagram: ''
   discord: ''
-- name: Mike Chen
-  guest_of_honor: false
-  role: Panelist
-  filename: "/assets/images/mike-chen.jpg"
-  description: 'Mike Chen is the author of _Here And Now And Then_ (a finalist for
-    Goodreads Choice - Best Sci-Fi, CALIBA Golden Poppy, and the Compton Crook Award)
-    and _A Beginning At The End_ ("a brilliant, fragile path through the darkness"
-    -- Library Journal). His short fiction is featured in Star Wars: From A Certain
-    Point Of View -- The Empire Strikes Back, and he has covered geek culture for
-    sites such as Tor.com, The Mary Sue, and StarTrek.com. In a previous life, he
-    covered the NHL for Fox Sports, SB Nation, and other outlets. A member of SFWA,
-    Mike lives in the Bay Area with his wife, daughter, and rescue animals.'
-  website1: " "
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: twitter.com/mikechenwriter
-  instagram: ''
-  discord: ''
-- name: Cat Rambo
-  role: ''
-  filename: cat-rambo.png
-  twitter: ''
-  facebook: ''
-  website: http://www.kittywumpus.net
-  description: Cat Rambo lives, writes, and teaches somewhere in the Pacific Northwest.
-    Their 200+ fiction publications include stories in Asimov’s, Clarkesworld Magazine,
-    and *The Magazine of Fantasy and Science Fiction*. Their most recent works are
-    Nebula Award winner *Carpe Glitter* (Meerkat Press) and on-going serial novella
-    *Baby Driver*. Forthcoming are fantasy novel *Exiles of Tabat* (Wordfire Press,
-    fall 2020), space opera *You Sexy Thing* (Tor Macmillan, 2021) and the conclusion
-    to the Tabat Quartet, *Gods of Tabat* (Wordfire Press, 2021).
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
-  website1: ''
-  website2: ''
-  website3: ''
-- name: Brandon Wilson
-  category:
-  - Presenter
-  role: ''
-  filename: brandon-wilson.jpg
-  twitter: Geniusbastard
-  facebook: ''
-  website1: ''
-  website2: ''
-  website3: ''
-  description: "Brandon Wilson is a filmmaker and lecturer. Born and raised in Los
-    Angeles, he attended UCLA where he took a B.A. in African-American Studies and
-    an M.F.A. from the UCLA School of Theater, Film, and Television. Wilson has directed
-    two micro-budget features: 2005’s *The Man Who Couldn’t…* which is on YouTube,
-    and *Sepulveda* from 2016, which is streaming for free on Vimeo. \n\nWilson teaches
-    Film Analysis for Filmmakers and Introduction to Editing courses at UCLA. He also
-    teaches at Columbia College Hollywood and Long Beach Community College.  He blogs
-    and has been a guest on several film oriented podcasts."
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
-- name: Laurence Raphael Brothers
-  role: ''
-  filename: laurence-brothers.jpg
-  twitter: lbrothers
-  facebook: ''
-  website: https://laurencebrothers.com/
-  description: 'Laurence Raphael Brothers is a writer and a technologist with 5 patents
-    and a background in AI and Internet R&D. More than 30 of his short stories have
-    appeared in magazines such as *Nature*, *PodCastle*, *the New Haven Review*, and
-    *Galaxy''s Edge*. His WWI-era fantasy novel *Twilight Patrol* and his romantic
-    noir urban fantasy novella *The Demons of Wall Street* were both just recently
-    published. Follow him on twitter: @lbrothers or visit [his bibliography](https://laurencebrothers.com/bibliography)
-    for more stories that can be read or listened to online. Pronouns: he/him.'
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
-  website1: ''
-  website2: ''
-  website3: ''
-- name: Kathryn Sullivan
-  category:
-  - Presenter
-  role: ''
-  filename: kathryn-sullivan.jpg
-  twitter: ''
-  facebook: KathrynSullivan.author
-  website: http://kathrynsullivan.com
-  description: 'Kathryn Sullivan writes young adult science fiction and fantasy, including
-    fantasy novel *The Crystal Throne* and short story collection *Agents*, *Adepts*,
-    & *Apprentices*. She has essays in the Hugo Award winning *Chicks Dig Time Lords*
-    and in *Children Of Time: Companions Of Doctor Who* and *Outside In*. She is owned
-    by a large cockatoo, who graciously allows her to write about other animals, as
-    well as birdlike aliens. Kathryn lives in Winona, MN, where the river bluffs along
-    the Mississippi River double as cliffs on alien planets or the deep mysterious
-    forests in a magical world.'
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
-  website1: ''
-  website2: ''
-  website3: ''
-- name: Ben Yalow
-  category:
-  - Presenter
-  role: ''
-  filename: ben-yalow.jpg
-  twitter: ''
-  facebook: ''
-  website1: ''
-  website2: ''
-  website3: ''
-  description: Ben Yalow has attended about 800 cons, and worked on about a third
-    of them, at positions from gopher to regional convention chair, and Worldcon Division
-    Head/Chair staff, on multiple continents. He co-founded SMOFcon, to help conrunners
-    interchange information with each other, and was the Fan GoH at Discon3 and at
-    the San Diego NASFiC in 1990. He has edited four books for NESFA Press, which
-    regularly publishes books by the Guests of Honor of Boskone in addition to reprinting
-    the works of deserving classic SF writers.
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
 - name: William S. Higgins
   category:
   - Presenter
@@ -357,32 +405,6 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-- name: Alaya Dawn Johnson
-  category:
-  - Presenter
-  role: Panelist
-  filename: alaya-johnson.jpg
-  twitter: ''
-  facebook: ''
-  website: http://www.alayadawnjohnson.com
-  description: Alaya Dawn Johnson is the author of seven novels for adults and young
-    adults. Her most recent novel for adults, *Trouble the Saints*, was released in
-    July 2020 from Tor books. A short story collection, *Reconstruction*, is forthcoming
-    in November 2020 from Small Beer Press. Her young adult novel *The Summer Prince*
-    was longlisted for the National Book Award for Young People's Literature, while
-    her novel *Love Is the Drug* won the Andre Norton/Nebula Award for Middle Grade/Young
-    Adult fiction. Her short stories have appeared in many magazines and anthologies,
-    including Best American Science Fiction and Fantasy 2015, *A Phoenix First Must
-    Burn*, *Feral Youth*, and *Zombies vs. Unicorns*. She lives in Mexico where she
-    received a master’s degree with honors in Mesoamerican Studies at the Universidad
-    Nacional Autónoma de México, for her thesis on pre-Columbian fermented food and
-    its role in the religious-agricultural calendar.
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
-  website1: ''
-  website2: ''
-  website3: ''
 - name: Brian Herbert
   role: Author Guest of Honor
   filename: brian-herbert.jpeg
@@ -549,25 +571,3 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-- name: F. Paul Wilson
-  role: ''
-  filename: fpaulwilson-300dpi.jpg
-  website: "[Repairman Jack website](https://repairmanjack.com/)"
-  facebook: RealFPaulWilson
-  twitter: fpaulwilson
-  description: 'F. Paul Wilson, a New Jersey resident, Grand Master Horror award-winner
-    and Prometheus Award Lifetime Achievement winner, has written over 60 books spanning
-    science fiction, horror, adventure, medical thrillers, young-adult, etc. – including
-    the Prometheus Award (www.lfs.org) winners *Wheels within Wheels*, an sf murder
-    mystery; *Sims*; *Healer*; and *An Enemy of the State*. Wilson, who sold his first
-    story to Analog in 1970 and has 8 million books in U.S. print, is best known as
-    creator of the urban mercenary Repairman Jack (featured in his latest novel *The
-    Last Christmas*). Among his New York Times bestsellers: *The Keep* (also a 1983
-    Paramount film), *The Tomb*, *Harbingers*, *By the Sword*, *The Dark at the End*,
-    and *Nightworld*.'
-  instagram: ''
-  discord: ''
-  guest_of_honor: false
-  website1: ''
-  website2: ''
-  website3: ''
