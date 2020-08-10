@@ -1,4 +1,20 @@
 ---
+- name: Jennifer Blackstream
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jennifer-blackstream.jpg"
+  description: Jennifer Blackstream is a USA Today bestselling author of urban fantasy
+    and paranormal romance. She is amazed and grateful to have made a writing career
+    out of a Master’s degree in Psychology, hours of couch-detecting watching Miss
+    Fisher’s Murder Mysteries, and endless research into mythology and fairy tales.
+  website1: '[https://www.jenniferblackstream.com](https://www.jenniferblackstream.com
+    "https://www.jenniferblackstream.com")'
+  website2: ''
+  website3: ''
+  facebook: JenniferBlackstream8675309
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
