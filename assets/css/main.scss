@@ -320,21 +320,19 @@ header {
 /* footer */
 
 footer {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
   background-color: $dark;
   color: $very-light;
   margin-top: 1rem;
   padding-top: 1rem;
 
-  &>* {
-    margin: 0 1rem;
+  &>*:not(.legal) {
+    margin: 0 auto;
+    padding: 0.5rem;
+    text-align: center;
   }
 
-  .license-section {
-    text-align: center;
+  ul.social-links-menu {
+    width: fit-content;
   }
 
   a, a:visited {
@@ -343,7 +341,7 @@ footer {
 
   .legal {
     font-size: 0.8rem;
-    margin: 1rem;
+    padding: 3rem;
   }
 
   img.license-img {
@@ -486,5 +484,14 @@ ul.social-links-menu {
 
   li.patreon {
     background-image: url('data:image/svg+xml;utf8,#{$patreon}');
+  }
+}
+
+@media (min-width:1025px) {
+  footer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
 }
