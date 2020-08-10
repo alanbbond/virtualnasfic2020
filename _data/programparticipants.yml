@@ -1,4 +1,30 @@
 ---
+- name: ''
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+- name: Misha Stone
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/misha-stone.jpg"
+  description: Misha Stone (she/her) is a Reader Services Librarian in Seattle. She
+    serves on the Clarion West Writers Workshop board. Misha reads science fiction,
+    fantasy, lit fic, and romance, and is a karaoke enthusiast.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ahsimlibrarian
+  instagram: ''
+  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
