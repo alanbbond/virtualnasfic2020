@@ -331,6 +331,26 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Eboni Dunbar
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/eboni-dunbar.jpg"
+  description: 'Eboni J Dunbar (She/her) is a queer, black woman who writes queer
+    and black speculative fiction. She resides in the San Francisco Bay Area with
+    her partner. She received her BA from Macalester College in English and her MFA
+    in Creative Writing from Mills College. She is a VONA and Voodoonauts Alum, a
+    managing editor for _FIYAH Literary Magazine_ and a freelance reviewer. Her work
+    can be found in _FIYAH Literary Magazine_, _Drabblecast_, _Anathema: Spec from
+    the margins_ and _Nightlight Podcast_. She also has a forthcoming novella from
+    Neon Hemlock, coming Fall 2020.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Eileen Gunn
   guest_of_honor: false
   role: ''
@@ -628,6 +648,27 @@
   website1: "[kathrynsullivan.com]()"
   website2: ''
   website3: ''
+  patreon: ''
+- name: L.D. Lewis
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: 'L.D. Lewis is an award-winning SF/F writer and editor, and serves
+    as a founding creator, Art Director, and Project Manager for the World Fantasy
+    Award-winning and Hugo Award-nominated _FIYAH Literary Magazine_. She also serves
+    as Grant Administrator for the Speculative Literature Foundation and as a researcher
+    for the LeVar Burton Reads podcast, and Director of FIYAHCON. She is the author
+    of _A Ruin of Shadows_ (Dancing Star Press, 2018) and her published short fiction
+    includes appearances in FIYAH, PodCastle, Strange Horizons, Anathema: Spec from
+    the Margins, and Fireside Magazine, among others. She lives in Georgia with her
+    coffee habit and an impressive Funko Pop! collection.'
+  website1: "[ldlewiswrites.com]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ellethevillain
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: Laurence Raphael Brothers
   role: ''
