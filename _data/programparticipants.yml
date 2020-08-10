@@ -1,4 +1,21 @@
 ---
+- name: Steven H. Silver
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/steven-silver.jpg"
+  description: Steven H Silver is a seventeen-time Hugo Award nominee and was the
+    publisher of the Hugo-nominated fanzine Argentus as well as the editor and publisher
+    of ISFiC Press for 8 years. He has also edited books for DAW, NESFA Press, and
+    ZNB Books. He began publishing short fiction in 2008, his most recently published
+    story is "A Letter Home," his most recent book is After Hastings. In 1995, he
+    created the Sidewise Award for Alternate History.
+  website1: http://www.sfsite.com/\~silverag/afterhastings.html
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -178,6 +195,24 @@
   website1: ''
   website2: ''
   website3: ''
+- name: Chris M. Barkley
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/chris-barkley-1.jpg"
+  description: Chris Barkley's first sf convention was Midwestcon 27 in June 1976.
+    Since then he as gone to nearly 200 cons, including 29 World Science Fiction Conventions.
+    In his 44 years in fandom, he has been a convention worker/volunteer, a convention
+    chair, (Cinclave in 1986), a professional bookseller, book collector, genre radio
+    talk show host, a fan activist involved with the Worldcon Business Meeting, a
+    tv and movie reviewer and currently, a columnist at large for the Hugo Award winning
+    fanzine, File 770 dot com. He resides in Cincinnati, Ohio.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: chris.barkley
+  twitter: ''
+  instagram: ''
+  discord: ''
 - name: dave ring
   guest_of_honor: false
   role: ''
@@ -193,6 +228,31 @@
   website3: ''
   facebook: ''
   twitter: "@slickhop"
+  instagram: ''
+  discord: ''
+- name: Eileen Gunn
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/eileen-gunn.jpg"
+  description: 'Eileen Gunn writes short stories. Her fiction has received the Nebula
+    Award in the US and the Sense of Gender Award in Japan, and been nominated for
+    the Hugo, Philip K. Dick, and World Fantasy awards and short-listed for the James
+    Tiptree, Jr. award (now the Otherwise Award). Gunn was editor/publisher of the
+    influential Infinite Matrix webzine. She serves on the board of directors of the
+    Locus Foundation, and served for 22 years on the board of the Clarion West Writers
+    Workshop. She is the author of two story collections.  '
+  website1: "[http://www.eileengunn.com](Eileen Gunn writes short stories. Her fiction
+    has received the Nebula Award in the US and the Sense of Gender Award in Japan,
+    and been nominated for the Hugo, Philip K. Dick, and World Fantasy awards and
+    short-listed for the James Tiptree, Jr. award (now the Otherwise Award). Gunn
+    was editor/publisher of the influential Infinite Matrix webzine. She serves on
+    the board of directors of the Locus Foundation, and served for 22 years on the
+    board of the Clarion West Writers Workshop. She is the author of two story collections.
+    Website: http://www.eileengunn.com.)"
+  website2: ''
+  website3: ''
+  facebook: Eileengunn
+  twitter: eileen_gunn
   instagram: ''
   discord: ''
 - name: F. Paul Wilson
@@ -420,6 +480,26 @@
   twitter: mari_ness
   guest_of_honor: false
   facebook: ''
+  instagram: ''
+  discord: ''
+- name: Mary Anne Mohanraj
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/mary-anne-mohanraj.jpg"
+  description: 'Mary Anne Mohanraj is author of A Feast of Serendib, Bodies in Motion,
+    The Stars Change, and twelve other titles. Other recent publications include stories
+    for George R.R. Martin’s Wild Cards series, Perennial: A Garden Romance (Tincture),
+    stories at Clarkesworld, Asimov’s, and Lightspeed, and an essay in Roxane Gay’s
+    Unruly Bodies. Mohanraj founded Hugo-nominated and World Fantasy Award-winning
+    speculative literature magazine Strange Horizons, and serves as Executive Director
+    of both DesiLit (desilit.org) and the Speculative Literature Foundation (speclit.org).
+    She is Clinical Associate Professor of fiction and literature at the University
+    of Illinois at Chicago. www.maryannemohanraj.com'
+  website1: "[www.maryannmohanraj.com](www.maryannmohanraj.com)"
+  website2: "[www.speculativeliterature.org](www.speculativeliterature.org)"
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
 - name: Michael R. Underwood
