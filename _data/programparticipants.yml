@@ -1060,7 +1060,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: true
-  website1: http://tomsmithonline.com
+  website1: '[Tom Smith Online](http://tomsmithonline.com "Tom Smith Online")'
   website2: ''
   website3: ''
 - name: Eric Flint
