@@ -1,17 +1,23 @@
 <section class="schedule-listing">
   <h3>{{ event.title }}</h3>
   <p class="byline">
+    {% if event.room.size > 0 %}
     <span class="link">
-      <a href="{{ event.link }}">Link To Teleconference</a>
+      <a href="/{{ event.room | slugify }}">{{ event.room }}</a>
     </span>
+    {% endif %}
+    {% if event.time.size > 0 %}
     <span class="time">
       {{ event.day }}, {{ event.time }}
     </span>
+    {% endif %}
   </p>
   <p class="byline">
+    {% if event.moderators.size > 0 %}
     <span class="moderators">
       Moderator: {{ event.moderators }}
     </span>
+    {% endif %}
     <span class="programparticipants">
       {{ event.programparticipants }}
     </span>
