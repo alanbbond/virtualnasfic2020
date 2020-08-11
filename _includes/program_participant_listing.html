@@ -12,7 +12,7 @@
     <ul class="social-links-menu">
       {% if programparticipant.facebook.size > 0 %}
       <li class="facebook social-link">
-        <a href="https://www.facebook.com/groups/{{ programparticipant.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/" target="_blank">
+        <a href="https://www.facebook.com/{{ programparticipant.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/" target="_blank">
         <span class="screen-reader-text">Facebook</span>
         </a>
       </li>
