@@ -44,6 +44,7 @@ fields:
       schema:
         format: markdown
     label: website1
+    description: Start with http:// or https://. Otherwise, it will open as https://columbusnasfic2020.org/[the-domain-you-typed.com]
   - name: website2
     type: textarea
     default: ''
