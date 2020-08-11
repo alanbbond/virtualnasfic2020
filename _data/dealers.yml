@@ -1,13 +1,4 @@
 ---
-- name: ''
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  image_filenames: []
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -44,6 +35,21 @@
   - "/assets/images/city-of-dreaming-pylons-4.jpg"
   - "/assets/images/city-of-dreaming-pylons-5.jpg"
   - "/assets/images/city-of-dreaming-pylons-6.jpg"
+- name: Cogitation Zone
+  contact: Lisa Hertel
+  city: Andover
+  state: MA
+  what_is_sold: Fine Art (Sculpture, Paintings, similar), Jewelry
+  link: '[http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")'
+  description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
+    sculpture, and more.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/hertel01.jpg"
+  - "/assets/images/hertel02.jpg"
+  - "/assets/images/hertel03.JPG"
+  - "/assets/images/hertel04.jpg"
+  - "/assets/images/hertel05.jpg"
 - name: Fantaminals
   link: '[http://www.fantaminals.com/](http://www.fantaminals.com/ "http://www.fantaminals.com/")'
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
