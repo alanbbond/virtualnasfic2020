@@ -514,7 +514,10 @@ ul.social-links-menu {
       .home-link {
         color: transparent;
 
-        &:visited {
+        &:link,
+        &:visited,
+        &:hover,
+        &:active {
           color: transparent;
         }
       }
