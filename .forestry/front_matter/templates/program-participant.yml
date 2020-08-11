@@ -44,7 +44,7 @@ fields:
       schema:
         format: markdown
     label: website1
-    description: Use the link button (next to the italic button). Start the link with
+    description: Use the link button (next to the italic button). Start the URL with
       http:// or https://. Otherwise, it will open as https://columbusnasfic2020.org/[the-domain-you-typed.com]
   - name: website2
     type: textarea
