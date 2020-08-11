@@ -1,20 +1,4 @@
 ---
-- name: City of Dreaming Pylons
-  contact: Clare Boothby
-  city: Cambridge
-  state: Cambridgeshire
-  what_is_sold: Jewerlry & Hand-made notebooks
-  link: '[https://www.etsy.com/uk/shop/CityOfDreamingPylons](https://www.etsy.com/uk/shop/CityOfDreamingPylons
-    "https://www.etsy.com/uk/shop/CityOfDreamingPylons")'
-  description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
-  restrictions: ''
-  image_filenames:
-  - "/assets/images/city-of-dreaming-pylons-1.jpg"
-  - "/assets/images/city-of-dreaming-pylons-2.jpg"
-  - "/assets/images/city-of-dreaming-pylons-3.jpg"
-  - "/assets/images/city-of-dreaming-pylons-4.jpg"
-  - "/assets/images/city-of-dreaming-pylons-5.jpg"
-  - "/assets/images/city-of-dreaming-pylons-6.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -35,6 +19,22 @@
   - "/assets/images/angelwearcreations-03.jpg"
   - "/assets/images/angelwearcreations-04.jpg"
   - "/assets/images/angelwearcreations-05.jpg"
+- name: City of Dreaming Pylons
+  contact: Clare Boothby
+  city: Cambridge
+  state: Cambridgeshire
+  what_is_sold: Jewerlry & Hand-made notebooks
+  link: '[https://www.etsy.com/uk/shop/CityOfDreamingPylons](https://www.etsy.com/uk/shop/CityOfDreamingPylons
+    "https://www.etsy.com/uk/shop/CityOfDreamingPylons")'
+  description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/city-of-dreaming-pylons-1.jpg"
+  - "/assets/images/city-of-dreaming-pylons-2.jpg"
+  - "/assets/images/city-of-dreaming-pylons-3.jpg"
+  - "/assets/images/city-of-dreaming-pylons-4.jpg"
+  - "/assets/images/city-of-dreaming-pylons-5.jpg"
+  - "/assets/images/city-of-dreaming-pylons-6.jpg"
 - name: Fantaminals
   link: '[http://www.fantaminals.com/](http://www.fantaminals.com/ "http://www.fantaminals.com/")'
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
