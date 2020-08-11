@@ -1,2 +1,3 @@
-<div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ include.filename }}'); float: {{ include.side | remove: '"' }}">
+{% assign side = include.side | remove: '"' | remove: "''" %}
+<div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ include.filename }}'); float: {{ side }}">
 </div>
