@@ -1,13 +1,4 @@
 ---
-- name: ''
-  contact: ''
-  city: ''
-  state: ''
-  what_is_sold: ''
-  link: ''
-  description: ''
-  restrictions: ''
-  image_filenames: []
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -88,6 +79,22 @@
   - "/assets/images/loragray03.jpg"
   - "/assets/images/loragray04.jpg"
   - "/assets/images/loragray05.jpg"
+- name: Ravenwing Wearable Art
+  contact: Darlene Ney
+  city: Lakemoor
+  state: IL
+  what_is_sold: Jewelry
+  link: "[www.ravenwingwearableart.etsy.com](http://www.ravenwingwearableart.etsy.com)"
+  description: i make handmade jewelry including ear cuffs, ear wraps, earrings, and
+    feather hair ornaments
+  restrictions: '"not sure how to do overseas (pricing and insurance) "'
+  image_filenames:
+  - "/assets/images/raven-wing-1.JPG"
+  - "/assets/images/raven-wing-2a.JPG"
+  - "/assets/images/raven-wing-2b.JPG"
+  - "/assets/images/raven-wing-3.JPG"
+  - "/assets/images/raven-wing-4.JPG"
+  - "/assets/images/raven-wing-5.JPG"
 - name: Silicon Valley Authors
   contact: Valerie Frankel
   city: Sunnyvale
