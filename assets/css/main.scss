@@ -5,7 +5,7 @@ $dark: rgb(45,52,84);
 $medium: rgb(159,167,199);
 $medium-light: rgb(202,205,224);
 $light: rgb(237,240,252);
-$very-light: #f5f7ff;
+$very-light: rgb(245, 247, 255);
 $white: rgb(250,250,250);
 $highlight: rgb(201, 242, 253);
 $complement-medium: rgb(170, 140, 114);
@@ -174,6 +174,7 @@ header {
   padding: 1rem;
   min-height: calc(100vh - 12rem);
   margin: 0 auto;
+  position: relative;
 
   li {
     margin-top: 1rem;
@@ -245,16 +246,28 @@ header {
     0.2rem -0.2rem 0.3rem $medium-light;
 }
 
-.index {
-  margin: 1rem 1rem 3rem 1rem;
-  line-height: 1.75rem;
+p.jump {
+  display: inline-block;
+  background-color: $medium;
+  margin: 0.05rem;
+  border-radius: 0.5rem;
+  border: 0.15rem solid $very-light;
+  
+  &.to-top {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    
+    a {
+      width: 10rem;
+      text-align: center;
+    }
+  }
 
   a {
-    background-color: $medium;
+    display: inline-block;
     color: $very-light;
     padding: 0.25rem 0.5rem;
-    margin: 0 0.15rem;
-    border-radius: 0.5rem;
     white-space: nowrap;
   }
 }
@@ -528,6 +541,13 @@ ul.social-links-menu {
 
   .public-container {
     width: 50rem;
+  }
+
+  p.jump-to {
+    display: block;
+    position: absolute;
+    left: -4rem;
+    top: 0.5rem;
   }
 
   .program-participant-listing {
