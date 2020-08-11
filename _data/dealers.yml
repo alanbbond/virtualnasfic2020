@@ -19,6 +19,37 @@
   - "/assets/images/angelwearcreations-03.jpg"
   - "/assets/images/angelwearcreations-04.jpg"
   - "/assets/images/angelwearcreations-05.jpg"
+- name: City of Dreaming Pylons
+  contact: Clare Boothby
+  city: Cambridge
+  state: Cambridgeshire
+  what_is_sold: Jewerlry & Hand-made notebooks
+  link: '[https://www.etsy.com/uk/shop/CityOfDreamingPylons](https://www.etsy.com/uk/shop/CityOfDreamingPylons
+    "https://www.etsy.com/uk/shop/CityOfDreamingPylons")'
+  description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/city-of-dreaming-pylons-1.jpg"
+  - "/assets/images/city-of-dreaming-pylons-2.jpg"
+  - "/assets/images/city-of-dreaming-pylons-3.jpg"
+  - "/assets/images/city-of-dreaming-pylons-4.jpg"
+  - "/assets/images/city-of-dreaming-pylons-5.jpg"
+  - "/assets/images/city-of-dreaming-pylons-6.jpg"
+- name: Cogitation Zone
+  contact: Lisa Hertel
+  city: Andover
+  state: MA
+  what_is_sold: Fine Art (Sculpture, Paintings, similar), Jewelry
+  link: '[http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")'
+  description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
+    sculpture, and more.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/hertel01.jpg"
+  - "/assets/images/hertel02.jpg"
+  - "/assets/images/hertel03.JPG"
+  - "/assets/images/hertel04.jpg"
+  - "/assets/images/hertel05.jpg"
 - name: Fantaminals
   link: '[http://www.fantaminals.com/](http://www.fantaminals.com/ "http://www.fantaminals.com/")'
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
@@ -48,6 +79,22 @@
   - "/assets/images/loragray03.jpg"
   - "/assets/images/loragray04.jpg"
   - "/assets/images/loragray05.jpg"
+- name: Ravenwing Wearable Art
+  contact: Darlene Ney
+  city: Lakemoor
+  state: IL
+  what_is_sold: Jewelry
+  link: "[www.ravenwingwearableart.etsy.com](http://www.ravenwingwearableart.etsy.com)"
+  description: i make handmade jewelry including ear cuffs, ear wraps, earrings, and
+    feather hair ornaments
+  restrictions: '"not sure how to do overseas (pricing and insurance) "'
+  image_filenames:
+  - "/assets/images/raven-wing-1.JPG"
+  - "/assets/images/raven-wing-2a.JPG"
+  - "/assets/images/raven-wing-2b.JPG"
+  - "/assets/images/raven-wing-3.JPG"
+  - "/assets/images/raven-wing-4.JPG"
+  - "/assets/images/raven-wing-5.JPG"
 - name: Silicon Valley Authors
   contact: Valerie Frankel
   city: Sunnyvale
