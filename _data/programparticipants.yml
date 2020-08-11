@@ -1,35 +1,4 @@
 ---
-- name: ''
-  guest_of_honor: false
-  role: ''
-  filename: ''
-  description: ''
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
-- name: Whitney "Strix" Beltrán
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/whitney-beltran.png"
-  description: Strix is an award winning narrative designer, myth scholar with a Masters,
-    diversity and inclusion advocate, freediver, ukulele player, adventure beast,
-    and fearless leader. Co-author of _Bluebeard's Bride_ with many other credits
-    in tabletop RPGs, writer on _State of Decay 2_ and _Raccoon Lagoon_, Narrative
-    Lead on _Beyond Blue_ and _HoloVista_. Currently she is Project Narrative Director
-    on an unannounced AAA title at Hidden Path Entertainment.
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: the_strix
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -518,7 +487,7 @@
 - name: Jason Sanford
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/jason-sanford.png"
+  filename: "/assets/images/jason-sanford-1.png"
   description: Jason Sanford is a two-time finalist for the Nebula Award and has published
     more than a dozen stories in the British SF magazine Interzone, which also devoted
     a special issue to his fiction. In addition he has published numerous stories
@@ -700,7 +669,7 @@
 - name: L.D. Lewis
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/ld-lewis.png"
+  filename: "/assets/images/ld-lewis-1.png"
   description: 'L.D. Lewis is an award-winning SF/F writer and editor, and serves
     as a founding creator, Art Director, and Project Manager for the World Fantasy
     Award-winning and Hugo Award-nominated _FIYAH Literary Magazine_. She also serves
@@ -1152,6 +1121,24 @@
   role: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Whitney "Strix" Beltrán
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/whitney-beltran.png"
+  description: Strix is an award winning narrative designer, myth scholar with a Masters,
+    diversity and inclusion advocate, freediver, ukulele player, adventure beast,
+    and fearless leader. Co-author of _Bluebeard's Bride_ with many other credits
+    in tabletop RPGs, writer on _State of Decay 2_ and _Raccoon Lagoon_, Narrative
+    Lead on _Beyond Blue_ and _HoloVista_. Currently she is Project Narrative Director
+    on an unannounced AAA title at Hidden Path Entertainment.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: the_strix
   instagram: ''
   discord: ''
   patreon: ''
