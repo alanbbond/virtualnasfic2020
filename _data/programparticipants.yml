@@ -1,21 +1,4 @@
 ---
-- name: Daniel M. Kimmel
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/daniel-kimmel.jpg"
-  description: Veteran film critic and author of humorous SF. Daniel was a Hugo Finalist
-    for _Jar Jar Binks Must Die_ and a Compton Crook finalist for _Shh! It's a Secret_.
-    He was the 2018 recipient of the Skylark Award, given by the New England Science
-    fiction Association. His most recent novel is _Father of the Bride of Frankenstein_.
-    Film columnist for _Space and Time_ magazine.
-  website1: "[Daniel M Kimmel at Goodreads.com](https://www.goodreads.com/author/show/316124.Daniel_M_Kimmel)"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -266,6 +249,23 @@
   description: Dan Tres Omi is an educator, Hip Hop diplomat, Capoeira instrutor,
     and pod-caster out of Dayton, Ohio.
   website1: '[Soundcloud](https://soundcloud.com/dantresomi "Soundcloud")'
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Daniel M. Kimmel
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/daniel-kimmel.jpg"
+  description: Veteran film critic and author of humorous SF. Daniel was a Hugo Finalist
+    for _Jar Jar Binks Must Die_ and a Compton Crook finalist for _Shh! It's a Secret_.
+    He was the 2018 recipient of the Skylark Award, given by the New England Science
+    fiction Association. His most recent novel is _Father of the Bride of Frankenstein_.
+    Film columnist for _Space and Time_ magazine.
+  website1: "[Daniel M Kimmel at Goodreads.com](https://www.goodreads.com/author/show/316124.Daniel_M_Kimmel)"
   website2: ''
   website3: ''
   facebook: ''
