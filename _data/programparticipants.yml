@@ -58,7 +58,7 @@
     earlier this year by Recorded Books. He is currently at work on a biography of
     the architectural designer Buckminster Fuller, which is scheduled to be published
     by HarperCollins in 2021.'
-  website1: "[www.nevalalee.com](www.nevalalee.com)"
+  website1: '[www.NevalaLee.com](https://www.NevalaLee.com "www.NevalaLee.com")'
   website2: ''
   website3: ''
   facebook: ''
@@ -268,7 +268,8 @@
     American Library Association for several prizes, and has won the SPACE prize for
     best graphic novel twice. Dara lives in Columbus, Ohio with his lovely wife and
     their two dogs: a cool corgi and a multifarious mutt.'
-  website1: "[www.daranaraghi.com]()"
+  website1: '[Dara Naraghi''s website](http://www.daranaraghi.com "Dara Naraghi''s
+    website")'
   website2: ''
   website3: ''
   facebook: ''
@@ -306,8 +307,8 @@
     film, _The Invalid Corps_, will screen on Maryland Public television this fall.
     When not creating, Al-Mohamed works as a policy advisor with the federal government.
     She lives in Washington DC with her wife and guide dog.
-  website1: "[www.DayAlMohamed.com]()"
-  website2: "[www.InvalidCorpsFilm.com](www.InvalidCorpsFilm.com)"
+  website1: '[www.DayAlMohamed.com](http://www.DayAlMohamed.com "www.DayAlMohamed.com")'
+  website2: "[www.InvalidCorpsFilm.com](https://www.InvalidCorpsFilm.com)"
   website3: ''
   facebook: ''
   twitter: DayAlMohamed
@@ -482,7 +483,7 @@
     and Czech. Born and raised in the American South, Jason currently works in the
     media industry in the Midwestern United States. His previous experience includes
     work as an archaeologist and as a Peace Corps Volunteer.
-  website1: " [www.jasonsanford.com](www.jasonsanford.com)"
+  website1: "[www.jasonsanford.com](http://www.jasonsanford.com/)"
   website2: ''
   website3: ''
   facebook: ''
@@ -569,8 +570,8 @@
     credits in small print journals and podcasts, including Pseudopod, EscapePod,
     The Three-Lobed Burning Eye and The Red Penny Papers. John has a short fiction
     podcast called Tripleplus Ungood, available on iTunes and Spotify.
-  website1: '[https://www.buzzsprout.com/974542](https://www.buzzsprout.com/974542
-    "https://www.buzzsprout.com/974542")'
+  website1: '[Triple Plus Ungood Podcast](Tripleplus Ungood John Medaille A sci fi
+    and horror fiction podcast. "Triple Plus Ungood Podcast")'
   website2: ''
   website3: ''
   facebook: ''
@@ -645,7 +646,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: "[kathrynsullivan.com]()"
+  website1: "[kathrynsullivan.com](http://kathrynsullivan.com)"
   website2: ''
   website3: ''
   patreon: ''
@@ -662,7 +663,7 @@
     includes appearances in FIYAH, PodCastle, Strange Horizons, Anathema: Spec from
     the Margins, and Fireside Magazine, among others. She lives in Georgia with her
     coffee habit and an impressive Funko Pop! collection.'
-  website1: "[ldlewiswrites.com]()"
+  website1: '[L.D. Lewis Writes](https://ldlewiswrites.com "L.D. Lewis Writes")'
   website2: ''
   website3: ''
   facebook: ''
@@ -685,7 +686,7 @@
   instagram: ''
   discord: ''
   guest_of_honor: false
-  website1: "[laurencebrothers.com]()"
+  website1: "[Laurence Raphael Brothers - Author](https://laurencebrothers.com)"
   website2: ''
   website3: ''
   patreon: ''
@@ -699,7 +700,7 @@
     novel The Girl With the Star-Stained Soul. Her writing has appeared in publications
     such as Asimov’s Science Fiction, Apex Magazine, Nightmare Magazine, Pseudopod,
     Strange Horizons, and Best Horror of the Year. She lives in Columbus, Ohio.
-  website1: "[www.lucysnyder.com]()"
+  website1: "[www.lucysnyder.com](https://www.lucysnyder.com)"
   website2: ''
   website3: ''
   facebook: ''
@@ -712,17 +713,17 @@
   role: ''
   filename: "/assets/images/malka-older.jpg"
   description: Malka Older is a writer, aid worker, and sociologist. Her science-fiction
-    political thriller Infomocracy was named one of the best books of 2016 by Kirkus,
-    Book Riot, and the Washington Post. She is the creator of the serial Ninth Step
-    Station, currently running on Serial Box, and her short story collection And Other
-    Disasters came out in November 2019. She is a Faculty Associate at Arizona State
-    University’s School for the Future of Innovation in Society and her opinions can
-    be found in The New York Times, The Nation, Foreign Policy, and NBC THINK, among
-    other places.
+    political thriller _Infomocracy_ was named one of the best books of 2016 by Kirkus,
+    Book Riot, and the Washington Post. She is the creator of the serial _Ninth Step
+    Station_, currently running on Serial Box, and her short story collection _And
+    Other Disasters_ came out in November 2019. She is a Faculty Associate at Arizona
+    State University’s School for the Future of Innovation in Society and her opinions
+    can be found in The New York Times, The Nation, Foreign Policy, and NBC THINK,
+    among other places.
   website1: ''
   website2: ''
   website3: ''
-  facebook: https://www.facebook.com/MalkaOlderAuthor/
+  facebook: MalkaOlderAuthor
   twitter: ''
   instagram: ''
   discord: ''
@@ -756,8 +757,8 @@
     of both DesiLit (desilit.org) and the Speculative Literature Foundation (speclit.org).
     She is Clinical Associate Professor of fiction and literature at the University
     of Illinois at Chicago. '
-  website1: "[www.maryannmohanraj.com](www.maryannmohanraj.com)"
-  website2: "[www.speculativeliterature.org](www.speculativeliterature.org)"
+  website1: "[maryannmohanraj.com](http://maryannemohanraj.com)"
+  website2: '[speculativeliterature.org](http://speculativeliterature.org/ "speculativeliterature.org/")'
   website3: ''
   facebook: ''
   twitter: ''
@@ -793,12 +794,12 @@
   role: ''
   filename: "/assets/images/mike-underwood.jpg"
   description: Michael R. Underwood is an author, podcaster, and publishing professional.
-    His series include the Ree Reyes Geekomancy books, the Stabby Award finalist Genrenauts
-    series, Born to the Blade, and Annihilation Aria. He’s been a bookseller, sales
-    representative, and was the North American Sales & Marketing Manager for Angry
-    Robot Books. He is also a co-host of Speculate! and a guest host on the Hugo Award-finalist
-    The Skiffy and Fanty Show.
-  website1: "[www.michaelrunderwood.com](www.michaelrunderwood.com)"
+    His series include the _Ree Reyes Geekomancy_ books, the Stabby Award finalist
+    _Genrenauts_ series, _Born to the Blade_, and _Annihilation Aria_. He’s been a
+    bookseller, sales representative, and was the North American Sales & Marketing
+    Manager for Angry Robot Books. He is also a co-host of Speculate! and a guest
+    host on the Hugo Award-finalist The Skiffy and Fanty Show.
+  website1: "[www.michaelrunderwood.com](http://www.michaelrunderwood.com)"
   website2: ''
   website3: ''
   facebook: ''
@@ -853,7 +854,7 @@
     _Invictus Quarterly_ and _Dominion: an Anthology of Speculative Fiction from Africa
     and the African Diaspora_. He is a member of the African Speculative Fiction Society,
     Codex, the HWA, the BSFA, and the SFWA.'
-  website1: "[www.ekpeki.com]()"
+  website1: '[ekpeki.com](https://ekpeki.com/ "https://ekpeki.com/")'
   website2: ''
   website3: ''
   facebook: penprince
@@ -871,7 +872,7 @@
     that sit in the overlap between publishing and technology, like Open Road Media
     and O'Reilly. Pablo was born and raised in San Juan, Puerto Rico, lives in New
     York City, and works with people all over the world.
-  website1: "[firesidefiction.com]()"
+  website1: "[firesidefiction.com](http://firesidefiction.com)"
   website2: ''
   website3: ''
   facebook: ''
@@ -889,7 +890,7 @@
     fiction game The Luminous Underground for Choice of Games. She serves as an Associate
     Editor at Escape Pod, and she is a 2019 graduate of the Clarion West Writers Workshop,
     and lives with a robot in the sky above Toronto.
-  website1: "[PhoebeBartonSF.com](http://www.phoebebartonsf.com;)"
+  website1: "[PhoebeBartonSF.com](https://phoebebartonsf.com/)"
   website2: ''
   website3: ''
   facebook: ''
@@ -913,7 +914,7 @@
     from a home in the Hudson Valley, they also enjoy gardening, spending time with
     family, listening to obscure music on outdated formats, and fighting off the fear
     of death by curating an astonishingly comprehensive social media presence.
-  website1: "[phoebe@phoebenorth.com](phoebe@phoebenorth.com)"
+  website1: phoebe@phoebenorth.com
   website2: ''
   website3: ''
   facebook: ''
