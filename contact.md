@@ -17,4 +17,6 @@ order: 9
 
 > program@columbus2020nasfic.org Contact our programming department if you have ideas, want to appear, or need additional info about our Programming panels and Special Events
 
+> matt.mattarn@gmail.com Contact Matt Arnold about this website.
+
 Please add the columbus2020nasfic.org to your white list / safe senders list to make sure you get all of the Columbus NASFiC emails.

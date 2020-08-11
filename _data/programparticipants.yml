@@ -86,6 +86,25 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Alison Scott
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/alison-scott.jpeg"
+  description: Alison is a British fan of long standing who was this year's Going-Under-Fan-Fund
+    Delegate. GUFF exists to send fans from Europe to New Zealand and Australia (and
+    vice versa). In the UK she has chaired the Eastercon twice and run several areas
+    of UK Worldcons. She has twice won the Hugo for the co-edited fanzine Plokta.
+    She's a great fan of the social aspects of conventions and likes to stay up too
+    late, hang out in the bar and make new friends. She runs a business selling nerdy
+    and political shirts and badges.
+  website1: "[Stow Shirts](stowshirts.etsy.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Alma Alexander
   guest_of_honor: false
   role: ''
@@ -188,6 +207,23 @@
     "The World Remains Mysterious: The Writing Of Cat Rambo")'
   website2: ''
   website3: ''
+  patreon: ''
+- name: Charles Payseur
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/charles-payseur.jpg"
+  description: Charles Payseur is a reader, writer, and reviewer of speculative fiction.
+    His work has appeared in _The Best American Science Fiction and Fantasy,_ _Lightspeed
+    Magazine_, _Beneath Ceaseless Skies_, and many more. A four time Hugo Award finalist,
+    he spends his days in Eau Claire, Wisconsin, shoveling snow and being tolerated
+    by his cats and husband.
+  website1: "[Quick Sip Reviews]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: Cheryl Morgan
   guest_of_honor: false
@@ -471,7 +507,7 @@
 - name: Jason Sanford
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/jason-sanford-1.png"
+  filename: "/assets/images/jason-sanford.jpg"
   description: Jason Sanford is a two-time finalist for the Nebula Award and has published
     more than a dozen stories in the British SF magazine Interzone, which also devoted
     a special issue to his fiction. In addition he has published numerous stories
@@ -744,6 +780,22 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Marieke Nijkamp
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/marieke-nijkamp.jpg"
+  description: 'Marieke Nijkamp is a #1 New York Times bestselling author of YA novels,
+    graphic novels, and comics, including This Is Where It Ends, Even If We Break,
+    and The Oracle Code. Their short stories can be found in several anthologies.
+    Marieke is a storyteller, dreamer, globe-trotter, and geek.'
+  website1: "[mariekenijkamp.com]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: mariekeyn
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Mary Anne Mohanraj
   guest_of_honor: false
   role: ''
@@ -804,6 +856,26 @@
   website3: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Mike Chen
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/mike-chen.jpg"
+  description: 'Mike Chen is the author of _Here And Now And Then_ (a finalist for
+    Goodreads Choice - Best Sci-Fi, CALIBA Golden Poppy, and the Compton Crook Award)
+    and _A Beginning At The End_ ("a brilliant, fragile path through the darkness"
+    -- Library Journal). His short fiction is featured in _Star Wars: From A Certain
+    Point Of View -- The Empire Strikes Back_, and he has covered geek culture for
+    sites such as Tor.com, The Mary Sue, and StarTrek.com. In a previous life, he
+    covered the NHL for Fox Sports, SB Nation, and other outlets. A member of SFWA,
+    Mike lives in the Bay Area with his wife, daughter, and rescue animals.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: mikechenwriter
   instagram: ''
   discord: ''
   patreon: ''
