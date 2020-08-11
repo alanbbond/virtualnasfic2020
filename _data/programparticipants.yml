@@ -1,21 +1,4 @@
 ---
-- name: Charles Payseur
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/charles-payseur.jpg"
-  description: Charles Payseur is a reader, writer, and reviewer of speculative fiction.
-    His work has appeared in _The Best American Science Fiction and Fantasy,_ _Lightspeed
-    Magazine_, _Beneath Ceaseless Skies_, and many more. A four time Hugo Award finalist,
-    he spends his days in Eau Claire, Wisconsin, shoveling snow and being tolerated
-    by his cats and husband.
-  website1: "[Quick Sip Reviews]()"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -224,6 +207,23 @@
     "The World Remains Mysterious: The Writing Of Cat Rambo")'
   website2: ''
   website3: ''
+  patreon: ''
+- name: Charles Payseur
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/charles-payseur.jpg"
+  description: Charles Payseur is a reader, writer, and reviewer of speculative fiction.
+    His work has appeared in _The Best American Science Fiction and Fantasy,_ _Lightspeed
+    Magazine_, _Beneath Ceaseless Skies_, and many more. A four time Hugo Award finalist,
+    he spends his days in Eau Claire, Wisconsin, shoveling snow and being tolerated
+    by his cats and husband.
+  website1: "[Quick Sip Reviews]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: Cheryl Morgan
   guest_of_honor: false
