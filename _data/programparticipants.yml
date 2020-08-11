@@ -1120,6 +1120,26 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Sumana (brainwane) Harihareswara
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/sumana-harihareswara.jpg"
+  description: Sumana Harihareswara is a NYC-based programmer, manager, and mentor
+    who coedited, with Leonard Richardson, the free, Creative Commons-licensed anthology
+    _Thoughtcrime Experiments_ in 2009. She's written a weekly newspaper column, taught
+    and performed stand-up comedy, blogged at GeekFeminism.org, made fanvids, and
+    worked on open source software projects, including the software behind Wikipedia.
+    Currently she's focusing on her new company Changeset Consulting (short-term,
+    targeted project management for open source and the companies that depend on it).
+    Since mid-2017 she has served on the Otherwise Award's board.
+  website1: "[www.harihareswara.net](https://www.harihareswara.net/)"
+  website2: "[@Brainwane at Mastadon](https://mastodon.social/@brainwane/)"
+  website3: ''
+  facebook: ''
+  twitter: brainwane
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
