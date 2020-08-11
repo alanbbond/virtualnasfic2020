@@ -69,6 +69,13 @@ header {
       position: absolute;
       height: 100%;
       width: 100%;
+      color: transparent;
+      &:link,
+      &:visited,
+      &:hover,
+      &:active {
+        color: transparent;
+      }
     }
   }
 
@@ -510,17 +517,6 @@ ul.social-links-menu {
     .logo-link {
       height: 5rem;
       width: 18rem;
-
-      .home-link {
-        color: transparent;
-
-        &:link,
-        &:visited,
-        &:hover,
-        &:active {
-          color: transparent;
-        }
-      }
     }
 
     .header-content {
