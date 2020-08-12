@@ -2,7 +2,7 @@
 title: Auditorium
 layout: default
 category: accesscontrol
-order: 2
+order: "2"
 
 ---
 # Auditorium
@@ -36,3 +36,4 @@ document.addEventListener('fullscreenchange', resizeVideoAndChat, false);
 
 resizeVideoAndChat();
 </script>
+<iframe src="https://titanembeds.com/embed/680949000295284757?defaultchannel=742198998722543678" height="600" width="800" frameborder="0"></iframe>
