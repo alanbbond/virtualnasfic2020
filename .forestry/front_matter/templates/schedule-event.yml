@@ -126,6 +126,9 @@ fields:
     - Sue and Steve Francis
     - Tom Smith
     - Eric Flint
+    use_select: true
+    source:
+      type: simple
 - name: moderators
   type: list
   label: moderators
