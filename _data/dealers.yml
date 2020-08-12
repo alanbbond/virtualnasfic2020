@@ -1,44 +1,4 @@
 ---
-- name: Stephen B. Pearl
-  contact: Stephen Pearl
-  city: Hamilton
-  state: Ontario
-  what_is_sold: Books
-  link: "[www.amazon.com/author/stephenpearl](http://www.amazon.com/author/stephenpearl)"
-  description: Speculative fiction novels and anthologies featuring the work of Stephen
-    B. Pearl. Post-apocalyptic, Urban fantasy, Norse Fantasy, and more.
-  restrictions: ''
-  image_filenames:
-  - "/assets/images/stephenbpearl-books.jpg"
-  - "/assets/images/stephenbpearl-books2.jpg"
-  - "/assets/images/stephenbpearl-books3.jpg"
-  - "/assets/images/stephenbpearl-books4.jpg"
-  - "/assets/images/stephenbpearl-books5.jpg"
-- name: OffWorld Designs, Inc.
-  contact: sales@offworlddesigns.com  815-786-7080
-  city: Sandwitch
-  state: IL
-  what_is_sold: T-Shirts
-  link: |-
-    [https://www.offworlddesigns.com](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
-
-    [https://www.facebook.com/offworlddesigns/](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
-
-    [https://twitter.com/OffworldDesigns](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
-
-    [https://www.instagram.com/offworld_designs/](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
-  description: 'We specialize in original designed t-shirts for fans of Gaming, Fantasy,
-    Geek Culture and more fandoms. We have Messenger Bags, Polo Shirts, Lapel Pins,
-    Baseball Hats, to name a few items. We do our own screen printing & embroidery
-    in house, to assure a quality product that will be enjoyed for years to come.
-    Our motto: The Best T-Shirts in Fandom! Says it all.'
-  restrictions: ''
-  image_filenames:
-  - "/assets/images/offworld01.jpg"
-  - "/assets/images/offworld02.jpg"
-  - "/assets/images/offworld03.jpg"
-  - "/assets/images/offworld04.jpg"
-  - "/assets/images/offworld05.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -134,6 +94,31 @@
   - "/assets/images/loragray03.jpg"
   - "/assets/images/loragray04.jpg"
   - "/assets/images/loragray05.jpg"
+- name: OffWorld Designs, Inc.
+  contact: sales@offworlddesigns.com  815-786-7080
+  city: Sandwitch
+  state: IL
+  what_is_sold: T-Shirts
+  link: |-
+    [https://www.offworlddesigns.com](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+
+    [https://www.facebook.com/offworlddesigns/](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+
+    [https://twitter.com/OffworldDesigns](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+
+    [https://www.instagram.com/offworld_designs/](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+  description: 'We specialize in original designed t-shirts for fans of Gaming, Fantasy,
+    Geek Culture and more fandoms. We have Messenger Bags, Polo Shirts, Lapel Pins,
+    Baseball Hats, to name a few items. We do our own screen printing & embroidery
+    in house, to assure a quality product that will be enjoyed for years to come.
+    Our motto: The Best T-Shirts in Fandom! Says it all.'
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/offworld01.jpg"
+  - "/assets/images/offworld02.jpg"
+  - "/assets/images/offworld03.jpg"
+  - "/assets/images/offworld04.jpg"
+  - "/assets/images/offworld05.jpg"
 - name: Ravenwing Wearable Art
   contact: Darlene Ney
   city: Lakemoor
@@ -172,3 +157,18 @@
   - "/assets/images/siliconvalley-authors5.JPG"
   - "/assets/images/silicon-valley-authors-7.jpg"
   - "/assets/images/silicon-valley-authors8.jpg"
+- name: Stephen B. Pearl
+  contact: Stephen Pearl
+  city: Hamilton
+  state: Ontario
+  what_is_sold: Books
+  link: "[www.amazon.com/author/stephenpearl](http://www.amazon.com/author/stephenpearl)"
+  description: Speculative fiction novels and anthologies featuring the work of Stephen
+    B. Pearl. Post-apocalyptic, Urban fantasy, Norse Fantasy, and more.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/stephenbpearl-books.jpg"
+  - "/assets/images/stephenbpearl-books2.jpg"
+  - "/assets/images/stephenbpearl-books3.jpg"
+  - "/assets/images/stephenbpearl-books4.jpg"
+  - "/assets/images/stephenbpearl-books5.jpg"
