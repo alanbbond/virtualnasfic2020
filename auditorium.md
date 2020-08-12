@@ -16,24 +16,27 @@ channel="742086184364146739"
 width="45%"
 height="53vh"
 class="nasfic-chat"
->
+
+> 
+
 </widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 <script>
-const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
-const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
+const nasfic_video = document.getElementsByClassName("nasfic-video")\[0\];
+const nasfic_chat = document.getElementsByClassName("nasfic-chat")\[0\];
 const resizeVideoAndChat = () => {
-  const w = (window.innerWidth / 2) - 40;
-  // Maintain a 4-3 aspect ratio
-  const h = (w / 4) * 3;
-  nasfic_video.style.width = `${w}px`;
-  nasfic_chat.style.width  = `${w}px`;
-  nasfic_video.style.height = `${h}px`;
-  nasfic_chat.style.height  = `${h}px`;
-} 
+const w = (window.innerWidth / 2) - 40;
+// Maintain a 4-3 aspect ratio
+const h = (w / 4) * 3;
+nasfic_video.style.width = `${w}px`;
+nasfic_chat.style.width  = `${w}px`;
+nasfic_video.style.height = `${h}px`;
+nasfic_chat.style.height  = `${h}px`;
+}
 window.addEventListener("resize", resizeVideoAndChat, false);
 document.addEventListener('fullscreenchange', resizeVideoAndChat, false);
 
 resizeVideoAndChat();
 </script>
+
 <iframe src="https://titanembeds.com/embed/680949000295284757?defaultchannel=742198998722543678" height="600" width="800" frameborder="0"></iframe>
