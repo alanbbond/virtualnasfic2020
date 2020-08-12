@@ -1,4 +1,47 @@
 ---
-label: Schedule Event
+label: Event In Schedule
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: The title of the event. If it is more than 80 characters, it is recommended
+    to clip something off and put it at the start of the description.
+- name: datetime
+  type: datetime
+  label: datetime
+  description: Friday, Saturday, or Sunday, and the time of day.
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: room
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Auditorium
+    - Scioto Room
+    - Olentangy Room
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: room
+  description: A page with a livestream and Discord chat channel.
+- name: presenters
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: program-participant-entries
+      file: _data/programparticipants.yml
+  label: presenters
