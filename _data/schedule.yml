@@ -1,7 +1,7 @@
 ---
 - title: Deconstructing the Novella (Panel)
   day: Saturday
-  room: ""
+  room: ''
   time: 4:00-4:50pm
   moderators: dave ring
   programparticipants: Aliette de Bodard, Eboni Dunbar, L.D. Lewis and Nino Cipri
@@ -12,7 +12,7 @@
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
   day: Saturday, August 22nd
-  room: ""
+  room: ''
   time: Afternoon
   moderators: Tom Jackson
   programparticipants: Sarah Hoyt, F. Paul Wilson, Michael Grossberg, William H. Stoddard
@@ -26,7 +26,7 @@
     in these and other authors’ diverse Prometheus Award winners over the past 40
     years.
 - title: Prometheus Awards’ 40th Anniversary Ceremony
-  room: ""
+  room: ''
   day: Saturday, August 22nd
   time: Afternoon
   moderators: Michael Grossberg, Tom Jackson
@@ -43,3 +43,13 @@
     Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles
     Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton,
     Jack Williamson, Wilson and Robert Anton Wilson.)'
+- title: 'The Power of Love: The Intersection of Spec Fic (Panel)'
+  day: Saturday
+  room: ''
+  time: 7:00-7:50pm
+  moderators: Sarah Loch
+  programparticipants: Charles Payseur, Eboni Dunbar, et al
+  description: Speculative fiction and romance have always existed side by side in
+    the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
+    inform your romance plot (and vice versa) and how characterization tricks help
+    you generate a strong romantic A or B plot.
