@@ -1,4 +1,23 @@
 ---
+- name: Ace Tilton Ratcliff
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/ace-tiltonratcliff.jpg"
+  description: Ace Tilton Ratcliff lives and works in south Florida. They made the
+    move to freelance writer, artist, and disability consultant at Stay Weird, Be
+    Kind Studios in 2017. They have bylines at Huffington Post, io9, PopSci, Fireside
+    Fiction, and more. Their meatcage struggles with hypermobile Ehlers-Danlos Syndrome
+    and other comorbidities. With their husband, they co-own Harper’s Promise, an
+    in-home veterinary practice focusing on euthanasia. When not creating, they’re
+    reading, and sometimes tweeting @mortuaryreport.
+  website1: "[Stay Weird Be Kind](https://www.stayweirdbekind.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: mortuaryreport
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
