@@ -1140,7 +1140,7 @@
   instagram: ''
   discord: ''
   patreon: ''
-  mastodon: 'mastodon.social/@brainwane'
+  mastodon: mastodon.social/@brainwane
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
@@ -1178,6 +1178,23 @@
   website3: ''
   facebook: valerie.frankel1
   twitter: valeriefrankel
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Valerie Valdes
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/valerie-valdes.png"
+  description: Valerie Valdes’s work has been featured in Uncanny Magazine and Nightmare
+    Magazine. Her debut novel _Chilling Effect_ was published by Harper Voyager in
+    September 2019 and Orbit UK in February 2020, with starred reviews in Kirkus Reviews
+    and Library Journal. It was also named one of Library Journal’s best SF/fantasy
+    novels of 2019. The sequel, _Prime Deceptions,_ is forthcoming in September 2020.
+  website1: "[A Candle in Sunshine](http://candleinsunshine.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
