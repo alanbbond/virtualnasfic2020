@@ -2,7 +2,7 @@
 title: Auditorium
 layout: default
 category: accesscontrol
-order: "2"
+order: 2
 
 ---
 # Auditorium
