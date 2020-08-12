@@ -1,4 +1,19 @@
 ---
+- name: Stephen B. Pearl
+  contact: Stephen Pearl
+  city: Hamilton
+  state: Ontario
+  what_is_sold: Books
+  link: "[www.amazon.com/author/stephenpearl](http://www.amazon.com/author/stephenpearl)"
+  description: Speculative fiction novels and anthologies featuring the work of Stephen
+    B. Pearl. Post-apocalyptic, Urban fantasy, Norse Fantasy, and more.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/stephenbpearl-books.jpg"
+  - "/assets/images/stephenbpearl-books2.jpg"
+  - "/assets/images/stephenbpearl-books3.jpg"
+  - "/assets/images/stephenbpearl-books4.jpg"
+  - "/assets/images/stephenbpearl-books5.jpg"
 - name: OffWorld Designs, Inc.
   contact: sales@offworlddesigns.com  815-786-7080
   city: Sandwitch
