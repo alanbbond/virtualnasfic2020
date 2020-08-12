@@ -1,0 +1,48 @@
+<div class="carousel">
+  <span class="prev-arrow"> ◀ </span>
+  <span class="next-arrow"> ▶ </span>
+  <div class="prev"></div>
+  <div class="next"></div>
+  <ol>
+  {% for dealer in site.data.dealers %}
+    {% for image in dealer.image_filenames %}
+    <li
+      style="background-image: url('{{ image }}')"
+      data-caption="{{ dealer.name }}"
+    >
+      <a class="caption" href="#listing-{{ dealer.name | slugify}}">
+        {{ dealer.name }}
+      </a>
+    </li>
+    {% endfor %}
+  {% endfor %}
+  </ol>
+</div>
+<script>
+  carousel = (function(){
+    var container = document.querySelector('.carousel');
+    var next = container.querySelector('.next');
+    var prev = container.querySelector('.prev');
+    var counter = 0;
+    var items = container.querySelectorAll('.carousel ol>li');
+    var amount = items.length;
+    var current = items[0];
+    container.classList.add('active');
+    function navigate(direction) {
+        current.classList.remove('current');
+        counter = counter + direction;
+        counter = (direction === -1 && counter < 0) ? amount - 1 : counter; 
+        counter = (direction === 1 && !items[counter]) ? 0 : counter;
+        current = items[counter];
+        current.classList.add('current');
+    }
+    next.addEventListener('click', function(ev) {
+        navigate(1);
+    });
+    prev.addEventListener('click', function(ev) {
+        navigate(-1);
+    });
+    // Start off on a random carousel image.
+    navigate(Math.floor(Math.random() * items.length));
+  })();
+</script>

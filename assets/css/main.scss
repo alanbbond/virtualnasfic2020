@@ -19,6 +19,9 @@ $discord:   '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path
 $patreon:   '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180"><path fill="white" d="M108.814 26.067c-26.469 0-48.003 21.53-48.003 47.998 0 26.386 21.534 47.854 48.003 47.854 26.386 0 47.853-21.468 47.853-47.854 0-26.467-21.467-47.998-47.853-47.998"/><path fill="white" d="M23.333 153.933V26.067H46.8v127.866z"/></svg>';
 $mastodon:  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.1 185.6"><path fill="white" d="M173 60.5c-.2-40.3-26.6-51.9-26.6-51.9C133 2.6 110.2.1 86.5 0h-.6C62.1.3 39.3 3 26.1 9.1 26.1 9.1-.2 21 0 61.3c0 9.2-.1 20.2.3 31.9 1.1 39.4 7.6 78.1 44 87.6 16.8 4.4 31.2 5.2 42.8 4.5 21-1.3 32.8-7.7 32.8-7.7l-.8-15.3s-15 4.8-31.9 4.3c-16.7-.5-34.4-1.6-37.2-22.2-.3-1.8-.4-3.7-.4-5.8 0 0 16.4 3.9 37.3 4.8 12.7.5 24.7-.9 36.8-2.4 23.2-2.9 43.4-17.3 45.9-30.4 3.8-20.3 3.4-50.1 3.4-50.1zm-30.9 52.1l-19.3.1-.2-47.3c0-10-4.3-15-12.7-15-9.3 0-13.9 6.1-13.9 17.9l.1 25.9-19.1.1-.1-25.9c-.1-11.9-4.7-17.9-14-17.8-8.4 0-12.6 5.1-12.5 15.1l.2 47.3-19.3.1-.3-48.8c0-10 2.5-17.9 7.5-23.8 5.2-5.9 12.1-8.9 20.6-9 9.9 0 17.4 3.7 22.4 11.3l4.8 8 4.8-8.1c4.9-7.6 12.4-11.5 22.3-11.5 8.5 0 15.4 2.9 20.7 8.8 5.1 5.8 7.7 13.7 7.7 23.7l.3 48.9z"/></svg>';
 
+$left-arrow: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="black" d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"/></svg>';
+$right-arrow: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="black" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg>';
+
 $main-padding: 0.25rem;
 
 body {
@@ -412,7 +415,6 @@ footer {
       0 -0.1rem $dark;
 }
 
-
 /* gallery */
 
 .gallery {
@@ -448,6 +450,95 @@ hr {
   height: 1rem;
   background-color: $dark;
 }
+
+/* end gallery */
+
+.carousel {
+  position: relative;
+  border: 1rem solid $dark;
+  background: $dark;
+  width: 60vw;
+  height: 40vw;
+  
+  .prev, .next {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 2rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    z-index: 90;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+
+  .prev {
+    left: 0;
+    background-image: url('data:image/svg+xml;utf8,#{$left-arrow}');
+  }
+  
+  .next {
+    right: 0;
+    background-image: url('data:image/svg+xml;utf8,#{$right-arrow}');
+  }
+
+  .prev-arrow {
+    left: .5rem;
+  }
+
+  .next-arrow {
+    right: .5rem;
+  }
+
+  .prev-arrow, .next-arrow {
+    position: absolute;
+    top: 45%;
+    color: transparent;
+  }
+
+  ol {
+    position: relative;
+    width: calc(60vw - 2.5rem);
+    height: 100%;
+
+    li {
+      margin-top: -0.5rem;
+      list-style: none;
+      list-style-type: none;
+      top: 0;
+      left: 0;
+
+      &.current {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        display: block;
+        transform: scale(1);
+        transition: 1s;
+      }
+
+      &:not(.current) {
+        transform: scale(0);
+        transition: 1s;
+      }
+
+      a {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+        padding: 1rem;
+        top: 0;
+        left: 0;
+        text-align: center;
+      }
+    }
+  }
+}
+/* end carousel */
 
 /* social media */
 .screen-reader-text {
