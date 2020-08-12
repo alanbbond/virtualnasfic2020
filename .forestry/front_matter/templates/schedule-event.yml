@@ -54,3 +54,5 @@ fields:
     schema:
       format: markdown
   label: description
+pages:
+- _data/schedule.yml
