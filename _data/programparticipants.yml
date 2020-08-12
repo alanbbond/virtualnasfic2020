@@ -1,4 +1,23 @@
 ---
+- name: Ace Tilton Ratcliff
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/ace-tiltonratcliff.jpg"
+  description: Ace Tilton Ratcliff lives and works in south Florida. They made the
+    move to freelance writer, artist, and disability consultant at Stay Weird, Be
+    Kind Studios in 2017. They have bylines at Huffington Post, io9, PopSci, Fireside
+    Fiction, and more. Their meatcage struggles with hypermobile Ehlers-Danlos Syndrome
+    and other comorbidities. With their husband, they co-own Harper’s Promise, an
+    in-home veterinary practice focusing on euthanasia. When not creating, they’re
+    reading, and sometimes tweeting @mortuaryreport.
+  website1: "[Stay Weird Be Kind](https://www.stayweirdbekind.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: mortuaryreport
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Ada Palmer
   guest_of_honor: false
   role: ''
@@ -122,6 +141,26 @@
   instagram: ''
   discord: ''
   patreon: AlmaAlexander
+- name: Amanda Makepeace
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/amanda-makepeace.jpg"
+  description: Amanda Makepeace is a Chesley Award winning illustrator, working in
+    both digital and traditional mediums. Through her art, she explores mythology,
+    magical beings, our connection to the planet, and even distant worlds. Amanda's
+    art has appeared in ENnie award-winning games, in short fiction magazines, like
+    _Amazing Stories_ and _Fireside Fiction_, and on the covers of independent novels
+    and anthologies. She is a regular at Fantasy and SciFi conventions in the southeast.
+    When she's not in the studio, she can be found reconnecting with nature and the
+    woods that inspired her as a child.
+  website1: "[www.amandamakepeace.com](http://amandamakepeace.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Ben Yalow
   category:
   - Presenter
@@ -272,12 +311,28 @@
     chair, (Cinclave in 1986), a professional bookseller, book collector, genre radio
     talk show host, a fan activist involved with the Worldcon Business Meeting, a
     tv and movie reviewer and currently, a columnist at large for the Hugo Award winning
-    fanzine, File 770 dot com. He resides in Cincinnati, Ohio.
+    fanzine, _File 770 dot com_. He resides in Cincinnati, Ohio.
   website1: ''
   website2: ''
   website3: ''
   facebook: chris.barkley
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Chris "Silver Spook" Miller
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/chris-miller.jpg"
+  description: Chris is a Native Hawaiian activist and game developer. He's best known
+    for _Neofeud_, a cyberpunk game about his experiences growing up in Hawaii's ghetto,
+    being a social worker & STEM teacher for poor, homeless, refugees, POC kids in
+    the slums of Hawaii that the tour buses avoid.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: SilvrSpookGames
   instagram: ''
   discord: ''
   patreon: ''
@@ -487,6 +542,45 @@
   website1: "[Repairman Jack website](https://repairmanjack.com/)"
   website2: ''
   website3: ''
+  patreon: ''
+- name: Freya Marske
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/freya-marske.jpg"
+  description: Freya Marske lives in Australia, where she is yet to be killed by any
+    form of wildlife. She writes stories full of magic, blood, and as much kissing
+    as she can get away with, and she co-hosts the Hugo Award nominated podcast Be
+    the Serpent. Her hobbies include figure skating and discovering new art galleries,
+    and she is on a quest to try all the gin in the world. Her debut novel, the queer
+    historical fantasy A MARVELLOUS LIGHT, is forthcoming from Tor.Com Publishing
+    in 2021.
+  website1: "[freyamarske.com](https://freyamarske.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: freyamarske
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Jamar Nicholas
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jamar-nicholas.jpg"
+  description: 'Jamar Nicholas is an award-winning, Philadelphia-based artist and
+    educator, dedicating his career to helping young people realize the power of cartooning.
+    He is widely-known for adapting and illustrating Geoffrey Canada''s _Fist Stick
+    Knife Gun_ and creating _Leon: Protector of the Playground_, which won the Dwayne
+    McDuffie Award for Diversity in 2018. He is also a writer and columnist for _DRAW!
+    Magazine_, the How-To source for comic and animation professionals, as well as
+    co-host of the Pencil To Pencil Podcast with comics legends Mike Manley and Bret
+    Blevins.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: jamarnicholas
+  instagram: jamar.nicholas
+  discord: ''
   patreon: ''
 - name: James Bacon
   guest_of_honor: false
@@ -745,6 +839,21 @@
   website1: "[Laurence Raphael Brothers - Author](https://laurencebrothers.com)"
   website2: ''
   website3: ''
+  patreon: ''
+- name: Leigh Harlen
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/leigh-harlen.jpg"
+  description: Leigh Harlen is a queer, non-binary writer of dark leaning speculative
+    fiction. They live and work in Seattle. Their non-writing hobbies include petting
+    strangers’ dogs and enthusing about how awesome bats are.
+  website1: "[leighharlen.com](https://leighharlen.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: leighharlen
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: Lucy A. Snyder
   guest_of_honor: false
@@ -1272,6 +1381,22 @@
   role: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Vikram Paralkar
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/vikram-paralkar.jpg"
+  description: Vikram Paralkar was born and raised in Mumbai. Author of two works
+    of fiction, _The Afflictions_ and _Night Theater_, he is a physician-scientist
+    at the University of Pennsylvania, where he treats patients with leukemia and
+    researches the disease. His works have been translated into several foreign languages.
+  website1: "[www.vikramparalkar.com](https://www.vikramparalkar.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: vikramparalkar
   instagram: ''
   discord: ''
   patreon: ''
