@@ -43,11 +43,11 @@ fields:
     schema:
       format: markdown
   label: description
-- name: presenters
+- name: programparticipants
   type: text
   config:
     required: false
-  label: presenters
+  label: programparticipants
   options:
   - Ada Palmer
   - Alaya Dawn Johnson
