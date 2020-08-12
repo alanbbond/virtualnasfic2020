@@ -1140,6 +1140,7 @@
   instagram: ''
   discord: ''
   patreon: ''
+  mastodon: 'mastodon.social/@brainwane'
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg

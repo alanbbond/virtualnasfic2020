@@ -33,7 +33,7 @@
       {% endif %}
       {% if programparticipant.patreon.size > 0 %}
       <li class="patreon social-link">
-        <a href="https://patreon.com/{{ programparticipant.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/" target="_blank">
+        <a href="https://patreon.com/{{ programparticipant.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'patreon.com' }}/" target="_blank">
           <span class="screen-reader-text">Patreon</span>
         </a>
       </li>
@@ -42,6 +42,13 @@
       <li class="discord social-link">
         <a href="https://discord.gg/{{ programparticipant.discord | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'discord.gg' }}/" target="_blank">
           <span class="screen-reader-text">Discord</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if programparticipant.mastodon.size > 0 %}
+      <li class="mastodon social-link">
+        <a href="https://{{ programparticipant.mastodon | remove: '://' | remove: 'https' | remove: 'http' }}/" target="_blank">
+          <span class="screen-reader-text">Mastodon</span>
         </a>
       </li>
       {% endif %}
