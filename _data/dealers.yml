@@ -1,4 +1,13 @@
 ---
+- name: ''
+  contact: ''
+  city: ''
+  state: ''
+  what_is_sold: ''
+  link: ''
+  description: ''
+  restrictions: ''
+  image_filenames: []
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
