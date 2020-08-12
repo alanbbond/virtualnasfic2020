@@ -2,217 +2,67 @@
 label: Event In Schedule
 hide_body: true
 fields:
-- name: title
-  type: text
+- name: schedule_entries
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+    description: The title of the event. If it is more than 80 characters, it is recommended
+      to clip something off and put it at the start of the description.
+  - name: datetime
+    type: text
+    config:
+      required: false
+    label: datetime
+    description: The day and time.
+  - name: room
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Auditorium
+      - Scioto Room
+      - Olentangy Room
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: room
+  - name: programparticipants
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: program-participant-entries
+    label: programparticipants
+  - name: moderators
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: moderators
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: description
   config:
-    required: false
-  label: title
-  description: The title of the event. If it is more than 80 characters, it is recommended
-    to clip something off and put it at the start of the description.
-- name: datetime
-  type: datetime
-  label: datetime
-  description: Friday, Saturday, or Sunday, and the time of day.
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-- name: room
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - Auditorium
-    - Scioto Room
-    - Olentangy Room
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: room
-  description: A page with a livestream and Discord chat channel.
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: description
-- name: programparticipants
-  type: list
-  label: programparticipants
-  config:
-    required: false
-    options:
-    - Ada Palmer
-    - Alaya Dawn Johnson
-    - Alec Nevala-Lee
-    - Aliette de Bodard
-    - Alison Scott
-    - Alma Alexander
-    - Ben Yalow
-    - Beth Meacham
-    - Bogi Takács
-    - Brandon Wilson
-    - Cat Rambo
-    - Charles Payseur
-    - Cheryl Morgan
-    - Chris M. Barkley
-    - Dan Tres Omi
-    - Daniel M. Kimmel
-    - Dara Naraghi
-    - dave ring
-    - Day Al-Mohamed
-    - Doug Piero Carey
-    - Eboni Dunbar
-    - Eileen Gunn
-    - Elsa R. Sjunneson
-    - Farah Mendlesohn
-    - F. Paul Wilson
-    - James Bacon
-    - Jason Sanford
-    - Jennifer Blackstream
-    - Jeremy Holcomb
-    - Jim C. Hines
-    - Joel Zakem
-    - John Medaille
-    - John Wiswell
-    - Jordan Kurella
-    - Julie Washington
-    - Kathryn Sullivan
-    - L.D. Lewis
-    - Laurence Raphael Brothers
-    - Lucy A. Snyder
-    - Malka Older
-    - Mari Ness
-    - Marieke Nijkamp
-    - Mary Anne Mohanraj
-    - Michael Grossberg
-    - Michael R. Underwood
-    - Mike Chen
-    - Misha Stone
-    - Neil Clarke
-    - Nino Cipri
-    - Oghenechovwe Donald Ekpeki
-    - Pablo Defendini
-    - Phoebe Barton
-    - Phoebe North
-    - Premee Mohamed
-    - Raven Oak
-    - Ray VanTilburg
-    - Sarah Loch
-    - Sherwood Smith
-    - Steven Gould
-    - Steven H Silver
-    - Sumana (brainwane) Harihareswara
-    - Tom Jackson
-    - Valerie Estelle Frankel
-    - Valerie Valdes
-    - Valjeanne Jeffers
-    - Victor Raymond
-    - W.A. (Bill) Thomasson
-    - Whitney "Strix" Beltrán
-    - William S. Higgins
-    - Brian Herbert
-    - Kevin J. Anderson
-    - Stephanie Law
-    - Christopher J. Garcia
-    - Marc Millis
-    - Sue and Steve Francis
-    - Tom Smith
-    - Eric Flint
-    use_select: true
-    source:
-      type: simple
-- name: moderators
-  type: list
-  label: moderators
-  config:
-    use_select: true
     min: 
     max: 
-    options:
-    - Ada Palmer
-    - Alaya Dawn Johnson
-    - Alec Nevala-Lee
-    - Aliette de Bodard
-    - Alison Scott
-    - Alma Alexander
-    - Ben Yalow
-    - Beth Meacham
-    - Bogi Takács
-    - Brandon Wilson
-    - Cat Rambo
-    - Charles Payseur
-    - Cheryl Morgan
-    - Chris M. Barkley
-    - Dan Tres Omi
-    - Daniel M. Kimmel
-    - Dara Naraghi
-    - dave ring
-    - Day Al-Mohamed
-    - Doug Piero Carey
-    - Eboni Dunbar
-    - Eileen Gunn
-    - Elsa R. Sjunneson
-    - Farah Mendlesohn
-    - F. Paul Wilson
-    - James Bacon
-    - Jason Sanford
-    - Jennifer Blackstream
-    - Jeremy Holcomb
-    - Jim C. Hines
-    - Joel Zakem
-    - John Medaille
-    - John Wiswell
-    - Jordan Kurella
-    - Julie Washington
-    - Kathryn Sullivan
-    - L.D. Lewis
-    - Laurence Raphael Brothers
-    - Lucy A. Snyder
-    - Malka Older
-    - Mari Ness
-    - Marieke Nijkamp
-    - Mary Anne Mohanraj
-    - Michael Grossberg
-    - Michael R. Underwood
-    - Mike Chen
-    - Misha Stone
-    - Neil Clarke
-    - Nino Cipri
-    - Oghenechovwe Donald Ekpeki
-    - Pablo Defendini
-    - Phoebe Barton
-    - Phoebe North
-    - Premee Mohamed
-    - Raven Oak
-    - Ray VanTilburg
-    - Sarah Loch
-    - Sherwood Smith
-    - Steven Gould
-    - Steven H Silver
-    - Sumana (brainwane) Harihareswara
-    - Tom Jackson
-    - Valerie Estelle Frankel
-    - Valerie Valdes
-    - Valjeanne Jeffers
-    - Victor Raymond
-    - W.A. (Bill) Thomasson
-    - Whitney "Strix" Beltrán
-    - William S. Higgins
-    - Brian Herbert
-    - Kevin J. Anderson
-    - Stephanie Law
-    - Christopher J. Garcia
-    - Marc Millis
-    - Sue and Steve Francis
-    - Tom Smith
-    - Eric Flint
+    labelField: 
+  label: Schedule Entries
 pages:
 - _data/schedule.yml
