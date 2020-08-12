@@ -166,6 +166,26 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Bogi Takács
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/bogi-takacs.png"
+  description: 'Bogi Takács is a Hungarian Jewish agender trans person (e/em/eir/emself
+    or they pronouns) and an immigrant to the US. E is a winner of the Lambda award
+    for editing Transcendent 2: The Year''s Best Transgender Speculative Fiction,
+    the Hugo award for Best Fan Writer, and a finalist for other awards. Eir debut
+    poetry collection Algorithmic Shapeshifting and eir debut short story collection
+    The Trans Space Octopus Congregation were both released last year. You can find
+    Bogi talking about books at [Bogi Reads the World]() and on various social media
+    as bogiperson.'
+  website1: "[www.bogireadstheworld.com](http://www.bogireadstheworld.com)"
+  website2: ''
+  website3: " "
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: bogiperson
 - name: Brandon Wilson
   category:
   - Presenter
