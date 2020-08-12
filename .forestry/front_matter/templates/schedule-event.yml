@@ -121,6 +121,8 @@ fields:
       - Tom Smith
       - Eric Flint
     label: programparticipants
+    description: The template will automatically add commas and the word "and" to
+      this list as grammatically appropriate.
   - name: moderators
     type: list
     config:
@@ -133,6 +135,8 @@ fields:
         file: 
       options: []
     label: moderators
+    description: The template will automatically add commas and the word "and" to
+      this list as grammatically appropriate.
   - name: description
     type: textarea
     default: ''
