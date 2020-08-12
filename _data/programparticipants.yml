@@ -272,7 +272,7 @@
     chair, (Cinclave in 1986), a professional bookseller, book collector, genre radio
     talk show host, a fan activist involved with the Worldcon Business Meeting, a
     tv and movie reviewer and currently, a columnist at large for the Hugo Award winning
-    fanzine, File 770 dot com. He resides in Cincinnati, Ohio.
+    fanzine, _File 770 dot com_. He resides in Cincinnati, Ohio.
   website1: ''
   website2: ''
   website3: ''
@@ -286,7 +286,7 @@
   role: ''
   filename: "/assets/images/chris-miller.jpg"
   description: Chris is a Native Hawaiian activist and game developer. He's best known
-    for Neofeud, a cyberpunk game about his experiences growing up in Hawaii's ghetto,
+    for _Neofeud_, a cyberpunk game about his experiences growing up in Hawaii's ghetto,
     being a social worker & STEM teacher for poor, homeless, refugees, POC kids in
     the slums of Hawaii that the tour buses avoid.
   website1: ''
@@ -503,6 +503,25 @@
   website1: "[Repairman Jack website](https://repairmanjack.com/)"
   website2: ''
   website3: ''
+  patreon: ''
+- name: Freya Marske
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/freya-marske.jpg"
+  description: Freya Marske lives in Australia, where she is yet to be killed by any
+    form of wildlife. She writes stories full of magic, blood, and as much kissing
+    as she can get away with, and she co-hosts the Hugo Award nominated podcast Be
+    the Serpent. Her hobbies include figure skating and discovering new art galleries,
+    and she is on a quest to try all the gin in the world. Her debut novel, the queer
+    historical fantasy A MARVELLOUS LIGHT, is forthcoming from Tor.Com Publishing
+    in 2021.
+  website1: "[freyamarske.com](https://freyamarske.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: freyamarske
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: James Bacon
   guest_of_honor: false
