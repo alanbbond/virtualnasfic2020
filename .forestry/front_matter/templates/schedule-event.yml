@@ -64,5 +64,3 @@ fields:
     max: 
     labelField: 
   label: Schedule Entries
-pages:
-- _data/schedule.yml
