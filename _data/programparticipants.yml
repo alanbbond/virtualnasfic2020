@@ -562,6 +562,26 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Jamar Nicholas
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/jamar-nicholas.jpg"
+  description: 'Jamar Nicholas is an award-winning, Philadelphia-based artist and
+    educator, dedicating his career to helping young people realize the power of cartooning.
+    He is widely-known for adapting and illustrating Geoffrey Canada''s _Fist Stick
+    Knife Gun_ and creating _Leon: Protector of the Playground_, which won the Dwayne
+    McDuffie Award for Diversity in 2018. He is also a writer and columnist for _DRAW!
+    Magazine_, the How-To source for comic and animation professionals, as well as
+    co-host of the Pencil To Pencil Podcast with comics legends Mike Manley and Bret
+    Blevins.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: jamarnicholas
+  instagram: jamar.nicholas
+  discord: ''
+  patreon: ''
 - name: James Bacon
   guest_of_honor: false
   role: ''
@@ -819,6 +839,21 @@
   website1: "[Laurence Raphael Brothers - Author](https://laurencebrothers.com)"
   website2: ''
   website3: ''
+  patreon: ''
+- name: Leigh Harlen
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/leigh-harlen.jpg"
+  description: Leigh Harlen is a queer, non-binary writer of dark leaning speculative
+    fiction. They live and work in Seattle. Their non-writing hobbies include petting
+    strangers’ dogs and enthusing about how awesome bats are.
+  website1: "[leighharlen.com](https://leighharlen.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: leighharlen
+  instagram: ''
+  discord: ''
   patreon: ''
 - name: Lucy A. Snyder
   guest_of_honor: false
