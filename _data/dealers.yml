@@ -129,12 +129,12 @@
     feather hair ornaments
   restrictions: 'not sure how to do overseas (pricing and insurance) '
   image_filenames:
-  - "/assets/images/raven-wing-1.JPG"
-  - "/assets/images/raven-wing-2a.JPG"
-  - "/assets/images/raven-wing-2b.JPG"
-  - "/assets/images/raven-wing-3.JPG"
-  - "/assets/images/raven-wing-4.JPG"
-  - "/assets/images/raven-wing-5.JPG"
+  - "/assets/images/ravenwing1.JPG"
+  - "/assets/images/ravenwing2.JPG"
+  - "/assets/images/ravenwing3.JPG"
+  - "/assets/images/ravenwing4.JPG"
+  - "/assets/images/ravenwing5.JPG"
+  - "/assets/images/ravenwing6.JPG"
 - name: Silicon Valley Authors
   contact: Valerie Frankel
   city: Sunnyvale
