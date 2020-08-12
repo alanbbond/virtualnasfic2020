@@ -1,21 +1,29 @@
 ---
 - title: Deconstructing the Novella (Panel)
-  day: Saturday
+  datetime: Saturday, 4:00pm-4:50pm
   room: ''
-  time: 4:00-4:50pm
-  moderators: dave ring
-  programparticipants: Aliette de Bodard, Eboni Dunbar, L.D. Lewis and Nino Cipri
+  moderators:
+  - dave ring
+  programparticipants:
+  - Aliette de Bodard
+  - Eboni Dunbar
+  - L.D. Lewis
+  - Nino Cipri
   description: Authors Cipri, de Bodard, Dunbar and Lewis discuss their own novellas
     as well as other celebrated titles, highlight some of the publishers putting them
     out, dig into some craft questions, and pull apart a few of the novella's tricks
     and challenges.
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
-  day: Saturday, August 22nd
+  datetime: Saturday afternoon
   room: ''
-  time: Afternoon
-  moderators: Tom Jackson
-  programparticipants: Sarah Hoyt, F. Paul Wilson, Michael Grossberg, William H. Stoddard
+  moderators:
+  - Tom Jackson
+  programparticipants:
+  - Sarah Hoyt
+  - F. Paul Wilson
+  - Michael Grossberg
+  - William H. Stoddard
   description: How have our visions of a free, dynamic and better future, with universal
     respect for each other’s rights, evolved and changed in science fiction/fantasy?
     What about cautionary dystopian visions, from Orwell’s 1984 and Animal Farm to
@@ -27,10 +35,13 @@
     years.
 - title: Prometheus Awards’ 40th Anniversary Ceremony
   room: ''
-  day: Saturday, August 22nd
-  time: Afternoon
-  moderators: Michael Grossberg, Tom Jackson
-  programparticipants: F. Paul Wilson and Sarah Hoyt
+  datetime: Saturday Afternoon
+  moderators:
+  - Michael Grossberg
+  - Tom Jackson
+  programparticipants:
+  - F. Paul Wilson
+  - Sarah Hoyt
   description: 'The Prometheus Awards, first presented in 1979 to F. Paul Wilson and
     administered by the nonprofit Libertarian Futurist Society (www.lfs.org), recognizes
     outstanding pro-freedom and/or anti-authoritarian speculative fiction. Winners
@@ -44,11 +55,13 @@
     Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton,
     Jack Williamson, Wilson and Robert Anton Wilson.)'
 - title: 'The Power of Love: The Intersection of Spec Fic (Panel)'
-  day: Saturday
+  datetime: Saturday, 7:00-7:50pm
   room: ''
-  time: 7:00-7:50pm
-  moderators: Sarah Loch
-  programparticipants: Charles Payseur, Eboni Dunbar, et al
+  moderators:
+  - Sarah Loch
+  programparticipants:
+  - Charles Payseur
+  - Eboni Dunbar
   description: Speculative fiction and romance have always existed side by side in
     the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
     inform your romance plot (and vice versa) and how characterization tricks help

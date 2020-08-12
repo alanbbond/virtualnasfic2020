@@ -8,18 +8,18 @@
     {% endif %}
     {% if event.time.size > 0 %}
     <span class="time">
-      {{ event.day }}, {{ event.time }}
+      {{ event.datetime }}
     </span>
     {% endif %}
   </p>
   <p class="byline">
     {% if event.moderators.size > 0 %}
     <span class="moderators">
-      Moderator: {{ event.moderators }}
+      Moderator: {{ event.moderators | array_to_sentence_string }}
     </span>
     {% endif %}
     <span class="programparticipants">
-      {{ event.programparticipants }}
+      {{ event.programparticipants | array_to_sentence_string }}
     </span>
   </p>
   <p class="description">{{ event.description }}</p>
