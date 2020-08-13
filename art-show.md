@@ -31,4 +31,4 @@ As this is a virtual experience we are no longer limited to physical location an
 
 ## **What do I need to have or do to participate?**
 
-Please fill out the [application](https://forms.gle/https://forms.gle/DhjDUFbhoLWL3NpC9).
+Please fill out the [application](https://forms.gle/DhjDUFbhoLWL3NpC9).
