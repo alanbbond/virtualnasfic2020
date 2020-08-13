@@ -27,7 +27,7 @@ Crayne and Pelz reacted to TorCon 2’s simply by running their own site selecti
 
 ![](/assets/images/1975-half-sisters.jpg)
 
-![](/assets/images/1975-devil-s-rain.jpg)
+![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
 
 # 1979 - NorthAmericon ’79
 
