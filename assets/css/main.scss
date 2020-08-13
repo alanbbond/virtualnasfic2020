@@ -282,12 +282,12 @@ p.jump {
   }
 }
 
-.dealer-listing {
+.dealer-listing, .artist-listing, {
   margin-top: -0.5rem;
   border-top: 0.5rem solid $dark;
   border-bottom: 0.5rem solid $dark;
 
-  .dealer-info {
+  .dealer-info, .artist-info {
     max-width: 45rem;
   }
 }
