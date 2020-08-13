@@ -14,8 +14,6 @@ Welcome to the NASFiC Virtual Dealer Room! Here you will find pictures and links
 
 Many dealers will be available to chat with you on Saturday, August 22 from 11 to 3 EDT via our Discord server.
 
-{% include carousel.html %}
-
 For a closer look, click on gallery images below:
 
 {% for dealer in site.data.dealers %}{% include dealer_listing.html %}{% endfor %}
