@@ -2,7 +2,7 @@
 title: Art Show
 layout: default
 category: public
-order: 5
+order: "5"
 
 ---
 # NASFIC VIRTUAL ART SHOW
@@ -11,7 +11,7 @@ order: 5
 
 All artwork must somehow relate to science fiction, fantasy, or actual science. (Fortunately, this leaves lots of room to work in.) While we encourage a wide and varied assortment of styles and subject matter of art in the art show, we reserve the right to reject any art which violates local laws.
 
-Please read this FAQ before you [fill out the application](https://docs.google.com/forms/d/1YBsXaiBu7Jtr15nNVCyqTmBcLzkVOZWH8ra3yaU7PpY/edit), if you are interested in being an artist at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Art Show
+Please read this FAQ before you [fill out the application](https://forms.gle/DhjDUFbhoLWL3NpC9), if you are interested in being an artist at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Art Show
 
 ## **What’s going on? What IS this?**
 
@@ -31,4 +31,4 @@ As this is a virtual experience we are no longer limited to physical location an
 
 ## **What do I need to have or do to participate?**
 
-Please fill out the [application](https://forms.gle/jYyhSMZYCBvGF2sy8).
+Please fill out the [application](https://forms.gle/https://forms.gle/DhjDUFbhoLWL3NpC9).
