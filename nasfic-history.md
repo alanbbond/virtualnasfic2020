@@ -25,8 +25,7 @@ An Aussie victory would open the way for selection of the first NASFiC, which wa
 
 Crayne and Pelz reacted to TorCon 2’s simply by running their own site selection process at the con. I got my first bidding experience while helping Bruce Pelz and Milt Stevens haul cases of beer from a package store to their bid party in Toronto’s Royal York Hotel. “Strong backs, weak minds,” I think Bruce said. When the ballots were counted, we (Bruce and Milt may be thinking, “What do you mean, _we_?”) lost to Chuck Crayne’s bid. _\~Mike Glyer_
 
-![](/assets/images/1975-half-sisters.jpg)
-![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
+![](/assets/images/1975-half-sisters.jpg) ![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
 
 # 1979 - NorthAmericon ’79
 
