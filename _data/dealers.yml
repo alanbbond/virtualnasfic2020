@@ -65,6 +65,20 @@
   - "/assets/images/crystalidyll-3.JPG"
   - "/assets/images/crystalidyll-4.JPG"
   - "/assets/images/crystalidyll-5.JPG"
+- name: ESM Books
+  contact: Cary Meriwether
+  city: Buckeye
+  state: AZ
+  what_is_sold: Books
+  link: '[https://www.ebay.com/str/esmbooks](https://www.ebay.com/str/esmbooks "https://www.ebay.com/str/esmbooks")'
+  description: Online bookstore specializing in signed SF, Fantasy, and Mystery books.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/esm-books-1.png"
+  - "/assets/images/esm-books-2.JPG"
+  - "/assets/images/esm-books-3.JPG"
+  - "/assets/images/esm-books-4.JPG"
+  - "/assets/images/esm-books-5.JPG"
 - name: Fantaminals
   link: '[http://www.fantaminals.com/](http://www.fantaminals.com/ "http://www.fantaminals.com/")'
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
