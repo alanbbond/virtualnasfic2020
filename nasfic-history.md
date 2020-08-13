@@ -134,3 +134,39 @@ Most fans responded with a crotchety sense of humor. Someone coined an immortal 
 Even so, there were still many events of interest. Taras Wolansky’s con report is full of program highlights. He encountered one of sf’s most colorful real-life characters, Thorarin Gunnarson, writer, Danish television personality and Icelandic opera singer. Wolansky snorted at Julian May’s attitude about psychics who are revealed to be frauds: It’s tragic, she said, when people with real psychic powers are forced by circumstances to become charlatans! And he enjoyed hearing Sheila Finch talk about her story in the Benford anthology Hitler Victorious, on the leading wave of today’s thriving alternate history sub-genre. _\~Mike Glyer_
 
 ![](/assets/images/1990-music.jpg)![](/assets/images/1990-tshirt-2.jpg)
+
+# 1995 - Dragon*Con 1995
+
+July 13 to 16, 1995 
+
+Atlanta Hilton & Towers, Westin Peachtree Plaza Hotel, Atlanta Civic Center 
+
+Atlanta, Georgia
+
+Guests of Honor:
+
+George Alec Effinger (writer)
+
+Harlan Ellison (writer)
+
+Timothy Zahn (writer)
+
+Michael Whelan (artist)
+
+Bjo Trimble (fan)
+
+Chair: Ed Kramer 
+
+Attendance: 14,312*
+
+\* Despite Dragon*Con’s overall attendance of 14,000, Locus estimates only about 1,000 came just for the NASFiC. This may not have offset the cost of special things done to enhance the NASFiC side of the con.
+
+When the Atlanta bid for the 1995 Worldcon was defeated by the Glasgow bid, an unrelated group of fans connected with Atlanta’s huge annual popular culture convention, Dragon*Con, successfully bid to hold NASFiC in conjunction with their event in July 1995. Reports suggest that the Dragon*Con committee and Worldcon regulars who went looking for the NASFiC’s promise of “Worldcon-style convention” both came away feeling they’d gotten less in return than the experience cost them.
+
+The committee did a number of things designed to appeal to fans looking for a focus on printed sf. In addition to its own slate of GoHs, Dragon*Con named as “NASFiC Honored Guests” George Alec Effinger, Harlan Ellison, Bjo Trimble, Michael Whelan, Timothy Zahn. They also hosted several major awards ceremonies. Charles N. Brown agreed to have the Locus Awards presented there, with Joe Haldeman as MC. The Chesley and Prometheus Awards were also given at the con. 
+
+Of more lasting notoriety, many who came for NASFiC reacted critically to the rest of Dragon*Con. Charles N. Brown wrote in Locus, “On the whole, the super-combined convention did not work well. The program, all 18 tracks of it, was out-of-hand and badly organized.” Having gone to the trouble of importing non-media guests, Dragon*Con/NASFiC seemed to have little idea what to do with them. George Alec Effinger was assigned to one reading, one autograph session, and no panels, and finished his assigned duties on the second day of the con. The reading was scheduled opposite Harlan Ellison's talk!
+
+Fans could not believe that the art show was crowded into a tiny space with aisles only 30" wide (not as wide as some fans….) Some were astonished by the huge amount of pornography and bondage equipment for sale. Overall, the experience showed it was not really possible to graft a Worldcon-style NASFiC onto a huge popular culture convention and satisfy the fans of either.
+
+\~Mike Glyer
