@@ -192,11 +192,11 @@
     Tor, from her home in Arizona. Among the authors Beth has worked with are Kevin
     J. Anderson, Orson Scott Card, Mary Robinette Kowal, Karl Schroeder, Spencer Ellsworth,
     Cecelia Holland, Jay Lake, Elizabeth Bear, Pat Murphy, Sarah Monette, Mike Resnick,
-    Ken Scholes, Will Shetterly, John M. Ford, Michael Cassutt, Pat Murphy, Gordon
-    R. Dickson, Greg Bear, Kim Stanley Robinson, Tim Powers, Mike Brotherton, William
-    Gibson, David Brin, Pat Cadigan, Storm Constantine, Lisa Goldstein, Steven Gould,
-    Randy Henderson, Nancy Kress, Melanie Rawn, Charles Sheffield, Judith Tarr, Jack
-    Vance, Chelsea Quinn Yarbro and Jane Yolen.
+    Ken Scholes, Will Shetterly, John M. Ford, Michael Cassutt, Gordon R. Dickson,
+    Greg Bear, Kim Stanley Robinson, Tim Powers, Mike Brotherton, William Gibson,
+    David Brin, Pat Cadigan, Storm Constantine, Lisa Goldstein, Steven Gould, Randy
+    Henderson, Nancy Kress, Melanie Rawn, Charles Sheffield, Judith Tarr, Jack Vance,
+    Chelsea Quinn Yarbro and Jane Yolen.
   website1: ''
   website2: ''
   website3: ''
@@ -340,7 +340,7 @@
   guest_of_honor: false
   role: ''
   filename: "/assets/images/dan-tresomi.jpg"
-  description: Dan Tres Omi is an educator, Hip Hop diplomat, Capoeira instrutor,
+  description: Dan Tres Omi is an educator, Hip Hop diplomat, Capoeira instructor,
     and pod-caster out of Dayton, Ohio.
   website1: '[Soundcloud](https://soundcloud.com/dantresomi "Soundcloud")'
   website2: ''
@@ -587,9 +587,9 @@
   role: ''
   filename: "/assets/images/james-bacon.jpg"
   description: James is a train driver from Ireland living in London who happens to
-    be a Hugo winning fanzine editor, fan of comics, Star Wars and fountain pens.
+    be a Hugo winning fanzine editor; fan of comics, Star Wars and fountain pens.
     He wastes time sending mail, running conventions and especially enjoys the social
-    aspects of them. James instructs, assess and trains new Train Drivers.
+    aspects of them. James instructs, assesses and trains new Train Drivers.
   website1: ''
   website2: ''
   website3: ''
