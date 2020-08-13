@@ -1,4 +1,54 @@
 ---
 label: Artist
 hide_body: true
-fields: []
+fields:
+- name: artist
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: name
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: description
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: instagram
+    description: The segment following instagram.com/
+  - name: website1
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website1
+  - name: website2
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website2
+  - name: images
+    type: image_gallery
+    config: {}
+    label: images
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: artist
