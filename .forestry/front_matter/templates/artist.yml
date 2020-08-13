@@ -52,5 +52,3 @@ fields:
     max: 
     labelField: 
   label: artist
-pages:
-- _data/artists.yml
