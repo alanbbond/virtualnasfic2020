@@ -562,6 +562,24 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Gadi Evron
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/gadi-evron.jpg"
+  description: Gadi is former CEO and founder of Cymmetria \[acquired\], coordinates
+    global response to cyber threats, chair of the World Economic Forum’s Cyber Risk
+    Insight Council, and led the post-mortem for The First Internet War. In fandom,
+    Gadi is the host of web show _Essence of Wonder_, and is Division Head of Events
+    for Discon III. In his free time, he writes science fiction and fantasy, and teaches
+    dance.
+  website1: "[Essence of Wonder](http://essenceofwonder.com/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Jamar Nicholas
   guest_of_honor: false
   role: ''
@@ -803,7 +821,7 @@
 - name: L.D. Lewis
   guest_of_honor: false
   role: ''
-  filename: "/assets/images/ld-lewis-1.png"
+  filename: "/assets/images/ld-lewis.jpg"
   description: 'L.D. Lewis is an award-winning SF/F writer and editor, and serves
     as a founding creator, Art Director, and Project Manager for the World Fantasy
     Award-winning and Hugo Award-nominated _FIYAH Literary Magazine_. She also serves
@@ -1216,6 +1234,27 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Sheree Renée Thomas
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/shereerenee-thomas.jpg"
+  description: 'Sheree Renée Thomas is the author of NINE BAR BLUES: Stories from
+    an Ancient Future (Third Man Books, 2020), _Sleeping Under the Tree of Life_ (Aqueduct
+    Press, 2016), and _Shotgun Lullabies: Stories and Poems_ (Aqueduct, 2011). Her
+    widely anthologized work appears in THE BIG BOOK OF MODERN FANTASY edited by Ann
+    & Jeff VanderMeer (Vintage). Her essays appear in The New York Times and other
+    publications. Her DARK MATTER anthologies were honored with two World Fantasy
+    Awards and Sheree''s writing has been supported by fellowships from the Millay
+    Colony of the Arts, Bread Loaf Environmental, NYFA, VCCA, and Cave Canem. She
+    lives in Memphis, near a mighty river and a pyramid.'
+  website1: "[Nine Bar Blues](https://thirdmanbooks.com/books/nine-bar-blues/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Sherwood Smith
   guest_of_honor: false
   role: ''
@@ -1288,6 +1327,23 @@
   discord: ''
   patreon: ''
   mastodon: mastodon.social/@brainwane
+- name: Tobias Buckell
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/tobias-buckell.jpg"
+  description: Born in the Caribbean, Tobias S. Buckell is a New York Times Bestselling
+    and World Fantasy Award winning author. His novels and almost one hundred stories
+    have been translated into nineteen different languages. He has been nominated
+    for the Hugo Award, Nebula Award, World Fantasy Award, and Astounding Award for
+    Best New Science Fiction Author. He currently lives in Ohio.
+  website1: "[tobiasbuckell.com](http://www.tobiasbuckell.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Tom Jackson
   role: Moderator
   filename: tom-jackson.jpg
