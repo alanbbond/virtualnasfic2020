@@ -5,7 +5,7 @@
     fan of science fiction and fantasy literature, alternate worlds and cultures influence
     the styles and themes of her art. Melanie is an instigator for the Denver Victorian
     &amp; Steampunk Society.
-  images:
+  image_filenames:
   - "/assets/images/artshow/20200321_175422 - Melanie Unruh.jpg"
   - "/assets/images/artshow/20200321_180133 - Melanie Unruh.jpg"
   - "_site/assets/images/artshow/20200321_193254 - Melanie Unruh.jpg"
@@ -21,7 +21,7 @@
   description: España is a Californian living in the UK. She’s been participating
     in art shows and contributing illos to fanzines for a couple of decades now, but
     only recently got interested in hand-painted fans.
-  images:
+  image_filenames:
   - "_site/assets/images/artshow/fan1-dragon - Espana Sheriff.jpeg"
   - "/Users/matt/git/virtualnasfic2020/_site/assets/images/artshow/fan2-peregrine - Espana Sheriff.jpg"
   - "_site/assets/images/artshow/fan3-starway - Espana Sheriff.jpg"
@@ -42,7 +42,7 @@
     the love of birds and art making. Amanda's art has appeared in ENnie award-winning
     games and on the covers popular independent novels and anthologies. She is a regular
     at Fantasy and SciFi conventions in the southeast.
-  images:
+  image_filenames:
   - "/assets/images/artshow/ChanceEncounter2019-Makepeace - Amanda Makepeace.jpg"
   - "/assets/images/artshow/Makepeace_ForestDreams - Amanda Makepeace.jpg"
   - "/assets/images/artshow/PhoenixSong2019-Makepeace - Amanda Makepeace.jpg"
