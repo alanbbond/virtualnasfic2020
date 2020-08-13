@@ -1,0 +1,23 @@
+<section class="artist-listing" id="listing-{{ artist.name | slugify }}">
+  <div class="gallery">
+    <div class="artist-info">
+      <h2>{{ artist.name }}</h2>
+      {% if artist.instagram.size > 0 %}
+      <p class="instagram">{{ artist.instagram | markdownify}}</p>
+      {% endif %}
+      {% if artist.website1.size > 0 %}
+      <p class="website1">{{ artist.website1 | markdownify}}</p>
+      {% endif %}
+      {% if artist.website2.size > 0 %}
+      <p class="website2">{{ artist.website2 | markdownify}}</p>
+      {% endif %}
+      <p>{{ artist.description | markdownify }}</p>
+    </div>
+    {% if artist.image_filenames.size > 0 %}
+    {% for file in artist.image_filenames %}
+    <div class="gallery-image" style="background-image: url('{{ file }}')">
+    </div>
+    {% endfor %}
+    {% endif %}
+  </div>
+</section>
