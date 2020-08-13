@@ -4,7 +4,11 @@
     and functional pottery, and fantasy and historical sartorial arts. A life-long
     fan of science fiction and fantasy literature, alternate worlds and cultures influence
     the styles and themes of her art. Melanie is an instigator for the Denver Victorian
-    & Steampunk Society.
+    &amp; Steampunk Society.
+  images:
+  - "/assets/images/artshow/20200321_175422 - Melanie Unruh.jpg"
+  - "/assets/images/artshow/20200321_180133 - Melanie Unruh.jpg"
+  - "_site/assets/images/artshow/20200321_193254 - Melanie Unruh.jpg"
 - name: Raymond VanTilburg
   description: I began selling paintings and drawings in the science fiction market
     at my first convention, Inconjunction in 1983. The next year I began selling my
@@ -17,6 +21,10 @@
   description: España is a Californian living in the UK. She’s been participating
     in art shows and contributing illos to fanzines for a couple of decades now, but
     only recently got interested in hand-painted fans.
+  images:
+  - "_site/assets/images/artshow/fan1-dragon - Espana Sheriff.jpeg"
+  - "/Users/matt/git/virtualnasfic2020/_site/assets/images/artshow/fan2-peregrine - Espana Sheriff.jpg"
+  - "_site/assets/images/artshow/fan3-starway - Espana Sheriff.jpg"
   instagram: futuriana_art
 - name: Rachel Quinlan
   description: Rachel Quinlan is an award-winning fantasy artist, based in Saint Clair
@@ -34,6 +42,12 @@
     the love of birds and art making. Amanda's art has appeared in ENnie award-winning
     games and on the covers popular independent novels and anthologies. She is a regular
     at Fantasy and SciFi conventions in the southeast.
+  images:
+  - "/assets/images/artshow/ChanceEncounter2019-Makepeace - Amanda Makepeace.jpg"
+  - "/assets/images/artshow/Makepeace_ForestDreams - Amanda Makepeace.jpg"
+  - "/assets/images/artshow/PhoenixSong2019-Makepeace - Amanda Makepeace.jpg"
+  - "/assets/images/artshow/PoissonDarte2019-Makepeace - Amanda Makepeace.jpg"
+  - "/assets/images/artshow/TheWishCollector-Makepeace - Amanda Makepeace.jpg"
 - name: Debbie Hughes
   description: 'Debbie Hughes, a graduate of Furman University and the grand-daughter
     of the Impressionist Painter Hildegarde Hamilton, is a published illustrator in
