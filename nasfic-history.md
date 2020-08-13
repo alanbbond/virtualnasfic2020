@@ -48,6 +48,7 @@ George Scithers (fan)
 NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. _\~ Mike Glyer_
 
 ![](/assets/images/1979-program.jpeg)
+
 NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held out of North America. The convention was held over the Labor Day weekend in 1979 in Louisville, KY. It started as a "Nashville is Neat in 100 Degree Heat" ad in a 1975 MidAmeriCon progress report. This ad was a big joke pulled on Khen Moore by Ken Keller, who was MidAmeriCon's chairman. It started to take off as a Worldcon bid for Nashville when Khen got a bad case of Worldcon fever. As it became more and more obvious that Nashville did not have the needed hotel space (this was before the Opryland Hotel was a factor) the bid somehow migrated north to Louisville as a NASFiC bid. _\~ Steve & Sue Francis_
 
 ![](/assets/images/1979-room-party.jpeg)
@@ -108,7 +109,8 @@ The pseudo-highlight of CactusCon was the lead story of the hoax daily newzine, 
 
 However, it’s hard to top the con’s most unusual program item. Mary Mason led a dozen participants armed with scalpels in a study of the anatomy and function of pig brains. Jane Jewell wrote, “I arrived near the end of the hour to find an enthusiastic group slicing away at the pig’s brains provided by the committee.” \~ Mike Glyer
 
-![](/assets/images/nasfic-1987-program-guide-2.jpg)![](/assets/images/nasfic-1987-phoenix-1-2.jpg)![](/assets/images/1987-site-selection.jpeg)**Site Selection desk** - CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)
+![](/assets/images/nasfic-1987-program-guide-2.jpg)![](/assets/images/nasfic-1987-phoenix-1-2.jpg)![](/assets/images/1987-site-selection.jpeg)
+**Site Selection desk** - CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)
 
 # 1990 - ConDiego
 
