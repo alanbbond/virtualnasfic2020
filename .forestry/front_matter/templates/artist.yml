@@ -43,10 +43,10 @@ fields:
       schema:
         format: markdown
     label: website2
-  - name: images
+  - name: image_filenames
     type: image_gallery
     config: {}
-    label: images
+    label: image_filenames
   config:
     min: 
     max: 
