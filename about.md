@@ -25,7 +25,6 @@ Worldcon 78 (2020) will be held in Wellington, New Zealand. Visit [https://conze
 * **Vice Chair & IT** Dale Mazzola [info@columbus2020nasfic.org](mailto:info@columbus2020nasfic.org)
 * **Treasurer & Pre-Registration** Kim Williams [finance@columbus2020nasfic.org](mailto:finance@columbus2020nasfic.org)
 * **Digital Transition** Alan Bond nasfictransition@gmail.com
-* **Art Show** Mystie Dragonfly artshow@columbus2020nasfic.org
 * **Dealers** Angela Jones-Parker [dealers@columbus2020nasfic.org](mailto:dealers@columbus2020nasfic.org)
 * **Website** Dale Mazzola and Matt Arnold
 * **Discord** Walter Parker
