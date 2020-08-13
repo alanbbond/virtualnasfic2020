@@ -9,7 +9,7 @@ order: 10
 
 ## New "Virtual" Dates: Friday, August 21 - Sunday, August 23
 
-We are busy setting up an awesome virtual event for all of you. Due to our transition we've revised our dates to tighten the dates to three days. The 2020 NASFiC will now be held Noon Friday, August 21st-- Sunday, August 23rd.
+We are busy setting up an awesome virtual event for all of you. Due to our transition we've revised our dates to tighten the Convention to three days. The 2020 NASFiC will now be held Noon Friday, August 21st-- Sunday, August 23rd.
 
 ## Ohio Geography in Virtual Room Names: The Olentangy, and The Scioto 
 
