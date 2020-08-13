@@ -11,9 +11,9 @@ order: 10
 
 We are busy setting up an awesome virtual event for all of you. Due to our transition we've revised our dates to tighten the Convention to three days. The 2020 NASFiC will now be held Noon Friday, August 21st-- Sunday, August 23rd.
 
-## Ohio Geography in Virtual Room Names: The Olentangy, and The Scioto 
+## Ohio Geography in Virtual Room Names: The Olentangy, and The Scioto
 
-While the Columbus, Ohio NASFiC has now gone completely virtual, we wanted to retain some local flavor. The Panel "Room" tabs and Discord channels are thus named Scioto and Olentangy.  The Scioto River and the Olentangy River are the two rivers that flow through Columbus, Ohio.  The Olentangy flows into the Scioto, which later joins the Ohio River. Both names come from Native American languages. Scioto means "Deer" in Wyandot, and Olentangy means "River of the red face paint" in Delaware. 
+While the Columbus, Ohio NASFiC has now gone completely virtual, we wanted to retain some local flavor. The Panel "Room" tabs and Discord channels are thus named Scioto and Olentangy.  The Scioto River and the Olentangy River are the two rivers that flow through Columbus, Ohio.  The Olentangy flows into the Scioto, which later joins the Ohio River. Both names come from Native American languages. Scioto means "Deer" in Wyandot, and Olentangy means "River of the red face paint" in Delaware.
 
 ## What exactly is Worldcon or NASFiC? How are they related?
 
@@ -34,6 +34,7 @@ Worldcon 78 (2020) will be held in Wellington, New Zealand. Visit [https://conze
 * **Discord** Walter Parker
 * **Social Media** Katharine Bond
 * **Souvenir Book** Joseph Vlad Stockman [vlad.stockman@gmail.com](mailto:vlad.stockman@gmail.com)
+* **At-Con Newsletter** Tammy Coxen
 * **Programming** Anne Gray, Hafidha Acuay [program@columbus2020nasfic.org](mailto:program@columbus2020nasfic.org)
   * **Writer's Workshop & ROF** Kelly Strait [columbusprogramming@gmail.com](mailto:columbusprogramming@gmail.com)
   * **RoFCon** Joy Ward (co-editor with Eric Flynt of Ring of Fire Press)
