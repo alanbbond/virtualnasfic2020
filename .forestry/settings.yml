@@ -17,9 +17,6 @@ sections:
 - type: document
   path: _data/dealers.yml
   label: Dealer Entries
-- type: document
-  path: _data/artists.yml
-  label: Artist Entries
 - type: jekyll-pages
   label: Pages
   create: all
