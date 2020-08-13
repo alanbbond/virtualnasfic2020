@@ -9,7 +9,11 @@ order: 10
 
 ## New "Virtual" Dates: Friday, August 21 - Sunday, August 23
 
-We've been exploring the possibility of providing an Online event for all of you. We are happy to announce that this is now a reality. We have a small team working hard to put together the best online event we can for you to enjoy at the end of August. Due to our transition we've revised our dates to reflect the limit of our planning capabilities at this point; they are now Friday, August 21st-Sunday, August 23rd.
+We are busy setting up an awesome virtual event for all of you. Due to our transition we've revised our dates to tighten the dates to three days. The 2020 NASFiC will now be held Noon Friday, August 21st-- Sunday, August 23rd.
+
+## Ohio Geography in Virtual Room Names: The Olentangy, and The Scioto 
+
+While the Columbus, Ohio NASFiC has now gone completely virtual, we wanted to retain some local flavor. The Panel "Room" tabs and Discord channels are thus named Scioto and Olentangy.  The Scioto River and the Olentangy River are the two rivers that flow through Columbus, Ohio.  The Olentangy flows into the Scioto, which later joins the Ohio River. Both names come from Native American languages. Scioto means "Deer" in Wyandot, and Olentangy means "River of the red face paint" in Delaware. 
 
 ## What exactly is Worldcon or NASFiC? How are they related?
 
