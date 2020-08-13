@@ -13,7 +13,7 @@ order: 7
 
 ## Columbus NASFiC 2020 Virtual Dealer Room FAQ
 
-Please read this FAQ if you are interested in being a dealer at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Virtual Dealer Room.
+Please read this page if you are interested in being a dealer at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Virtual Dealer Room.
 
 ## What’s going on? What IS this?
 
