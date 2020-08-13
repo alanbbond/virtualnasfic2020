@@ -8,7 +8,9 @@
   image_filenames:
   - "/assets/images/artshow/20200321_175422 - Melanie Unruh.jpg"
   - "/assets/images/artshow/20200321_180133 - Melanie Unruh.jpg"
-  - "_site/assets/images/artshow/20200321_193254 - Melanie Unruh.jpg"
+  - "/assets/images/artshow/20200321_193254 - Melanie Unruh.jpg"
+  - "/assets/images/artshow/IMG_20200417_143820 - Melanie Unruh.jpg"
+  - "/assets/images/artshow/IMG_20200417_144309 - Melanie Unruh.jpg"
 - name: Raymond VanTilburg
   description: I began selling paintings and drawings in the science fiction market
     at my first convention, Inconjunction in 1983. The next year I began selling my
@@ -17,14 +19,21 @@
     in the dealers room. I continue to produce art for t-shirts at my company OffWorld
     Designs. I started showing and selling originals a few years ago in Science Fiction
     at any convention art shows that I attend.
+  image_filenames:
+  - "/assets/images/artshow/From the Sky - Ray VanTilburg.jpg"
+  - "/assets/images/artshow/IMG_9857 - Ray VanTilburg.jpg"
+  - "/assets/images/artshow/IMG_9858 - Ray VanTilburg.jpg"
+  - "/assets/images/artshow/IMG_9863 - Ray VanTilburg.jpg"
+  - "/assets/images/artshow/IMG_9911 - Ray VanTilburg.jpg"
 - name: España Sheriff
   description: España is a Californian living in the UK. She’s been participating
     in art shows and contributing illos to fanzines for a couple of decades now, but
     only recently got interested in hand-painted fans.
   image_filenames:
-  - "_site/assets/images/artshow/fan1-dragon - Espana Sheriff.jpeg"
-  - "/Users/matt/git/virtualnasfic2020/_site/assets/images/artshow/fan2-peregrine - Espana Sheriff.jpg"
-  - "_site/assets/images/artshow/fan3-starway - Espana Sheriff.jpg"
+  - "/assets/images/artshow/fan1-dragon - Espana Sheriff.jpeg"
+  - "/assets/images/artshow/fan2-peregrine - Espana Sheriff.jpg"
+  - "/assets/images/artshow/fan3-starway - Espana Sheriff.jpg"
+  - "/assets/images/artshow/fan5-starcrown - Espana Sheriff.jpg"
   instagram: futuriana_art
 - name: Rachel Quinlan
   description: Rachel Quinlan is an award-winning fantasy artist, based in Saint Clair
@@ -34,6 +43,12 @@
     influenced by illustrators from the Golden Age and she enjoys exploring themes
     related to nature, fairy tales, folk lore, mythology and anything strange or unusual.
   website1: www.rachelquinlan.com
+  image_filenames:
+  - "/assets/images/artshow/Gatherer_RachelQuinlan - Rachel Quinlan.jpg"
+  - "/assets/images/artshow/RachelQuinlan_OwlStatues_Scan - Rachel Quinlan.jpg"
+  - "/assets/images/artshow/RachelQuinlan_PiedPiperofGreyhawk - Rachel Quinlan.png"
+  - "/assets/images/artshow/RachelQuinlan_WiseOne - Rachel Quinlan.png"
+  - "/assets/images/artshow/Submerged_RachelQuinlan - Rachel Quinlan.jpg"
 - name: Amanda Makepeace
   description: Amanda Makepeace is a Chesley Award winning illustrator, working in
     both digital and traditional mediums. Through her art she explores mythology,
@@ -61,6 +76,11 @@
     exhibits her work in NYC. Her contribution to Science Fiction is listed in: Science
     Fiction and Fantasy Artists of the Twentieth Century: A Biographical Dictionary. '
   website1: http://www.debbiehughes.com
+  image_filenames:
+  - "/assets/images/artshow/heartofforest2 - Debbie Hughes Art and Illustration.jpg"
+  - "/assets/images/artshow/ravenwolfmaiden2.oil.2019.30X14 - Debbie Hughes Art and Illustration.jpg"
+  - "/assets/images/artshow/thedreamingtree - Debbie Hughes Art and Illustration.jpg"
+  - "/assets/images/artshow/TheMaiden.debbiehughes - Debbie Hughes Art and Illustration.jpg"
 - name: Wendy Van Camp
   description: Wendy Van Camp writes science fiction, regency romance, and poetry.
     Her writing blog No Wasted Ink features essays about the craft of writing, poetry,
@@ -72,13 +92,29 @@
     art prints.
   website1: No Wasted Ink http://nowastedink.com
   website2: No Wasted Ink ESTY Shop https://www.etsy.com/shop/NoWastedInk
+  image_filenames:
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Crush - Wendy Van Camp.jpg"
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Dyson Ring - Wendy Van Camp.jpg"
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Exoskeleton - Wendy Van Camp.jpg"
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Jupiter - Wendy Van Camp.jpg"
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Miners - Wendy Van Camp.jpg"
 - name: Johnna Klukas
   description: Johnna Klukas creates work on science, science fiction and fantasy
     themes in mixed media, primarily wood.
   website1: https://www.trainedtermites.com
+  image_filenames:
+  - "/assets/images/artshow/gravity_waves-01-3to4 - Johnna Klukas.jpg"
+  - "/assets/images/artshow/retro-rocket-sm - Johnna Klukas.jpg"
+  - "/assets/images/artshow/SpaceTraveler_front-small - Johnna Klukas.JPG"
 - name: SunnyJim Morgan
   description: 'SunnyJim Morgan is an artist and bespoke shoemaker from Olympia, Washington.  Working
     in a wide variety of mediums, Jim has lately been exploring leatherworking.  Supervised
     by a trio of housecats, and inspired by a life long love of The Lord of the Rings,
     Anne McCaffrey, and Star Wars, basically, ''I make stuff.'' '
   website1: https://www.etsy.com/shop/HammerFairy?ref=seller-platform-mcnav
+  image_filenames:
+  - "/assets/images/artshow/IMG_1630 - sunny jim.jpg"
+  - "/assets/images/artshow/IMG_1650 - sunny jim.jpg"
+  - "/assets/images/artshow/IMG_1654 - sunny jim.jpg"
+  - "/assets/images/artshow/IMG_9238 - sunny jim.JPG"
+  - "/assets/images/artshow/IMG_9266 - sunny jim.JPG"
