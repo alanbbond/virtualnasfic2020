@@ -46,10 +46,9 @@ George Scithers (fan)
 
 ![](/assets/images/1979-filksing.jpeg)
 
-NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. _\~ Mike Glyer_
+NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. _\~ Mike Glyer_
 
 ![](/assets/images/1979-program.jpeg)
-
 NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held out of North America. The convention was held over the Labor Day weekend in 1979 in Louisville, KY. It started as a "Nashville is Neat in 100 Degree Heat" ad in a 1975 MidAmeriCon progress report. This ad was a big joke pulled on Khen Moore by Ken Keller, who was MidAmeriCon's chairman. It started to take off as a Worldcon bid for Nashville when Khen got a bad case of Worldcon fever. As it became more and more obvious that Nashville did not have the needed hotel space (this was before the Opryland Hotel was a factor) the bid somehow migrated north to Louisville as a NASFiC bid. _\~ Steve & Sue Francis_
 
 ![](/assets/images/1979-room-party.jpeg)
@@ -57,3 +56,81 @@ NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held ou
 A Southern fandom con tradition in the 70s was to go skinnydipping at midnight, and this tradition was followed at NorthAmericon. Unbeknownst to the swimmers, however, one wall of the pool featured portholes to the hotel bar. Drinkers probably were shocked sober by the sight of some of the fans swimming by. _\~ Fancyclopedia_
 
 ![](/assets/images/1979-weaver-of-spinweb.jpg)
+
+# 1985 - LoneStarCon 1
+
+August 30 to September 3, 1985  
+Hyatt Regency Austin, Sheraton Crest, Palmer Auditorum  
+Austin, Texas
+
+**_Guests of Honor:_**  
+Jack Vance (writer)  
+Richard Powers (artist)  
+Joanne Burger (fan)
+
+**_Chair:_** Willie Siros
+
+**_Attendance:_** 2,800
+
+![](/assets/images/1985-lobby.jpeg)
+
+The First Occasional Lone Star Science Fiction Convention and Chili Cook-Off was the most popular NASFiC ever. The bidding committee was as big, dynamic and creative as the state of Texas. They had the best bid party at the 1983 Worldcon in Baltimore, and Site Selection voters who picked Australia to host the 1985 Worldcon rewarded the LoneStarCon committee by approving Austin, Texas to host the 1985 NASFiC. LoneStarCon’s guests of honor included Jack Vance, a reclusive author attending his first large American con, artist Richard Powers, and fan Joanne Burger, co-founder of the Houston SF Society.
+
+LoneStarCon had an exceptionally large and diverse program. Its most popular item was the Secular Humanist Revival, a satirical event led by Orson Scott Card and John M. Ford. Jane Jewell wrote in Locus: “Card called on the congregation to confess their beliefs in logic, reason and the scientific method…. Rev. Card invited members of the audience to testify for their favorite scientific theory by boldly writing it on a sheet of paper, signing their name, and passing it to the front. The Reverend then respectfully intoned the names of these theories, most of which were met with enthusiastic applause…. Gravity received a particularly thunderous ovation.
+
+One of the more crowded parties was the Aussiecon II reunion, involving around 150 members of NASFiC who came there straight from the Australian Worldcon.  _\~ Mike Glyer_
+
+![](/assets/images/1985-art-show.jpeg)![](/assets/images/1985-vance.jpeg)
+
+# 1987 - CactusCon
+
+September 3 to 7, 1987  
+Phoenix Hyatt Regency Adams Hilton, Phoenix  
+Convention Center  
+Phoenix, Arizona
+
+**_Guests of Honor:_**  
+Hal Clement (pro)  
+Marjii Ellers (fan)
+
+**_Chair:_** Bruce Farr
+
+**_Attendance:_** 2,800
+
+![](/assets/images/1987-masq.jpg)
+
+Phoenix held back nothing as it prepared for an honored guest. However, that turned out to be the Pope, who was in town at about the same time.
+
+Marjii Ellers, fan GoH, embodied fannish high spirits, wearing antenna to panels and working indefatigably on the costume programming. CactusCon was a magnet for costumers. Locus said such a large Masquerade was expected that the committee divided it into Friday and Saturday night sessions, possibly in reaction to the ’84 Worldcon’s marathon costume event. (However, Janice Gelb reported one of CactusCon’s sessions involved only 20 costumes.)
+
+By 1987, dances were becoming major evening fare at American conventions. CactusCon ran a 50’s dance one night and a 70’s rock and roll party the next night. Another sign of the times was the presence of a CompuServe SF Forum party.
+
+The pseudo-highlight of CactusCon was the lead story of the hoax daily newzine, reporting: “Calamity on the Hyatt’s fourth floor last night, as drunken revelers at the Alcor Life Extension party took their cryonics equipment and invaded the ‘Hell in ‘91’ hoax bid party. Hell froze over, and as a result Harper & Row has announced The Last Dangerous Visions for publication this spring.”
+
+However, it’s hard to top the con’s most unusual program item. Mary Mason led a dozen participants armed with scalpels in a study of the anatomy and function of pig brains. Jane Jewell wrote, “I arrived near the end of the hour to find an enthusiastic group slicing away at the pig’s brains provided by the committee.” \~ Mike Glyer
+
+![](/assets/images/nasfic-1987-program-guide-2.jpg)![](/assets/images/nasfic-1987-phoenix-1-2.jpg)![](/assets/images/1987-site-selection.jpeg)**Site Selection desk** - CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)
+
+# 1990 - ConDiego
+
+August 30 to September 3, 1990  
+Omni Hotel, San Diego Convention & Performing Arts Center  
+San Diego, California
+
+**_Guests of Honor:  
+_**Samuel R. Delany (pro)  
+Ben Yalow (fan)
+
+**_Chair:_** Albert Lafreniere II 
+
+**_Attendance:_** 3,000
+
+![](/assets/images/1990-books.jpg)
+
+Neither a fine speech by pro GoH Samuel Delany, an excellent Masquerade, a well-stocked Dealer’s Room, a top-quality Press Relations department, nor a successful Regency Dance, could divert the avalanche of sentiment which quickly made ConDiego a byword for haphazard convention-running. Not after fans were handed a typo-riddled Program Book which misspelled the hotel’s name, the guests of honors’ names and even the con’s own name – that in headline type: ConDigeo. And not after fans started seeing other problems and glitches. Not even herculean efforts behind the scenes by the other GoH, conrunning guru Ben Yalow, could bind up so many loose ends.
+
+Most fans responded with a crotchety sense of humor. Someone coined an immortal wordplay referencing The Princess Bride: “My name is ConDigeo Montoya. You killed my weekend. Prepare to die!”
+
+Even so, there were still many events of interest. Taras Wolansky’s con report is full of program highlights. He encountered one of sf’s most colorful real-life characters, Thorarin Gunnarson, writer, Danish television personality and Icelandic opera singer. Wolansky snorted at Julian May’s attitude about psychics who are revealed to be frauds: It’s tragic, she said, when people with real psychic powers are forced by circumstances to become charlatans! And he enjoyed hearing Sheila Finch talk about her story in the Benford anthology Hitler Victorious, on the leading wave of today’s thriving alternate history sub-genre. _\~Mike Glyer_
+
+![](/assets/images/1990-music.jpg)![](/assets/images/1990-tshirt-2.jpg)
