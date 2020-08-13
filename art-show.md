@@ -11,7 +11,7 @@ order: "5"
 
 All artwork must somehow relate to science fiction, fantasy, or actual science. (Fortunately, this leaves lots of room to work in.) While we encourage a wide and varied assortment of styles and subject matter of art in the art show, we reserve the right to reject any art which violates local laws.
 
-Please read this FAQ before you [fill out the application](https://forms.gle/DhjDUFbhoLWL3NpC9), if you are interested in being an artist at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Art Show
+Please read this FAQ before you [fill out the application](https://docs.google.com/forms/d/e/1FAIpQLScmW03zuuzFiKPwl0RocK4M2iRrx8J_gmF2OTmRP86a2yW23A/viewform), if you are interested in being an artist at NASFiC 2020. You will be expected to abide by the information and rules presented here if you apply and are accepted into the Art Show
 
 ## **What’s going on? What IS this?**
 
@@ -31,4 +31,4 @@ As this is a virtual experience we are no longer limited to physical location an
 
 ## **What do I need to have or do to participate?**
 
-Please fill out the [application](https://forms.gle/DhjDUFbhoLWL3NpC9).
+Please fill out the [application](https://docs.google.com/forms/d/e/1FAIpQLScmW03zuuzFiKPwl0RocK4M2iRrx8J_gmF2OTmRP86a2yW23A/viewform).
