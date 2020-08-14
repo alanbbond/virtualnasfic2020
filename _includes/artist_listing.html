@@ -3,10 +3,31 @@
     <div class="artist-info">
       <h2>{{ artist.name }}</h2>
       <ul class="social-links-menu">
+      {% if artist.facebook.size > 0 %}
+        <li class="facebook social-link">
+          <a href="https://www.facebook.com/{{ artist.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/" target="_blank">
+            <span class="screen-reader-text">Facebook</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if artist.twitter.size > 0 %}
+        <li class="twitter social-link">
+          <a href="https://twitter.com/{{ artist.twitter | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'twitter.com' }}/" target="_blank">
+            <span class="screen-reader-text">Twitter</span>
+          </a>
+        </li>
+      {% endif %}
       {% if artist.instagram.size > 0 %}
         <li class="instagram social-link">
           <a href="https://www.instagram.com/{{ artist.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/" target="_blank">
             <span class="screen-reader-text">Instagram</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if artist.patreon.size > 0 %}
+        <li class="patreon social-link">
+          <a href="https://patreon.com/{{ artist.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'patreon.com' }}/" target="_blank">
+            <span class="screen-reader-text">Patreon</span>
           </a>
         </li>
       {% endif %}
