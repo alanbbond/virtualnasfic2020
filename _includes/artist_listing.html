@@ -2,13 +2,15 @@
   <div class="gallery">
     <div class="artist-info">
       <h2>{{ artist.name }}</h2>
+      <ul class="social-links-menu">
       {% if artist.instagram.size > 0 %}
-      <li class="instagram social-link">
-        <a href="https://www.instagram.com/{{ artist.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/" target="_blank">
-          <span class="screen-reader-text">Instagram</span>
-        </a>
-      </li>
+        <li class="instagram social-link">
+          <a href="https://www.instagram.com/{{ artist.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/" target="_blank">
+            <span class="screen-reader-text">Instagram</span>
+          </a>
+        </li>
       {% endif %}
+      </ul>
       {% if artist.website1.size > 0 %}
       <p class="website1">{{ artist.website1 | markdownify}}</p>
       {% endif %}
