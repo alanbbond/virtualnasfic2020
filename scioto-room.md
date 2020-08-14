@@ -13,15 +13,8 @@ Named for the Scioto River
 <iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
 </iframe>
 
-<widgetbot
-server="680949000295284757"
-channel="742199135716769875"
-width="45%"
-height="53vh"
-class="nasfic-chat"
->
-</widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<iframe src="https://titanembeds.com/embed/680949000295284757?defaultchannel=742199135716769875" height="600" width="800" frameborder="0" class="nasfic-chat">
+</iframe>
 <script>
 const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
