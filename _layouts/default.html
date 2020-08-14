@@ -73,7 +73,7 @@
     </header>
     {% if page.public %}
     <section class="public-container">
-    {% elsif room.category == "room" %}
+    {% elsif page.category == "room" %}
     <section class="accesscontrol-container room-container" hidden>
     {% else %}
     <section class="accesscontrol-container" hidden>
