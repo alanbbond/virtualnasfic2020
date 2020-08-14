@@ -1,7 +1,8 @@
 ---
 title: NASFiC History
 layout: default
-category: accesscontrol
+category: info
+public: false
 order: 13
 
 ---

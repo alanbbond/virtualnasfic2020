@@ -1,7 +1,8 @@
 ---
 title: For Dealers
 layout: default
-category: public
+category: info
+public: true
 order: 7
 
 ---

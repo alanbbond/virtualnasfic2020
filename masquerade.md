@@ -1,7 +1,8 @@
 ---
 title: Masquerade
 layout: default
-category: public
+category: info
+public: true
 order: 6
 
 ---

@@ -1,7 +1,8 @@
 ---
 title: Code of Conduct
 layout: default
-category: Public
+category: info
+public: true
 order: 14
 
 ---

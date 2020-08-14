@@ -1,27 +1,19 @@
 ---
-title: Olentangy Room
+title: Embed Experiment
 layout: default
 category: room
 public: false
-order: 4
+order: 14
 
 ---
-# The Olentangy Event Room
 
-Named for the Olentangy River
+This room will be removed from the website before the convention.
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
 </iframe>
 
-<widgetbot
-server="680949000295284757"
-channel="742086242308718703"
-width="45%"
-height="53vh"
-class="nasfic-chat"
->
-</widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<iframe src="https://titanembeds.com/embed/680949000295284757" defaultchannel="742198998722543678" height="600" width="800" frameborder="0" class="nasfic-chat">
+</iframe>
 <script>
 const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];

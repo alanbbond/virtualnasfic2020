@@ -1,7 +1,8 @@
 ---
 title: Online Dealers
 layout: default
-category: accesscontrol
+category: room
+public: false
 order: 5
 
 ---

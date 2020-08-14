@@ -1,7 +1,8 @@
 ---
 title: Report Problems
 layout: default
-category: accesscontrol
+category: info
+public: false
 order: 11
 
 ---

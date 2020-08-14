@@ -1,7 +1,8 @@
 ---
 title: About
 layout: default
-category: public
+category: info
+public: true
 order: 10
 
 ---

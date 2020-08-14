@@ -1,7 +1,8 @@
 ---
 title: Lobby
 layout: default
-category: accesscontrol
+category: room
+public: false
 order: 1
 
 ---

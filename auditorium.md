@@ -1,7 +1,8 @@
 ---
 title: Auditorium
 layout: default
-category: accesscontrol
+category: room
+public: false
 order: 2
 
 ---
@@ -10,16 +11,9 @@ order: 2
 <iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
 </iframe>
 
-<widgetbot
-server="680949000295284757"
-channel="742086184364146739"
-width="45%"
-height="53vh"
-class="nasfic-chat"
+<iframe src="https://titanembeds.com/embed/680949000295284757" defaultchannel="742198998722543678" height="600" width="800" frameborder="0" class="nasfic-chat">
+</iframe>
 
->
-</widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 <script>
 const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
@@ -37,5 +31,3 @@ document.addEventListener('fullscreenchange', resizeVideoAndChat, false);
 
 resizeVideoAndChat();
 </script>
-
-<iframe src="https://titanembeds.com/embed/680949000295284757?defaultchannel=742198998722543678" height="600" width="800" frameborder="0"></iframe>

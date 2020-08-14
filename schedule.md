@@ -2,6 +2,7 @@
 title: Schedule
 layout: default
 category: public
+public: true
 order: 4
 
 ---

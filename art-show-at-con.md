@@ -1,8 +1,9 @@
 ---
 title: Online Artists
 layout: default
-category: accesscontrol
-order: 15
+category: room
+public: false
+order: 6
 
 ---
 

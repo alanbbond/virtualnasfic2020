@@ -1,7 +1,8 @@
 ---
 title: How To Attend
 layout: default
-category: public
+category: info
+public: true
 order: 2
 
 ---

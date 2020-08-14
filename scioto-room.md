@@ -1,7 +1,8 @@
 ---
 title: Scioto Room
 layout: default
-category: accesscontrol
+category: room
+public: false
 order: 3
 
 ---
