@@ -2,7 +2,7 @@
 title: Olentangy Room
 layout: default
 category: accesscontrol
-order: 4
+order: "4"
 
 ---
 # The Olentangy Event Room
@@ -14,25 +14,27 @@ Named for the Olentangy River
 
 <widgetbot
 server="680949000295284757"
-channel="742086242308718703"
+channel="742199193837371423"
 width="45%"
 height="53vh"
 class="nasfic-chat"
->
+
+> 
+
 </widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 <script>
-const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
-const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
+const nasfic_video = document.getElementsByClassName("nasfic-video")\[0\];
+const nasfic_chat = document.getElementsByClassName("nasfic-chat")\[0\];
 const resizeVideoAndChat = () => {
-  const w = (window.innerWidth / 2) - 40;
-  // Maintain a 4-3 aspect ratio
-  const h = (w / 4) * 3;
-  nasfic_video.style.width = `${w}px`;
-  nasfic_chat.style.width  = `${w}px`;
-  nasfic_video.style.height = `${h}px`;
-  nasfic_chat.style.height  = `${h}px`;
-} 
+const w = (window.innerWidth / 2) - 40;
+// Maintain a 4-3 aspect ratio
+const h = (w / 4) * 3;
+nasfic_video.style.width = `${w}px`;
+nasfic_chat.style.width  = `${w}px`;
+nasfic_video.style.height = `${h}px`;
+nasfic_chat.style.height  = `${h}px`;
+}
 window.addEventListener("resize", resizeVideoAndChat, false);
 document.addEventListener('fullscreenchange', resizeVideoAndChat, false);
 
