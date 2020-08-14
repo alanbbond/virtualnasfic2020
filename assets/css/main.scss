@@ -644,6 +644,10 @@ ul.social-links-menu {
 
   .public-container, .accesscontrol-container:not(.room) {
     width: 50rem;
+
+    img {
+      max-width: 100%;
+    }
   }
 
   p.jump-to {
