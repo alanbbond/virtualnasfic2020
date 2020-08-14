@@ -19,6 +19,22 @@
   - "/assets/images/angelwearcreations-03.jpg"
   - "/assets/images/angelwearcreations-04.jpg"
   - "/assets/images/angelwearcreations-05.jpg"
+- name: Blackbird Books
+  contact: Tim Caw
+  city: Oregon City
+  state: Oregon
+  what_is_sold: Books
+  link: '[https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1
+    "https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1")'
+  description: Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology,
+    kindle, paperback
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/thumbnail_image0.jpg"
+  - "/assets/images/thumbnail_image1.jpg"
+  - "/assets/images/thumbnail_image2.jpg"
+  - "/assets/images/thumbnail_image3.jpg"
+  - "/assets/images/thumbnail_image4.jpg"
 - name: City of Dreaming Pylons
   contact: Clare Boothby
   city: Cambridge
