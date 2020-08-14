@@ -642,7 +642,7 @@ ul.social-links-menu {
     }
   }
 
-  .public-container {
+  .public-container, .accesscontrol-container:not(.room) {
     width: 50rem;
   }
 
