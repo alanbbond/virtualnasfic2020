@@ -24,4 +24,8 @@ order: 2
 
 #### If you would like to help us make this event a success, please contact nasfictransition@gmail.com or fill out our [volunteer survey](https://l.facebook.com/l.php?u=https%3A%2F%2Fform.jotform.com%2F201906040573044%3Ffbclid%3DIwAR1Ew0C2VAPu0xPjZwV0glAhTAgcvtZMHHm5130KPjXpjHSzGN0JdPxo5eg&h=AT0Aw75Egyr5JvyQhzvzmdk6wogK8OhHVNYER10DP0Drm3CmF6Uz5PHNEY1lmw_rUzqIpqkqsCKuOq8ajK2fpoRO92xxNgInX75lPlYVE0gH6ePntua8v8ZZgYxFwl5-4rQ). In particular, we need volunteers to moderate the chat channels for presentations, and convey the questions to the streaming presenters.
 
+#### 
+
+#### If you are hoping to host a party at our event please contact parties@columbus2020nasfic.org .
+
 {% include agreement.html %}
