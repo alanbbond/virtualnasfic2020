@@ -2,7 +2,7 @@
 title: Report Problems
 layout: default
 category: accesscontrol
-order: "11"
+order: 11
 
 ---
 # Report Problems
