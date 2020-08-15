@@ -73,12 +73,13 @@
         </nav>
       </div>
     </header>
+    {% capture page_size %}{% if content.size > 18000 %}big{% endif %}{% endcapture %}
     {% if page.public %}
-    <section class="public-container">
+    <section class="public-container {{ page_size}}">
     {% elsif page.category == "room" %}
-    <section class="accesscontrol-container room-container" hidden>
+    <section class="accesscontrol-container room-container {{ page_size}}" hidden>
     {% else %}
-    <section class="accesscontrol-container" hidden>
+    <section class="accesscontrol-container {{ page_size}}" hidden>
     {% endif %}
       {{ content }}
     </section>

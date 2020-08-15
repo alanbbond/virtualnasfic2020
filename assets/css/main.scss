@@ -194,6 +194,10 @@ header {
   background-repeat-x: no-repeat;
   background-repeat-y: repeat;
 
+  &.big {
+    background-size: contain;
+  }
+
   li {
     margin-top: 1rem;
   }
