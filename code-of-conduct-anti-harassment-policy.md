@@ -25,3 +25,5 @@ If you feel comfortable doing so, point out the inappropriate behavior to the pe
 If you do not feel comfortable talking with the persons involved or if talking to them does not resolve the issue, please report the situation, in person, immediately to the Operations Staff, or a Convention Committee member. Try to provide a name (found on all badges) and/or a physical description of the person or persons involved.
 
 In order to take action, we need to know about any incident during that convention.
+
+## <a href="report-problems">Report Problems</a>
