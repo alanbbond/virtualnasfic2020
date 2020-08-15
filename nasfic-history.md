@@ -12,8 +12,10 @@ August 28 to September 1, 1975
 Los Angeles Airport Marriott  
 Los Angeles, California
 
-**_Guest of Honor:_** Harlan Ellison  
+**_Guest of Honor:_** Harlan Ellison
+
 **_Chair:_** Chuck Crayne  
+
 **_Attendance:_** 1,100
 
 ![](/assets/images/1975-photo-of-tarzans.jpg)
@@ -38,8 +40,10 @@ Louisville, Kentucky
 
 **_Guests of Honor:_**  
 Frederick Pohl (pro)  
-George Scithers (fan)  
+George Scithers (fan)
+
 **_Chair:_** Cliff Amos  
+
 **_Attendance:_** 1,928
 
 ![](/assets/images/1979-filksing.jpeg)
@@ -121,8 +125,8 @@ August 30 to September 3, 1990
 Omni Hotel, San Diego Convention & Performing Arts Center  
 San Diego, California
 
-**Guests of Honor:  
-**Samuel R. Delany (pro)  
+**Guests of Honor:**  
+Samuel R. Delany (pro)  
 Ben Yalow (fan)
 
 **_Chair:_** Albert Lafreniere II
