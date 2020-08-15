@@ -20,6 +20,8 @@ Los Angeles, California
 
 ![](/assets/images/1975-photo-of-tarzans.jpg)
 
+_Four Tarzans news clipping (booksnfilm.wordpress.com)_
+
 The 1970 Worldcon was held in Heidelberg, West Germany. According to Ben Yalow, “An unofficial alternative convention was held in Toronto for those who couldn't attend Heicon. As a result of the good feelings coming from this, at Noreascon (1971) the next year an amendment was made to the WSFS bylaws which stated that whenever a non-North American Worldcon was held, an interim Continental Convention would be held in the North American zone that would have been eligible to hold the Worldcon.”
 
 The view of Toronto’s alternative convention as a successful, unofficial tryout of the NASFiC was not shared by some of that city’s leading fans. This mattered because the 1973 Worldcon was going to be held in Toronto, and the 1973 Worldcon would vote on Australia’s bid for 1975 Worldcon.
@@ -29,6 +31,8 @@ An Aussie victory would open the way for selection of the first NASFiC, which wa
 Crayne and Pelz reacted to TorCon 2’s simply by running their own site selection process at the con. I got my first bidding experience while helping Bruce Pelz and Milt Stevens haul cases of beer from a package store to their bid party in Toronto’s Royal York Hotel. “Strong backs, weak minds,” I think Bruce said. When the ballots were counted, we (Bruce and Milt may be thinking, “What do you mean, _we_?”) lost to Chuck Crayne’s bid. _\~Mike Glyer_
 
 ![](/assets/images/1975-half-sisters.jpg)   ![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
+
+Half Sisters & Devil’s Rain (costume.org)
 
 # 1979 - NorthAmericon ’79
 
