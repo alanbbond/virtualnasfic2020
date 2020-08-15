@@ -54,7 +54,7 @@ George Scithers (fan)
 
 _Filksing on the riverboat (fanac.org)_
 
-NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats.   
+NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats.  
 _\~ Mike Glyer_
 
 ![](/assets/images/1979-program.jpeg)   ![](/assets/images/1979-weaver-of-spinweb.jpg)
@@ -149,7 +149,7 @@ Ben Yalow (fan)
 
 ![](/assets/images/1990-tshirt.jpg)   ![](/assets/images/1990-books.jpg)
 
-_Con t-shirt & Con publications (ebay.com)_ 
+_Con t-shirt & Con publications (ebay.com)_
 
 Neither a fine speech by pro GoH Samuel Delany, an excellent Masquerade, a well-stocked Dealer’s Room, a top-quality Press Relations department, nor a successful Regency Dance, could divert the avalanche of sentiment which quickly made ConDiego a byword for haphazard convention-running. Not after fans were handed a typo-riddled Program Book which misspelled the hotel’s name, the guests of honors’ names and even the con’s own name – that in headline type: ConDigeo. And not after fans started seeing other problems and glitches. Not even herculean efforts behind the scenes by the other GoH, conrunning guru Ben Yalow, could bind up so many loose ends.
 
@@ -252,16 +252,61 @@ _Aliens in front of crashed rocket exhibit & Phil Foglio (Hazel’s Picture Gall
 
 The Exhibits area was tucked away in the corner and was a pair of small rooms. The first room had a selection of Hugo Statues, a bunch of Japanese fanzines, which were very cool, and Kevin Standlee’s little display. That was a great thing showing the history of the Fan Guest of Honour. I know he put a lot of effort into putting it together and he had a lot of great material, including a number of photos of Kevin in a pink dress and the dress itself on a mannequin. There were badges and photos and the like from all along Kevin’s fannish career. This was really good.
 
-The other room was good, really good. Ed Stiner put together a great series of displays from the Science Fiction Museum in Oregon. He had all sorts of magazines in display cases, including issue 10 of Fantastic Four and issue 17 of Spiderman. There were board games and props and photos and paintings and a small little theatre. I’m biased, since I’m on the board of advisers, but I really think Fandom should get on getting the Science Fiction Museum a permanent home.    
+The other room was good, really good. Ed Stiner put together a great series of displays from the Science Fiction Museum in Oregon. He had all sorts of magazines in display cases, including issue 10 of Fantastic Four and issue 17 of Spiderman. There were board games and props and photos and paintings and a small little theatre. I’m biased, since I’m on the board of advisers, but I really think Fandom should get on getting the Science Fiction Museum a permanent home.  
 _\~ Christopher Garcia_
 
 ![](/assets/images/2005-kevin-exhibit.jpg)![](/assets/images/2005-kevin.jpg)
 
 _Part of Kevin Standlee Fan GoH exhibit & Captain Standlee himself, with Marci Malinowycz (Hazel’s Picture Gallery)_
 
-At Interaction the convention center had, for its shape, been re-named, and adopted as the starship WSFS Armadillo, "WSFS" supposedly "White Star Federated Spacelines" being the convenient initials of the World S-F Society, beneath whose happy wingspread Worldcons and NASFiCs stand. Standlee was Captain, Docherty was Admiral. The self-proclaimed Cabal that produces Plokta having won the Hugo for Best Fanzine, and having each been armed with a rocket by means of Hugo trophies, all invaded Closing Ceremonies as space pirates. At CascadiaCon, under the guise of raising money for relief from Hurricane Katrina, Standlee was court-martialed. Around midnight at the L.A.con IV party my roommate Tom Veal arrived with news. "We acquitted Kevin, and convicted Seth." Two hours later I found Seth Breidbart in the lobby. "Of course it's true," he said. "Were any charges brought against you?" I asked. "Of course not."   
+At Interaction the convention center had, for its shape, been re-named, and adopted as the starship WSFS Armadillo, "WSFS" supposedly "White Star Federated Spacelines" being the convenient initials of the World S-F Society, beneath whose happy wingspread Worldcons and NASFiCs stand. Standlee was Captain, Docherty was Admiral. The self-proclaimed Cabal that produces Plokta having won the Hugo for Best Fanzine, and having each been armed with a rocket by means of Hugo trophies, all invaded Closing Ceremonies as space pirates. At CascadiaCon, under the guise of raising money for relief from Hurricane Katrina, Standlee was court-martialed. Around midnight at the L.A.con IV party my roommate Tom Veal arrived with news. "We acquitted Kevin, and convicted Seth." Two hours later I found Seth Breidbart in the lobby. "Of course it's true," he said. "Were any charges brought against you?" I asked. "Of course not."  
 _\~ John Hertz_
 
 ![](/assets/images/2005-kyle.jpg)
 
 _David Kyle and family (Hazel’s Picture Gallery)_
+
+# 2007 - Archon 31/Tuckercon
+
+August 2 to 5, 2007  
+Holiday Inn Gateway Center  
+Collinsville, Illinois
+
+**Guests of Honor:**  
+Barbara Hambly (Featured)  
+Darrell K. Sweet (Artist)  
+Kevin Murphy and Bill Corbett (Media)  
+James Ernest (Gaming)  
+Elizabeth Covey (Costuming)  
+Barry & Sally Childs-Helton (Filk)  
+Nancy "Cleo" Hathaway (Fan)  
+Lani Tupu (Media/Workshop)  
+Richard Hatch (Last-Minute Special)
+
+**Chair:** Steve Norris, Michelle Zellich
+
+**Attendance:** 1,700
+
+![](/assets/images/2007-tucker-badges.JPG)![](/assets/images/2007-xbabies.JPG)
+
+_Collection of Bob Tucker convention badges & Masquerade costumes (Keith Stokes)_
+
+Now before I get accused of bad mouthing a con, I really did have a wonderful time there. It was a brilliantly programmed con with lots of great stuff happening. The facility was really good and there were cheap hotels all around the convention center so there was no problem getting a place that would suit the needs of almost any attendee. I had a lot of fun, there were a lot of good people around and I’d happily attend another Archon anytime I could make it happen.
+
+But it wasn’t supposed to be an Archon. It was supposed to be a NASFiC.
+
+The thing about the Big SF Con of the Year, typically a Worldcon though once in a while it’s a NASFiC, is that it feels like the Big SF Con of the Year. It draws people from all over, the major players, the big writers, the beautiful people of fandom and prodom. You get people in who you’d never see at the local con and people who only make it out for the Big SF Con of the Year. With the NASFiC this year, it never felt like a NASFiC; it felt like an Archon. It was a big regional convention that drew all the locals (or at least the important locals) and a smattering of people from the two Coasts.  
+_\~ Christopher Garcia_
+
+![](/assets/images/2007-firefly-costume.JPG)![](/assets/images/2007-opening-ceremonies.JPG)
+
+_Firefly hall costumes (Keith Stokes) & Opening Ceremonies (John Shoberg)_
+
+Friday evening was the annual Archon Dinner Theater Banquet. It was followed by the Guest of Honor Speeches, First  Fandom Awards,  Golden Duck Awards, Sidewise Awards, and Archon Hall of Fame and Tucker Awards, emceed by Roger Tener. It sounds like that would have gone on forever, but everyone paid attention  to the instructions to be brief, and it went through fairly quickly and enjoyably. Roger concluded the event by bringing out a couple of bottles of Beams Choice and leading the remaining members of the audience in a Smooth.
+
+…For me, TuckerCon was the most fun of any convention in the past few years. I would like to see Archon retain some of this year’s feel when they return to their regular weekend next year.  
+_\~ Keith Stokes_
+
+![](/assets/images/2007-save-penguins.JPG)
+
+_Save the Penguins masquerade costume (Keith Stokes)_
