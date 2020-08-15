@@ -33,6 +33,7 @@ fields:
         file: 
         path: 
     label: room
+    description: '"Auditorium", "Scioto Room" or "Olentangy Room"'
   - name: programparticipants
     type: list
     config:
