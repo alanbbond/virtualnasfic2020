@@ -18,22 +18,6 @@ fields:
       required: false
     label: datetime
     description: The day and time.
-  - name: room
-    type: select
-    default: []
-    config:
-      required: false
-      options:
-      - Auditorium
-      - Scioto Room
-      - Olentangy Room
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: room
-    description: '"Auditorium", "Scioto Room" or "Olentangy Room"'
   - name: programparticipants
     type: list
     config:
@@ -147,6 +131,17 @@ fields:
       schema:
         format: markdown
     label: description
+  - name: room
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: room
+    description: Use the link button to make this a link to /auditorium, /scioto-room,
+      or /olentangy-room.
   config:
     min: 
     max: 
