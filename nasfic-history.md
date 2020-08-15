@@ -108,7 +108,10 @@ The pseudo-highlight of CactusCon was the lead story of the hoax daily newzine, 
 
 However, it’s hard to top the con’s most unusual program item. Mary Mason led a dozen participants armed with scalpels in a study of the anatomy and function of pig brains. Jane Jewell wrote, “I arrived near the end of the hour to find an enthusiastic group slicing away at the pig’s brains provided by the committee.” \~ Mike Glyer
 
-![](/assets/images/nasfic-1987-program-guide-2.jpg)![](/assets/images/nasfic-1987-phoenix-1-2.jpg)![](/assets/images/1987-site-selection.jpeg)
+![](/assets/images/1987-access-desk.jpg)  
+**Access Desk** - Three years before the passage of the ADA!
+
+![](/assets/images/1987-site-selection.jpeg)
 **Site Selection desk** - CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)
 
 # 1990 - ConDiego
