@@ -188,6 +188,10 @@ header {
   margin: 0 auto;
   position: relative;
   background-image: url('data:image/svg+xml;utf8,#{$background}');
+  background-size: cover;
+  background-position: center;
+  background-repeat-x: no-repeat;
+  background-repeat-y: repeat;
 
   li {
     margin-top: 1rem;
