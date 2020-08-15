@@ -50,15 +50,14 @@ George Scithers (fan)
 
 NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. _\~ Mike Glyer_
 
-![](/assets/images/1979-program.jpeg)
+![](/assets/images/1979-program.jpeg)![](/assets/images/1979-weaver-of-spinweb.jpg)
 
 NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held out of North America. The convention was held over the Labor Day weekend in 1979 in Louisville, KY. It started as a "Nashville is Neat in 100 Degree Heat" ad in a 1975 MidAmeriCon progress report. This ad was a big joke pulled on Khen Moore by Ken Keller, who was MidAmeriCon's chairman. It started to take off as a Worldcon bid for Nashville when Khen got a bad case of Worldcon fever. As it became more and more obvious that Nashville did not have the needed hotel space (this was before the Opryland Hotel was a factor) the bid somehow migrated north to Louisville as a NASFiC bid. _\~ Steve & Sue Francis_
 
 ![](/assets/images/1979-room-party.jpeg)
 
-A Southern fandom con tradition in the 70s was to go skinnydipping at midnight, and this tradition was followed at NorthAmericon. Unbeknownst to the swimmers, however, one wall of the pool featured portholes to the hotel bar. Drinkers probably were shocked sober by the sight of some of the fans swimming by. _\~ Fancyclopedia_
-
-![](/assets/images/1979-weaver-of-spinweb.jpg)
+A Southern fandom con tradition in the 70s was to go skinnydipping at midnight, and this tradition was followed at NorthAmericon. Unbeknownst to the swimmers, however, one wall of the pool featured portholes to the hotel bar. Drinkers probably were shocked sober by the sight of some of the fans swimming by.   
+_\~ Fancyclopedia_
 
 # 1985 - LoneStarCon 1
 
