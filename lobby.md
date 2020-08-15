@@ -6,13 +6,8 @@ public: false
 order: 1
 
 ---
-When viewing Discord in the lobby you will only be able to use text chat functions.  To access the video chat functions you will need to use the Discord App.
 
-<widgetbot
-server="680949000295284757"
-channel="723567502663352460"
-width="100%"
-height="80vh"
+When viewing Discord on this site, you will only be able to use text chat functions.  To access the audiovisual chat functions, you will need to use the Discord App.
 
-> </widgetbot>
-> <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<iframe src="https://titanembeds.com/embed/680949000295284757?defaultchannel=723567502663352460" height="80vh" width="100%" frameborder="0" class="nasfic-chat">
+</iframe>
