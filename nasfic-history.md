@@ -52,16 +52,21 @@ George Scithers (fan)
 
 ![](/assets/images/1979-filksing.jpeg)
 
-NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. _\~ Mike Glyer_
+_Filksing on the riverboat (fanac.org)_
+
+NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats. NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats.   
+_\~ Mike Glyer_
 
 ![](/assets/images/1979-program.jpeg)   ![](/assets/images/1979-weaver-of-spinweb.jpg)
 
+_Program book cover (fanac.org) & The Weaver of Spinweb (costume.org)_
+
 NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held out of North America. The convention was held over the Labor Day weekend in 1979 in Louisville, KY. It started as a "Nashville is Neat in 100 Degree Heat" ad in a 1975 MidAmeriCon progress report. This ad was a big joke pulled on Khen Moore by Ken Keller, who was MidAmeriCon's chairman. It started to take off as a Worldcon bid for Nashville when Khen got a bad case of Worldcon fever. As it became more and more obvious that Nashville did not have the needed hotel space (this was before the Opryland Hotel was a factor) the bid somehow migrated north to Louisville as a NASFiC bid. _\~ Steve & Sue Francis_
 
-A Southern fandom con tradition in the 70s was to go skinnydipping at midnight, and this tradition was followed at NorthAmericon. Unbeknownst to the swimmers, however, one wall of the pool featured portholes to the hotel bar. Drinkers probably were shocked sober by the sight of some of the fans swimming by.   
+A Southern fandom con tradition in the 70s was to go skinnydipping at midnight, and this tradition was followed at NorthAmericon. Unbeknownst to the swimmers, however, one wall of the pool featured portholes to the hotel bar. Drinkers probably were shocked sober by the sight of some of the fans swimming by.  
 _\~ Fancyclopedia_
 
-![](/assets/images/1979-room-party.jpeg)Bob Asprin and Murray Porath singing at a room party
+![](/assets/images/1979-room-party.jpeg)_Bob Asprin and Murray Porath singing at a room party_
 
 # 1985 - LoneStarCon 1
 
@@ -80,6 +85,8 @@ Joanne Burger (fan)
 
 ![](/assets/images/1985-lobby.jpeg)
 
+_Fans in hotel lobby (fanac.org)_
+
 The First Occasional Lone Star Science Fiction Convention and Chili Cook-Off was the most popular NASFiC ever. The bidding committee was as big, dynamic and creative as the state of Texas. They had the best bid party at the 1983 Worldcon in Baltimore, and Site Selection voters who picked Australia to host the 1985 Worldcon rewarded the LoneStarCon committee by approving Austin, Texas to host the 1985 NASFiC. LoneStarCon’s guests of honor included Jack Vance, a reclusive author attending his first large American con, artist Richard Powers, and fan Joanne Burger, co-founder of the Houston SF Society.
 
 LoneStarCon had an exceptionally large and diverse program. Its most popular item was the Secular Humanist Revival, a satirical event led by Orson Scott Card and John M. Ford. Jane Jewell wrote in Locus: “Card called on the congregation to confess their beliefs in logic, reason and the scientific method…. Rev. Card invited members of the audience to testify for their favorite scientific theory by boldly writing it on a sheet of paper, signing their name, and passing it to the front. The Reverend then respectfully intoned the names of these theories, most of which were met with enthusiastic applause…. Gravity received a particularly thunderous ovation.
@@ -87,6 +94,8 @@ LoneStarCon had an exceptionally large and diverse program. Its most popular ite
 One of the more crowded parties was the Aussiecon II reunion, involving around 150 members of NASFiC who came there straight from the Australian Worldcon.  _\~ Mike Glyer_
 
 ![](/assets/images/1985-art-show.jpeg)   ![](/assets/images/1985-vance.jpeg)
+
+_Alan Dean Foster in a lunatic shirt & GoH Jack Vance (fanac.org)_
 
 # 1987 - CactusCon
 
@@ -105,6 +114,8 @@ Marjii Ellers (fan)
 
 ![](/assets/images/1987-masq.jpg)   ![](/assets/images/1987-program-guide.jpg)
 
+_Masquerade entry (Flickr user lfics) & CactusCon program book (Bruce Farr)_
+
 Phoenix held back nothing as it prepared for an honored guest. However, that turned out to be the Pope, who was in town at about the same time.
 
 Marjii Ellers, fan GoH, embodied fannish high spirits, wearing antenna to panels and working indefatigably on the costume programming. CactusCon was a magnet for costumers. Locus said such a large Masquerade was expected that the committee divided it into Friday and Saturday night sessions, possibly in reaction to the ’84 Worldcon’s marathon costume event. (However, Janice Gelb reported one of CactusCon’s sessions involved only 20 costumes.)
@@ -116,11 +127,11 @@ The pseudo-highlight of CactusCon was the lead story of the hoax daily newzine, 
 However, it’s hard to top the con’s most unusual program item. Mary Mason led a dozen participants armed with scalpels in a study of the anatomy and function of pig brains. Jane Jewell wrote, “I arrived near the end of the hour to find an enthusiastic group slicing away at the pig’s brains provided by the committee.” \~ Mike Glyer
 
 ![](/assets/images/1987-access-desk.jpg)  
-**Access Desk** - Three years before the passage of the ADA!
+**_Access Desk_** _- Three years before the passage of the ADA! (Bruce Farr)_
 
 ![](/assets/images/1987-site-selection.jpeg)
 
-**Site Selection desk** - CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)
+**_Site Selection desk_** _- CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)_
 
 # 1990 - ConDiego
 
@@ -138,6 +149,8 @@ Ben Yalow (fan)
 
 ![](/assets/images/1990-tshirt.jpg)   ![](/assets/images/1990-books.jpg)
 
+_Con t-shirt & Con publications (ebay.com)_ 
+
 Neither a fine speech by pro GoH Samuel Delany, an excellent Masquerade, a well-stocked Dealer’s Room, a top-quality Press Relations department, nor a successful Regency Dance, could divert the avalanche of sentiment which quickly made ConDiego a byword for haphazard convention-running. Not after fans were handed a typo-riddled Program Book which misspelled the hotel’s name, the guests of honors’ names and even the con’s own name – that in headline type: ConDigeo. And not after fans started seeing other problems and glitches. Not even herculean efforts behind the scenes by the other GoH, conrunning guru Ben Yalow, could bind up so many loose ends.
 
 Most fans responded with a crotchety sense of humor. Someone coined an immortal wordplay referencing The Princess Bride: “My name is ConDigeo Montoya. You killed my weekend. Prepare to die!”
@@ -145,6 +158,8 @@ Most fans responded with a crotchety sense of humor. Someone coined an immortal 
 Even so, there were still many events of interest. Taras Wolansky’s con report is full of program highlights. He encountered one of sf’s most colorful real-life characters, Thorarin Gunnarson, writer, Danish television personality and Icelandic opera singer. Wolansky snorted at Julian May’s attitude about psychics who are revealed to be frauds: It’s tragic, she said, when people with real psychic powers are forced by circumstances to become charlatans! And he enjoyed hearing Sheila Finch talk about her story in the Benford anthology Hitler Victorious, on the leading wave of today’s thriving alternate history sub-genre. _\~Mike Glyer_
 
 ![](/assets/images/1990-music.jpg)
+
+_Music at ConDiego (Flickr user lfics_)
 
 # 1995 - Dragon*Con 1995
 
@@ -167,6 +182,8 @@ _* Despite Dragon*Con’s overall attendance of 14,000, Locus estimates only abo
 
 ![](/assets/images/1995-warrior.jpg)   ![](/assets/images/1995-harlan.jpg)
 
+_Hall costume (myoldbox.wordpress.com) & Harlan Ellison reading (harlaneslllison.com)_
+
 When the Atlanta bid for the 1995 Worldcon was defeated by the Glasgow bid, an unrelated group of fans connected with Atlanta’s huge annual popular culture convention, Dragon-Con, successfully bid to hold NASFiC in conjunction with their event in July 1995. Reports suggest that the Dragon-Con committee and Worldcon regulars who went looking for the NASFiC’s promise of “Worldcon-style convention” both came away feeling they’d gotten less in return than the experience cost them.
 
 The committee did a number of things designed to appeal to fans looking for a focus on printed sf. In addition to its own slate of GoHs, Dragon*Con named as “NASFiC Honored Guests” George Alec Effinger, Harlan Ellison, Bjo Trimble, Michael Whelan, Timothy Zahn. They also hosted several major awards ceremonies. Charles N. Brown agreed to have the Locus Awards presented there, with Joe Haldeman as MC. The Chesley and Prometheus Awards were also given at the con.
@@ -177,10 +194,12 @@ Fans could not believe that the art show was crowded into a tiny space with aisl
 
 ![](/assets/images/1995-dealers.jpg)   ![](/assets/images/1995-mailer.jpg)
 
+_Dealer Jim Groat (Fred Patten/Dogpatch Press) & Convention mailing (mycomicshop.com)_
+
 # 1999 - Conucopia
 
 August 26 to 29, 1999  
-Anaheim Marriott   
+Anaheim Marriott  
 Anaheim, California
 
 **Guests of Honor:**  
@@ -194,7 +213,7 @@ Richard & Nicki Lynch (fan)
 
 ![](/assets/images/1999-penguin.jpg) ![](/assets/images/1999-program-book.jpg)
 
-_Lord Darth Maulingo (Hazel’s Picture Gallery) & Conucopia  Souvenir book (ebay.com)_ 
+_Lord Darth Maulingo (Hazel’s Picture Gallery) & Conucopia  Souvenir book (ebay.com)_
 
 After "Australia in '99" was selected over the "Worldcon in Zagreb 1999" bid as the World Science Fiction Convention to be held in 1999 (as "Aussiecon Three" in Melbourne), the 1996 WSFS Business Meeting directed that a written ballot contest be held to select a NASFiC site for 1999. For the first time, both at-con and by-mail balloting were possible as this NASFiC site selection contest was held one full year after the overseas Worldcon site was selected.
 
@@ -207,5 +226,5 @@ _Chaz Boston Baden models “the wig” as chest hair while Anastasia Hunter loo
 
 Being in the film center of the world, it would have been unusual if the convention committee had not taken advantage of the available resources and people who work in the industry. Media-oriented panels and events abounded, and there was even a Hong Kong movie festival, featuring some strange but yet pretty entertaining films of reasonable fantasy content (some featuring Sammo Hung and Jackie Chan when they were much younger). The strangest and maybe most entertaining of them all was The Bride With White Hair, which was described in the ConuCopia Pocket Guide as "the best sword and sorcery movie ever made by anyone anywhere." It might very well be! How best to describe it? How about: a 'Magic Realism' fairy tale where Chinese martial arts meet up with sorcery, with an heroic fantasy leading man, a mysterious beautiful witch who could ensnare victims in her long hair, and a fantastic yin-yang male-female villain who was leader of an Evil Cult. And on top of this, it was also a love story!
 
-Besides the movies, there were also some television-related items, including a Buffy the Vampire Slayer panel (that Nicki was on) which had the misfortune of being scheduled the same time as Harlan Ellison's one man show. It resulted in a smaller audience than expected, though they made up for it in exuberance which carried through the divider walls -- some of the attendees at the Ellison hour wondered if an even bigger event was being held next door.   
+Besides the movies, there were also some television-related items, including a Buffy the Vampire Slayer panel (that Nicki was on) which had the misfortune of being scheduled the same time as Harlan Ellison's one man show. It resulted in a smaller audience than expected, though they made up for it in exuberance which carried through the divider walls -- some of the attendees at the Ellison hour wondered if an even bigger event was being held next door.  
 \~ Richard & Nicki Lynch
