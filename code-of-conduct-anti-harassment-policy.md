@@ -26,4 +26,4 @@ If you do not feel comfortable talking with the persons involved or if talking t
 
 In order to take action, we need to know about any incident during that convention.
 
-## <a href="report-problems">Report Problems</a>
+## During the convention weekend, this will have a link to our "Report Problems" page.
