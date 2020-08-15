@@ -96,7 +96,7 @@ Marjii Ellers (fan)
 
 **_Attendance:_** 2,800
 
-![](/assets/images/1987-masq.jpg)
+![](/assets/images/1987-masq.jpg)![](/assets/images/1987-program-guide.jpg)
 
 Phoenix held back nothing as it prepared for an honored guest. However, that turned out to be the Pope, who was in town at about the same time.
 
