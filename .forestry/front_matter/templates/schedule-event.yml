@@ -18,6 +18,17 @@ fields:
       required: false
     label: datetime
     description: The day and time.
+  - name: room
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: room
+    description: Use the link button to make this a link to /auditorium, /scioto-room,
+      or /olentangy-room.
   - name: programparticipants
     type: list
     config:
@@ -131,17 +142,6 @@ fields:
       schema:
         format: markdown
     label: description
-  - name: room
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: room
-    description: Use the link button to make this a link to /auditorium, /scioto-room,
-      or /olentangy-room.
   config:
     min: 
     max: 
