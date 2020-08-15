@@ -112,6 +112,7 @@ However, it’s hard to top the con’s most unusual program item. Mary Mason le
 **Access Desk** - Three years before the passage of the ADA!
 
 ![](/assets/images/1987-site-selection.jpeg)
+
 **Site Selection desk** - CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)
 
 # 1990 - ConDiego
@@ -128,11 +129,15 @@ Ben Yalow (fan)
 
 **_Attendance:_** 3,000
 
+![](/assets/images/1990-tshirt.jpg)   ![](/assets/images/1990-books.jpg)
+
 Neither a fine speech by pro GoH Samuel Delany, an excellent Masquerade, a well-stocked Dealer’s Room, a top-quality Press Relations department, nor a successful Regency Dance, could divert the avalanche of sentiment which quickly made ConDiego a byword for haphazard convention-running. Not after fans were handed a typo-riddled Program Book which misspelled the hotel’s name, the guests of honors’ names and even the con’s own name – that in headline type: ConDigeo. And not after fans started seeing other problems and glitches. Not even herculean efforts behind the scenes by the other GoH, conrunning guru Ben Yalow, could bind up so many loose ends.
 
 Most fans responded with a crotchety sense of humor. Someone coined an immortal wordplay referencing The Princess Bride: “My name is ConDigeo Montoya. You killed my weekend. Prepare to die!”
 
 Even so, there were still many events of interest. Taras Wolansky’s con report is full of program highlights. He encountered one of sf’s most colorful real-life characters, Thorarin Gunnarson, writer, Danish television personality and Icelandic opera singer. Wolansky snorted at Julian May’s attitude about psychics who are revealed to be frauds: It’s tragic, she said, when people with real psychic powers are forced by circumstances to become charlatans! And he enjoyed hearing Sheila Finch talk about her story in the Benford anthology Hitler Victorious, on the leading wave of today’s thriving alternate history sub-genre. _\~Mike Glyer_
+
+![](/assets/images/1990-music.jpg)
 
 # 1995 - Dragon*Con 1995
 
