@@ -1,19 +1,4 @@
 ---
-- name: Paper Angel Press
-  contact: Steven Radecki
-  city: San Jose
-  state: California
-  what_is_sold: Books
-  link: '[https://paperangelpress.com](https://paperangelpress.com "https://paperangelpress.com")'
-  description: To bring new works of fiction and art to light. To give people a chance
-    to realize their dreams.
-  restrictions: ''
-  image_filenames:
-  - "/assets/images/paper_angel_press_01.jpg"
-  - "/assets/images/paper_angel_press_02.jpg"
-  - "/assets/images/paper_angel_press_03.jpg"
-  - "/assets/images/paper_angel_press_04.jpg"
-  - "/assets/images/paper_angel_press_05.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -178,6 +163,21 @@
   - "/assets/images/offworld03.jpg"
   - "/assets/images/offworld04.jpg"
   - "/assets/images/offworld05.jpg"
+- name: Paper Angel Press
+  contact: Steven Radecki
+  city: San Jose
+  state: California
+  what_is_sold: Books
+  link: '[https://paperangelpress.com](https://paperangelpress.com "https://paperangelpress.com")'
+  description: To bring new works of fiction and art to light. To give people a chance
+    to realize their dreams.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/paper_angel_press_01.jpg"
+  - "/assets/images/paper_angel_press_02.jpg"
+  - "/assets/images/paper_angel_press_03.jpg"
+  - "/assets/images/paper_angel_press_04.jpg"
+  - "/assets/images/paper_angel_press_05.jpg"
 - name: Ravenwing Wearable Art
   contact: Darlene Ney
   city: Lakemoor
