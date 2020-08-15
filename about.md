@@ -31,7 +31,7 @@ Worldcon 78 (2020) will be held in Wellington, New Zealand. Visit [https://conze
 * **Treasurer & Pre-Registration** Kim Williams [finance@columbus2020nasfic.org](mailto:finance@columbus2020nasfic.org)
 * **Digital Transition** Alan Bond nasfictransition@gmail.com
 * **Dealers** Angela Jones-Parker [dealers@columbus2020nasfic.org](mailto:dealers@columbus2020nasfic.org)
-* **Website** Dale Mazzola and Matt Arnold
+* **Website** Matt Arnold
 * **Discord** Walter Parker
 * **Social Media** Katharine Bond
 * **Souvenir Book** Joseph Vlad Stockman [vlad.stockman@gmail.com](mailto:vlad.stockman@gmail.com)
