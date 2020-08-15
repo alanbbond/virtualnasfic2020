@@ -14,7 +14,7 @@ Los Angeles, California
 
 **_Guest of Honor:_** Harlan Ellison
 
-**_Chair:_** Chuck Crayne  
+**_Chair:_** Chuck Crayne
 
 **_Attendance:_** 1,100
 
@@ -42,7 +42,7 @@ Louisville, Kentucky
 Frederick Pohl (pro)  
 George Scithers (fan)
 
-**_Chair:_** Cliff Amos  
+**_Chair:_** Cliff Amos
 
 **_Attendance:_** 1,928
 
