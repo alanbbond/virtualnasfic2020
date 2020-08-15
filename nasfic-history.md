@@ -79,7 +79,7 @@ LoneStarCon had an exceptionally large and diverse program. Its most popular ite
 
 One of the more crowded parties was the Aussiecon II reunion, involving around 150 members of NASFiC who came there straight from the Australian Worldcon.  _\~ Mike Glyer_
 
-![](/assets/images/1985-art-show.jpeg)![](/assets/images/1985-vance.jpeg)
+![](/assets/images/1985-art-show.jpeg)  ![](/assets/images/1985-vance.jpeg)
 
 # 1987 - CactusCon
 
