@@ -218,7 +218,7 @@ _Lord Darth Maulingo (Hazel’s Picture Gallery) & Conucopia  Souvenir book (eba
 After "Australia in '99" was selected over the "Worldcon in Zagreb 1999" bid as the World Science Fiction Convention to be held in 1999 (as "Aussiecon Three" in Melbourne), the 1996 WSFS Business Meeting directed that a written ballot contest be held to select a NASFiC site for 1999. For the first time, both at-con and by-mail balloting were possible as this NASFiC site selection contest was held one full year after the overseas Worldcon site was selected.
 
 At the 1997 Worldcon in San Antonio, Texas, a total of 491 ballots were cast, 101 by mail and 390 in person, with Los Angeles barely edging Phoenix after the first round but no site claiming a majority of the vote. It wasn't until the third round of "instant runoff" preferential vote tallying that the Los Angeles area bid was awarded the 1999 NASFiC.  
-\~ Wikipedia
+_\~ Wikipedia_
 
 ![](/assets/images/1999-chaz.jpg) ![](/assets/images/1999-masq.jpg)
 
@@ -227,4 +227,41 @@ _Chaz Boston Baden models “the wig” as chest hair while Anastasia Hunter loo
 Being in the film center of the world, it would have been unusual if the convention committee had not taken advantage of the available resources and people who work in the industry. Media-oriented panels and events abounded, and there was even a Hong Kong movie festival, featuring some strange but yet pretty entertaining films of reasonable fantasy content (some featuring Sammo Hung and Jackie Chan when they were much younger). The strangest and maybe most entertaining of them all was The Bride With White Hair, which was described in the ConuCopia Pocket Guide as "the best sword and sorcery movie ever made by anyone anywhere." It might very well be! How best to describe it? How about: a 'Magic Realism' fairy tale where Chinese martial arts meet up with sorcery, with an heroic fantasy leading man, a mysterious beautiful witch who could ensnare victims in her long hair, and a fantastic yin-yang male-female villain who was leader of an Evil Cult. And on top of this, it was also a love story!
 
 Besides the movies, there were also some television-related items, including a Buffy the Vampire Slayer panel (that Nicki was on) which had the misfortune of being scheduled the same time as Harlan Ellison's one man show. It resulted in a smaller audience than expected, though they made up for it in exuberance which carried through the divider walls -- some of the attendees at the Ellison hour wondered if an even bigger event was being held next door.  
-\~ Richard & Nicki Lynch
+_\~ Richard & Nicki Lynch_
+
+# 2005 - CascadiaCon
+
+September 1 to 5, 2005  
+Seattle Airport Hilton and Conference Center  
+Seattle, Washington
+
+**Guests of Honor:**  
+Fred Saberhagen (Writer)  
+Liz Danforth (Artist)  
+Toni Weisskopf (Editor)  
+Kevin Standlee (Fan)  
+Marc Abrahams (Science)
+
+**Chair:** Bobbie DuFault
+
+**Attendance:** 1,785
+
+![](/assets/images/2005-rocket-people.jpeg)![](/assets/images/2005-phil.jpg)
+
+_Aliens in front of crashed rocket exhibit & Phil Foglio (Hazel’s Picture Gallery)_
+
+The Exhibits area was tucked away in the corner and was a pair of small rooms. The first room had a selection of Hugo Statues, a bunch of Japanese fanzines, which were very cool, and Kevin Standlee’s little display. That was a great thing showing the history of the Fan Guest of Honour. I know he put a lot of effort into putting it together and he had a lot of great material, including a number of photos of Kevin in a pink dress and the dress itself on a mannequin. There were badges and photos and the like from all along Kevin’s fannish career. This was really good.
+
+The other room was good, really good. Ed Stiner put together a great series of displays from the Science Fiction Museum in Oregon. He had all sorts of magazines in display cases, including issue 10 of Fantastic Four and issue 17 of Spiderman. There were board games and props and photos and paintings and a small little theatre. I’m biased, since I’m on the board of advisers, but I really think Fandom should get on getting the Science Fiction Museum a permanent home.    
+_\~ Christopher Garcia_
+
+![](/assets/images/2005-kevin-exhibit.jpg)![](/assets/images/2005-kevin.jpg)
+
+_Part of Kevin Standlee Fan GoH exhibit & Captain Standlee himself, with Marci Malinowycz (Hazel’s Picture Gallery)_
+
+At Interaction the convention center had, for its shape, been re-named, and adopted as the starship WSFS Armadillo, "WSFS" supposedly "White Star Federated Spacelines" being the convenient initials of the World S-F Society, beneath whose happy wingspread Worldcons and NASFiCs stand. Standlee was Captain, Docherty was Admiral. The self-proclaimed Cabal that produces Plokta having won the Hugo for Best Fanzine, and having each been armed with a rocket by means of Hugo trophies, all invaded Closing Ceremonies as space pirates. At CascadiaCon, under the guise of raising money for relief from Hurricane Katrina, Standlee was court-martialed. Around midnight at the L.A.con IV party my roommate Tom Veal arrived with news. "We acquitted Kevin, and convicted Seth." Two hours later I found Seth Breidbart in the lobby. "Of course it's true," he said. "Were any charges brought against you?" I asked. "Of course not."   
+_\~ John Hertz_
+
+![](/assets/images/2005-kyle.jpg)
+
+_David Kyle and family (Hazel’s Picture Gallery)_
