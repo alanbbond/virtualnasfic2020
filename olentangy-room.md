@@ -24,8 +24,8 @@ in the top left of the chat widget.
 
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 <script>
-const nasfic_video = document.getElementsByClassName("nasfic-video")\[0\];
-const nasfic_chat = document.getElementsByClassName("nasfic-chat")\[0\];
+const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
+const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
 const resizeVideoAndChat = () => {
 const w = (window.innerWidth / 2) - 40;
 // Maintain a 4-3 aspect ratio
