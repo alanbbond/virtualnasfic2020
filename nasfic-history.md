@@ -162,7 +162,7 @@ Bjo Trimble (fan)
 
 _* Despite Dragon*Con’s overall attendance of 14,000, Locus estimates only about 1,000 came just for the NASFiC. This may not have offset the cost of special things done to enhance the NASFiC side of the con._
 
-![](/assets/images/1995-warrior.jpg)   
+![](/assets/images/1995-warrior.jpg)   ![](/assets/images/1995-harlan.jpg)
 
 When the Atlanta bid for the 1995 Worldcon was defeated by the Glasgow bid, an unrelated group of fans connected with Atlanta’s huge annual popular culture convention, Dragon-Con, successfully bid to hold NASFiC in conjunction with their event in July 1995. Reports suggest that the Dragon-Con committee and Worldcon regulars who went looking for the NASFiC’s promise of “Worldcon-style convention” both came away feeling they’d gotten less in return than the experience cost them.
 
@@ -172,4 +172,4 @@ Of more lasting notoriety, many who came for NASFiC reacted critically to the re
 
 Fans could not believe that the art show was crowded into a tiny space with aisles only 30" wide (not as wide as some fans….) Some were astonished by the huge amount of pornography and bondage equipment for sale. Overall, the experience showed it was not really possible to graft a Worldcon-style NASFiC onto a huge popular culture convention and satisfy the fans of either. _\~Mike Glyer_
 
-![](/assets/images/1995-dealers.jpg)![](/assets/images/1995-mailer.jpg)
+![](/assets/images/1995-dealers.jpg)   ![](/assets/images/1995-mailer.jpg)
