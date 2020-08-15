@@ -57,9 +57,7 @@ NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held ou
 A Southern fandom con tradition in the 70s was to go skinnydipping at midnight, and this tradition was followed at NorthAmericon. Unbeknownst to the swimmers, however, one wall of the pool featured portholes to the hotel bar. Drinkers probably were shocked sober by the sight of some of the fans swimming by.   
 _\~ Fancyclopedia_
 
-![](/assets/images/1979-room-party.jpeg)
-
-Bob Asprin and Murray Porath singing at a room party
+![](/assets/images/1979-room-party.jpeg)Bob Asprin and Murray Porath singing at a room party
 
 # 1985 - LoneStarCon 1
 
