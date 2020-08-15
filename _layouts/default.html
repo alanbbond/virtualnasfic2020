@@ -52,6 +52,7 @@
           {% assign navs = site.pages | sort: "order" %}
           {% for nav in navs %}
             {% if nav.public %}
+            {% unless nav.title == "404" %}
               {% if nav.title == page.title %}
             <li class="this-page public" >
               {{ nav.title }}
@@ -65,6 +66,7 @@
               </a>
               {% endif %}
             </li>
+            {% endunless %}
             {% endif %}
           {% endfor %}
           </ul>
