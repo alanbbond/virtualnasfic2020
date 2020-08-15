@@ -310,3 +310,38 @@ _\~ Keith Stokes_
 ![](/assets/images/2007-save-penguins.JPG)
 
 _Save the Penguins masquerade costume (Keith Stokes)_
+
+# 2010 - ReConStruction
+
+![](/assets/images/2010-reconstruction_web_logo.png)
+
+August 5 to 8, 2010  
+Raleigh Convention Center, Raleigh Marriott City Center, Sheraton Raleigh  
+Raleigh, North Carolina
+
+**Guests of Honor:**  
+Eric Flint (Author)  
+Brad Foster (Artist)  
+Juanita Coulson (Fan)
+
+**Chair:** Warren Buff
+
+**Attendance:** 750
+
+![](/assets/images/2010-masq-2.jpg)
+
+_Masquerade contestants (Rodford Edmiston)_
+
+This could have been Nolacon. It was totally possible that ReConStruction and TorCon could have been synonymous. It was totally possible. Instead, what we got was a small con with a few hiccups and a lot of great fun. It was, in some ways, like the Vegas Westercon, which was miniscule but highly entertaining.
+
+The Fan Lounge wasn’t quite as busy as the BayCon or Westercon Lounges; we were never packed. I don’t think we could have been packed if every attendee of the con showed up to hang out.
+
+And maybe that’s what this NASFiC will be remembered for. The idea was, for a good while leading up to the con, was that there’d be at least 1,000 or so folks, and they ended up with somewhere in the range of 700. That’s a very small number for a NASFiC, but on the other hand, it was a great crowd, many of the bigger names in Fandom, and we had a great time. Folks who hung out in the Lounge were some of the usuals, like Joe Major, John Hertz, Steven H Silver, and the like, and a bunch of folks I rarely see, like George Wells, The Lynches, Warren Buff and more. It was a fun place and it was low impact. We had hours of good conversation, and a bunch of new folks dropped in to chat. 
+
+The party scene was dead on Thursday, but Friday and Saturday were pretty amazing. The London party was fantastic, a busy party both nights and they got a ton of pre-supports, something like 1-in-5 attendees joined up. Chicago had an amazing smoothie bar, and I love smoothies! All in all, good parties.
+
+There was so much more going on. The fact is that most of the folks there were long-timers, very few newbies, which means that there wasn’t much of a new vibe, but it was still a good time. John Hertz said that we were a group who already all spoke the same language. Good con. Strong con. Small con. I’m all for another Southern convention, this one showed the kind of good time you could have. Sadly, the lead-up to the convention was weak, with lots of balls dropped left and right and some serious pains, but it came off brilliantly. It’s a good thing to have happen, and it only would have been better if there had been a bunch more folks to share the goodtime with. _\~ Christopher Garcia_
+
+![](/assets/images/2010-dead-dog.jpg)![](/assets/images/2010-exhibit-hall.jpg)
+
+_Dead Dog Party & Exhibit Hall (Rodford Edmiston)_
