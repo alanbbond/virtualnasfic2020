@@ -81,6 +81,20 @@
   - "/assets/images/crystalidyll-3.JPG"
   - "/assets/images/crystalidyll-4.JPG"
   - "/assets/images/crystalidyll-5.JPG"
+- name: The Dragon's Lair / Plushie Zoo
+  contact: Edward Trachtenberg
+  city: Methuen
+  state: MA
+  what_is_sold: Plush
+  link: '[www.plushiezoo.biz](www.plushiezoo.biz "www.plushiezoo.biz")'
+  description: Huge selection of plush from aardvark to zebra
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/thedragonslair01.jpg"
+  - "/assets/images/thedragonslair04.jpg"
+  - "/assets/images/thedragonslair05.jpg"
+  - "/assets/images/thedragonslair07.jpg"
+  - "/assets/images/thedragonslair08.jpg"
 - name: ESM Books
   contact: Cary Meriwether
   city: Buckeye
