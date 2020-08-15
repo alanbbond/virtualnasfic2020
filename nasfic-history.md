@@ -26,7 +26,7 @@ An Aussie victory would open the way for selection of the first NASFiC, which wa
 
 Crayne and Pelz reacted to TorCon 2’s simply by running their own site selection process at the con. I got my first bidding experience while helping Bruce Pelz and Milt Stevens haul cases of beer from a package store to their bid party in Toronto’s Royal York Hotel. “Strong backs, weak minds,” I think Bruce said. When the ballots were counted, we (Bruce and Milt may be thinking, “What do you mean, _we_?”) lost to Chuck Crayne’s bid. _\~Mike Glyer_
 
-![](/assets/images/1975-half-sisters.jpg) ![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
+![](/assets/images/1975-half-sisters.jpg)   ![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
 
 # 1979 - NorthAmericon ’79
 
@@ -79,7 +79,7 @@ LoneStarCon had an exceptionally large and diverse program. Its most popular ite
 
 One of the more crowded parties was the Aussiecon II reunion, involving around 150 members of NASFiC who came there straight from the Australian Worldcon.  _\~ Mike Glyer_
 
-![](/assets/images/1985-art-show.jpeg)  ![](/assets/images/1985-vance.jpeg)
+![](/assets/images/1985-art-show.jpeg)   ![](/assets/images/1985-vance.jpeg)
 
 # 1987 - CactusCon
 
@@ -96,7 +96,7 @@ Marjii Ellers (fan)
 
 **_Attendance:_** 2,800
 
-![](/assets/images/1987-masq.jpg)![](/assets/images/1987-program-guide.jpg)
+![](/assets/images/1987-masq.jpg)   ![](/assets/images/1987-program-guide.jpg)
 
 Phoenix held back nothing as it prepared for an honored guest. However, that turned out to be the Pope, who was in town at about the same time.
 
@@ -120,23 +120,19 @@ August 30 to September 3, 1990
 Omni Hotel, San Diego Convention & Performing Arts Center  
 San Diego, California
 
-\**_Guests of Honor:  
-_**Samuel R. Delany (pro)  
+**Guests of Honor:  
+**Samuel R. Delany (pro)  
 Ben Yalow (fan)
 
 **_Chair:_** Albert Lafreniere II
 
 **_Attendance:_** 3,000
 
-![](/assets/images/1990-books.jpg)
-
 Neither a fine speech by pro GoH Samuel Delany, an excellent Masquerade, a well-stocked Dealer’s Room, a top-quality Press Relations department, nor a successful Regency Dance, could divert the avalanche of sentiment which quickly made ConDiego a byword for haphazard convention-running. Not after fans were handed a typo-riddled Program Book which misspelled the hotel’s name, the guests of honors’ names and even the con’s own name – that in headline type: ConDigeo. And not after fans started seeing other problems and glitches. Not even herculean efforts behind the scenes by the other GoH, conrunning guru Ben Yalow, could bind up so many loose ends.
 
 Most fans responded with a crotchety sense of humor. Someone coined an immortal wordplay referencing The Princess Bride: “My name is ConDigeo Montoya. You killed my weekend. Prepare to die!”
 
 Even so, there were still many events of interest. Taras Wolansky’s con report is full of program highlights. He encountered one of sf’s most colorful real-life characters, Thorarin Gunnarson, writer, Danish television personality and Icelandic opera singer. Wolansky snorted at Julian May’s attitude about psychics who are revealed to be frauds: It’s tragic, she said, when people with real psychic powers are forced by circumstances to become charlatans! And he enjoyed hearing Sheila Finch talk about her story in the Benford anthology Hitler Victorious, on the leading wave of today’s thriving alternate history sub-genre. _\~Mike Glyer_
-
-![](/assets/images/1990-music.jpg)![](/assets/images/1990-tshirt-2.jpg)
 
 # 1995 - Dragon*Con 1995
 
