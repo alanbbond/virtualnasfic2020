@@ -172,3 +172,32 @@ Of more lasting notoriety, many who came for NASFiC reacted critically to the re
 Fans could not believe that the art show was crowded into a tiny space with aisles only 30" wide (not as wide as some fans….) Some were astonished by the huge amount of pornography and bondage equipment for sale. Overall, the experience showed it was not really possible to graft a Worldcon-style NASFiC onto a huge popular culture convention and satisfy the fans of either. _\~Mike Glyer_
 
 ![](/assets/images/1995-dealers.jpg)   ![](/assets/images/1995-mailer.jpg)
+
+# 1999 - Conucopia
+
+August 26 to 29, 1999  
+Anaheim Marriott   
+Anaheim, California
+
+**Guests of Honor:**  
+Jerry Pournelle (pro)  
+Ellen Datlow (editor)  
+Richard & Nicki Lynch (fan)
+
+**Chair:** Christian B. McGuire
+
+**Attendance:** 1,734
+
+![](/assets/images/1999-penguin.jpg) ![](/assets/images/1999-program-book.jpg)
+
+After "Australia in '99" was selected over the "Worldcon in Zagreb 1999" bid as the World Science Fiction Convention to be held in 1999 (as "Aussiecon Three" in Melbourne), the 1996 WSFS Business Meeting directed that a written ballot contest be held to select a NASFiC site for 1999. For the first time, both at-con and by-mail balloting were possible as this NASFiC site selection contest was held one full year after the overseas Worldcon site was selected.
+
+At the 1997 Worldcon in San Antonio, Texas, a total of 491 ballots were cast, 101 by mail and 390 in person, with Los Angeles barely edging Phoenix after the first round but no site claiming a majority of the vote. It wasn't until the third round of "instant runoff" preferential vote tallying that the Los Angeles area bid was awarded the 1999 NASFiC.  
+\~ Wikipedia
+
+![](/assets/images/1999-chaz.jpg) ![](/assets/images/1999-masq.jpg)
+
+Being in the film center of the world, it would have been unusual if the convention committee had not taken advantage of the available resources and people who work in the industry. Media-oriented panels and events abounded, and there was even a Hong Kong movie festival, featuring some strange but yet pretty entertaining films of reasonable fantasy content (some featuring Sammo Hung and Jackie Chan when they were much younger). The strangest and maybe most entertaining of them all was The Bride With White Hair, which was described in the ConuCopia Pocket Guide as "the best sword and sorcery movie ever made by anyone anywhere." It might very well be! How best to describe it? How about: a 'Magic Realism' fairy tale where Chinese martial arts meet up with sorcery, with an heroic fantasy leading man, a mysterious beautiful witch who could ensnare victims in her long hair, and a fantastic yin-yang male-female villain who was leader of an Evil Cult. And on top of this, it was also a love story!
+
+Besides the movies, there were also some television-related items, including a Buffy the Vampire Slayer panel (that Nicki was on) which had the misfortune of being scheduled the same time as Harlan Ellison's one man show. It resulted in a smaller audience than expected, though they made up for it in exuberance which carried through the divider walls -- some of the attendees at the Ellison hour wondered if an even bigger event was being held next door.   
+\~ Richard & Nicki Lynch
