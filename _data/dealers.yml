@@ -138,6 +138,24 @@
   - "/assets/images/loragray03.jpg"
   - "/assets/images/loragray04.jpg"
   - "/assets/images/loragray05.jpg"
+- name: Ms. Kittys Closet
+  contact: Carolyn Perkins
+  city: Cuyahoga Falls
+  state: Ohio
+  what_is_sold: Costume Accessories
+  link: |-
+    [https://www.etsy.com/shop/mskittyscloset/](https://www.etsy.com/shop/mskittyscloset/ "https://www.etsy.com/shop/mskittyscloset/")
+
+    [https://www.facebook.com/MsKittysCloset](https://www.facebook.com/MsKittysCloset "https://www.facebook.com/MsKittysCloset")
+  description: Ms. Kitty's Closet creates quality faux fur accessories including various
+    animal ears, tails, hoods in cuffs in a variety of style, colors and patterns.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/kittys-01.jpg"
+  - "/assets/images/kittys-02.jpg"
+  - "/assets/images/kittys-03.jpg"
+  - "/assets/images/kittys-04.jpg"
+  - "/assets/images/kittys-05.jpg"
 - name: OffWorld Designs, Inc.
   contact: sales@offworlddesigns.com  815-786-7080
   city: Sandwitch
