@@ -116,6 +116,7 @@ fields:
       - Sue and Steve Francis
       - Tom Smith
       - Eric Flint
+      - Leigh Harlen
     label: programparticipants
     description: The template will automatically add commas and the word "and" to
       this list as grammatically appropriate.
