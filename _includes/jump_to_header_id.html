@@ -1,0 +1,13 @@
+<p class="jump-to">
+  Jump to:
+</p>
+<p class="jump to-top">
+  <a href="#top">Jump to top</a>
+</p>
+{% for header in include.content %}
+<p class="jump">
+  <a href="#{{ header.name | replace: " ", "-" | replace: "'", "" | replace: "(", "" | replace: ")", "" | replace: "’", "" | replace: "‘", "" | replace: "*", "" | replace: "/", "" | downcase}}">{{ header.name }}</a>
+</p>
+{% endfor %}
+
+<p></p>
