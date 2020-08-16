@@ -363,6 +363,8 @@ Bill & Brenda Sutton (Music)
 
 **Attendance:** 1,450
 
+![](/assets/images/2014-panel.jpg)
+
 I would have been honored and enjoyed myself as 1/3 FanGoH at any con, but I'm especially proud to be associated with DetCon1. It occurred to me that the con actively worked to include the best of the past, present, and future.
 
 Past: The honored presence of Roger Sims and Fred Prophet, co-chairs of Detention, the 1959 Worldcon in Detroit; an excellent bunch of panels on the history of the genre(s) and of fandom.
