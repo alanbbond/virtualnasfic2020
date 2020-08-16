@@ -1,0 +1,65 @@
+---
+label: Events In Schedule
+hide_body: true
+fields:
+- name: event
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: datetime
+    type: text
+    config:
+      required: false
+    label: datetime
+  - name: room
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: room
+    description: 'One of: [Auditorium](/auditorium), [Scioto](/scioto-room), or [Olentangy](/olentangy),
+      or TBD, or blank'
+  - name: moderators
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+      source:
+        type: simple
+        section: program-participant-entries
+        file: _data/programparticipants.yml
+    label: moderators
+    description: Items in this list will automatically be given commas and the word
+      "and" as grammatically appropriate.
+  - name: programparticipants
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: programparticipants
+    description: Items in this list will automatically be given commas and the word
+      "and" as grammatically appropriate.
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: description
+    description: You can use the buttons in this field to add bold, italic, etc.
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: event
