@@ -54,7 +54,7 @@ George Scithers (fan)
 
 _Filksing on the riverboat (fanac.org)_
 
-NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats.   
+NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats.  
 _\~ Mike Glyer_
 
 ![](/assets/images/1979-program.jpeg)   ![](/assets/images/1979-weaver-of-spinweb.jpg)
@@ -479,7 +479,7 @@ Lucy A. Synk’s Art show panel (Jan Gephardt)_
 
 Since 1975 a North America Science Fiction Convention has been held when the Worldcon is overseas; in 2019, the Worldcon was in Dublin, so there was a NASFiC; Kate chaired the bid for the 2019 Westercon, also the bid to host the NASFiC conjointly, and chaired the two combined cons after both bids won in two separate votes; also, joined with them, a 1632 Minicon (fans of Eric Flynt’s 1632 series), and Manticon 2019 (fans of David Weber’s Honor Harrington series, with its Royal Manticoran Navy i.e. Space navy).
 
-Some of our cons get names; this combination of four was called Spikecon, being 50 miles from where the Final Spike was driven to complete the Transcontinental Railroad 150 years earlier. Railroad engineer’s caps were part of the con. The Transcontinental Railroad is historic. So are wrongs in its accomplishment. Human history is part honey, part aloes.   
+Some of our cons get names; this combination of four was called Spikecon, being 50 miles from where the Final Spike was driven to complete the Transcontinental Railroad 150 years earlier. Railroad engineer’s caps were part of the con. The Transcontinental Railroad is historic. So are wrongs in its accomplishment. Human history is part honey, part aloes.  
 _\~ John Hertz_
 
 ![](/assets/images/2019-panelists-2.jpg)
@@ -491,7 +491,7 @@ I’m happy to report that there were some excellent panels and readings at Spik
 This explains why several of the people in some of these pictures are the same people as the ones in other pictures! In fact, the identical same group was scheduled together for two different panels I attended. Lucky for their growing group of devoted followers, they had a range of different things to say each time.  
 _\~ Jan Gephardt_
 
-Attended today and I loved every minute of it! Did a few book signings and my favorite author signed my shirt too! Eeeee! Bought a few things and kept wishing I had won the lottery to be able to get a few more things. Very great place to be. Staff and volunteers were very friendly- even to a con first timer like me. Way to go guys!   
+Attended today and I loved every minute of it! Did a few book signings and my favorite author signed my shirt too! Eeeee! Bought a few things and kept wishing I had won the lottery to be able to get a few more things. Very great place to be. Staff and volunteers were very friendly- even to a con first timer like me. Way to go guys!  
 _\~ Sarah Moffit_
 
 ![](/assets/images/2019-mountains.jpg) ![](/assets/images/2019-manticon-folks-2.jpg)
