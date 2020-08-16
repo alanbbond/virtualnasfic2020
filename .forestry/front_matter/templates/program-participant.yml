@@ -90,5 +90,7 @@ fields:
       required: false
     label: patreon
     description: The segment after https://www.patreon.com/
+  config:
+    labelField: name
 pages:
 - _data/programparticipants.yml
