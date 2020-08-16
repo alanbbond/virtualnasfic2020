@@ -228,6 +228,7 @@ fields:
       - Sue and Steve Francis
       - Tom Smith
       - Eric Flint
+      - Vikram Paralkar
     description: The template will automatically add commas and the word "and" to
       this list as grammatically appropriate.
     label: moderators
