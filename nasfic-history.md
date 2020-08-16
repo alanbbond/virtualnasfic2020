@@ -488,8 +488,8 @@ _\~ Jan Gephardt_
 
 ![](/assets/images/2019-spikecon-costume-montage.jpg) ![](/assets/images/2019-synk-art-show.jpg)
 
-_Lucy A. Synk’s Art show panel (Jan Gephardt)  
-Costume montage (Twitter via Jan Gephardt)_
+_Costume montage (Twitter via Jan Gephardt)  
+Lucy A. Synk’s Art show panel (Jan Gephardt)_
 
 Attended today and I loved every minute of it! Did a few book signing and my favorite author signed my shirt too! Eeeee! Bought a few things and kept wishing I had won the lottery to be able to get a few more things. Very great place to be. Staff and volunteers were very friendly- even to a con first timer like me. Way to go guys! _\~ Sarah Moffit_
 
