@@ -470,7 +470,7 @@ John & Bjo Trimble (MCs)
 
 **Chair:** Kate Hatcher
 
-**Attendance:** \~800
+**Attendance:** \~850
 
 ![](/assets/images/2019-spikecon-costume-montage.jpg) ![](/assets/images/2019-synk-art-show.jpg)
 
@@ -488,10 +488,10 @@ _Panelists for "Write What You Don't Know" (Jan Gephardt)_
 
 I’m happy to report that there were some excellent panels and readings at SpikeCon this year. As I sometimes do, I discovered that I kept bumping into some of the same interesting people over and over at this convention. Of course, that’s partially because many of us have similar interests, and partially because, although some 1,100 memberships were sold to SpikeCon, for a variety of reasons only about 850 people showed up.
 
-This explains why several of the people in some these pictures are the same people as the ones in other pictures! In fact, the identical same group was scheduled together for two different panels I attended. Lucky for their growing group of devoted followers, they had a range of different things to say each time.  
+This explains why several of the people in some of these pictures are the same people as the ones in other pictures! In fact, the identical same group was scheduled together for two different panels I attended. Lucky for their growing group of devoted followers, they had a range of different things to say each time.  
 _\~ Jan Gephardt_
 
-Attended today and I loved every minute of it! Did a few book signing and my favorite author signed my shirt too! Eeeee! Bought a few things and kept wishing I had won the lottery to be able to get a few more things. Very great place to be. Staff and volunteers were very friendly- even to a con first timer like me. Way to go guys! _\~ Sarah Moffit_
+Attended today and I loved every minute of it! Did a few book signings and my favorite author signed my shirt too! Eeeee! Bought a few things and kept wishing I had won the lottery to be able to get a few more things. Very great place to be. Staff and volunteers were very friendly- even to a con first timer like me. Way to go guys! _\~ Sarah Moffit_
 
 ![](/assets/images/2019-mountains.jpg) ![](/assets/images/2019-manticon-folks-2.jpg)
 
