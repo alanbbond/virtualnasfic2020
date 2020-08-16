@@ -36,7 +36,7 @@ fields:
       min: 
       max: 
       source:
-        type: pages
+        type: simple
         section: program-participant-entries
       options:
       - Ada Palmer
