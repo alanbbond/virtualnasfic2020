@@ -348,8 +348,6 @@ _Dead Dog Party & Exhibit Hall (Rodford Edmiston)_
 
 # 2014 - Detcon1
 
-![](/assets/images/detcon1logo.png)
-
 July 17-20, 2014  
 Detroit Marriott at the Renaissance Center  
 Detroit, Michigan
