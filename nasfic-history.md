@@ -450,3 +450,50 @@ Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditio
 
 _Closing Ceremonies held poolside (Jan & Tyrell Gephardt)_  
 _Tammy Coxen dunks the conchair (Lisa Hertel)_
+
+# 2019 - SpikeCon
+
+![](/assets/images/2019-spikecon-logo.png)
+
+July 4-7  
+Davis Conference Center  
+Layton, UT
+
+**Guests of Honor:**  
+David Weber (author)  
+Laurell K. Hamilton (author)  
+Vincent Villafranca (artist)  
+Dragon Donet (artist & costumer)  
+Linda Deneroff (fan)  
+Susan Chang (editor)  
+John & Bjo Trimble (MCs)
+
+**Chair:** Kate Hatcher
+
+**Attendance:** \~800
+
+Since 1975 a North America Science Fiction Convention has been held when the Worldcon is overseas; in 2019, the Worldcon was in Dublin, so there was a NASFiC; Kate chaired the bid for the 2019 Westercon, also the bid to host the NASFiC conjointly, and chaired the two combined cons after both bids won in two separate votes; also, joined with them, a 1632 Minicon (fans of Eric Flynt’s 1632 series), and Manticon 2019 (fans of David Weber’s Honor Harrington series, with its Royal Manticoran Navy i.e. Space navy).
+
+Some of our cons get names; this combination of four was called Spikecon, being 50 miles from where the Final Spike was driven to complete the Transcontinental Railroad 150 years earlier. Railroad engineer’s caps were part of the con. The Transcontinental Railroad is historic. So are wrongs in its accomplishment. Human history is part honey, part aloes.   
+_\~ John Hertz_
+
+![](/assets/images/2019-panelists-2.jpg)
+
+_Panelists for "Write What You Don't Know" (Jan Gephardt)_
+
+I’m happy to report that there were some excellent panels and readings at SpikeCon this year. As I sometimes do, I discovered that I kept bumping into some of the same interesting people over and over at this convention. Of course, that’s partially because many of us have similar interests, and partially because, although some 1,100 memberships were sold to SpikeCon, for a variety of reasons only about 850 people showed up.
+
+This explains why several of the people in some these pictures are the same people as the ones in other pictures! In fact, the identical same group was scheduled together for two different panels I attended. Lucky for their growing group of devoted followers, they had a range of different things to say each time.  
+_\~ Jan Gephardt_
+
+![](/assets/images/2019-spikecon-costume-montage.jpg) ![](/assets/images/2019-synk-art-show.jpg)
+
+_Lucy A. Synk’s Art show panel (Jan Gephardt)  
+Costume montage (Twitter via Jan Gephardt)_
+
+Attended today and I loved every minute of it! Did a few book signing and my favorite author signed my shirt too! Eeeee! Bought a few things and kept wishing I had won the lottery to be able to get a few more things. Very great place to be. Staff and volunteers were very friendly- even to a con first timer like me. Way to go guys! _\~ Sarah Moffit_
+
+![](/assets/images/2019-mountains.jpg) ![](/assets/images/2019-manticon-folks-2.jpg)
+
+_Check out that view! (Rodford Emiston)  
+Royal Manticorn Navy (Rodford Emiston)_
