@@ -336,7 +336,7 @@ This could have been Nolacon. It was totally possible that ReConStruction and To
 
 The Fan Lounge wasn’t quite as busy as the BayCon or Westercon Lounges; we were never packed. I don’t think we could have been packed if every attendee of the con showed up to hang out.
 
-And maybe that’s what this NASFiC will be remembered for. The idea was, for a good while leading up to the con, was that there’d be at least 1,000 or so folks, and they ended up with somewhere in the range of 700. That’s a very small number for a NASFiC, but on the other hand, it was a great crowd, many of the bigger names in Fandom, and we had a great time. Folks who hung out in the Lounge were some of the usuals, like Joe Major, John Hertz, Steven H Silver, and the like, and a bunch of folks I rarely see, like George Wells, The Lynches, Warren Buff and more. It was a fun place and it was low impact. We had hours of good conversation, and a bunch of new folks dropped in to chat. 
+And maybe that’s what this NASFiC will be remembered for. The idea was, for a good while leading up to the con, was that there’d be at least 1,000 or so folks, and they ended up with somewhere in the range of 700. That’s a very small number for a NASFiC, but on the other hand, it was a great crowd, many of the bigger names in Fandom, and we had a great time. Folks who hung out in the Lounge were some of the usuals, like Joe Major, John Hertz, Steven H Silver, and the like, and a bunch of folks I rarely see, like George Wells, The Lynches, Warren Buff and more. It was a fun place and it was low impact. We had hours of good conversation, and a bunch of new folks dropped in to chat.
 
 The party scene was dead on Thursday, but Friday and Saturday were pretty amazing. The London party was fantastic, a busy party both nights and they got a ton of pre-supports, something like 1-in-5 attendees joined up. Chicago had an amazing smoothie bar, and I love smoothies! All in all, good parties.
 
@@ -345,3 +345,45 @@ There was so much more going on. The fact is that most of the folks there were l
 ![](/assets/images/2010-dead-dog.jpg)![](/assets/images/2010-exhibit-hall.jpg)
 
 _Dead Dog Party & Exhibit Hall (Rodford Edmiston)_
+
+# 2014 - Detcon1
+
+![](/assets/images/detcon1logo.png)
+
+July 17-20, 2014  
+Detroit Marriott at the Renaissance Center  
+Detroit, Michigan
+
+**Guests of Honor:**  
+Steven Barnes (Author)  
+John Picacio (Artist)  
+Bernadette Bosky, Arthur D. Hlavaty & Kevin J. Maroney (Fan)  
+Helen Greiner (Scientist)  
+Bill & Brenda Sutton (Music)
+
+**Chair:** Tammy Coxen
+
+**Attendance:** 1,450
+
+![](/assets/images/2014-panel.jpg)
+
+I would have been honored and enjoyed myself as 1/3 FanGoH at any con, but I'm especially proud to be associated with DetCon1. It occurred to me that the con actively worked to include the best of the past, present, and future.
+
+Past: The honored presence of Roger Sims and Fred Prophet, co-chairs of Detention, the 1959 Worldcon in Detroit; an excellent bunch of panels on the history of the genre(s) and of fandom.
+
+The Present: Not having been to an sf con for four years, I caught up by playing Cards Against Humanity (and a very special version, Cards Against Fandom), delighting in the steampunk wear around me, learning about authors that have been around for a while but I still need to check out.
+
+Also, I'm especially proud to be associated with a con that provided free memberships for locals who could not afford the membership fee. While this action was especially relevant to Detroit, I hope every con does this. And this was on top of keeping the price as reasonable as possible to begin with.
+
+The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha.  
+_\~ Bernadette Bosky_
+
+![](/assets/images/2014-award.jpg) ![](/assets/images/2014-selfie.jpg)
+
+I’ve already written about John Scalzi’s ’80s dance but it bears repeating: bodacious, dude.  Totally radical.  Some folks dressed up, some didn’t, but I still smile at the memory of one of my favorite authors rocking out in a tiara, and executing a pratfall-roll off of a chair he’d been dancing on.  I even broke out the neon headbands and entered a dance floor for the first time in… well, let’s not go there.  A long time.  
+_\~ Marta Savage_
+
+![](/assets/images/2014-dance.jpg) ![](/assets/images/2014-tegan.jpg)
+
+I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
+_\~ Patty Templeton_
