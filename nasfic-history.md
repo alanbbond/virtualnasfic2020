@@ -385,3 +385,5 @@ _\~ Marta Savage_
 
 I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
 _\~ Patty Templeton_
+
+![](/assets/images/2010-dead-dog.jpg)
