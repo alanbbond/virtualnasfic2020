@@ -8,10 +8,9 @@ order: 2
 ---
 # Auditorium
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
-</iframe>
+<iframe src="https://player.vimeo.com/video/448011776" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video" ></iframe>
 
-<iframe height="600" width="800" frameborder="0" class="nasfic-chat">
+<iframe frameborder="0" class="nasfic-chat">
 </iframe>
 
 The Discord chat channels named "auditorium-even" and "auditorium-odd" are for 
@@ -26,8 +25,8 @@ const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
 const resizeVideoAndChat = () => {
 const w = (window.innerWidth / 2) - 40;
-// Maintain a 4-3 aspect ratio
-const h = (w / 4) * 3;
+// Maintain a 16-9 aspect ratio
+const h = (w / 16) * 9;
 nasfic_video.style.width = `${w}px`;
 nasfic_chat.style.width  = `${w}px`;
 nasfic_video.style.height = `${h}px`;

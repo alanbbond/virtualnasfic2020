@@ -10,10 +10,9 @@ order: 3
 
 Named for the Scioto River
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
-</iframe>
+<iframe src="https://player.vimeo.com/video/448012416" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video"></iframe>
 
-<iframe height="600" width="800" frameborder="0" class="nasfic-chat">
+<iframe frameborder="0" class="nasfic-chat">
 </iframe>
 
 The Discord chat channels named "scioto-even" and "scioto-odd" are for events 

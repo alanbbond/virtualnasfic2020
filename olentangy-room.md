@@ -10,10 +10,9 @@ order: 4
 
 Named for the Olentangy River
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/3XXKXV6JsYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="nasfic-video" allowfullscreen>
-</iframe>
+<iframe src="https://player.vimeo.com/video/448013529" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe height="600" width="800" frameborder="0" class="nasfic-chat">
+<iframe frameborder="0" class="nasfic-chat">
 </iframe>
 
 The Discord chat channels named "olentangy-even" and "olentangy-odd" are for 
