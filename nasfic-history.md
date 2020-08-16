@@ -250,7 +250,7 @@ Marc Abrahams (Science)
 
 **Attendance:** 1,785
 
-![](/assets/images/2005-rocket-people.jpeg) ![](/assets/images/2005-phil.jpg)
+ ![](/assets/images/2005-rocket-people.jpeg)  ![](/assets/images/2005-phil.jpg)
 
 _Aliens in front of crashed rocket exhibit (Hazel’s Picture Gallery)  
 Phil Foglio (Hazel’s Picture Gallery)_
@@ -305,7 +305,7 @@ But it wasn’t supposed to be an Archon. It was supposed to be a NASFiC.
 The thing about the Big SF Con of the Year, typically a Worldcon though once in a while it’s a NASFiC, is that it feels like the Big SF Con of the Year. It draws people from all over, the major players, the big writers, the beautiful people of fandom and prodom. You get people in who you’d never see at the local con and people who only make it out for the Big SF Con of the Year. With the NASFiC this year, it never felt like a NASFiC; it felt like an Archon. It was a big regional convention that drew all the locals (or at least the important locals) and a smattering of people from the two Coasts.  
 _\~ Christopher Garcia_
 
-![](/assets/images/2007-firefly-costume.JPG) ![](/assets/images/2007-opening-ceremonies.JPG)
+ ![](/assets/images/2007-firefly-costume.JPG) ![](/assets/images/2007-opening-ceremonies.JPG)
 
 _Firefly hall costumes (Keith Stokes)  
 Opening Ceremonies (John Shoberg)_
