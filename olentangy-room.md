@@ -10,7 +10,7 @@ order: 4
 
 Named for the Olentangy River
 
-<iframe src="https://player.vimeo.com/video/448013529" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/448013529" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="nasfic-video"></iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
