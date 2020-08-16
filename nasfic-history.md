@@ -253,7 +253,7 @@ Marc Abrahams (Science)
 
 **Attendance:** 1,785
 
-![](/assets/images/2005-rocket-people.jpeg)![](/assets/images/2005-phil.jpg)
+![](/assets/images/2005-rocket-people.jpeg) ![](/assets/images/2005-phil.jpg)
 
 _Aliens in front of crashed rocket exhibit (Hazel’s Picture Gallery)  
 Phil Foglio (Hazel’s Picture Gallery)_
@@ -263,7 +263,7 @@ The Exhibits area was tucked away in the corner and was a pair of small rooms. T
 The other room was good, really good. Ed Stiner put together a great series of displays from the Science Fiction Museum in Oregon. He had all sorts of magazines in display cases, including issue 10 of Fantastic Four and issue 17 of Spiderman. There were board games and props and photos and paintings and a small little theatre. I’m biased, since I’m on the board of advisers, but I really think Fandom should get on getting the Science Fiction Museum a permanent home.  
 _\~ Christopher Garcia_
 
-![](/assets/images/2005-kevin-exhibit.jpg)![](/assets/images/2005-kevin.jpg)
+![](/assets/images/2005-kevin-exhibit.jpg) ![](/assets/images/2005-kevin.jpg)
 
 _Part of Kevin Standlee Fan GoH exhibit (Hazel’s Picture Gallery)  
 Captain Standlee himself, with Marci Malinowycz (Hazel’s Picture Gallery)_
@@ -296,7 +296,7 @@ Richard Hatch (Last-Minute Special)
 
 **Attendance:** 1,700
 
-![](/assets/images/2007-tucker-badges.JPG)![](/assets/images/2007-xbabies.JPG)
+![](/assets/images/2007-tucker-badges.JPG) ![](/assets/images/2007-xbabies.JPG)
 
 _Collection of Bob Tucker convention badges (Keith Stokes)  
 Masquerade costumes (Keith Stokes)_
@@ -308,7 +308,7 @@ But it wasn’t supposed to be an Archon. It was supposed to be a NASFiC.
 The thing about the Big SF Con of the Year, typically a Worldcon though once in a while it’s a NASFiC, is that it feels like the Big SF Con of the Year. It draws people from all over, the major players, the big writers, the beautiful people of fandom and prodom. You get people in who you’d never see at the local con and people who only make it out for the Big SF Con of the Year. With the NASFiC this year, it never felt like a NASFiC; it felt like an Archon. It was a big regional convention that drew all the locals (or at least the important locals) and a smattering of people from the two Coasts.  
 _\~ Christopher Garcia_
 
-![](/assets/images/2007-firefly-costume.JPG)![](/assets/images/2007-opening-ceremonies.JPG)
+![](/assets/images/2007-firefly-costume.JPG) ![](/assets/images/2007-opening-ceremonies.JPG)
 
 _Firefly hall costumes (Keith Stokes)  
 Opening Ceremonies (John Shoberg)_
@@ -353,7 +353,7 @@ The party scene was dead on Thursday, but Friday and Saturday were pretty amazin
 
 There was so much more going on. The fact is that most of the folks there were long-timers, very few newbies, which means that there wasn’t much of a new vibe, but it was still a good time. John Hertz said that we were a group who already all spoke the same language. Good con. Strong con. Small con. I’m all for another Southern convention, this one showed the kind of good time you could have. Sadly, the lead-up to the convention was weak, with lots of balls dropped left and right and some serious pains, but it came off brilliantly. It’s a good thing to have happen, and it only would have been better if there had been a bunch more folks to share the goodtime with. _\~ Christopher Garcia_
 
-![](/assets/images/2010-dead-dog.jpg)![](/assets/images/2010-exhibit-hall.jpg)
+![](/assets/images/2010-dead-dog.jpg) ![](/assets/images/2010-exhibit-hall.jpg)
 
 _Dead Dog Party & Exhibit Hall (Rodford Edmiston)_
 
