@@ -440,9 +440,9 @@ Friday night. A live band played. A Cube Libre sweated under the spotlight. Smil
 
 ![](/assets/images/2017-starfleet-selfie.jpg) ![](/assets/images/2017-coqui.jpg)
 
-"You have not seen 'Star Trek: until you have seen it in the original Spanish." _\~George Mustafa, Starfleet Puerto Rico (picture by Tobias Buckell)_
-
-_Coqui astronaut art (Ray Van Tilburg)_
+"You have not seen 'Star Trek: until you have seen it in the original Spanish."   
+_\~George Mustafa, Starfleet Puerto Rico (picture by Tobias Buckell)  
+Coqui astronaut art (Ray Van Tilburg)_
 
 Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditional NASFiC chair dunking and “Wet Dog” party. Overheard: “I’ve never seen so many fans in bathing suits before!”
 
