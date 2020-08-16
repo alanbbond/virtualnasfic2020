@@ -212,6 +212,21 @@
   - "/assets/images/ravenwing4.JPG"
   - "/assets/images/ravenwing5.JPG"
   - "/assets/images/ravenwing6.JPG"
+- name: Shooting Star Press
+  contact: Cath Brinkley
+  city: Melba
+  state: ACT
+  what_is_sold: Books, Comics/Graphic Novels
+  link: '[www.ShootingStar.pub](https://www.ShootingStar.pub "www.ShootingStar.pub")'
+  description: Telling stories, connecting people, building communities, one world
+    at a time.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/shootingstar8.jpg"
+  - "/assets/images/shootingstar1.jpg"
+  - "/assets/images/shootingstar2.jpg"
+  - "/assets/images/shootingstar3.jpg"
+  - "/assets/images/shootingstar4.jpg"
 - name: Silicon Valley Authors
   contact: Valerie Frankel
   city: Sunnyvale
