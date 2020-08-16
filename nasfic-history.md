@@ -7,6 +7,20 @@ order: 13
 
 ---
 
+<p class="jump-to">
+  Jump to:
+</p>
+<p class="jump to-top">
+  <a href="#top">Jump to top</a>
+</p>
+{% for year in site.data.history %}
+<p class="jump">
+  <a href="#{{ year.name | replace: " ", "-" | replace: "'", "" | replace: "(", "" | replace: ")", "" | replace: "’", "" | replace: "‘", "" | replace: "*", "" | replace: "/", "" | downcase}}">{{ year.name }}</a>
+</p>
+{% endfor %}
+
+<p></p>
+
 # NASFiC History Exhibit
 
 ## 1975 - NASFiC (North American Science Fiction Convention
