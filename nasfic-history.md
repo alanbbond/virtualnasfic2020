@@ -32,9 +32,9 @@ Crayne and Pelz reacted to TorCon 2’s simply by running their own site selecti
 
 ![](/assets/images/1975-half-sisters.jpg)   ![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
 
-Half Sisters & Devil’s Rain (costume.org)
+_Half Sisters & Devil’s Rain (costume.org)_
 
-# 1979 - NorthAmericon ’79
+# 1979 - NorthAmeriCon ’79
 
 ![](/assets/images/northamericon79_badge_logo.PNG)
 
@@ -59,7 +59,8 @@ _\~ Mike Glyer_
 
 ![](/assets/images/1979-program.jpeg)   ![](/assets/images/1979-weaver-of-spinweb.jpg)
 
-_Program book cover (fanac.org) & The Weaver of Spinweb (costume.org)_
+_Program book cover (fanac.org)  
+The Weaver of Spinweb (costume.org)_
 
 NorthAmeriCon '79 was the second NASFiC to be held when the Worldcon was held out of North America. The convention was held over the Labor Day weekend in 1979 in Louisville, KY. It started as a "Nashville is Neat in 100 Degree Heat" ad in a 1975 MidAmeriCon progress report. This ad was a big joke pulled on Khen Moore by Ken Keller, who was MidAmeriCon's chairman. It started to take off as a Worldcon bid for Nashville when Khen got a bad case of Worldcon fever. As it became more and more obvious that Nashville did not have the needed hotel space (this was before the Opryland Hotel was a factor) the bid somehow migrated north to Louisville as a NASFiC bid. _\~ Steve & Sue Francis_
 
@@ -95,7 +96,8 @@ One of the more crowded parties was the Aussiecon II reunion, involving around 1
 
 ![](/assets/images/1985-art-show.jpeg)   ![](/assets/images/1985-vance.jpeg)
 
-_Alan Dean Foster in a lunatic shirt & GoH Jack Vance (fanac.org)_
+_Alan Dean Foster in a lunatic shirt (fanac.org)  
+GoH Jack Vance (fanac.org)_
 
 # 1987 - CactusCon
 
@@ -114,7 +116,8 @@ Marjii Ellers (fan)
 
 ![](/assets/images/1987-masq.jpg)   ![](/assets/images/1987-program-guide.jpg)
 
-_Masquerade entry (Flickr user lfics) & CactusCon program book (Bruce Farr)_
+_Masquerade entry (Flickr user lfics)  
+CactusCon program book (Bruce Farr)_
 
 Phoenix held back nothing as it prepared for an honored guest. However, that turned out to be the Pope, who was in town at about the same time.
 
@@ -182,7 +185,8 @@ _* Despite Dragon*Con’s overall attendance of 14,000, Locus estimates only abo
 
 ![](/assets/images/1995-warrior.jpg)   ![](/assets/images/1995-harlan.jpg)
 
-_Hall costume (myoldbox.wordpress.com) & Harlan Ellison reading (harlaneslllison.com)_
+_Hall costume (myoldbox.wordpress.com)  
+Harlan Ellison reading (harlaneslllison.com)_
 
 When the Atlanta bid for the 1995 Worldcon was defeated by the Glasgow bid, an unrelated group of fans connected with Atlanta’s huge annual popular culture convention, Dragon-Con, successfully bid to hold NASFiC in conjunction with their event in July 1995. Reports suggest that the Dragon-Con committee and Worldcon regulars who went looking for the NASFiC’s promise of “Worldcon-style convention” both came away feeling they’d gotten less in return than the experience cost them.
 
@@ -194,7 +198,8 @@ Fans could not believe that the art show was crowded into a tiny space with aisl
 
 ![](/assets/images/1995-dealers.jpg)   ![](/assets/images/1995-mailer.jpg)
 
-_Dealer Jim Groat (Fred Patten/Dogpatch Press) & Convention mailing (mycomicshop.com)_
+_Dealer Jim Groat (Fred Patten/Dogpatch Press)  
+Convention mailing (mycomicshop.com)_
 
 # 1999 - Conucopia
 
@@ -213,7 +218,8 @@ Richard & Nicki Lynch (fan)
 
 ![](/assets/images/1999-penguin.jpg) ![](/assets/images/1999-program-book.jpg)
 
-_Lord Darth Maulingo (Hazel’s Picture Gallery) & Conucopia  Souvenir book (ebay.com)_
+_Lord Darth Maulingo (Hazel’s Picture Gallery)  
+Conucopia Souvenir book (ebay.com)_
 
 After "Australia in '99" was selected over the "Worldcon in Zagreb 1999" bid as the World Science Fiction Convention to be held in 1999 (as "Aussiecon Three" in Melbourne), the 1996 WSFS Business Meeting directed that a written ballot contest be held to select a NASFiC site for 1999. For the first time, both at-con and by-mail balloting were possible as this NASFiC site selection contest was held one full year after the overseas Worldcon site was selected.
 
@@ -222,7 +228,8 @@ _\~ Wikipedia_
 
 ![](/assets/images/1999-chaz.jpg) ![](/assets/images/1999-masq.jpg)
 
-_Chaz Boston Baden models “the wig” as chest hair while Anastasia Hunter looks on (Hazel’s Picture Gallery) & Kate Morgernstern as one of the “Ladies of Star Trek” (Hazel’s Picture Gallery)_
+_Chaz Boston Baden models “the wig” as chest hair while Anastasia Hunter looks on (Hazel’s Picture Gallery)  
+Kate Morgernstern as one of the “Ladies of Star Trek” (Hazel’s Picture Gallery)_
 
 Being in the film center of the world, it would have been unusual if the convention committee had not taken advantage of the available resources and people who work in the industry. Media-oriented panels and events abounded, and there was even a Hong Kong movie festival, featuring some strange but yet pretty entertaining films of reasonable fantasy content (some featuring Sammo Hung and Jackie Chan when they were much younger). The strangest and maybe most entertaining of them all was The Bride With White Hair, which was described in the ConuCopia Pocket Guide as "the best sword and sorcery movie ever made by anyone anywhere." It might very well be! How best to describe it? How about: a 'Magic Realism' fairy tale where Chinese martial arts meet up with sorcery, with an heroic fantasy leading man, a mysterious beautiful witch who could ensnare victims in her long hair, and a fantastic yin-yang male-female villain who was leader of an Evil Cult. And on top of this, it was also a love story!
 
@@ -248,7 +255,8 @@ Marc Abrahams (Science)
 
 ![](/assets/images/2005-rocket-people.jpeg)![](/assets/images/2005-phil.jpg)
 
-_Aliens in front of crashed rocket exhibit & Phil Foglio (Hazel’s Picture Gallery)_
+_Aliens in front of crashed rocket exhibit (Hazel’s Picture Gallery)  
+Phil Foglio (Hazel’s Picture Gallery)_
 
 The Exhibits area was tucked away in the corner and was a pair of small rooms. The first room had a selection of Hugo Statues, a bunch of Japanese fanzines, which were very cool, and Kevin Standlee’s little display. That was a great thing showing the history of the Fan Guest of Honour. I know he put a lot of effort into putting it together and he had a lot of great material, including a number of photos of Kevin in a pink dress and the dress itself on a mannequin. There were badges and photos and the like from all along Kevin’s fannish career. This was really good.
 
@@ -257,7 +265,8 @@ _\~ Christopher Garcia_
 
 ![](/assets/images/2005-kevin-exhibit.jpg)![](/assets/images/2005-kevin.jpg)
 
-_Part of Kevin Standlee Fan GoH exhibit & Captain Standlee himself, with Marci Malinowycz (Hazel’s Picture Gallery)_
+_Part of Kevin Standlee Fan GoH exhibit (Hazel’s Picture Gallery)  
+Captain Standlee himself, with Marci Malinowycz (Hazel’s Picture Gallery)_
 
 At Interaction the convention center had, for its shape, been re-named, and adopted as the starship WSFS Armadillo, "WSFS" supposedly "White Star Federated Spacelines" being the convenient initials of the World S-F Society, beneath whose happy wingspread Worldcons and NASFiCs stand. Standlee was Captain, Docherty was Admiral. The self-proclaimed Cabal that produces Plokta having won the Hugo for Best Fanzine, and having each been armed with a rocket by means of Hugo trophies, all invaded Closing Ceremonies as space pirates. At CascadiaCon, under the guise of raising money for relief from Hurricane Katrina, Standlee was court-martialed. Around midnight at the L.A.con IV party my roommate Tom Veal arrived with news. "We acquitted Kevin, and convicted Seth." Two hours later I found Seth Breidbart in the lobby. "Of course it's true," he said. "Were any charges brought against you?" I asked. "Of course not."  
 _\~ John Hertz_
@@ -289,7 +298,8 @@ Richard Hatch (Last-Minute Special)
 
 ![](/assets/images/2007-tucker-badges.JPG)![](/assets/images/2007-xbabies.JPG)
 
-_Collection of Bob Tucker convention badges & Masquerade costumes (Keith Stokes)_
+_Collection of Bob Tucker convention badges (Keith Stokes)  
+Masquerade costumes (Keith Stokes)_
 
 Now before I get accused of bad mouthing a con, I really did have a wonderful time there. It was a brilliantly programmed con with lots of great stuff happening. The facility was really good and there were cheap hotels all around the convention center so there was no problem getting a place that would suit the needs of almost any attendee. I had a lot of fun, there were a lot of good people around and I’d happily attend another Archon anytime I could make it happen.
 
@@ -300,7 +310,8 @@ _\~ Christopher Garcia_
 
 ![](/assets/images/2007-firefly-costume.JPG)![](/assets/images/2007-opening-ceremonies.JPG)
 
-_Firefly hall costumes (Keith Stokes) & Opening Ceremonies (John Shoberg)_
+_Firefly hall costumes (Keith Stokes)  
+Opening Ceremonies (John Shoberg)_
 
 Friday evening was the annual Archon Dinner Theater Banquet. It was followed by the Guest of Honor Speeches, First  Fandom Awards,  Golden Duck Awards, Sidewise Awards, and Archon Hall of Fame and Tucker Awards, emceed by Roger Tener. It sounds like that would have gone on forever, but everyone paid attention  to the instructions to be brief, and it went through fairly quickly and enjoyably. Roger concluded the event by bringing out a couple of bottles of Beams Choice and leading the remaining members of the audience in a Smooth.
 
@@ -381,14 +392,16 @@ The future: Most noteworthy were the positive efforts to reshape fandom for a mo
 
 ![](/assets/images/2014-selfie.jpg) ![](/assets/images/2014-award.jpg)
 
-_Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan) & Toastmaster Jim Hines and the official convention selfie (Jim Hines)_
+_Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan)  
+Toastmaster Jim Hines and the official convention selfie (Jim Hines)_
 
 I’ve already written about John Scalzi’s ’80s dance but it bears repeating: bodacious, dude.  Totally radical.  Some folks dressed up, some didn’t, but I still smile at the memory of one of my favorite authors rocking out in a tiara, and executing a pratfall-roll off of a chair he’d been dancing on.  I even broke out the neon headbands and entered a dance floor for the first time in… well, let’s not go there.  A long time.  
 _\~ Marta Savage_
 
 ![](/assets/images/2014-dance.jpg) ![](/assets/images/2014-tegan.jpg)
 
-_‘80s Dance with DJ Scalzi (Al Bogdan) & “A Glamorous Evening of Galactic Domination,” Jennifer Swarski, Best in Show (Al Bogdan)_
+_‘80s Dance with DJ Scalzi (Al Bogdan)  
+“A Glamorous Evening of Galactic Domination,” Jennifer Swarski, Best in Show (Al Bogdan)_
 
 I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
 _\~ Patty Templeton_
@@ -435,4 +448,5 @@ Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditio
 
 ![](/assets/images/2017wetdog-2.jpg) ![](/assets/images/2017-splash-2.jpg)
 
+_Closing Ceremonies held poolside (Jan & Tyrell Gephardt)_  
 _Tammy Coxen dunks the conchair (Lisa Hertel)_
