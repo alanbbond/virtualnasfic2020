@@ -267,7 +267,7 @@ Marc Abrahams (Science)
 
 **Attendance:** 1,785
 
-![](/assets/images/2005-rocket-people.jpeg) ![](/assets/images/2005-phil.jpg)
+ ![](/assets/images/2005-rocket-people.jpeg)  ![](/assets/images/2005-phil.jpg)
 
 _Aliens in front of crashed rocket exhibit (Hazel’s Picture Gallery)  
 Phil Foglio (Hazel’s Picture Gallery)_
@@ -324,7 +324,7 @@ But it wasn’t supposed to be an Archon. It was supposed to be a NASFiC.
 The thing about the Big SF Con of the Year, typically a Worldcon though once in a while it’s a NASFiC, is that it feels like the Big SF Con of the Year. It draws people from all over, the major players, the big writers, the beautiful people of fandom and prodom. You get people in who you’d never see at the local con and people who only make it out for the Big SF Con of the Year. With the NASFiC this year, it never felt like a NASFiC; it felt like an Archon. It was a big regional convention that drew all the locals (or at least the important locals) and a smattering of people from the two Coasts.  
 _\~ Christopher Garcia_
 
-![](/assets/images/2007-firefly-costume.JPG) ![](/assets/images/2007-opening-ceremonies.JPG)
+ ![](/assets/images/2007-firefly-costume.JPG) ![](/assets/images/2007-opening-ceremonies.JPG)
 
 _Firefly hall costumes (Keith Stokes)  
 Opening Ceremonies (John Shoberg)_
@@ -408,12 +408,13 @@ The Present: Not having been to an sf con for four years, I caught up by playing
 
 Also, I'm especially proud to be associated with a con that provided free memberships for locals who could not afford the membership fee. While this action was especially relevant to Detroit, I hope every con does this. And this was on top of keeping the price as reasonable as possible to begin with.
 
-The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha._\~ Bernadette Bosky_
+The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha.  
+_\~ Bernadette Bosky_
 
 ![](/assets/images/2014-selfie.jpg) ![](/assets/images/2014-award.jpg)
 
-_Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan)  
-Toastmaster Jim Hines and the official convention selfie (Jim Hines)_
+_Toastmaster Jim Hines and the official convention selfie (Jim Hines)  
+Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan)_
 
 I’ve already written about John Scalzi’s ’80s dance but it bears repeating: bodacious, dude.  Totally radical.  Some folks dressed up, some didn’t, but I still smile at the memory of one of my favorite authors rocking out in a tiara, and executing a pratfall-roll off of a chair he’d been dancing on.  I even broke out the neon headbands and entered a dance floor for the first time in… well, let’s not go there.  A long time.  
 _\~ Marta Savage_
@@ -458,13 +459,15 @@ In short, it was a lot better than we expected such a small con to be. We got ch
 
 _Fans at Arecibo observatory (Kevin Roche)_
 
-Wednesday night, went out to the bar with friends, old and new. The El Psycho Deli, a dive bar with drinks whose names shock for the sake of shock. A ward against those more timid souls capable of being shocked. The night was sticky and dark. We huddled underneath a ceiling fan for shelter. We took over the outside porch, pouring forth through the bar windows. Friday night. A live band played. A Cube Libre sweated under the spotlight. Smiles all around. Fans infected by the driving salsa rhythms. Some on the floor. Others huddled around the sides, laughing in groups. _\~Christopher Hensley_
+Wednesday night, went out to the bar with friends, old and new. The El Psycho Deli, a dive bar with drinks whose names shock for the sake of shock. A ward against those more timid souls capable of being shocked. The night was sticky and dark. We huddled underneath a ceiling fan for shelter. We took over the outside porch, pouring forth through the bar windows. 
+
+Friday night. A live band played. A Cube Libre sweated under the spotlight. Smiles all around. Fans infected by the driving salsa rhythms. Some on the floor. Others huddled around the sides, laughing in groups. _\~Christopher Hensley_
 
 ![](/assets/images/2017-starfleet-selfie.jpg) ![](/assets/images/2017-coqui.jpg)
 
-"You have not seen 'Star Trek: until you have seen it in the original Spanish." _\~George Mustafa, Starfleet Puerto Rico (picture by Tobias Buckell)_
-
-_Coqui astronaut art (Ray Van Tilburg)_
+"You have not seen 'Star Trek: until you have seen it in the original Spanish."   
+_\~George Mustafa, Starfleet Puerto Rico (picture by Tobias Buckell)  
+Coqui astronaut art (Ray Van Tilburg)_
 
 Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditional NASFiC chair dunking and “Wet Dog” party. Overheard: “I’ve never seen so many fans in bathing suits before!”
 
