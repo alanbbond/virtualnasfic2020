@@ -435,4 +435,4 @@ Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditio
 
 ![](/assets/images/2017wetdog-2.jpg) ![](/assets/images/2017-splash-2.jpg)
 
-_Dunking of the conchair (Lisa Hertel)_
+_Tammy Coxen dunks the conchair (Lisa Hertel)_
