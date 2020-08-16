@@ -390,8 +390,8 @@ _\~ Bernadette Bosky_
 
 ![](/assets/images/2014-selfie.jpg) ![](/assets/images/2014-award.jpg)
 
-_Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan)  
-Toastmaster Jim Hines and the official convention selfie (Jim Hines)_
+_Toastmaster Jim Hines and the official convention selfie (Jim Hines)  
+Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan)_
 
 I’ve already written about John Scalzi’s ’80s dance but it bears repeating: bodacious, dude.  Totally radical.  Some folks dressed up, some didn’t, but I still smile at the memory of one of my favorite authors rocking out in a tiara, and executing a pratfall-roll off of a chair he’d been dancing on.  I even broke out the neon headbands and entered a dance floor for the first time in… well, let’s not go there.  A long time.  
 _\~ Marta Savage_
