@@ -392,3 +392,37 @@ _‘80s Dance with DJ Scalzi (Al Bogdan) & “A Glamorous Evening of Galactic Do
 
 I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
 _\~ Patty Templeton_
+
+# 2017 - NorthAmeriCon '17
+
+![](/assets/images/2017-logo.jpg)
+
+July 6-9, 2017  
+Sheraton Puerto Rico Hotel and Casino  
+San Juan, Puerto Rico
+
+**Guests of Honor:**  
+Daina Chaviano (Author)  
+Tobias S. Buckell (Author)  
+Brother Guy Consolmagno, S.J. (Science)  
+Javier Grillo-Marxuach (Media)  
+George Perez (Art)  
+Paula Smith (Fan)
+
+**Chair:** Pablo Vazquez
+
+**Attendance:** \~200
+
+![](/assets/images/2017-opening.jpg)
+
+In short, it was a lot better than we expected such a small con to be. We got chances to actually meet the Guests of Honor, the panels were interesting (with a limited schedule, they wisely avoided what we call "the drunk panels"--late-night, supposedly funny panels that tend to flop), the trip to Arecibo was great (and a *lot* cheaper than a commercial tour!), and our biggest complaint was the lack of choice of reasonably priced restaurants within 15 minutes' walk of the convention. _\~Evelyn C. Leeper_
+
+![](/assets/images/2017-arecibo.JPG)
+
+Wednesday night, went out to the bar with friends, old and new. The El Psycho Deli, a dive bar with drinks whose names shock for the sake of shock. A ward against those more timid souls capable of being shocked. The night was sticky and dark. We huddled underneath a ceiling fan for shelter. We took over the outside porch, pouring forth through the bar windows. Friday night. A live band played. A Cube Libre sweated under the spotlight. Smiles all around. Fans infected by the driving salsa rhythms. Some on the floor. Others huddled around the sides, laughing in groups. _\~Christopher Hensley_
+
+![](/assets/images/2017-starfleet-selfie.jpg)![](/assets/images/2017-coqui.jpg)
+
+Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditional NASFiC chair dunking and “Wet Dog” party. Overheard: “I’ve never seen so many fans in bathing suits before!”
+
+![](/assets/images/2017-wetdog.jpg) ![](/assets/images/2017-splash-2.jpg)
