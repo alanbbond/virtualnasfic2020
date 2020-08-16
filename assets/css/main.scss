@@ -198,6 +198,18 @@ header {
     margin-top: 5rem;
   }
 
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+
   li {
     margin-top: 1rem;
   }
@@ -620,14 +632,6 @@ ul.social-links-menu {
 
 @media (min-width:1025px) {
 
-  h1 {
-    font-size: 3rem;
-  }
-
-  h2 {
-    font-size: 2rem;
-  }
-
   header {
     flex-direction: row;
 
@@ -665,10 +669,6 @@ ul.social-links-menu {
 
   .public-container, .accesscontrol-container:not(.room-container) {
     width: 50rem;
-
-    img {
-      max-width: 100%;
-    }
   }
 
   p.jump-to {
