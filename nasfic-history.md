@@ -57,7 +57,7 @@ _Filksing on the riverboat (fanac.org)_
 NorthAmericon’s highlight was a riverboat ride on the Belle of Louisville. It being a NASFiC, there was a little carping by a fan who commented that only 500 fans went on the cruise, including the entire committee, but nothing was planned for the other two-thirds of the members left on shore. Hm, makes me think of another cruise where people complained there weren’t enough lifeboats.  
 _\~ Mike Glyer_
 
-![](/assets/images/1979-program.jpeg)   ![](/assets/images/1979-weaver-of-spinweb.jpg)
+ ![](/assets/images/1979-program.jpeg)  ![](/assets/images/1979-weaver-of-spinweb.jpg)
 
 _Program book cover (fanac.org)  
 The Weaver of Spinweb (costume.org)_
@@ -129,7 +129,7 @@ The pseudo-highlight of CactusCon was the lead story of the hoax daily newzine, 
 
 However, it’s hard to top the con’s most unusual program item. Mary Mason led a dozen participants armed with scalpels in a study of the anatomy and function of pig brains. Jane Jewell wrote, “I arrived near the end of the hour to find an enthusiastic group slicing away at the pig’s brains provided by the committee.” \~ Mike Glyer
 
-![](/assets/images/1987-access-desk.jpg) ![](/assets/images/1987-site-selection.jpeg)  
+ ![](/assets/images/1987-access-desk.jpg) ![](/assets/images/1987-site-selection.jpeg)  
 _Access Desk_ _(Bruce Farr)  
 Site Selection Desk_ _- CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)_
 
