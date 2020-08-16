@@ -224,3 +224,5 @@ fields:
     - Tom Smith
     - Eric Flint
   label: Schedule Entries
+pages:
+- _data/schedule.yml
