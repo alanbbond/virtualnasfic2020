@@ -421,8 +421,8 @@ In short, it was a lot better than we expected such a small con to be. We got ch
 
 Wednesday night, went out to the bar with friends, old and new. The El Psycho Deli, a dive bar with drinks whose names shock for the sake of shock. A ward against those more timid souls capable of being shocked. The night was sticky and dark. We huddled underneath a ceiling fan for shelter. We took over the outside porch, pouring forth through the bar windows. Friday night. A live band played. A Cube Libre sweated under the spotlight. Smiles all around. Fans infected by the driving salsa rhythms. Some on the floor. Others huddled around the sides, laughing in groups. _\~Christopher Hensley_
 
-![](/assets/images/2017-starfleet-selfie.jpg)![](/assets/images/2017-coqui.jpg)
+![](/assets/images/2017-starfleet-selfie.jpg) ![](/assets/images/2017-coqui.jpg)
 
 Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditional NASFiC chair dunking and “Wet Dog” party. Overheard: “I’ve never seen so many fans in bathing suits before!”
 
-![](/assets/images/2017-wetdog.jpg) ![](/assets/images/2017-splash-2.jpg)
+ 
