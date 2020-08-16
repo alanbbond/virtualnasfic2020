@@ -119,6 +119,7 @@ fields:
       - Leigh Harlen
       - Amanda Makepeace
       - Rachel Quinlan
+      - Freya Markse
     label: programparticipants
     description: The template will automatically add commas and the word "and" to
       this list as grammatically appropriate.
