@@ -249,3 +249,19 @@
   - "/assets/images/stephenbpearl-books3.jpg"
   - "/assets/images/stephenbpearl-books4.jpg"
   - "/assets/images/stephenbpearl-books5.jpg"
+- name: Zumaya Publications LLC
+  contact: Elizabeth Burton
+  city: Austin
+  state: Texas
+  what_is_sold: Books
+  link: '[https://www.zumayapublications.com/ebook-store/](https://www.zumayapublications.com/ebook-store/
+    "https://www.zumayapublications.com/ebook-store/")'
+  description: 'Zumaya Publications: Supporting Irresponsible Reading for 20 Years'
+  restrictions: Only able to handle US sales via the bookstore, but overseas sales
+    can go through the third-party sellers
+  image_filenames:
+  - "/assets/images/zumayapublications01.jpg"
+  - "/assets/images/zumayapublications02.jpg"
+  - "/assets/images/zumayapublications03.jpg"
+  - "/assets/images/zumayapublications04.jpg"
+  - "/assets/images/zumayapublications05.jpg"
