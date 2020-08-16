@@ -363,8 +363,6 @@ Bill & Brenda Sutton (Music)
 
 **Attendance:** 1,450
 
-![](/assets/images/2014-panel.jpg)
-
 I would have been honored and enjoyed myself as 1/3 FanGoH at any con, but I'm especially proud to be associated with DetCon1. It occurred to me that the con actively worked to include the best of the past, present, and future.
 
 Past: The honored presence of Roger Sims and Fred Prophet, co-chairs of Detention, the 1959 Worldcon in Detroit; an excellent bunch of panels on the history of the genre(s) and of fandom.
@@ -376,12 +374,8 @@ Also, I'm especially proud to be associated with a con that provided free member
 The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha.  
 _\~ Bernadette Bosky_
 
-![](/assets/images/2014-award.jpg) ![](/assets/images/2014-selfie.jpg)
-
 I’ve already written about John Scalzi’s ’80s dance but it bears repeating: bodacious, dude.  Totally radical.  Some folks dressed up, some didn’t, but I still smile at the memory of one of my favorite authors rocking out in a tiara, and executing a pratfall-roll off of a chair he’d been dancing on.  I even broke out the neon headbands and entered a dance floor for the first time in… well, let’s not go there.  A long time.  
 _\~ Marta Savage_
-
-![](/assets/images/2014-dance.jpg) ![](/assets/images/2014-tegan.jpg)
 
 I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
 _\~ Patty Templeton_
