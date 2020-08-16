@@ -379,7 +379,7 @@ Also, I'm especially proud to be associated with a con that provided free member
 
 The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha._\~ Bernadette Bosky_
 
- ![](/assets/images/2014-selfie.jpg) ![](/assets/images/2014-award.jpg)
+![](/assets/images/2014-selfie.jpg) ![](/assets/images/2014-award.jpg)
 
 _Merrie Haskell receiving the Reading Robot Award for middle grade SFF (Al Bogdan) & Toastmaster Jim Hines and the official convention selfie (Jim Hines)_
 
@@ -415,16 +415,24 @@ Paula Smith (Fan)
 
 ![](/assets/images/2017-opening.jpg)
 
-In short, it was a lot better than we expected such a small con to be. We got chances to actually meet the Guests of Honor, the panels were interesting (with a limited schedule, they wisely avoided what we call "the drunk panels"--late-night, supposedly funny panels that tend to flop), the trip to Arecibo was great (and a *lot* cheaper than a commercial tour!), and our biggest complaint was the lack of choice of reasonably priced restaurants within 15 minutes' walk of the convention. _\~Evelyn C. Leeper_
+_GoHs & chair at opening ceremonies (Jan & Tyrell Gephardt)_
+
+In short, it was a lot better than we expected such a small con to be. We got chances to actually meet the Guests of Honor, the panels were interesting (with a limited schedule, they wisely avoided what we call "the drunk panels"--late-night, supposedly funny panels that tend to flop), the trip to Arecibo was great (and a _lot_ cheaper than a commercial tour!), and our biggest complaint was the lack of choice of reasonably priced restaurants within 15 minutes' walk of the convention. _\~Evelyn C. Leeper_
 
 ![](/assets/images/2017-arecibo.JPG)
+
+_Fans at Arecibo observatory (Kevin Roche)_
 
 Wednesday night, went out to the bar with friends, old and new. The El Psycho Deli, a dive bar with drinks whose names shock for the sake of shock. A ward against those more timid souls capable of being shocked. The night was sticky and dark. We huddled underneath a ceiling fan for shelter. We took over the outside porch, pouring forth through the bar windows. Friday night. A live band played. A Cube Libre sweated under the spotlight. Smiles all around. Fans infected by the driving salsa rhythms. Some on the floor. Others huddled around the sides, laughing in groups. _\~Christopher Hensley_
 
 ![](/assets/images/2017-starfleet-selfie.jpg) ![](/assets/images/2017-coqui.jpg)
 
+"You have not seen 'Star Trek: until you have seen it in the original Spanish." _\~George Mustafa, Starfleet Puerto Rico (picture by Tobias Buckell)_
+
+_Coqui astronaut art (Ray Van Tilburg)_
+
 Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditional NASFiC chair dunking and “Wet Dog” party. Overheard: “I’ve never seen so many fans in bathing suits before!”
 
 ![](/assets/images/2017wetdog-2.jpg) ![](/assets/images/2017-splash-2.jpg)
 
- 
+_Dunking of the conchair (Lisa Hertel)_
