@@ -7,9 +7,9 @@ order: 13
 
 ---
 
+# NASFiC History Exhibit
 
-
-# 1975 - NASFiC (North American Science Fiction Convention
+## 1975 - NASFiC (North American Science Fiction Convention
 
 August 28 to September 1, 1975  
 Los Angeles Airport Marriott  
@@ -37,9 +37,7 @@ Crayne and Pelz reacted to TorCon 2’s simply by running their own site selecti
 
 _Half Sisters & Devil’s Rain (costume.org)_
 
-
-
-# 1979 - NorthAmeriCon ’79
+## 1979 - NorthAmeriCon ’79
 
 ![](/assets/images/northamericon79_badge_logo.PNG)
 
@@ -74,9 +72,7 @@ _\~ Fancyclopedia_
 
 ![](/assets/images/1979-room-party.jpeg)_Bob Asprin and Murray Porath singing at a room party_
 
-
-
-# 1985 - LoneStarCon 1
+## 1985 - LoneStarCon 1
 
 August 30 to September 3, 1985  
 Hyatt Regency Austin, Sheraton Crest, Palmer Auditorum  
@@ -106,9 +102,7 @@ One of the more crowded parties was the Aussiecon II reunion, involving around 1
 _Alan Dean Foster in a lunatic shirt (fanac.org)  
 GoH Jack Vance (fanac.org)_
 
-
-
-# 1987 - CactusCon
+## 1987 - CactusCon
 
 September 3 to 7, 1987  
 Phoenix Hyatt Regency Adams Hilton, Phoenix  
@@ -142,9 +136,7 @@ However, it’s hard to top the con’s most unusual program item. Mary Mason le
 _Access Desk_ _(Bruce Farr)  
 Site Selection Desk_ _- CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)_
 
-
-
-# 1990 - ConDiego
+## 1990 - ConDiego
 
 August 30 to September 3, 1990  
 Omni Hotel, San Diego Convention & Performing Arts Center  
@@ -172,9 +164,7 @@ Even so, there were still many events of interest. Taras Wolansky’s con report
 
 _Music at ConDiego (Flickr user lfics_)
 
-
-
-# 1995 - Dragon*Con 1995
+## 1995 - Dragon*Con 1995
 
 July 13 to 16, 1995  
 Atlanta Hilton & Towers, Westin Peachtree Plaza Hotel, Atlanta Civic Center  
@@ -211,9 +201,7 @@ Fans could not believe that the art show was crowded into a tiny space with aisl
 _Dealer Jim Groat (Fred Patten/Dogpatch Press)  
 Convention mailing (mycomicshop.com)_
 
-
-
-# 1999 - Conucopia
+## 1999 - Conucopia
 
 August 26 to 29, 1999  
 Anaheim Marriott  
@@ -248,9 +236,7 @@ Being in the film center of the world, it would have been unusual if the convent
 Besides the movies, there were also some television-related items, including a Buffy the Vampire Slayer panel (that Nicki was on) which had the misfortune of being scheduled the same time as Harlan Ellison's one man show. It resulted in a smaller audience than expected, though they made up for it in exuberance which carried through the divider walls -- some of the attendees at the Ellison hour wondered if an even bigger event was being held next door.  
 _\~ Richard & Nicki Lynch_
 
-
-
-# 2005 - CascadiaCon
+## 2005 - CascadiaCon
 
 September 1 to 5, 2005  
 Seattle Airport Hilton and Conference Center  
@@ -289,9 +275,7 @@ _\~ John Hertz_
 
 _David Kyle and family (Hazel’s Picture Gallery)_
 
-
-
-# 2007 - Archon 31/Tuckercon
+## 2007 - Archon 31/Tuckercon
 
 August 2 to 5, 2007  
 Holiday Inn Gateway Center  
@@ -338,9 +322,7 @@ _\~ Keith Stokes_
 
 _Save the Penguins masquerade costume (Keith Stokes)_
 
-
-
-# 2010 - ReConStruction
+## 2010 - ReConStruction
 
 ![](/assets/images/2010-reconstruction_web_logo.png)
 
@@ -375,9 +357,7 @@ There was so much more going on. The fact is that most of the folks there were l
 
 _Dead Dog Party & Exhibit Hall (Rodford Edmiston)_
 
-
-
-# 2014 - Detcon1
+## 2014 - Detcon1
 
 ![](/assets/images/detcon1logo.png)
 
@@ -427,9 +407,7 @@ _‘80s Dance with DJ Scalzi (Al Bogdan)
 I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
 _\~ Patty Templeton_
 
-
-
-# 2017 - NorthAmeriCon '17
+## 2017 - NorthAmeriCon '17
 
 ![](/assets/images/2017-logo.jpg)
 
@@ -476,9 +454,7 @@ Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditio
 _Closing Ceremonies held poolside (Jan & Tyrell Gephardt)_  
 _Tammy Coxen dunks the conchair (Lisa Hertel)_
 
-
-
-# 2019 - SpikeCon
+## 2019 - SpikeCon
 
 ![](/assets/images/2019-spikecon-logo.png)
 
