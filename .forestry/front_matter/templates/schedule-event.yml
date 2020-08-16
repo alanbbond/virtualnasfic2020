@@ -247,5 +247,3 @@ fields:
     max: 
     labelField: title
   label: Schedule Entries
-pages:
-- _data/schedule.yml
