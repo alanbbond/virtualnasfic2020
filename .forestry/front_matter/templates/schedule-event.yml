@@ -127,12 +127,98 @@ fields:
       max: 
       source:
         type: simple
-        section: ''
-        file: 
-      options: []
-    label: moderators
+      options:
+      - Ada Palmer
+      - Ace Tilton Ratcliff
+      - " Alaya Dawn Johnson"
+      - Alec Nevala-Lee
+      - Aliette de Bodard
+      - Alison Scott
+      - Alma Alexander
+      - Amanda Makepeace
+      - Ben Yalow
+      - Beth Meacham
+      - Bogi Takács
+      - Brandon Wilson
+      - Cat Rambo
+      - Charles Payseur
+      - Cheryl Morgan
+      - Chris M. Barkley
+      - Chris "Silver Spook" Miller
+      - Dan Tres Omi
+      - Daniel M. Kimmel
+      - Dara Naraghi
+      - dave ring
+      - Day Al-Mohamed
+      - Doug Piero Carey
+      - Eboni Dunbar
+      - Eileen Gunn
+      - Elsa R. Sjunneson
+      - Farah Mendlesohn
+      - F. Paul Wilson
+      - Freya Marske
+      - Gadi Evron
+      - Jamar Nicholas
+      - James Bacon
+      - J. Holtham
+      - Jason Sanford
+      - Jennifer Blackstream
+      - Jeremy Holcomb
+      - Jim C. Hines
+      - Joel Zakem
+      - John Medaille
+      - John Wiswell
+      - Jordan Kurella
+      - Julie Washington
+      - Kathryn Sullivan
+      - L.D. Lewis
+      - Laurence Raphael Brothers
+      - Leigh Harlen
+      - Lucy A. Snyder
+      - Malka Older
+      - Mari Ness
+      - Marieke Nijkamp
+      - Mary Anne Mohanraj
+      - Michael Grossberg
+      - Michael R. Underwood
+      - Mike Chen
+      - Misha Stone
+      - Nakeema Stefflbauer
+      - Neil Clarke
+      - Nino Cipri
+      - Oghenechovwe Donald Ekpeki
+      - Pablo Defendini
+      - Phoebe Barton
+      - Phoebe North
+      - Premee Mohamed
+      - Raven Oak
+      - Ray VanTilburg
+      - Sarah Loch
+      - Sheree Renée Thomas
+      - Sherwood Smith
+      - Steven Gould
+      - Steven H Silver
+      - Sumana (brainwane) Harihareswara
+      - Tobias S. Buckell
+      - Tom Jackson
+      - Valerie Estelle Frankel
+      - Valerie Valdes
+      - Valjeanne Jeffers
+      - Victor Raymond
+      - W.A. (Bill) Thomasson
+      - Whitney "Strix" Beltrán
+      - William S. Higgins
+      - Brian Herbert
+      - Kevin J. Anderson
+      - Stephanie Law
+      - Christopher J. Garcia
+      - Marc Millis
+      - Sue and Steve Francis
+      - Tom Smith
+      - Eric Flint
     description: The template will automatically add commas and the word "and" to
       this list as grammatically appropriate.
+    label: moderators
   - name: description
     type: textarea
     default: ''
