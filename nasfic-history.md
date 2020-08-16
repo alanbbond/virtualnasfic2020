@@ -425,4 +425,6 @@ Wednesday night, went out to the bar with friends, old and new. The El Psycho De
 
 Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditional NASFiC chair dunking and “Wet Dog” party. Overheard: “I’ve never seen so many fans in bathing suits before!”
 
+![](/assets/images/2017wetdog-2.jpg) ![](/assets/images/2017-splash-2.jpg)
+
  
