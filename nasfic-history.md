@@ -178,7 +178,7 @@ Bjo Trimble (fan)
 
 **Attendance**_:_ 14,312*
 
-_* Despite Dragon*Con’s overall attendance of 14,000, Locus estimates only about 1,000 came just for the NASFiC. This may not have offset the cost of special things done to enhance the NASFiC side of the con._
+_* Despite Dragon*Con’s overall attendance of over 14,000, Locus estimates only about 1,000 came just for the NASFiC. This may not have offset the cost of special things done to enhance the NASFiC side of the con._
 
 ![](/assets/images/1995-warrior.jpg)   ![](/assets/images/1995-harlan.jpg)
 
