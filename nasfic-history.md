@@ -6,6 +6,9 @@ public: false
 order: 13
 
 ---
+
+
+
 # 1975 - NASFiC (North American Science Fiction Convention
 
 August 28 to September 1, 1975  
@@ -33,6 +36,8 @@ Crayne and Pelz reacted to TorCon 2’s simply by running their own site selecti
 ![](/assets/images/1975-half-sisters.jpg)   ![](/assets/images/1975-devil-s-rain.jpg "Devil’s Rain (costume.org)")
 
 _Half Sisters & Devil’s Rain (costume.org)_
+
+
 
 # 1979 - NorthAmeriCon ’79
 
@@ -69,6 +74,8 @@ _\~ Fancyclopedia_
 
 ![](/assets/images/1979-room-party.jpeg)_Bob Asprin and Murray Porath singing at a room party_
 
+
+
 # 1985 - LoneStarCon 1
 
 August 30 to September 3, 1985  
@@ -98,6 +105,8 @@ One of the more crowded parties was the Aussiecon II reunion, involving around 1
 
 _Alan Dean Foster in a lunatic shirt (fanac.org)  
 GoH Jack Vance (fanac.org)_
+
+
 
 # 1987 - CactusCon
 
@@ -133,6 +142,8 @@ However, it’s hard to top the con’s most unusual program item. Mary Mason le
 _Access Desk_ _(Bruce Farr)  
 Site Selection Desk_ _- CactusCon was the first NASFiC at which site selection was held for the following NASFiC (fanac.org)_
 
+
+
 # 1990 - ConDiego
 
 August 30 to September 3, 1990  
@@ -160,6 +171,8 @@ Even so, there were still many events of interest. Taras Wolansky’s con report
 ![](/assets/images/1990-music.jpg)
 
 _Music at ConDiego (Flickr user lfics_)
+
+
 
 # 1995 - Dragon*Con 1995
 
@@ -198,6 +211,8 @@ Fans could not believe that the art show was crowded into a tiny space with aisl
 _Dealer Jim Groat (Fred Patten/Dogpatch Press)  
 Convention mailing (mycomicshop.com)_
 
+
+
 # 1999 - Conucopia
 
 August 26 to 29, 1999  
@@ -232,6 +247,8 @@ Being in the film center of the world, it would have been unusual if the convent
 
 Besides the movies, there were also some television-related items, including a Buffy the Vampire Slayer panel (that Nicki was on) which had the misfortune of being scheduled the same time as Harlan Ellison's one man show. It resulted in a smaller audience than expected, though they made up for it in exuberance which carried through the divider walls -- some of the attendees at the Ellison hour wondered if an even bigger event was being held next door.  
 _\~ Richard & Nicki Lynch_
+
+
 
 # 2005 - CascadiaCon
 
@@ -271,6 +288,8 @@ _\~ John Hertz_
 ![](/assets/images/2005-kyle.jpg)
 
 _David Kyle and family (Hazel’s Picture Gallery)_
+
+
 
 # 2007 - Archon 31/Tuckercon
 
@@ -319,6 +338,8 @@ _\~ Keith Stokes_
 
 _Save the Penguins masquerade costume (Keith Stokes)_
 
+
+
 # 2010 - ReConStruction
 
 ![](/assets/images/2010-reconstruction_web_logo.png)
@@ -353,6 +374,8 @@ There was so much more going on. The fact is that most of the folks there were l
 ![](/assets/images/2010-dead-dog.jpg) ![](/assets/images/2010-exhibit-hall.jpg)
 
 _Dead Dog Party & Exhibit Hall (Rodford Edmiston)_
+
+
 
 # 2014 - Detcon1
 
@@ -403,6 +426,8 @@ _‘80s Dance with DJ Scalzi (Al Bogdan)
 I was gd terrified when I got to DetCon1 at the Renaissance Center in Detroit. I was tired. I was lost. The hotel! IT IS A LABYRINTH! Detroit is based on a circle structure, rather than a standard city grid…and apparently so was the damn hotel/convention center. There are these escalators, but only to certain floors and hi-rise elevators vs. low-rise elevators and I was like WHERE THE HELL IS EVERYTHING? It all got better from there. Less scare. More Squee.  
 _\~ Patty Templeton_
 
+
+
 # 2017 - NorthAmeriCon '17
 
 ![](/assets/images/2017-logo.jpg)
@@ -447,6 +472,8 @@ Fans gathered by the pool for Closing Ceremonies, followed by the (now) traditio
 
 _Closing Ceremonies held poolside (Jan & Tyrell Gephardt)_  
 _Tammy Coxen dunks the conchair (Lisa Hertel)_
+
+
 
 # 2019 - SpikeCon
 
