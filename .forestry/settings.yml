@@ -8,9 +8,6 @@ sections:
   path: _data/artists.yml
   label: Artist Entries
 - type: document
-  path: _data/schedule.yml
-  label: Schedule Entries
-- type: document
   path: README.md
   label: README
   read_only: true
