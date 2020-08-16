@@ -385,7 +385,8 @@ The Present: Not having been to an sf con for four years, I caught up by playing
 
 Also, I'm especially proud to be associated with a con that provided free memberships for locals who could not afford the membership fee. While this action was especially relevant to Detroit, I hope every con does this. And this was on top of keeping the price as reasonable as possible to begin with.
 
-The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha._\~ Bernadette Bosky_
+The future: Most noteworthy were the positive efforts to reshape fandom for a more inclusive future, including reaching out to PoC as guests and for programming, holding a ceremony to give a YA fiction award, a healthy and attractive track of programming for children, and panels that examined where fandom is going as well as where it has been. Even that slippery-slope stalking horse, a poly marriage, for Fan GoHs, ha ha.  
+_\~ Bernadette Bosky_
 
 ![](/assets/images/2014-selfie.jpg) ![](/assets/images/2014-award.jpg)
 
