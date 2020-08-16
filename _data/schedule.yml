@@ -15,6 +15,7 @@
     exorcism? If it is murder to kill a monster, is being chosen or cursed to do so
     a plausible defense? Could ghosts have property rights to the houses they haunt
     if they lived there first? If they do, is expelling them an unlawful eviction?'
+  published: true
 - title: SF/F Artists Cover Art (Panel)
   datetime: Friday, 6:00-6:50pm
   room: Scioto
@@ -25,6 +26,7 @@
   - Rachel Quinlan
   - Ray VanTilburg
   description: ''
+  published: true
 - title: Deconstructing the Novella (Panel)
   datetime: Saturday, 4:00pm-4:50pm
   room: ''
@@ -39,6 +41,7 @@
     as well as other celebrated titles, highlight some of the publishers putting them
     out, dig into some craft questions, and pull apart a few of the novella's tricks
     and challenges.
+  published: true
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
   datetime: Saturday afternoon
@@ -59,6 +62,7 @@
     tensions between Liberty and Power and cooperation versus coercion, as reflected
     in these and other authors’ diverse Prometheus Award winners over the past 40
     years.
+  published: true
 - title: Prometheus Awards’ 40th Anniversary Ceremony
   room: ''
   datetime: Saturday Afternoon
@@ -80,6 +84,7 @@
     Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles
     Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton,
     Jack Williamson, Wilson and Robert Anton Wilson.)'
+  published: true
 - title: 'The Power of Love: The Intersection of Speculative Fiction and Romance (Panel)'
   datetime: Saturday, 7:00-7:50pm
   room: ''
@@ -95,6 +100,7 @@
     the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
     inform your romance plot (and vice versa) and how characterization tricks help
     you generate a strong romantic A or B plot.
+  published: true
 - title: Steampunk Lessons for a Post-Fossil Fuel Future (Panel)
   datetime: Saturday, 9:00-9:50pm
   room: Olentangy
@@ -109,6 +115,7 @@
     stories would you take with you to learn how to thrive in a de-industrialized
     world? What can be applied from steampunk when writing fiction set in the post-fossil
     fuel age? '
+  published: true
 - title: The Technological Dreams of AfroFuturism (Panel)
   datetime: Sunday 11:00-11:50am
   room: Olentangy
@@ -124,3 +131,528 @@
     more or less technology? What would it look like if technology truly served us
     all? Drawing from examples in books, graphic novels and film, our group discuss
     the technological dreams of AfroFuturism. '
+  published: true
+- title: Writing Real History Into Fictional Pasts
+  datetime: "Friday 12:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Alma Alexander
+  - Eric Flint
+  - Gillian Polack
+  - Michael Grossberg
+  description: "Historical fiction writers discuss approaches and techniques for writing major events of the past into stories."
+  published: false
+- title: "COVID-FX: Staying Connected"
+  datetime: "Friday 1:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  moderators:
+  - Walter Parker
+  programparticipants:
+  - Alison Scott
+  - Ben Yalow
+  - Doug Piero Carey
+  - Steven H Silver
+  description: "How are local SF/F clubs and fan communities staying connected during COVID-19? What's working, what's not, what have we learned and what has yet to be tried?"
+  published: false
+- title: Alt & Self Publishers Panel
+  datetime: "Friday 1:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  programparticipants:
+  - Sherwood Smith
+  - Valerie Estelle Frankel
+  published: false
+- title: How Game Titles Work
+  datetime: "Friday 2:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Leonard Richardson
+  description: "In 2009, while writing a novel about alien video games, Leonard Richardson uncovered the rules of rhetoric and syntax underlying the titles developers give their games. By following these rules, he was able to create dozens of realistic-sounding fictional games from distinct alien cultures. Over the past ten years, video game developers in the real world have subverted and played with these rules, expanding what a game's title can say about the experience of play. In this presentation, Leonard goes over the rules and talks about how they've changed over time."
+  published: false
+- title: "Isaac Asimov at 100: Our Favorites"
+  datetime: "Friday 12:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - William S. Higgins
+  - Bill Higgins
+  description: "Isaac Asimov, born 100 years ago, penned (well, typed) an immense number of books, both fiction and nonfiction. Join our panel of Asimov fans as they share their favorites."
+  published: false
+- title: "Nuts & Bolts: Running a Non Profit Lit Organization"
+  datetime: "Friday 4:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Mary Anne Mohanraj
+  description: "Join Mary Anne Mohanraj for a presentation + Q&A on non-profits and their role in the field. Mohanraj will talk about conventions, magazines, and the Speculative Literature Foundation (www.speclit.org) -- a nuts-and-bolts presentation for those interested in running such things."
+  published: false
+- title: "Fandom Check-In: Where Are We At?"
+  datetime: "Friday 4:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Ben Yalow
+  programparticipants:
+  - Foz Meadows
+  - Gadi Evron
+  - Isabel Schechter
+  - Nicholas Whyte
+  description: "Welcome to NASFiC! What's going on in the world of fandom?"
+  published: false
+- title: "COVID-FX: Selling Your Wares"
+  datetime: "Friday 5:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  programparticipants:
+  - Alison Scott
+  - Michael R. Underwood
+  description: "How has the pandemic affected our SF/F professionals and creatives who've relied on foot traffic to sell their wares? Join our panel of booksellers, artists, musicians and other creatives as they share impacts stories and strategies."
+  published: false
+- title: "COVID-FX: Quarantine & the Future of Urban Fantasy"
+  datetime: "Friday 5:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Raven Oak
+  programparticipants:
+  - Charles Payseur
+  - Jennifer Blackstream
+  - Laurence Raphael Brothers
+  - Michael Underwood 
+  description: "Mask wearing vampires? Quarantine empty streets? From grocery delivery to working-from-home, our normal lives have changed in the face of Covid-19. How will these changes impact the feature creatures and characters of urban fantasy? Join us as we discuss the future of writing urban fantasy and how quarantine will impact everything from world building and characters to plot."
+  published: false
+- title: SF/F Artists Cover Art
+  datetime: "Friday 6:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Stephanie Law
+  - Amanda Makepeace
+  - Rachel Quinlan
+  - Ray VanTilburg
+  published: false
+- title: Weekend Science Update
+  datetime: "Friday 6:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - Bill Thomasson
+  - Jude-Marie Green
+  description: Our panel of scientists (and science-adjacents) take turns sharing news (and fake news) on their favorite areas of expertise (or not). Prepare to be informed (and entertained)! 
+  published: false
+- title: "Librarians, Booksellers, Collectors, Oh My!"
+  datetime: "Friday 7:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  programparticipants:
+  - Chris M. Barkley
+  - Isabel Schechter
+  - Marev Hofman
+  - Michael R. Underwood
+  - Misha Stone
+  - Sarah Loch"
+  description: "Panelists discuss the different roles that librarians, booksellers, and collectors play in keeping science fiction alive."
+  published: false
+- title: Imaginary Book Club
+  datetime: "Friday 7:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Sumana Harihareswara
+  programparticipants:
+  - Ada Palmer
+  - Alaya Dawn Johnson
+  - Mary Anne Mohanraj
+  - Julia Rios
+  description: "Panelists discuss amazing books they've read in the past year! The catch: none of those books exist."
+  published: false
+- title: BIPOC Roundtable
+  datetime: "Friday 8:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Valerie Valdes
+  programparticipants:
+  - Andrea Hairston
+  - "Chris \"Silver Spook\" Miller"
+  - Vikram Paralker"
+  description: "Our panel of Black, Indigenous People of Color have a roundtable about the ways they've used their work to shed light on social injustices and the need for systemic change."
+  published: false
+- title: RPGs
+  datetime: "Friday 9:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  programparticipants:
+  - Jeremy Holcomb
+  - Jordan Kurella
+  - J Holtham
+  - Victor Raymond
+  - "Whitney \"Strix\" Beltrán"
+  published: false
+- title: "Lessons Not Learned: The Future of Dystopian & Utopian Stories"
+  datetime: "Friday 9:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Brandon Wilson
+  programparticipants:
+  - John Wiswell
+  description: "The panel discusses: Where does the genre go now that so much of the dystopian warnings sci-fi warned us about were ignored? What does a dystopian world look like in a post-COVID, post-Trump, melting-polar caps world? Can we ever move back to utopianism? Should we do away with utopian and dystopian scenarios altogether?"
+  published: false
+- title: Fantasy for YA vs Aduts
+  datetime: "Friday 10:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Alma Alexander
+  - Farah Mendlesohn
+  - Kathryn Sullivan
+  - Sherwood Smith
+  description: "Panel of fantasy writers and afficionados explore the ways fantasy stories differ depending on the age market."
+  published: false
+- title: "COVID-FX: Horror Beyond 2020"
+  datetime: "Friday"
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - Leigh Harlen
+  - Lucy Snyder
+  - Premee Mohamed 
+  description: "But is there anything scarier than 2020? Horror inspired by the pandemic, quarantine, chaotic media narratives and other COVID-Effects."
+  published: false
+- title: Surveillance & Society in SF
+  datetime: "Saturday 10:00 AM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Dr. Nakeema Stefflbauer
+  - Gadi Evron
+  published: false
+- title: COVID-FX Writing & Reading About Pandemics During a Pandemic
+  datetime: "Saturday 10:00 AM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Pablo Defendini
+  programparticipants:
+  - Alaya Dawn Johnson
+  - Mike Chen
+  - Lucy M. Snyder
+  description: "Panelists discuss pandemic stories they have written and are reading during COVID-times. Which begs the question: Is doing that even a good idea?"
+  published: false
+- title: Live Tiara Demonstration
+  datetime: "Saturday 11:00 AM"
+  room: "[Auditorium Odd](/auditorium)"
+  moderators:
+  - Sara Felix
+  published: false
+- title: "Worldbuilding: Rituals and Symbols"
+  datetime: "Saturday 11:00 AM"
+  room: "[Scioto Odd](/scioto-room)"
+  programparticipants:
+  - Kathyrn Sullivan
+  - Valerie Estelle Frankel
+  - Sherwood Smith
+  - L.D. Lewis
+  published: false
+- title: The Future of Anthologies
+  datetime: "Saturday 11:00 AM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  programparticipants:
+  - Beth Meacham
+  - Dominik Parisien
+  - Lucy A. Snyder
+  - Neil Clarke  
+  description: "Our highly-regarded panel of editors discuss current trends in and future of anthologies."
+  published: false
+- title: "Women of a Certain Age: Writing Older Women Protagonists"
+  datetime: "Saturday 12:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Andrea Hairston
+  - Jennifer Blackstream
+  description: What is 'older' in SF/F fiction? Examples of older heroines and protagonists -- how does changing the age of the heroine change the story? How do older heroines change in contrast to their younger counterparts? What are the advantages of having an older heroine?
+  published: false
+- title: The Ever Expanding Universe of Space Operas
+  datetime: "Saturday 12:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Laurence Raphael Brothers
+  programparticipants:
+  - Aliette de Bodard
+  - Bogi Takács
+  - Oghenechovwe Donald Ekpeki
+  - Mary Anne Mohanraj
+  - Valerie Valdes
+  description: "The Ever-Expanding Universe of New Space Opera: While the genre has existed for ages, there are always new stories to tell, new planets to explore, and new characters to populate the universe with. Panelists discuss recent trends in space opera and how they reflect changing demographics of readers and writers, sociopolitical realities and concerns, and broader personal and cultural interests and narratives.  "
+  published: false
+- title: Favorite Queer Fiction
+  datetime: "Saturday 1:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  description: Panelists review their favorite YA fiction.
+  published: false
+- title: Today in Audio Dramas!
+  datetime: "Saturday 1:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Chris Garcia
+  programparticipants:
+  - John Medaille
+  - Michael R. Underwood
+  - Phoebe Barton
+  description: "Today in Audio Dramas! A look at Audio dramas, audiobooks, and fiction podcasts and why the time is now!"
+  published: false
+- title: If Aliens Came To Earth
+  datetime: "Saturday 2:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Daniel M. Kimmel
+  - Douglas Johnson
+  - Stephen Leigh
+  description: "Would they, though? Our esteemed panelists discuss...."
+  published: false
+- title: "Roots in Two Places: Writing from a Dual Culture Experience"
+  datetime: "Saturday 2:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Cheryl Morgan
+  programparticipants:
+  - Alma Alexander
+  - Bogi Takács
+  - Vikram Paralkar
+  description: "Our panelists, all with roots in two or more separate cultures -- look at the ways having dual culture and language has guided their worldbuilding and storytelling."
+  published: false
+- title: Future Worldcon Q&A
+  datetime: "Saturday 3:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  moderators:
+  - Anne Gray
+  - Bob Roehm 
+  published: false
+- title: The Legal Implications of Monster Hunting
+  datetime: "Saturday 3:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Misha Stone
+  programparticipants:
+  - Day Al-Mohamed
+  - Elsa Sjunneson
+  - Leigh Harlen
+  - Premee Mohamed
+  description: "Our panel analyzes the legal implications of hunting vampires, demons, and other monsters in shows like Buffy the Vampire Slayer, Supernatural, and Wynonna Earp. Should vampires have due process? Can a monster hunter be liable if a demon's host dies during an exorcism? If it is murder to kill a monster, is being chosen or cursed to do so a plausible defense? Could ghosts have property rights to the houses they haunt if they lived there first?  Tune in for this compelling discussion!"
+  published: false
+- title: "Common Threads: Game Writers & Designers"
+  datetime: "Saturday 4:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - "Chris \"Silver Spook\" Miller"
+  - Jeremy Holcomb
+  - Phoebe Barton
+  - "Whitney \"Strix\" Beltrán"
+  description: "Game writers and designers from several disciplines talk about the common threads of what they do, irrespective of media and form."
+  published: false
+- title: Deconstructing the Novella
+  datetime: "Saturday 4:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - dave ring
+  programparticipants:
+  - Aliette de Bodard
+  - Eboni Dunbar
+  - L.D. Lewis
+  - Nino Cipri
+  description: "Deconstructing the Novella: Authors Cipri, de Bodard, Dunbar and Lewis will discuss their own novellas as well as other celebrated titles, highlight some of the publishers putting them out, dig into some craft questions, and pull apart a few of the novella's tricks and challenges."
+  published: false
+- title: "Information, Please!"
+  datetime: "Saturday 5:00pm"
+  room: "[Scioto Odd](/scioto-room)"
+  moderators:
+  - Steven H Silver
+  description: A panel of four experts are asked questions and can respond individually or in discussion. Can you stump the experts?
+  published: false
+- title: "Worldbuilding: Innovations in Leadership & Governance"
+  datetime: "Saturday 5:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  programparticipants:
+  - Ada Palmer
+  - Malka Older
+  description: Our panel draw from the wide range of speculative and science fiction to offer up their new visions of leadership and innovations in governance.
+  published: false
+- title: Feminist Fables & Fairy Tales
+  datetime: "Saturday 6:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Jennifer Blackstream
+  - Jim C. Hines
+  - Mari Ness
+  - Valerie Estelle Frankel  
+  published: false
+- title: "COVID-FX: Film & Television Industries"
+  datetime: "Saturday 6:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Steven Gould
+  programparticipants:
+  - Brandon Wilson
+  - Chris Garcia
+  - J. Holtham
+  description: "Our panel discusses: How will the film and television industries be changed by COVID? As the industries shifts in response to quarantine and travel limitations, how do those decisions impact the creatives within their ranks - and the culture of storytelling? What will be different, and what opportunities lie ahead?"
+  published: false
+- title: "Myths & Legends: Culture Shifts & Societal Transformation"
+  datetime: "Saturday 7:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  moderators:
+  - Victor Raymond
+  programparticipants:
+  - "Chris \"Silver Spook\" Miller"
+  - Isabel Schechter
+  description: "Our cross-genre and cross-discipline panel shares their favorite stories of great shifts and transformation. From resistance and collapse to evolution and re-emergence: it is the stuff of myths and legends!"
+  published: false
+- title: "The Power of Love: The Intersection of Speculative Fiction and Romance"
+  datetime: "Saturday 7:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Sarah Loch
+  programparticipants:
+  - Charles Payseur
+  - Eboni Dunbar
+  - Freya Marske
+  - Leigh Harlen
+  description: "Speculative fiction and romance have always existed side by side in the \"genre\" subspace of fiction. Join panelists to discuss how worldbuilding can inform your romance plot (and vice versa) and how characterization tricks help you generate a strong romantic A or B plot."
+  published: false
+- title: Writers Helping Writers
+  datetime: "Saturday 8:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  moderators:
+  - Steven Gould
+  programparticipants:
+  - dave ring
+  - Eileen Gunn
+  description: "Writers helping writers (paying forward) and its role in increasing dIversity in the profession (and possibly its role in keeping marginalized groups out as well.) How who we choose to associate with, assist, promote, and read can positively and negatively change the faces of our industry and the range of peoples and cultures represented in that writing. Who held out their hand to you when you were starting out? How do you decide who you hold your hand out to now that you’re established?"
+  published: false
+- title: "Weathering the Storm: Creating in Times of Trouble"
+  datetime: "Saturday 8:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  moderators:
+  - Jason Sanford
+  programparticipants:
+  - Ace Ratcliffe
+  - Amanda Makepeace
+  - John Medaille
+  - Raven Oak
+  description: "A mixed panel of writers and artists discuss the challenges of making art and stories during a pandemic, as well as strategies for managing health and being active creators. "
+  published: false
+- title: The Diversity of Jewish Science Fiction & Fantasy
+  datetime: "Saturday 9:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  programparticipants:
+  - Daniel Kimmel
+  - Gillian Polack
+  - Valerie Estelle Frankel
+  description: A panel of Jewish writers and creators from across the SF/F universe... 
+  published: false
+- title: Steampunk Lessons for a Post-Fossil Fuel Future
+  datetime: "Saturday 9:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Cat Rambo
+  programparticipants:
+  - Bill Higgins
+  - Eileen Gunn
+  - Phoebe Barton
+  description: "Join our delightful and multigenerational panel as they discuss: What lessons can be learned from steampunk and 'old technology' - what books or screen stories would you take with you to learn how to thrive in a de-industrialized world? What can be applied from steampunk when writing fiction set in the post-fossil fuel age?"
+  published: false
+- title: Fanzines Panel
+  datetime: "Saturday 10:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  moderators:
+  - Chris M. Barkley
+  programparticipants:
+  - James Bacon, Steven H Silver
+  description: Our panelists discuss the current state of fanzines - what's hot and what's next?
+  published: false
+- title: "Worldbuilding: Crime and Punishment"
+  datetime: "Saturday 10:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - "Chris \"Silver Spook\" Miller"
+  - Foz Meadows","With calls to Defund the Police and conversations of prison abolition entering public consciousness
+  - our panelists discuss alternative takes on  traditional crime and punishment. What gets called a crime? Who or what entities enforce the law?  What does justice and restitution look like -- and what can be re-imagined?"
+  published: false
+- title: Researching the Golden Age
+  datetime: "Sunday 10:00 AM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Alec Nevala-Lee
+  - Farah Mendlesohn
+  description: "Hugo nominated non fiction authors Alec Nevala-Lee and Farah Mendlesohn talk about the joys of non fiction research and writing, and the perils of writing about Big Names during a zeitgeist shift. "
+  published: false
+- title: Writing About Space
+  datetime: "Sunday 10:00 AM"
+  room: "[Olentangy Even](/olentangy-room)"
+  description: Bill Higgins,"The United States may not have a Moon Program, but there's still stuff going on out there! What's the latest on Space! Suitable for writers, space cadets, and AstroNerds."
+  published: false
+- title: "Youth & YA Fiction: Who's Reading Who?"
+  datetime: "Sunday 11:00 AM"
+  room: "[Scioto Odd](/scioto-room)"
+  moderators:
+  - Kathryn Sullivan
+  programparticipants:
+  - Julia Rios
+  - Marieke Nijkamp
+  - Nino Cipri
+  - Phoebe North
+  description: What do trends in SF/F youth and young adult fiction tell us about the values and perspectives of Gen Z? 
+  published: false
+- title: Technological Dreams of AfroFuturism
+  datetime: "Sunday 11:00 AM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Brandon Wilson
+  programparticipants:
+  - Dan Tres Omi
+  - Eboni Dunbar
+  - Oghenechovwe Donald Ekpeki
+  - Sheree Renée Jones
+  description: "From the cotton gin to extractive mining to facial recognition software - breakthroughs in technology have often come at a heavy cost to Black communities throughout the world. Will the liberation of Black minds and bodies depend on more or less technology? What would it look like if technology truly served us all? Drawing from examples in books, graphic novels and film, our group discuss the technological dreams of AfroFuturism."
+  published: false
+- title: Women Who Run Sh*t
+  datetime: "Sunday 12:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  moderators:
+  - Eileen Gunn
+  programparticipants:
+  - Cheryl Morgan
+  - Mary Anne Mohanraj
+  - Sumana Hariahreswara
+  description: "Our panel of women creators/directors/publishers discuss the trials and victories of running organizations, magazines, publishing companies and other SF/F businesses. "
+  published: false
+- title: "Predicting the Post-Apocalypse: How Will We Be Saved?"
+  datetime: "Sunday 12:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - Ada Palmer
+  - dave ring
+  - Tobias S. Buckell
+  description: It's the post-apocalypse - how will humanity be saved? Our panel mine their favorite stories about the post-apocalypse for clues at what might rescue or restore humanity.
+  published: false
+- title: Ohio Fan Clubs & Cons
+  datetime: "Sunday 1:00 PM"
+  room: "[Scioto Odd](/scioto-room)"
+  moderators:
+  - Joel Zakem
+  programparticipants:
+  - Chris M. Barkley
+  - Doug Piero Carey
+  - Julie Washington
+  - Lucy A. Snyder
+  - Michael Grossberg
+  published: false
+- title: "Worldbuilding: Useful Adaptations for Disabled Characters"
+  datetime: "Sunday 1:00 PM"
+  room: "[Olentangy Odd](/olentangy-room)"
+  moderators:
+  - Raven Oak
+  programparticipants:
+  - Ace Ratcliff
+  - Day Al-Mohamed
+  - Elsa Sjunneson
+  - Marieke Nijkamp
+  description: "It's typical in science fiction stories with disabled characters, for authors to create adaptive devices that circumvent the disability. In essence, the disability doesn't matter because the protagonist has special eyes, or hearing powers, etc. Our panel of disabled folks discuss worldbuilding adaptive devices that are actually *adaptive* and don't make the protagonist function as able-bodied.  "
+  published: false
+- title: "COVID-FX: Traditional Publishing"
+  datetime: "Sunday 2:00 PM"
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Neil Clark
+  description: "Our panel of traditional publishers talk about the state of SF/F publishing since the pandemic. What's changed, what's not?"
+  published: false
+- title: "Graphic Novels: Creators Edition"
+  datetime: "Sunday 2:00 PM"
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - Jamar Nicholas
+  description: "Panel of comic book artists, writers, and makers."
