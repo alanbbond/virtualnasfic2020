@@ -22,7 +22,7 @@ const eastern_list = ['Cancun', 'Detroit', 'Indiana/Indianapolis', 'Indiana/Mare
 const central_list = ['Bahia_Banderas', 'Chicago', 'Indiana/Knox', 'Indiana/Tell_City', 'Matamoros', 'Menominee', 'Merida', 'Mexico_City', 'Monterrey', 'North_Dakota/Beulah', 'North_Dakota/Center', 'North_Dakota/New_Salem', 'Rainy_River', 'Rankin_Inlet', 'Resolute', 'Winnipeg'];
 const mountain_list = ['Boise', 'Cambridge_Bay', 'Chihuahua', 'Denver', 'Edmonton', 'Hermosillo', 'Inuvik', 'Mazatlan', 'Ojinaga', 'Yellowknife'];
 const pacific_list = ['Dawson', 'Los_Angeles', 'Tijuana', 'Vancouver', 'Whitehorse'];
-const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone.replace('America/', '');;
+const timezone = Intl?.DateTimeFormat()?.resolvedOptions()?.timeZone?.replace('America/', '');;
 if (central_list.includes(timezone) || pacific_list.includes(timezone)) {
   hour++;
 }
