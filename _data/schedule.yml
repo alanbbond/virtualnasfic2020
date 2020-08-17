@@ -11,11 +11,12 @@
   - Phoebe North
   description: What do trends in SF/F youth and young adult fiction tell us about
     the values and perspectives of Gen Z?
-  published: false
-- title: The Legal Implications of Monster Hunting (Panel)
+  published: true
+- title: The Legal Implications of Monster Hunting
   datetime: Saturday, Afternoon
   room: TBD
-  moderators: []
+  moderators:
+  - Misha Stone
   programparticipants:
   - Day Al-Mohamed
   - Elsa Sjunneson
@@ -523,8 +524,8 @@
   moderators:
   - Victor Raymond
   programparticipants:
+  - Alma Alexander
   - Chris "Silver Spook" Miller
-  - Isabel Schechter
   description: 'Our cross-genre and cross-discipline panel shares their favorite stories
     of great shifts and transformation. From resistance and collapse to evolution
     and re-emergence: it is the stuff of myths and legends!'
