@@ -8,7 +8,7 @@ order: "5"
 ---
 # Author Readings Room
 
-<iframe src="https://player.twitch.tv/?channel=columbus2020nasfic&parent=www.columbus2020nasfic.org/readings.html" frameborder="0" allowfullscreen="true" scrolling="no" height="300" width="500" class="nasfic-video"></iframe>
+<iframe src="https://player.twitch.tv/?channel=columbus2020nasfic&parent=www.columbus2020nasfic.org/readings" frameborder="0" allowfullscreen="true" scrolling="no" height="300" width="500" class="nasfic-video"></iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
