@@ -1,12 +1,7 @@
 <section class="schedule-listing">
   <h2>{{ event.title }}</h2>
-  <p class="byline">
-    {% if event.room.size > 0 %}
-    {{ event.room | markdownify }}
-    {% endif %}
-    {% if event.datetime.size > 0 %}
-    {{ event.datetime }}
-    {% endif %}
+  <p class="time">{% if event.datetime.size > 0 %}{{ event.datetime }}{% endif %} 
+  {% if event.room.size > 0 %}{{ event.room | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
   </p>
   <p class="byline">
     {% if event.moderators.size > 0 %}

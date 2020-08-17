@@ -317,9 +317,19 @@ p.jump {
 }
 
 .schedule-listing {
+
+  h2 {
+    font-size: 1.8rem;
+    line-height: 2rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+  }
+
+  &>*:not(h2) {
+    margin-left: 1rem;
+  }
+
   .byline {
-    display: flex;
-    justify-content: space-between;
 
     .programparticipants, .moderators {
       font-style: italic;
@@ -684,6 +694,11 @@ ul.social-links-menu {
     .program-participant-info {
       width: 40rem;
     }
+  }
+
+  .byline {
+    display: flex;
+    justify-content: space-between;
   }
 
   .agreement-container > form {
