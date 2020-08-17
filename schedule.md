@@ -33,7 +33,17 @@ order: 4
 {%     assign dt = event.datetime | downcase %}
 {%     assign start_time = dt | split: ":" | first %}
 {%     if event.published and dt contains day and dt contains meridian %}
-{%       if start_time contains time %}
+{%       if time == "12" and start_time contains "12" %}
+{%         include schedule_listing.html %}
+{%       elsif time == "1" and start_time contains "1" %}
+{%         unless start_time contains "10" or start_time contains "11" or start_time contains "12" %}
+{%           include schedule_listing.html %}
+{%         endunless %}
+{%       elsif time == "2" and start_time contains "2" %}
+{%         unless start_time contains "12" %}
+{%           include schedule_listing.html %}
+{%         endunless %}
+{%       elsif start_time contains time %}
 {%         include schedule_listing.html %}
 {%       endif %}
 {%     endif %}
