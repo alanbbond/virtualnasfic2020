@@ -8,7 +8,7 @@ order: 4
 ---
 # The Olentangy Event Room
 
-Named for the Olentangy River
+Named for the Olentangy River. Pronounced "Oh-Len-Tan-Jee".
 
 <iframe src="https://player.vimeo.com/video/448013529" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="nasfic-video"></iframe>
 

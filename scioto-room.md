@@ -8,7 +8,7 @@ order: 3
 ---
 # The Scioto Event Room
 
-Named for the Scioto River
+Named for the Scioto River. Pronounced "Psy-Oh-Toe".
 
 <iframe src="https://player.vimeo.com/video/448012416" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video"></iframe>
 
@@ -22,6 +22,8 @@ widget will load the current channel. You may also change channels by clicking
 in the top left of the chat widget.
 
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+<script src="https://unpkg.com/dayjs@1.8.21/plugin/utc.js"></script>
+<script src="https://unpkg.com/dayjs@1.8.21/plugin/timezone.js"></script>
 <script>
 const nasfic_video = document.getElementsByClassName("nasfic-video")[0];
 const nasfic_chat = document.getElementsByClassName("nasfic-chat")[0];
@@ -40,6 +42,10 @@ resizeVideoAndChat();
 // The scioto-even and scioto-odd Discord channels are for events happening on
 // alternating hours. Set src for chat iframe to a default channel based on what
 // time it is:
+dayjs.extend(window.dayjs_plugin_utc);
+dayjs.extend(window.dayjs_plugin_timezone);
+const timezone = dayjs.tz(dayjs());
+console.log('timezone ', timezone);
 const now = dayjs();
 const minute = now.minute();
 const hour = minute < 55 ? now.hour() : now.hour() + 1;
