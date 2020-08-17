@@ -132,7 +132,8 @@
 - title: The Technological Dreams of AfroFuturism (Panel)
   datetime: Sunday 11:00-11:50am
   room: Olentangy
-  moderators: ''
+  moderators:
+  - Brandon Wilson
   programparticipants:
   - Dan Tres Omi
   - Eboni Dunbar
@@ -189,12 +190,11 @@
     developers in the real world have subverted and played with these rules, expanding
     what a game's title can say about the experience of play. In this presentation,
     Leonard goes over the rules and talks about how they've changed over time.
-  published: false
+  published: true
 - title: 'Isaac Asimov at 100: Our Favorites'
   datetime: Friday 12:00 PM
   room: "[Olentangy Even](/olentangy-room)"
   programparticipants:
-  - William S. Higgins
   - Bill Higgins
   description: Isaac Asimov, born 100 years ago, penned (well, typed) an immense number
     of books, both fiction and nonfiction. Join our panel of Asimov fans as they share
@@ -209,7 +209,7 @@
     their role in the field. Mohanraj will talk about conventions, magazines, and
     the Speculative Literature Foundation (www.speclit.org) -- a nuts-and-bolts presentation
     for those interested in running such things.
-  published: false
+  published: true
 - title: 'Fandom Check-In: Where Are We At?'
   datetime: Friday 4:00 PM
   room: "[Olentangy Even](/olentangy-room)"
@@ -262,15 +262,14 @@
   datetime: Friday 7:00 PM
   room: "[Scioto Odd](/scioto-room)"
   programparticipants:
-  - Chris M. Barkley
   - Isabel Schechter
   - Marev Hofman
   - Michael R. Underwood
   - Misha Stone
-  - Sarah Loch"
+  - Sarah Loch
   description: Panelists discuss the different roles that librarians, booksellers,
     and collectors play in keeping science fiction alive.
-  published: false
+  published: true
 - title: Imaginary Book Club
   datetime: Friday 7:00 PM
   room: "[Olentangy Odd](/olentangy-room)"
@@ -283,7 +282,7 @@
   - Julia Rios
   description: 'Panelists discuss amazing books they''ve read in the past year! The
     catch: none of those books exist.'
-  published: false
+  published: true
 - title: BIPOC Roundtable
   datetime: Friday 8:00 PM
   room: "[Olentangy Even](/olentangy-room)"
@@ -292,7 +291,7 @@
   programparticipants:
   - Andrea Hairston
   - Chris "Silver Spook" Miller
-  - Vikram Paralker"
+  - Vikram Paralker
   description: Our panel of Black, Indigenous People of Color have a roundtable about
     the ways they've used their work to shed light on social injustices and the need
     for systemic change.
@@ -313,7 +312,10 @@
   moderators:
   - Brandon Wilson
   programparticipants:
+  - Christine Taylor-Butler
+  - Elsa Sjunneson
   - John Wiswell
+  - Mari Ness
   description: 'The panel discusses: Where does the genre go now that so much of the
     dystopian warnings sci-fi warned us about were ignored? What does a dystopian
     world look like in a post-COVID, post-Trump, melting-polar caps world? Can we
@@ -404,7 +406,6 @@
   - Laurence Raphael Brothers
   programparticipants:
   - Aliette de Bodard
-  - Bogi Takács
   - Oghenechovwe Donald Ekpeki
   - Mary Anne Mohanraj
   - Valerie Valdes
@@ -495,9 +496,8 @@
   programparticipants:
   - Jennifer Blackstream
   - Jim C. Hines
-  - Mari Ness
   - Valerie Estelle Frankel
-  published: false
+  published: true
 - title: 'COVID-FX: Film & Television Industries'
   datetime: Saturday 6:00 PM
   room: "[Olentangy Even](/olentangy-room)"
@@ -550,20 +550,24 @@
   - Ace Ratcliffe
   - Amanda Makepeace
   - John Medaille
+  - John Wiswell
   - Raven Oak
   description: 'A mixed panel of writers and artists discuss the challenges of making
     art and stories during a pandemic, as well as strategies for managing health and
     being active creators. '
   published: false
-- title: The Diversity of Jewish Science Fiction & Fantasy
-  datetime: Saturday 9:00 PM
+- title: The Landscape of Jewish Science Fiction & Fantasy
+  datetime: Sunday 11:00 AM
   room: "[Scioto Odd](/scioto-room)"
+  moderator:
+  - Isabel Schechter
   programparticipants:
   - Daniel Kimmel
   - Gillian Polack
+  - Steven H Silver
   - Valerie Estelle Frankel
   description: A panel of Jewish writers and creators from across the SF/F universe...
-  published: false
+  published: true
 - title: Fanzines Panel
   datetime: Saturday 10:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -637,7 +641,7 @@
   - Julie Washington
   - Lucy A. Snyder
   - Michael Grossberg
-  published: false
+  published: true
 - title: 'Worldbuilding: Useful Adaptations for Disabled Characters'
   datetime: Sunday 1:00 PM
   room: "[Olentangy Odd](/olentangy-room)"
@@ -653,7 +657,7 @@
     the disability doesn''t matter because the protagonist has special eyes, or hearing
     powers, etc. Our panel of disabled folks discuss worldbuilding adaptive devices
     that are actually *adaptive* and don''t make the protagonist function as able-bodied.  '
-  published: false
+  published: true
 - title: 'COVID-FX: Traditional Publishing'
   datetime: Sunday 2:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -668,3 +672,11 @@
   programparticipants:
   - Jamar Nicholas
   description: Panel of comic book artists, writers, and makers.
+- name: Big Hearts Award
+  datetime: Saturday 10:00 AM
+  room: "[Auditorium Odd](/auditorium)"
+  moderators:
+  - Ben Yalow
+  programparticipants:
+  - Sue & Steve Francis
+  published: true
