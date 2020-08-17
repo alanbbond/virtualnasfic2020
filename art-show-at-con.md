@@ -3,7 +3,7 @@ title: Online Artists
 layout: default
 category: room
 public: false
-order: 6
+order: 7
 
 ---
 
