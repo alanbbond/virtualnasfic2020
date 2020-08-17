@@ -3,7 +3,7 @@
   <p class="byline">
     {% if event.room.size > 0 %}
     <span class="link">
-      <a href="/{{ event.room | slugify }}">{{ event.room }}</a>
+      {{ event.room | markdownify }}
     </span>
     {% endif %}
     {% if event.time.size > 0 %}
