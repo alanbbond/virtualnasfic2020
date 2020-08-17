@@ -11,9 +11,11 @@ order: 5
 
 <iframe
   src="https://player.twitch.tv/?columbus2020nasfic&parent=columbus2020nasfic.org"
+  height="300"
+  width="500"
   frameborder="0"
   scrolling="no"
-  allowfullscreen
+  allowfullscreen="true"
   class="nasfic-video">
 </iframe>
 
