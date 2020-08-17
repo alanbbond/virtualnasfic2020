@@ -3,7 +3,7 @@ title: Readings
 layout: default
 category: room
 public: false
-order: 5
+order: "5"
 
 ---
 # Author Readings Room
