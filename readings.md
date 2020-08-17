@@ -8,7 +8,14 @@ order: 5
 ---
 # Author Readings Room
 
-<iframe src="https://player.vimeo.com/video/448011776" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video" ></iframe>
+
+<iframe
+  src="https://player.twitch.tv/?columbus2020nasfic&parent=columbus2020nasfic.org"
+  frameborder="0"
+  scrolling="no"
+  allowfullscreen
+  class="nasfic-video">
+</iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
