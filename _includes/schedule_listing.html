@@ -1,15 +1,11 @@
 <section class="schedule-listing">
-  <h3>{{ event.title }}</h3>
+  <h2>{{ event.title }}</h2>
   <p class="byline">
     {% if event.room.size > 0 %}
-    <span class="link">
-      {{ event.room | markdownify }}
-    </span>
+    {{ event.room | markdownify }}
     {% endif %}
     {% if event.datetime.size > 0 %}
-    <span class="time">
-      {{ event.datetime }}
-    </span>
+    {{ event.datetime }}
     {% endif %}
   </p>
   <p class="byline">
