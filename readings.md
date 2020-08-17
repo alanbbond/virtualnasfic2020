@@ -24,3 +24,4 @@ in the top left of the chat widget.
 const even = "743859917340803102";
 const odd = "743859953445372021";
 </script>
+{% include room_scripts.html %}
