@@ -481,6 +481,10 @@
   description: A panel of four experts are asked questions and can respond individually
     or in discussion. Can you stump the experts?
   published: false
+  programparticipants:
+  - Alec Nevala-Lee
+  - Chris Garcia
+  - Tom Smith
 - title: 'Worldbuilding: Innovations in Leadership & Governance'
   datetime: Saturday 5:00 PM
   room: "[Olentangy Odd](/olentangy-room)"
@@ -614,7 +618,7 @@
   programparticipants:
   - Cheryl Morgan
   - Mary Anne Mohanraj
-  - Sumana Hariahreswara
+  - Sumana Harihareswara
   description: 'Our panel of women creators/directors/publishers discuss the trials
     and victories of running organizations, magazines, publishing companies and other
     SF/F businesses. '
