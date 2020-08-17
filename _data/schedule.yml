@@ -12,10 +12,11 @@
   description: What do trends in SF/F youth and young adult fiction tell us about
     the values and perspectives of Gen Z?
   published: true
-- title: The Legal Implications of Monster Hunting (Panel)
+- title: The Legal Implications of Monster Hunting
   datetime: Saturday, Afternoon
   room: TBD
-  moderators: []
+  moderators:
+  - Misha Stone
   programparticipants:
   - Day Al-Mohamed
   - Elsa Sjunneson
