@@ -145,12 +145,8 @@
   datetime: Friday 6:00PM
   room: "[Olentangy](/olentangy-room)"
   moderators: ''
-  programparticipants:
-  - Bill Thomasson
-  - Bogi Takács
-  - Jude-Marie Green
-  - Premee Mohamed
-  - Wendy Delmater
+  programparticipants: Bill Thomasson,Bogi Takács,Jude-Marie Green,Premee Mohamed,Wendy
+    S. Delmater
   description: Our panel of scientists (and science-adjacents) take turns sharing
     news (and fake news) on their favorite areas of expertise (or not). Prepare to
     be informed (and entertained)!
@@ -159,12 +155,8 @@
   datetime: Friday 7:00 PM
   room: "[Scioto](/scioto-room)"
   moderators: ''
-  programparticipants:
-  - Isabel Schechter
-  - Marev Hofman
-  - Michael R. Underwood
-  - Misha Stone
-  - Sarah Loch
+  programparticipants: Isabel Schechter,Merav Hofman,Michael R. Underwood,Misha Stone,Sarah
+    Loch
   description: Panelists discuss the different roles that librarians, booksellers,
     and collectors play in keeping science fiction alive.
   published: true
