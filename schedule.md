@@ -6,6 +6,7 @@ public: true
 order: 4
 
 ---
+This schedule is still subject to change. We have asked program participants to get back to us by the end of the day, Tuesday August 18, with any modifications they need.
 
 {% include jump_to_event.html content=site.data.schedule %}
 
