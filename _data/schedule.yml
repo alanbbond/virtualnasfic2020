@@ -1,10 +1,12 @@
 ---
 - title: Mike Resnick Memorial
   datetime: Friday, 7:00pm to 9:00pm
-  room: ''
+  room: Auditorium
   moderators: ''
-  programparticipants: ''
-  description: ''
+  programparticipants: 'Laura Resnick, Eric Flint,  Sue Francis, Steven H. Silver,
+    Kevin J. Anderson, Cat Rambo, Beth Meacham '
+  description: 'Colleagues, friends, and family gather to say goodbye to the late
+    great author and editor, Mike Resnick. '
   published: true
 - title: Writing Real History Into Fictional Pasts
   tags:
