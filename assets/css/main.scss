@@ -2,6 +2,7 @@
 ---
 
 $dark: rgb(45,52,84);
+$medium-dark: rgb(75, 83, 115);
 $medium: rgb(159,167,199);
 $medium-light: rgb(202, 205, 224);
 $light: rgb(237,240,252);
@@ -276,11 +277,11 @@ header {
 
 p.jump {
   display: inline-block;
-  background-color: $medium;
+  background-color: $medium-dark;
   margin: 0.05rem;
   border-radius: 0.5rem;
   border: 0.15rem solid $very-light;
-  max-width: 37rem;
+  max-width: 100%;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -297,9 +298,10 @@ p.jump {
   }
 
   a {
+    text-decoration: none;
     display: inline-block;
     color: $very-light;
-    padding: 0.25rem 0.5rem;
+    padding: 0.35rem 0.5rem 0.15em 0.5rem;
     white-space: nowrap;
   }
 }
@@ -670,7 +672,7 @@ ul.social-links-menu {
       nav {
 
         ul.rooms-menu {
-          height: 3rem;
+          margin: 0.3rem;
         }
 
         ul {
@@ -693,6 +695,10 @@ ul.social-links-menu {
     position: absolute;
     left: -4rem;
     top: 0.5rem;
+  }
+
+  p.jump {
+    max-width: 29rem;
   }
 
   .program-participant-listing {
