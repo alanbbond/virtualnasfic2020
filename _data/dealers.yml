@@ -1,19 +1,4 @@
 ---
-- name: Ravensdaughter Designs - Celtic Art Store
-  contact: Erin Rado
-  city: Crestline
-  state: California
-  what_is_sold: Books, Fine Art (Sculpture, Paintings, similar)
-  link: '[www.CelticArtStore.net](https://www.CelticArtStore.net "https://www.CelticArtStore.net")'
-  description: Mindfulness Art - Celtic Mandalynths and Finger Labyrinths. "Gray Warrior"
-    Fantasy-Action Novel
-  restrictions: ''
-  image_filenames:
-  - "/assets/images/celtic-art-at-worldcon-2016.jpg"
-  - "/assets/images/anne-at-trf.jpg"
-  - "/assets/images/gray-warrior-cover.png"
-  - "/assets/images/aa-cover-front-v5.png"
-  - "/assets/images/aa-cover-front-v2.png"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -210,6 +195,21 @@
   - "/assets/images/paper_angel_press_03.jpg"
   - "/assets/images/paper_angel_press_04.jpg"
   - "/assets/images/paper_angel_press_05.jpg"
+- name: Ravensdaughter Designs - Celtic Art Store
+  contact: Erin Rado
+  city: Crestline
+  state: California
+  what_is_sold: Books, Fine Art (Sculpture, Paintings, similar)
+  link: '[www.CelticArtStore.net](https://www.CelticArtStore.net "https://www.CelticArtStore.net")'
+  description: Mindfulness Art - Celtic Mandalynths and Finger Labyrinths. "Gray Warrior"
+    Fantasy-Action Novel
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/celtic-art-at-worldcon-2016.jpg"
+  - "/assets/images/anne-at-trf.jpg"
+  - "/assets/images/gray-warrior-cover.png"
+  - "/assets/images/aa-cover-front-v5.png"
+  - "/assets/images/aa-cover-front-v2.png"
 - name: Ravenwing Wearable Art
   contact: Darlene Ney
   city: Lakemoor
