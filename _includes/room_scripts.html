@@ -18,7 +18,7 @@
   // adjusting for the viewer's time zone:
   const now = dayjs();
   const minute = now.minute();
-  const hour = minute < 55 ? now.hour() : now.hour() + 1;
+  let hour = minute < 55 ? now.hour() : now.hour() + 1;
   const eastern_list = ['Cancun', 'Detroit', 'Indiana/Indianapolis', 'Indiana/Marengo', 'Indiana/Petersburg', 'Indiana/Tell_City', 'Indiana/Vevay', 'Indiana/Vincennes', 'Indiana/Winamac', 'Iqaluit', 'Kentucky/Louisville', 'Kentucky/Monticello', 'New_York', 'Nipigon', 'Pangnirtung', 'Thunder_Bay', 'Toronto'];
   const central_list = ['Bahia_Banderas', 'Chicago', 'Indiana/Knox', 'Indiana/Tell_City', 'Matamoros', 'Menominee', 'Merida', 'Mexico_City', 'Monterrey', 'North_Dakota/Beulah', 'North_Dakota/Center', 'North_Dakota/New_Salem', 'Rainy_River', 'Rankin_Inlet', 'Resolute', 'Winnipeg'];
   const mountain_list = ['Boise', 'Cambridge_Bay', 'Chihuahua', 'Denver', 'Edmonton', 'Hermosillo', 'Inuvik', 'Mazatlan', 'Ojinaga', 'Yellowknife'];
