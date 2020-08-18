@@ -7,6 +7,9 @@
   description: ''
   published: true
 - title: Writing Real History Into Fictional Pasts
+  tags:
+  - panel
+  - writing
   datetime: Friday 12:00PM
   room: "[Scioto](/scioto-room)"
   moderators: ''
@@ -19,6 +22,9 @@
     major events of the past into stories.
   published: true
 - title: 'Youth & YA Fiction: Who''s Reading Who?'
+  tags:
+  - panel
+  - fandom
   datetime: Sunday 11:00 AM
   room: "[Scioto](/scioto-room)"
   moderators:
@@ -32,6 +38,9 @@
     the values and perspectives of Gen Z?
   published: true
 - title: 'COVID-FX: Staying Connected'
+  tags:
+  - panel
+  - fandom
   datetime: Friday 1:00PM
   room: "[Scioto](/scioto-room)"
   moderators:
@@ -46,6 +55,9 @@
     be tried?
   published: true
 - title: Alt & Self Publishers Panel
+  tags:
+  - panel
+  - publishing
   datetime: Friday 1:00 PM
   room: "[Olentangy](/olentangy-room)"
   moderators: ''
@@ -54,6 +66,8 @@
   - Valerie Estelle Frankel
   published: false
 - title: How Game Titles Work
+  tags:
+  - solo talk
   datetime: Friday 2:00PM
   room: "[Scioto](/scioto-room)"
   moderators: ''
@@ -68,6 +82,9 @@
     Leonard goes over the rules and talks about how they've changed over time.
   published: true
 - title: 'Isaac Asimov at 100: Our Favorites'
+  tags:
+  - panel
+  - fandom
   datetime: Friday 12:00PM
   room: "[Olentangy](/olentangy-room)"
   moderators: ''
@@ -79,6 +96,9 @@
     their favorites.
   published: false
 - title: 'Nuts & Bolts: Running a Non-Profit Lit Organization'
+  tags:
+  - solo talk
+  - community
   datetime: Friday 4:00PM
   room: "[Scioto](/scioto-room)"
   moderators: ''
@@ -90,6 +110,10 @@
     for those interested in running such things.
   published: true
 - title: 'Fandom Check-In: Where Are We At?'
+  tags:
+  - panel
+  - fandom
+  - community
   datetime: Friday 4:00 PM
   room: "[Olentangy](/olentangy-room)"
   moderators:
@@ -102,6 +126,9 @@
   description: Welcome to NASFiC! What's going on in the world of fandom?
   published: true
 - title: 'COVID-FX: Selling Your Wares'
+  tags:
+  - panel
+  - publishing
   datetime: Friday 5:00 PM
   room: "[Scioto](/scioto-room)"
   moderators: ''
@@ -115,6 +142,9 @@
     artists, musicians and other creatives as they share impacts stories and strategies.
   published: true
 - title: 'COVID-FX: Quarantine & the Future of Urban Fantasy'
+  tags:
+  - panel
+  - writing
   datetime: Friday 5:00 PM
   room: "[Olentangy](/olentangy-room)"
   moderators:
@@ -131,6 +161,9 @@
     impact everything from world building and characters to plot.
   published: false
 - title: 'SF/F Artists Talk Art '
+  tags:
+  - panel
+  - art
   datetime: Friday 6:00PM
   room: Scioto
   moderators: ''
@@ -142,6 +175,9 @@
   description: ''
   published: true
 - title: Weekend Science Update
+  tags:
+  - panel
+  - science
   datetime: Friday 6:00PM
   room: "[Olentangy](/olentangy-room)"
   moderators: ''
@@ -156,6 +192,8 @@
     be informed (and entertained)!
   published: true
 - title: Librarians, Booksellers, Collectors, Oh My!
+  tags:
+  - panel
   datetime: Friday 7:00 PM
   room: "[Scioto](/scioto-room)"
   moderators: ''
@@ -169,6 +207,9 @@
     and collectors play in keeping science fiction alive.
   published: true
 - title: Imaginary Book Club
+  tags:
+  - panel
+  - fandom
   datetime: Friday 7:00 PM
   room: "[Olentangy](/olentangy-room)"
   moderators:
@@ -717,7 +758,7 @@
   room: "[Olentangy](/olentangy-room)"
   programparticipants:
   - Jamar Nicholas
-  description: " "
+  description: ""
   published: true
 - title: Live Tiara Demonstration
   datetime: Saturday 11:00 AM
@@ -725,4 +766,139 @@
   moderators:
   - Sara Felix
   published: false
-  description: " "
+  description: ""
+- title: "Concert: Chris Conway"
+  datetime: Friday, 4:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Chris Conway
+  published: true
+- title: "Concert: Roberta Rogrow"
+  datetime: Friday, 5:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Roberta Rogrow
+  published: true
+- title: "Concert: Tom Smith"
+  datetime: Friday, 6:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Tom Smith
+  published: true
+- title: "Open Filk with Tom Smith"
+  datetime: Friday, 9:00PM
+  room: Participatory Music
+  programparticipants:
+  - Tom Smith
+  description: "Unthemed open song circle. Come listen and/or make music in this 
+    unthemed song circle. We’ll go around the room giving everyone a chance to 
+    perform (play), request a song (pick), or pass. All types of music are welcome, 
+    but expect to hear a bunch of songs related to science fiction, fantasy, 
+    science, and fandom."
+  published: true
+- title: "Filk History & Stories"
+  datetime: Saturday, 11:00AM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Tom Smith
+  - Juanita Coulson
+  description: "An informal chat with Filk legend Juanita Coulson, who has been there from 
+    the beginning -- since before it was called Filk.  A unique opportunity, and 
+    guaranteed to be entertaining!"
+  published: true
+- title: "Participatory Music	Chantey Sing"
+  datetime: Saturday 1:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Mike Gibson
+  - Jeff Keller
+  - Becca Mandel
+  description: "Themed open song circle. Come sing (or just listen to, but we hope you'll 
+    sing) songs of the sea and sailing in all forms! Work songs from the age of sail are 
+    particularly welcome, but let’s try to avoid the most offensive bits. (The old salts 
+    were famously lacking in delicacy, but we don’t need _that_ much verisimilitude, and 
+    we won’t mind if you drop a few verses or change a few words.)"
+  published: true
+- title: "Participatory Music	Chantey Sing"
+  datetime: Saturday 2:30PM
+  room: Participatory Music
+  programparticipants:
+  - Marilisa Valtazanou
+  published: true
+- title: "Open Filking"
+  datetime: Saturday 3:00PM
+  room: Participatory Music
+  programparticipants:
+  - Naomi Hinchen
+  - Peggi Warner-Lalonde
+  description: "Unthemed open song circle. Come listen and/or make music in this unthemed 
+    song circle. We’ll go around the room giving everyone a chance to perform (play), 
+    request a song (pick), or pass. All types of music are welcome, but expect to hear a 
+    bunch of songs related to science fiction, fantasy, science, and fandom."
+  published: true
+- title: "Online-Performance Workshop"
+  datetime: Saturday 6:00PM
+  room: Participatory Music
+  programparticipants:
+  - Anabel Graetz
+  description: "Get the most out of your virtual performances including musical 
+    presentations and costume competitions.  Bring your best takes, or perform live and 
+    receive feedback from an experienced performer who has been 'self-taping' 
+    successfully for several years. You will receive feedback, where relevant, on voice, 
+    movement, costume, and lighting.  You don’t need a lot of fancy equipment, come to 
+    learn to use what you have effectively."
+  published: true
+- title: "Concert: Tom Smith"
+  datetime: Saturday 7:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Tom Smith
+  description: ""
+  published: true
+- title: "Bawdy Songs"
+  datetime: Saturday 10:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Anabel Graetz
+  - Merav Hoffman
+  description: "Themed open song circle. Sing or listen to songs of lust, sex, the joy 
+    of procreation: songs about sex that are fun, funny and wonderful are all welcome; 
+    violence and coercion are not, and the scatalogical is discouraged. Bawdiness in 
+    any orientation is welcome. A virtual sing like no other!"
+  published: true
+- title: "Open Filking"
+  datetime: Saturday 11:00PM
+  room: Participatory Music
+  programparticipants:
+  - Peggi Warner-Lalonde
+  description: "Unthemed open song circle. Come listen and/or make music in this 
+    unthemed song circle. We’ll go around the room giving everyone a chance to perform 
+    (play), request a song (pick), or pass. All types of music are welcome, but expect 
+    to hear a bunch of songs related to science fiction, fantasy, science, and fandom."
+  published: true
+- title: "Traditional Ballad Bingo"
+  datetime: Saturday 12:00PM
+  room: Participatory Music
+  programparticipants:
+  - Peggi Warner-Lalonde
+  description: "Themed open song circle, with a twist! Join the fun as attendees take 
+    turns performing traditional ballads for the assemblage. Listen carefully to mark your 
+    Ballad Bingo cards when you detect such classic tropes as drowning, pregnancy out of 
+    wedlock, or murder of a loved one. Web-based bingo cards will be provided.  Attendees 
+    are encouraged to lead songs, but you needn’t sing to play!"
+  published: true
+- title: "Concert: Tom Smith"
+  datetime: Sunday 1:00PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Tom Smith
+  description: ""
+  published: true
+- title: "Dead Dog Filk"
+  datetime: Sunday 4:00PM
+  room: Participatory Music
+  programparticipants: ''
+  description: "Haven’t gotten enough? Still looking to catch up with friends? Too tired 
+    to sign off? Come to the dead dog session! Music is encouraged, but structure is 
+    eschewed."
+  published: true
