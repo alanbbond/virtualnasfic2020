@@ -268,86 +268,13 @@
   description: But is there anything scarier than 2020? Horror inspired by the pandemic,
     quarantine, chaotic media narratives and other COVID-Effects.
   published: true
-- title: 'The Power of Love: The Intersection of Speculative Fiction and Romance (Panel)'
-  datetime: Saturday 7:00PM
-  room: ''
+- title: Big Hearts Award
+  datetime: Saturday 10:00 AM
+  room: "[Auditorium Odd](/auditorium)"
   moderators:
-  - Sarah Loch
+  - Ben Yalow
   programparticipants:
-  - Charles Payseur
-  - Eboni Dunbar
-  - Freya Marske
-  - Leigh Harlen
-  - Phoebe Barton
-  description: Speculative fiction and romance have always existed side by side in
-    the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
-    inform your romance plot (and vice versa) and how characterization tricks help
-    you generate a strong romantic A or B plot.
-  published: true
-- title: Steampunk Lessons for a Post-Fossil Fuel Future (Panel)
-  datetime: Saturday, 9:00-9:50pm
-  room: Olentangy
-  moderators:
-  - Cat Rambo
-  programparticipants:
-  - Bill Higgins
-  - Eileen Gunn
-  - Phoebe Barton
-  description: 'Join our delightful and multigenerational panel as they discuss: What
-    lessons can be learned from steampunk and ''old technology'' - what books or screen
-    stories would you take with you to learn how to thrive in a de-industrialized
-    world? What can be applied from steampunk when writing fiction set in the post-fossil
-    fuel age? '
-  published: true
-- title: 'The Technological Dreams of AfroFuturism  '
-  datetime: Sunday 11:00AM
-  room: Olentangy
-  moderators:
-  - Brandon Wilson
-  programparticipants:
-  - Dan Tres Omi
-  - Eboni Dunbar
-  - Oghenechovwe Donald Ekpeki
-  - Sheree Renée Thomas
-  description: 'From the cotton gin to extractive mining to facial recognition software
-    - breakthroughs in technology have often come at a heavy cost to Black communities
-    throughout the world. Will the liberation of Black minds and bodies depend on
-    more or less technology? What would it look like if technology truly served us
-    all? Drawing from examples in books, graphic novels and film, our group discuss
-    the technological dreams of AfroFuturism. '
-  published: true
-- title: The Legal Implications of Monster Hunting
-  datetime: Saturday 3:00PM
-  room: TBD
-  moderators:
-  - Misha Stone
-  programparticipants:
-  - Day Al-Mohamed
-  - Elsa Sjunneson
-  - Leigh Harlen
-  - Premee Mohamed
-  description: 'The Legal Implications of Monster Hunting: Discussing and analyzing
-    the implications of hunting vampires, demons, and other monsters in shows like
-    Buffy the Vampire Slayer, Supernatural, and Wynonna Earp. Should vampires have
-    due process? Can a monster hunter be liable if a demon''s host dies during an
-    exorcism? If it is murder to kill a monster, is being chosen or cursed to do so
-    a plausible defense? Could ghosts have property rights to the houses they haunt
-    if they lived there first? If they do, is expelling them an unlawful eviction?'
-  published: true
-- title: 'Deconstructing the Novella  '
-  datetime: 'Saturday, 4:00pm '
-  room: ''
-  moderators:
-  - dave ring
-  programparticipants:
-  - Aliette de Bodard
-  - Eboni Dunbar
-  - L.D. Lewis
-  - Nino Cipri
-  description: Authors Cipri, de Bodard, Dunbar and Lewis discuss their own novellas
-    as well as other celebrated titles, highlight some of the publishers putting them
-    out, dig into some craft questions, and pull apart a few of the novella's tricks
-    and challenges.
+  - Sue & Steve Francis
   published: true
 - title: Surveillance & Society in SF
   datetime: Saturday 10:00 AM
@@ -355,7 +282,7 @@
   programparticipants:
   - Dr. Nakeema Stefflbauer
   - Gadi Evron
-  published: false
+  published: true
 - title: COVID-FX Writing & Reading About Pandemics During a Pandemic
   datetime: Saturday 10:00 AM
   room: "[Olentangy Even](/olentangy-room)"
@@ -367,13 +294,7 @@
   - Lucy M. Snyder
   description: 'Panelists discuss pandemic stories they have written and are reading
     during COVID-times. Which begs the question: Is doing that even a good idea?'
-  published: false
-- title: Live Tiara Demonstration
-  datetime: Saturday 11:00 AM
-  room: "[Auditorium Odd](/auditorium)"
-  moderators:
-  - Sara Felix
-  published: false
+  published: true
 - title: 'Worldbuilding: Rituals and Symbols'
   datetime: Saturday 11:00 AM
   room: "[Scioto Odd](/scioto-room)"
@@ -383,28 +304,19 @@
   - Sherwood Smith
   - L.D. Lewis
   published: false
-- title: The Future of Anthologies
-  datetime: Saturday 11:00 AM
-  room: "[Olentangy Odd](/olentangy-room)"
-  programparticipants:
-  - Beth Meacham
-  - Dominik Parisien
-  - Lucy A. Snyder
-  - Neil Clarke
-  description: Our highly-regarded panel of editors discuss current trends in and
-    future of anthologies.
-  published: false
 - title: 'Women of a Certain Age: Writing Older Women Protagonists'
   datetime: Saturday 12:00 PM
   room: "[Scioto Even](/scioto-room)"
   programparticipants:
   - Andrea Hairston
+  - Farah Mendlesohn
+  - Gillian Polack
   - Jennifer Blackstream
   description: What is 'older' in SF/F fiction? Examples of older heroines and protagonists
     -- how does changing the age of the heroine change the story? How do older heroines
     change in contrast to their younger counterparts? What are the advantages of having
     an older heroine?
-  published: false
+  published: true
 - title: The Ever Expanding Universe of Space Operas
   datetime: Saturday 12:00 PM
   room: "[Olentangy Even](/olentangy-room)"
@@ -422,11 +334,11 @@
     sociopolitical realities and concerns, and broader personal and cultural interests
     and narratives.  '
   published: false
-- title: Favorite Queer Fiction
+- title: Favorite Queer SF/F Fiction
   datetime: Saturday 1:00 PM
   room: "[Scioto Odd](/scioto-room)"
-  description: Panelists review their favorite YA fiction.
-  published: false
+  description: Panelists review their favorite queer Youth/YA fiction.
+  published: true
 - title: Today in Audio Dramas!
   datetime: Saturday 1:00 PM
   room: "[Olentangy Odd](/olentangy-room)"
@@ -455,7 +367,6 @@
   - Cheryl Morgan
   programparticipants:
   - Alma Alexander
-  - Bogi Takács
   - Vikram Paralkar
   description: Our panelists, all with roots in two or more separate cultures -- look
     at the ways having dual culture and language has guided their worldbuilding and
@@ -466,8 +377,25 @@
   room: "[Scioto Odd](/scioto-room)"
   moderators:
   - Anne Gray
-  - Bob Roehm
-  published: false
+  published: true
+- title: The Legal Implications of Monster Hunting
+  datetime: Saturday 3:00PM
+  room: Scioto
+  moderators:
+  - Misha Stone
+  programparticipants:
+  - Day Al-Mohamed
+  - Elsa Sjunneson
+  - Leigh Harlen
+  - Premee Mohamed
+  description: 'The Legal Implications of Monster Hunting: Discussing and analyzing
+    the implications of hunting vampires, demons, and other monsters in shows like
+    Buffy the Vampire Slayer, Supernatural, and Wynonna Earp. Should vampires have
+    due process? Can a monster hunter be liable if a demon''s host dies during an
+    exorcism? If it is murder to kill a monster, is being chosen or cursed to do so
+    a plausible defense? Could ghosts have property rights to the houses they haunt
+    if they lived there first? If they do, is expelling them an unlawful eviction?'
+  published: true
 - title: 'Common Threads: Game Writers & Designers'
   datetime: Saturday 4:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -479,6 +407,21 @@
   description: Game writers and designers from several disciplines talk about the
     common threads of what they do, irrespective of media and form.
   published: false
+- title: 'Deconstructing the Novella  '
+  datetime: 'Saturday, 4:00pm '
+  room: ''
+  moderators:
+  - dave ring
+  programparticipants:
+  - Aliette de Bodard
+  - Eboni Dunbar
+  - L.D. Lewis
+  - Nino Cipri
+  description: Authors Cipri, de Bodard, Dunbar and Lewis discuss their own novellas
+    as well as other celebrated titles, highlight some of the publishers putting them
+    out, dig into some craft questions, and pull apart a few of the novella's tricks
+    and challenges.
+  published: true
 - title: Information, Please!
   datetime: Saturday 5:00pm
   room: "[Scioto Odd](/scioto-room)"
@@ -486,7 +429,7 @@
   - Steven H Silver
   description: A panel of four experts are asked questions and can respond individually
     or in discussion. Can you stump the experts?
-  published: false
+  published: true
   programparticipants:
   - Alec Nevala-Lee
   - Chris Garcia
@@ -496,10 +439,11 @@
   room: "[Olentangy Odd](/olentangy-room)"
   programparticipants:
   - Ada Palmer
+  - Andrea Hairston
   - Malka Older
   description: Our panel draw from the wide range of speculative and science fiction
     to offer up their new visions of leadership and innovations in governance.
-  published: false
+  published: true
 - title: Feminist Fables & Fairy Tales
   datetime: Saturday 6:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -508,6 +452,8 @@
   - Jim C. Hines
   - Valerie Estelle Frankel
   published: true
+  moderators:
+  - Sherwood Smith
 - title: 'COVID-FX: Film & Television Industries'
   datetime: Saturday 6:00 PM
   room: "[Olentangy Even](/olentangy-room)"
@@ -522,7 +468,7 @@
     limitations, how do those decisions impact the creatives within their ranks -
     and the culture of storytelling? What will be different, and what opportunities
     lie ahead?'
-  published: false
+  published: true
 - title: 'Myths & Legends: Culture Shifts & Societal Transformation'
   datetime: Saturday 7:00 PM
   room: "[Scioto Odd](/scioto-room)"
@@ -534,7 +480,23 @@
   description: 'Our cross-genre and cross-discipline panel shares their favorite stories
     of great shifts and transformation. From resistance and collapse to evolution
     and re-emergence: it is the stuff of myths and legends!'
-  published: false
+  published: true
+- title: 'The Power of Love: The Intersection of Speculative Fiction and Romance'
+  datetime: Saturday 7:00PM
+  room: ''
+  moderators:
+  - Sarah Loch
+  programparticipants:
+  - Charles Payseur
+  - Eboni Dunbar
+  - Freya Marske
+  - Leigh Harlen
+  - Phoebe Barton
+  description: Speculative fiction and romance have always existed side by side in
+    the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
+    inform your romance plot (and vice versa) and how characterization tricks help
+    you generate a strong romantic A or B plot.
+  published: true
 - title: Writers Helping Writers
   datetime: Saturday 8:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -565,18 +527,21 @@
   description: 'A mixed panel of writers and artists discuss the challenges of making
     art and stories during a pandemic, as well as strategies for managing health and
     being active creators. '
-  published: false
-- title: The Landscape of Jewish Science Fiction & Fantasy
-  datetime: Sunday 11:00 AM
-  room: "[Scioto Odd](/scioto-room)"
-  moderator:
-  - Isabel Schechter
+  published: true
+- title: Steampunk Lessons for a Post-Fossil Fuel Future (Panel)
+  datetime: Saturday, 9:00-9:50pm
+  room: Olentangy
+  moderators:
+  - Cat Rambo
   programparticipants:
-  - Daniel Kimmel
-  - Gillian Polack
-  - Steven H Silver
-  - Valerie Estelle Frankel
-  description: A panel of Jewish writers and creators from across the SF/F universe...
+  - Bill Higgins
+  - Eileen Gunn
+  - Phoebe Barton
+  description: 'Join our delightful and multigenerational panel as they discuss: What
+    lessons can be learned from steampunk and ''old technology'' - what books or screen
+    stories would you take with you to learn how to thrive in a de-industrialized
+    world? What can be applied from steampunk when writing fiction set in the post-fossil
+    fuel age? '
   published: true
 - title: Fanzines Panel
   datetime: Saturday 10:00 PM
@@ -595,10 +560,37 @@
   - Chris "Silver Spook" Miller
   - Foz Meadows","With calls to Defund the Police and conversations of prison abolition
     entering public consciousness
-  - our panelists discuss alternative takes on  traditional crime and punishment.
-    What gets called a crime? Who or what entities enforce the law?  What does justice
-    and restitution look like -- and what can be re-imagined?"
+  - Premee Mohamed
+  published: true
+- title: Live Tiara Demonstration
+  datetime: Saturday 11:00 AM
+  room: "[Auditorium Odd](/auditorium)"
+  moderators:
+  - Sara Felix
   published: false
+- title: The Future of Anthologies
+  datetime: Saturday 11:00 AM
+  room: "[Olentangy Odd](/olentangy-room)"
+  programparticipants:
+  - Beth Meacham
+  - Dominik Parisien
+  - Lucy A. Snyder
+  - Neil Clarke
+  description: Our highly-regarded panel of editors discuss current trends in and
+    future of anthologies.
+  published: false
+- title: The Landscape of Jewish Science Fiction & Fantasy
+  datetime: Sunday 11:00 AM
+  room: "[Scioto Odd](/scioto-room)"
+  moderator:
+  - Isabel Schechter
+  programparticipants:
+  - Daniel Kimmel
+  - Gillian Polack
+  - Steven H Silver
+  - Valerie Estelle Frankel
+  description: A panel of Jewish writers and creators from across the SF/F universe...
+  published: true
 - title: Researching the Golden Age
   datetime: Sunday 10:00 AM
   room: "[Scioto Even](/scioto-room)"
@@ -609,6 +601,23 @@
     talk about the joys of non fiction research and writing, and the perils of writing
     about Big Names during a zeitgeist shift. '
   published: false
+- title: 'The Technological Dreams of AfroFuturism  '
+  datetime: Sunday 11:00AM
+  room: Olentangy
+  moderators:
+  - Brandon Wilson
+  programparticipants:
+  - Dan Tres Omi
+  - Eboni Dunbar
+  - Oghenechovwe Donald Ekpeki
+  - Sheree Renée Thomas
+  description: 'From the cotton gin to extractive mining to facial recognition software
+    - breakthroughs in technology have often come at a heavy cost to Black communities
+    throughout the world. Will the liberation of Black minds and bodies depend on
+    more or less technology? What would it look like if technology truly served us
+    all? Drawing from examples in books, graphic novels and film, our group discuss
+    the technological dreams of AfroFuturism. '
+  published: true
 - title: Writing About Space
   datetime: Sunday 10:00 AM
   room: "[Olentangy Even](/olentangy-room)"
@@ -682,11 +691,3 @@
   programparticipants:
   - Jamar Nicholas
   description: Panel of comic book artists, writers, and makers.
-- title: Big Hearts Award
-  datetime: Saturday 10:00 AM
-  room: "[Auditorium Odd](/auditorium)"
-  moderators:
-  - Ben Yalow
-  programparticipants:
-  - Sue & Steve Francis
-  published: true
