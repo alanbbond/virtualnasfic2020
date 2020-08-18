@@ -574,11 +574,8 @@
 - title: Writers Helping Writers
   datetime: Saturday 8:00 PM
   room: "[Scioto](/scioto-room)"
-  moderators:
-  - Steven Gould
-  programparticipants:
-  - dave ring
-  - Eileen Gunn
+  moderators: " "
+  programparticipants: Christine Taylor-Butler,dave ring,Eileen Gunn,Steven Gould
   description: Writers helping writers (paying forward) and its role in increasing
     dIversity in the profession (and possibly its role in keeping marginalized groups
     out as well.) How who we choose to associate with, assist, promote, and read can
@@ -586,7 +583,7 @@
     and cultures represented in that writing. Who held out their hand to you when
     you were starting out? How do you decide who you hold your hand out to now that
     you’re established?
-  published: false
+  published: true
 - title: 'Weathering the Storm: Creating in Times of Trouble'
   datetime: Saturday 8:00 PM
   room: "[Olentangy](/olentangy-room)"
