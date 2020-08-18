@@ -8,6 +8,8 @@ order: 4
 ---
 This schedule is still subject to change. We have asked program participants to get back to us by the end of the day, Tuesday August 18, with any modifications they need.
 
+On the day of the convention, you will see additional pages on this website called "rooms", containing embedded streams and Discord channels. Each listing on this page will then have a link to its room.
+
 {% include jump_to_event.html content=site.data.schedule %}
 
 # Events
