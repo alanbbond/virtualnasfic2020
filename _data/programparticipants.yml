@@ -267,6 +267,25 @@
   discord: ''
   guest_of_honor: false
   patreon: ''
+- name: Caitlin Starling
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: 'Caitlin Starling is an award-winning writer of horror-tinged speculative
+    fiction. Her novel _The Luminous Dead_ won the LOHF Best Debut award, and was
+    nominated for both a Locus and a Bram Stoker award. She has two gothic tales forthcoming
+    - Yellow Jessamine (Neon Hemlock 2020) and The Death of Jane Lawrence (St Martin’s
+    Press 2021) - and has a novella in _Vampire: The Masquerade: Walk Among Us_. Her
+    nonfiction has appeared in Nightmare and Uncanny. Caitlin also works in narrative
+    design, and has been paid to invent body parts.  '
+  website1: "[www.caitlinstarling.com]()"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: 'see_starling '
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Cat Rambo
   role: ''
   filename: cat-rambo.png
