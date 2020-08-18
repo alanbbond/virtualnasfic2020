@@ -633,7 +633,7 @@
   description: 'Our panel of women creators/directors/publishers discuss the trials
     and victories of running organizations, magazines, publishing companies and other
     SF/F businesses. '
-  published: true
+  published: false
 - title: 'Predicting the Post-Apocalypse: How Will We Be Saved?'
   datetime: Sunday 12:00 PM
   room: "[Olentangy Even](/olentangy-room)"
