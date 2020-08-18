@@ -29,9 +29,9 @@
     music including the Viking mythology cycle "Sundown: Whispers of Ragnarok," and
     performs with the group Sassafrass. She studies anime/manga, especially Osamu
     Tezuka, post-WWII manga and feminist manga, and consults for anime and manga publishers.
-    She blogs at [ExUrbe.com]().'
+    She blogs at [ExUrbe.com](http://www.exurbe.com/).'
   website1: ''
-  website2: "[adapalmer.com]()"
+  website2: "[adapalmer.com](https://adapalmer.com/)"
   website3: "[Censorship and Information Control During Information Revolutions](https://voices.uchicago.edu/censorship)"
   facebook: ''
   twitter: Ada_Palmer
@@ -172,7 +172,7 @@
     Foundation, and Ford Foundation. In her spare time, Andrea is a Professor of Theatre
     and Africana Studies at Smith College. _Master of Poisons_ will be out on Sept.
     8, 2020 from Tor.com.'
-  website1: "[AndreaHairston.com]()"
+  website1: "[AndreaHairston.com](http://andreahairston.com/)"
   website2: ''
   website3: ''
   facebook: ''
@@ -234,14 +234,14 @@
     the Hugo award for Best Fan Writer, and a finalist for other awards. Eir debut
     poetry collection Algorithmic Shapeshifting and eir debut short story collection
     The Trans Space Octopus Congregation were both released last year. You can find
-    Bogi talking about books at [Bogi Reads the World]() and on various social media
-    as bogiperson.'
+    Bogi talking about books at [Bogi Reads the World](http://www.bogireadstheworld.com)
+    and on various social media as bogiperson.'
   website1: "[www.bogireadstheworld.com](http://www.bogireadstheworld.com)"
   website2: ''
   website3: " "
   facebook: ''
-  twitter: ''
-  instagram: ''
+  twitter: 'bogiperson'
+  instagram: 'bogiperson'
   discord: ''
   patreon: bogiperson
 - name: Brandon Wilson
@@ -277,7 +277,7 @@
     Press 2021) - and has a novella in _Vampire: The Masquerade: Walk Among Us_. Her
     nonfiction has appeared in Nightmare and Uncanny. Caitlin also works in narrative
     design, and has been paid to invent body parts.  '
-  website1: "[www.caitlinstarling.com]()"
+  website1: "[www.CaitlinStarling.com](https://www.caitlinstarling.com)"
   website2: ''
   website3: ''
   facebook: ''
@@ -327,7 +327,7 @@
   filename: "/assets/images/cheryl-morgan.jpg"
   description: Cheryl Morgan is a writer, editor and owner of [Wizard’s Tower Press](https://wizardstowerpress.com/
     "Wizard's Tower Press"). She has won four Hugo Awards. You can find her reviews
-    in [Salon Futura](https://www.salonfutura.net/ "Salon Futura"). Cheryl has been
+    in [Salon Futura](https://www.salonfutura.net/). Cheryl has been
     a Guest of Honour at conventions and conferences in Finland, Croatia and Austria.
   website1: '[Cheryl''s Mewsings](https://www.cheryl-morgan.com/)'
   website2: '[Wizard''s Tower Press](https://wizardstowerpress.com/ "Wizard''s Tower
@@ -395,7 +395,7 @@
   filename: "/assets/images/dan-tresomi.jpg"
   description: Dan Tres Omi is an educator, Hip Hop diplomat, Capoeira instructor,
     and pod-caster out of Dayton, Ohio.
-  website1: '[Soundcloud](https://soundcloud.com/dantresomi "Soundcloud")'
+  website1: '[Soundcloud](https://soundcloud.com/dantresomi)'
   website2: ''
   website3: ''
   facebook: ''
@@ -451,8 +451,7 @@
     American Library Association for several prizes, and has won the SPACE prize for
     best graphic novel twice. Dara lives in Columbus, Ohio with his lovely wife and
     their two dogs: a cool corgi and a multifarious mutt.'
-  website1: '[Dara Naraghi''s website](http://www.daranaraghi.com "Dara Naraghi''s
-    website")'
+  website1: '[Dara Naraghi''s website](http://www.daranaraghi.com)'
   website2: ''
   website3: ''
   facebook: ''
@@ -490,7 +489,7 @@
     film, _The Invalid Corps_, will screen on Maryland Public television this fall.
     When not creating, Al-Mohamed works as a policy advisor with the federal government.
     She lives in Washington DC with her wife and guide dog.
-  website1: '[www.DayAlMohamed.com](http://www.DayAlMohamed.com "www.DayAlMohamed.com")'
+  website1: '[www.DayAlMohamed.com](http://www.DayAlMohamed.com)'
   website2: "[www.InvalidCorpsFilm.com](https://www.InvalidCorpsFilm.com)"
   website3: ''
   facebook: ''
@@ -506,8 +505,7 @@
     Discon 2 in 1974. He joined Harry, the Canton, Ohio SF book club around 1981 and
     married another fan, Mary Piero, in 1983. Doug lives in Ohio and has continued
     to read SF, to go to cons and to Harry, and to remain happily married.
-  website1: '[Harry SF & Fantasy Club](http://www.harrysf.org "Harry SF & Fantasy
-    Club")'
+  website1: '[Harry SF & Fantasy Club](http://www.harrysf.org)'
   website2: ''
   website3: ''
   facebook: ''
@@ -759,7 +757,7 @@
     and paranormal romance. She is amazed and grateful to have made a writing career
     out of a Master’s degree in Psychology, hours of couch-detecting watching Miss
     Fisher’s Murder Mysteries, and endless research into mythology and fairy tales.
-  website1: '[JenniferBlackstream.com](https://www.jenniferblackstream.com "JenniferBlackstream.com")'
+  website1: '[JenniferBlackstream.com](https://www.jenniferblackstream.com)'
   website2: ''
   website3: ''
   facebook: JenniferBlackstream8675309
@@ -772,12 +770,13 @@
   role: ''
   filename: "/assets/images/jeremy-holcomb.png"
   description: Jeremy Holcomb is a game system designer focusing on board, card and
-    collectable card games. He has designed and published over 20 board games, including
-    [The Duke](https://www.catalystgamelabs.com/casual-games/the-duke/ "The Duke")
-    (Catalyst Games), [Timestreams](https://boardgamegeek.com/image/398753/timestreams-deck-1-stone-age-vs-future-tech
-    "Timestreams") (Bucephalus Games), and [Anachronism](https://boardgamegeek.com/boardgame/14038/anachronism
-    "Anachronism") (TriKing Games). Holcomb’s [The White Box](https://dev1.atlas-games.com/product_tables/AG2903/
-    "The White Box") (Atlas Games) provides a tool kit for new designers looking into
+    collectable card games. He has designed and published over 20 board games, 
+    including [The Duke](https://www.catalystgamelabs.com/casual-games/the-duke/)
+    (Catalyst Games), [Timestreams](https://boardgamegeek.com/image/398753/timestreams-deck-1-stone-age-vs-future-tech) 
+    (Bucephalus Games),  
+    and [Anachronism](https://boardgamegeek.com/boardgame/14038/anachronism) (TriKing 
+    Games). Holcomb’s [The White Box](https://dev1.atlas-games.com/product_tables/AG2903/) 
+    (Atlas Games) provides a tool kit for new designers looking into
     making board games, and he has been teaching game design for over a decade via
     the ASUW experimental college and DigiPen Institute of Technology, where he now
     serves as the program director for the Bachelor of Arts in Game Design program.
@@ -830,8 +829,7 @@
     credits in small print journals and podcasts, including Pseudopod, EscapePod,
     The Three-Lobed Burning Eye and The Red Penny Papers. John has a short fiction
     podcast called Tripleplus Ungood, available on iTunes and Spotify.
-  website1: '[Triple Plus Ungood Podcast](Tripleplus Ungood John Medaille A sci fi
-    and horror fiction podcast. "Triple Plus Ungood Podcast")'
+  website1: '[Triple Plus Ungood Podcast](https://www.buzzsprout.com/974542)'
   website2: ''
   website3: ''
   facebook: ''
@@ -846,7 +844,7 @@
   description: John (@Wiswell) is a disabled writer who lives where New York keeps
     all its trees. He has been published in Uncanny Magazine, Nature Magazine, and
     Fireside Magazine, among others.
-  website1: '[http://johnwiswell.blogspot.com](http://johnwiswell.blogspot.com "http://johnwiswell.blogspot.com")'
+  website1: '[John Wiswell blog](http://johnwiswell.blogspot.com)'
   website2: ''
   website3: ''
   facebook: ''
@@ -942,7 +940,7 @@
     includes appearances in FIYAH, PodCastle, Strange Horizons, Anathema: Spec from
     the Margins, and Fireside Magazine, among others. She lives in Georgia with her
     coffee habit and an impressive Funko Pop! collection.'
-  website1: '[L.D. Lewis Writes](https://ldlewiswrites.com "L.D. Lewis Writes")'
+  website1: '[L.D. Lewis Writes](https://ldlewiswrites.com)'
   website2: ''
   website3: ''
   facebook: ''
@@ -1254,7 +1252,7 @@
     _Invictus Quarterly_ and _Dominion: an Anthology of Speculative Fiction from Africa
     and the African Diaspora_. He is a member of the African Speculative Fiction Society,
     Codex, the HWA, the BSFA, and the SFWA.'
-  website1: '[ekpeki.com](https://ekpeki.com/ "Oghenechovwe Donald Ekpeki website")'
+  website1: '[Oghenechovwe Donald Ekpeki website](https://ekpeki.com/)'
   website2: ''
   website3: ''
   facebook: penprince
