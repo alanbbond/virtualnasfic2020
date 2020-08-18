@@ -24,7 +24,12 @@
     </div>
     {% if dealer.image_filenames.size > 0 %}
     {% for file in dealer.image_filenames %}
-    <div class="gallery-image" style="background-image: url('{{ file }}')">
+    <div
+      class="gallery-image"
+      role="img"
+      aria-label="{{dealer.what_is_sold}}} of {{dealer.name}}."
+      style="background-image: url('{{ file }}')"
+    >
     </div>
     {% endfor %}
     {% endif %}
