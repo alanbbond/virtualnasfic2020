@@ -6,6 +6,9 @@ public: true
 order: 4
 
 ---
+
+{% include jump_to_event.html content=site.data.schedule %}
+
 # Events
 
 {% assign days = "friday,saturday,sunday" | split: "," %}

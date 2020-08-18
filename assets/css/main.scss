@@ -286,6 +286,10 @@ p.jump {
   margin: 0.05rem;
   border-radius: 0.5rem;
   border: 0.15rem solid $very-light;
+  max-width: 37rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   
   &.to-top {
     position: sticky;
@@ -317,6 +321,7 @@ p.jump {
 }
 
 .schedule-listing {
+  padding-top: 1rem;
 
   h2 {
     font-size: 1.8rem;
