@@ -1,4 +1,15 @@
 ---
+- title: Writing Real History Into Fictional Pasts
+  datetime: Friday 12:00PM
+  room: "[Scioto Even](/scioto-room)"
+  programparticipants:
+  - Alma Alexander
+  - Eric Flint
+  - Gillian Polack
+  - Michael Grossberg
+  description: Historical fiction writers discuss approaches and techniques for writing
+    major events of the past into stories.
+  published: true
 - title: 'Youth & YA Fiction: Who''s Reading Who?'
   datetime: Sunday 11:00 AM
   room: "[Scioto Odd](/scioto-room)"
@@ -12,50 +23,50 @@
   description: What do trends in SF/F youth and young adult fiction tell us about
     the values and perspectives of Gen Z?
   published: true
-- title: The Legal Implications of Monster Hunting
-  datetime: Saturday, Afternoon
-  room: TBD
+- title: 'COVID-FX: Staying Connected'
+  datetime: Friday 1:00PM
+  room: "[Scioto Odd](/scioto-room)"
   moderators:
-  - Misha Stone
+  - Walter Parker
   programparticipants:
-  - Day Al-Mohamed
-  - Elsa Sjunneson
-  - Leigh Harlen
-  - Premee Mohamed
-  description: 'The Legal Implications of Monster Hunting: Discussing and analyzing
-    the implications of hunting vampires, demons, and other monsters in shows like
-    Buffy the Vampire Slayer, Supernatural, and Wynonna Earp. Should vampires have
-    due process? Can a monster hunter be liable if a demon''s host dies during an
-    exorcism? If it is murder to kill a monster, is being chosen or cursed to do so
-    a plausible defense? Could ghosts have property rights to the houses they haunt
-    if they lived there first? If they do, is expelling them an unlawful eviction?'
+  - Alison Scott
+  - Ben Yalow
+  - Doug Piero Carey
+  - Steven H Silver
+  description: How are local SF/F clubs and fan communities staying connected during
+    COVID-19? What's working, what's not, what have we learned and what has yet to
+    be tried?
   published: true
-- title: 'SF/F Artists Cover Art '
-  datetime: Friday, 6:00-6:50pm
-  room: Scioto
-  moderators: ''
+- title: Alt & Self Publishers Panel
+  datetime: Friday 1:00 PM
+  room: "[Olentangy Odd](/olentangy-room)"
   programparticipants:
-  - Stephanie Law
-  - Amanda Makepeace
-  - Rachel Quinlan
-  - Ray VanTilburg
-  description: ''
-  published: true
-- title: 'Deconstructing the Novella  '
-  datetime: 'Saturday, 4:00pm '
-  room: ''
-  moderators:
-  - dave ring
+  - Sherwood Smith
+  - Valerie Estelle Frankel
+  published: false
+- title: How Game Titles Work
+  datetime: Friday 2:00PM
+  room: "[Scioto Even](/scioto-room)"
   programparticipants:
-  - Aliette de Bodard
-  - Eboni Dunbar
-  - L.D. Lewis
-  - Nino Cipri
-  description: Authors Cipri, de Bodard, Dunbar and Lewis discuss their own novellas
-    as well as other celebrated titles, highlight some of the publishers putting them
-    out, dig into some craft questions, and pull apart a few of the novella's tricks
-    and challenges.
+  - Leonard Richardson
+  description: In 2009, while writing a novel about alien video games, Leonard Richardson
+    uncovered the rules of rhetoric and syntax underlying the titles developers give
+    their games. By following these rules, he was able to create dozens of realistic-sounding
+    fictional games from distinct alien cultures. Over the past ten years, video game
+    developers in the real world have subverted and played with these rules, expanding
+    what a game's title can say about the experience of play. In this presentation,
+    Leonard goes over the rules and talks about how they've changed over time.
   published: true
+- title: 'Isaac Asimov at 100: Our Favorites'
+  datetime: Friday 12:00PM
+  room: "[Olentangy Even](/olentangy-room)"
+  programparticipants:
+  - Alec Nevala-Lee
+  - Bill Higgins
+  description: Isaac Asimov, born 100 years ago, penned (well, typed) an immense number
+    of books, both fiction and nonfiction. Join our panel of Asimov fans as they share
+    their favorites.
+  published: false
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
   datetime: Saturday afternoon
@@ -99,110 +110,8 @@
     Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton,
     Jack Williamson, Wilson and Robert Anton Wilson.)'
   published: true
-- title: 'The Power of Love: The Intersection of Speculative Fiction and Romance (Panel)'
-  datetime: Saturday, 7:00-7:50pm
-  room: ''
-  moderators:
-  - Sarah Loch
-  programparticipants:
-  - Charles Payseur
-  - Eboni Dunbar
-  - Freya Marske
-  - Leigh Harlen
-  - Phoebe Barton
-  description: Speculative fiction and romance have always existed side by side in
-    the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
-    inform your romance plot (and vice versa) and how characterization tricks help
-    you generate a strong romantic A or B plot.
-  published: true
-- title: Steampunk Lessons for a Post-Fossil Fuel Future (Panel)
-  datetime: Saturday, 9:00-9:50pm
-  room: Olentangy
-  moderators:
-  - Cat Rambo
-  programparticipants:
-  - Bill Higgins
-  - Eileen Gunn
-  - Phoebe Barton
-  description: 'Join our delightful and multigenerational panel as they discuss: What
-    lessons can be learned from steampunk and ''old technology'' - what books or screen
-    stories would you take with you to learn how to thrive in a de-industrialized
-    world? What can be applied from steampunk when writing fiction set in the post-fossil
-    fuel age? '
-  published: true
-- title: The Technological Dreams of AfroFuturism (Panel)
-  datetime: Sunday 11:00-11:50am
-  room: Olentangy
-  moderators:
-  - Brandon Wilson
-  programparticipants:
-  - Dan Tres Omi
-  - Eboni Dunbar
-  - Oghenechovwe Donald Ekpeki
-  - Sheree Renée Thomas
-  description: 'From the cotton gin to extractive mining to facial recognition software
-    - breakthroughs in technology have often come at a heavy cost to Black communities
-    throughout the world. Will the liberation of Black minds and bodies depend on
-    more or less technology? What would it look like if technology truly served us
-    all? Drawing from examples in books, graphic novels and film, our group discuss
-    the technological dreams of AfroFuturism. '
-  published: true
-- title: Writing Real History Into Fictional Pasts
-  datetime: Friday 12:00 PM
-  room: "[Scioto Even](/scioto-room)"
-  programparticipants:
-  - Alma Alexander
-  - Eric Flint
-  - Gillian Polack
-  - Michael Grossberg
-  description: Historical fiction writers discuss approaches and techniques for writing
-    major events of the past into stories.
-  published: true
-- title: 'COVID-FX: Staying Connected'
-  datetime: Friday 1:00 PM
-  room: "[Scioto Odd](/scioto-room)"
-  moderators:
-  - Walter Parker
-  programparticipants:
-  - Alison Scott
-  - Ben Yalow
-  - Doug Piero Carey
-  - Steven H Silver
-  description: How are local SF/F clubs and fan communities staying connected during
-    COVID-19? What's working, what's not, what have we learned and what has yet to
-    be tried?
-  published: false
-- title: Alt & Self Publishers Panel
-  datetime: Friday 1:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
-  programparticipants:
-  - Sherwood Smith
-  - Valerie Estelle Frankel
-  published: false
-- title: How Game Titles Work
-  datetime: Friday 2:00 PM
-  room: "[Scioto Even](/scioto-room)"
-  programparticipants:
-  - Leonard Richardson
-  description: In 2009, while writing a novel about alien video games, Leonard Richardson
-    uncovered the rules of rhetoric and syntax underlying the titles developers give
-    their games. By following these rules, he was able to create dozens of realistic-sounding
-    fictional games from distinct alien cultures. Over the past ten years, video game
-    developers in the real world have subverted and played with these rules, expanding
-    what a game's title can say about the experience of play. In this presentation,
-    Leonard goes over the rules and talks about how they've changed over time.
-  published: true
-- title: 'Isaac Asimov at 100: Our Favorites'
-  datetime: Friday 12:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
-  programparticipants:
-  - Bill Higgins
-  description: Isaac Asimov, born 100 years ago, penned (well, typed) an immense number
-    of books, both fiction and nonfiction. Join our panel of Asimov fans as they share
-    their favorites.
-  published: false
-- title: 'Nuts & Bolts: Running a Non Profit Lit Organization'
-  datetime: Friday 4:00 PM
+- title: 'Nuts & Bolts: Running a Non-Profit Lit Organization'
+  datetime: Friday 4:00PM
   room: "[Scioto Even](/scioto-room)"
   programparticipants:
   - Mary Anne Mohanraj
@@ -249,16 +158,30 @@
     Join us as we discuss the future of writing urban fantasy and how quarantine will
     impact everything from world building and characters to plot.
   published: false
+- title: 'SF/F Artists Talk Art '
+  datetime: Friday 6:00
+  room: Scioto
+  moderators: ''
+  programparticipants:
+  - Stephanie Law
+  - Amanda Makepeace
+  - Rachel Quinlan
+  - Ray VanTilburg
+  description: ''
+  published: true
 - title: Weekend Science Update
-  datetime: Friday 6:00 PM
+  datetime: Friday 6:00PM
   room: "[Olentangy Even](/olentangy-room)"
   programparticipants:
   - Bill Thomasson
+  - Bogi Takács
   - Jude-Marie Green
+  - Premee Mohamed
+  - Wendy Delmater
   description: Our panel of scientists (and science-adjacents) take turns sharing
     news (and fake news) on their favorite areas of expertise (or not). Prepare to
     be informed (and entertained)!
-  published: false
+  published: true
 - title: Librarians, Booksellers, Collectors, Oh My!
   datetime: Friday 7:00 PM
   room: "[Scioto Odd](/scioto-room)"
@@ -296,7 +219,7 @@
   description: Our panel of Black, Indigenous People of Color have a roundtable about
     the ways they've used their work to shed light on social injustices and the need
     for systemic change.
-  published: false
+  published: true
 - title: RPGs
   datetime: Friday 9:00 PM
   room: "[Scioto Odd](/scioto-room)"
@@ -306,7 +229,7 @@
   - J Holtham
   - Victor Raymond
   - Whitney "Strix" Beltrán
-  published: false
+  published: true
 - title: 'Lessons Not Learned: The Future of Dystopian & Utopian Stories'
   datetime: Friday 9:00 PM
   room: "[Olentangy Odd](/olentangy-room)"
@@ -322,7 +245,7 @@
     world look like in a post-COVID, post-Trump, melting-polar caps world? Can we
     ever move back to utopianism? Should we do away with utopian and dystopian scenarios
     altogether?'
-  published: false
+  published: true
 - title: Fantasy for YA vs Aduts
   datetime: Friday 10:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -333,17 +256,99 @@
   - Sherwood Smith
   description: Panel of fantasy writers and afficionados explore the ways fantasy
     stories differ depending on the age market.
-  published: false
+  published: true
 - title: 'COVID-FX: Horror Beyond 2020'
   datetime: Friday
   room: "[Olentangy Even](/olentangy-room)"
   programparticipants:
+  - Jordan Kurella
   - Leigh Harlen
   - Lucy Snyder
   - Premee Mohamed
   description: But is there anything scarier than 2020? Horror inspired by the pandemic,
     quarantine, chaotic media narratives and other COVID-Effects.
-  published: false
+  published: true
+- title: 'The Power of Love: The Intersection of Speculative Fiction and Romance (Panel)'
+  datetime: Saturday 7:00PM
+  room: ''
+  moderators:
+  - Sarah Loch
+  programparticipants:
+  - Charles Payseur
+  - Eboni Dunbar
+  - Freya Marske
+  - Leigh Harlen
+  - Phoebe Barton
+  description: Speculative fiction and romance have always existed side by side in
+    the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
+    inform your romance plot (and vice versa) and how characterization tricks help
+    you generate a strong romantic A or B plot.
+  published: true
+- title: Steampunk Lessons for a Post-Fossil Fuel Future (Panel)
+  datetime: Saturday, 9:00-9:50pm
+  room: Olentangy
+  moderators:
+  - Cat Rambo
+  programparticipants:
+  - Bill Higgins
+  - Eileen Gunn
+  - Phoebe Barton
+  description: 'Join our delightful and multigenerational panel as they discuss: What
+    lessons can be learned from steampunk and ''old technology'' - what books or screen
+    stories would you take with you to learn how to thrive in a de-industrialized
+    world? What can be applied from steampunk when writing fiction set in the post-fossil
+    fuel age? '
+  published: true
+- title: 'The Technological Dreams of AfroFuturism  '
+  datetime: Sunday 11:00AM
+  room: Olentangy
+  moderators:
+  - Brandon Wilson
+  programparticipants:
+  - Dan Tres Omi
+  - Eboni Dunbar
+  - Oghenechovwe Donald Ekpeki
+  - Sheree Renée Thomas
+  description: 'From the cotton gin to extractive mining to facial recognition software
+    - breakthroughs in technology have often come at a heavy cost to Black communities
+    throughout the world. Will the liberation of Black minds and bodies depend on
+    more or less technology? What would it look like if technology truly served us
+    all? Drawing from examples in books, graphic novels and film, our group discuss
+    the technological dreams of AfroFuturism. '
+  published: true
+- title: The Legal Implications of Monster Hunting
+  datetime: Saturday 3:00PM
+  room: TBD
+  moderators:
+  - Misha Stone
+  programparticipants:
+  - Day Al-Mohamed
+  - Elsa Sjunneson
+  - Leigh Harlen
+  - Premee Mohamed
+  description: 'The Legal Implications of Monster Hunting: Discussing and analyzing
+    the implications of hunting vampires, demons, and other monsters in shows like
+    Buffy the Vampire Slayer, Supernatural, and Wynonna Earp. Should vampires have
+    due process? Can a monster hunter be liable if a demon''s host dies during an
+    exorcism? If it is murder to kill a monster, is being chosen or cursed to do so
+    a plausible defense? Could ghosts have property rights to the houses they haunt
+    if they lived there first? If they do, is expelling them an unlawful eviction?'
+  published: true
+- title: 'Deconstructing the Novella  '
+  datetime: 'Saturday, 4:00pm '
+  room: ''
+  moderators:
+  - dave ring
+  programparticipants:
+  - Aliette de Bodard
+  - Eboni Dunbar
+  - L.D. Lewis
+  - Nino Cipri
+  description: Authors Cipri, de Bodard, Dunbar and Lewis discuss their own novellas
+    as well as other celebrated titles, highlight some of the publishers putting them
+    out, dig into some craft questions, and pull apart a few of the novella's tricks
+    and challenges.
+  published: true
 - title: Surveillance & Society in SF
   datetime: Saturday 10:00 AM
   room: "[Scioto Even](/scioto-room)"
