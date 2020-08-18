@@ -7,7 +7,9 @@
       {% if dealer.contact.size > 0 or dealer.city.size > 0 or dealer.state.size > 0 %}
       <p>
         {% if dealer.contact.size > 0 %}
+        {% unless dealer.contact == dealer.name %}
         {{dealer.contact}},
+        {% endunless %}
         {% endif %}
         {% if dealer.city.size > 0 %}
         {{dealer.city}},

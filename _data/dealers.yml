@@ -4,12 +4,8 @@
   city: Renton
   state: Washington
   what_is_sold: Jewelry
-  link: "[https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav](https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav
-    \"https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav\")\n\nPlaces
-    to browse Angelwear Creations Jewelry:\n\n[www.angelwearcreations.com](http://angelwearcreations.com
-    \"www.angelwearcreations.com\")  \n[https://www.pinterest.com/angelwear01/](https://www.pinterest.com/angelwear01/
-    \"https://www.pinterest.com/angelwear01/\")  \n[https://www.facebook.com/AngelwearCreations/?ref=bookmarks](https://www.facebook.com/AngelwearCreations/?ref=bookmarks
-    \"https://www.facebook.com/AngelwearCreations/?ref=bookmarks\")"
+  link: "[Etsy](https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav) \n\nPlaces
+    to browse Angelwear Creations Jewelry:\n\n[www.angelwearcreations.com](http://www.angelwearcreations.com)  \n[Pinterest](https://www.pinterest.com/angelwear01/)  \n[Facebook](https://www.facebook.com/AngelwearCreations/?ref=bookmarks)"
   description: Angelwear has your pretty shiny things! Take a look at my selection
     online!
   restrictions: Shipping outside the US is minimum $18.
@@ -24,8 +20,7 @@
   city: Oregon City
   state: Oregon
   what_is_sold: Books
-  link: '[https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1
-    "https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1")'
+  link: '[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)'
   description: Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology,
     kindle, paperback
   restrictions: ''
@@ -40,8 +35,7 @@
   city: Cambridge
   state: Cambridgeshire
   what_is_sold: Jewerlry & Hand-made notebooks
-  link: '[https://www.etsy.com/uk/shop/CityOfDreamingPylons](https://www.etsy.com/uk/shop/CityOfDreamingPylons
-    "https://www.etsy.com/uk/shop/CityOfDreamingPylons")'
+  link: '[Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)'
   description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
   restrictions: ''
   image_filenames:
@@ -55,7 +49,7 @@
   city: Andover
   state: MA
   what_is_sold: Fine Art (Sculpture, Paintings, similar), Jewelry
-  link: '[http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")'
+  link: '[Website](http://www.cogitation.org)'
   description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
     sculpture, and more.
   restrictions: ''
@@ -70,8 +64,7 @@
   city: Renton
   state: Washington
   what_is_sold: Costumes, Costume Accessories, Games/Gaming Accessories
-  link: "[www.crystalsidyll.com](http://www.crystalsidyll.com \"www.crystalsidyll.com\")
-    \n\n[etsy.com/shop/crystalsidyll](https://etsy.com/shop/crystalsidyll \"etsy.com/shop/crystalsidyll\")"
+  link: "[Website](http://www.crystalsidyll.com) \n\n[Etsy](https://etsy.com/shop/crystalsidyll)"
   description: Your source for unique fantasy accouterments.
   restrictions: ''
   image_filenames:
@@ -85,7 +78,7 @@
   city: Methuen
   state: MA
   what_is_sold: Plush
-  link: '[www.plushiezoo.biz](https://www.plushiezoo.biz "www.plushiezoo.biz")'
+  link: '[www.plushiezoo.biz](https://www.plushiezoo.biz)'
   description: Huge selection of plush from aardvark to zebra
   restrictions: ''
   image_filenames:
@@ -99,7 +92,7 @@
   city: Buckeye
   state: AZ
   what_is_sold: Books
-  link: '[https://www.ebay.com/str/esmbooks](https://www.ebay.com/str/esmbooks "https://www.ebay.com/str/esmbooks")'
+  link: '[esmbooks on eBay](https://www.ebay.com/str/esmbooks)'
   description: Online bookstore specializing in signed SF, Fantasy, and Mystery books.
   restrictions: ''
   image_filenames:
@@ -109,7 +102,7 @@
   - "/assets/images/esm-books-4.JPG"
   - "/assets/images/esm-books-5.JPG"
 - name: Fantaminals
-  link: '[http://www.fantaminals.com/](http://www.fantaminals.com/ "http://www.fantaminals.com/")'
+  link: '[www.Fantaminals.com](http://www.fantaminals.com/)'
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
   image_filenames:
   - "/assets/images/fantaminals-05.jpg"
@@ -127,8 +120,7 @@
   city: Kent
   state: Ohio
   what_is_sold: Fine art prints
-  link: '[https://www.deviantart.com/loragray/shop/prints](https://www.deviantart.com/loragray/shop/prints
-    "https://www.deviantart.com/loragray/shop/prints")'
+  link: '[Lora Gray Prints on Deviantart](https://www.deviantart.com/loragray/shop/prints)'
   description: Dark fantasy and science fiction paintings, drawings and illustrations.
   restrictions: ''
   image_filenames:
@@ -143,9 +135,8 @@
   state: Ohio
   what_is_sold: Costume Accessories
   link: |-
-    [https://www.etsy.com/shop/mskittyscloset/](https://www.etsy.com/shop/mskittyscloset/ "https://www.etsy.com/shop/mskittyscloset/")
-
-    [https://www.facebook.com/MsKittysCloset](https://www.facebook.com/MsKittysCloset "https://www.facebook.com/MsKittysCloset")
+    [Etsy](https://www.etsy.com/shop/mskittyscloset/) 
+    [Facebook](https://www.facebook.com/MsKittysCloset)
   description: Ms. Kitty's Closet creates quality faux fur accessories including various
     animal ears, tails, hoods in cuffs in a variety of style, colors and patterns.
   restrictions: ''
@@ -161,13 +152,13 @@
   state: IL
   what_is_sold: T-Shirts
   link: |-
-    [https://www.offworlddesigns.com](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+    [www.OffworldDesigns.com](https://www.offworlddesigns.com)
 
-    [https://www.facebook.com/offworlddesigns/](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+    [Facebook](https://www.facebook.com/Art-of-Raymond-VanTilburg-293551964125127)
 
-    [https://twitter.com/OffworldDesigns](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+    [Twitter](https://twitter.com/offworlddesigns)
 
-    [https://www.instagram.com/offworld_designs/](https://www.offworlddesigns.com "https://www.offworlddesigns.com")
+    [Instagram](https://www.instagram.com/aircool66/)
   description: 'We specialize in original designed t-shirts for fans of Gaming, Fantasy,
     Geek Culture and more fandoms. We have Messenger Bags, Polo Shirts, Lapel Pins,
     Baseball Hats, to name a few items. We do our own screen printing & embroidery
@@ -185,7 +176,7 @@
   city: San Jose
   state: California
   what_is_sold: Books
-  link: '[https://paperangelpress.com](https://paperangelpress.com "https://paperangelpress.com")'
+  link: '[Website](https://paperangelpress.com)'
   description: To bring new works of fiction and art to light. To give people a chance
     to realize their dreams.
   restrictions: ''
@@ -200,7 +191,7 @@
   city: Crestline
   state: California
   what_is_sold: Books, Fine Art (Sculpture, Paintings, similar)
-  link: '[www.CelticArtStore.net](https://www.CelticArtStore.net "https://www.CelticArtStore.net")'
+  link: '[Celtic Art Store](https://www.CelticArtStore.net)'
   description: Mindfulness Art - Celtic Mandalynths and Finger Labyrinths. "Gray Warrior"
     Fantasy-Action Novel
   restrictions: ''
@@ -215,7 +206,7 @@
   city: Lakemoor
   state: IL
   what_is_sold: Jewelry
-  link: "[www.ravenwingwearableart.etsy.com](http://www.ravenwingwearableart.etsy.com)"
+  link: "[Etsy](http://www.ravenwingwearableart.etsy.com)"
   description: i make handmade jewelry including ear cuffs, ear wraps, earrings, and
     feather hair ornaments
   restrictions: 'not sure how to do overseas (pricing and insurance) '
@@ -231,7 +222,7 @@
   city: Melba
   state: ACT
   what_is_sold: Books, Comics/Graphic Novels
-  link: '[www.ShootingStar.pub](https://www.ShootingStar.pub "www.ShootingStar.pub")'
+  link: '[Website](https://www.ShootingStar.pub)'
   description: Telling stories, connecting people, building communities, one world
     at a time.
   restrictions: ''
@@ -247,7 +238,7 @@
   state: California
   what_is_sold: Books
   link: |-
-    [https://vefrankel.wordpress.com/silicon-valley-authors](https://vefrankel.wordpress.com/silicon-valley-authors "https://vefrankel.wordpress.com/silicon-valley-authors")
+    [Website](https://vefrankel.wordpress.com/silicon-valley-authors)
 
     We’re all on Bookshop and Amazon!
 
@@ -268,7 +259,7 @@
   city: Hamilton
   state: Ontario
   what_is_sold: Books
-  link: "[www.amazon.com/author/stephenpearl](http://www.amazon.com/author/stephenpearl)"
+  link: "[Amazon](http://www.amazon.com/author/stephenpearl)"
   description: Speculative fiction novels and anthologies featuring the work of Stephen
     B. Pearl. Post-apocalyptic, Urban fantasy, Norse Fantasy, and more.
   restrictions: ''
@@ -283,7 +274,7 @@
   city: Austin
   state: Texas
   what_is_sold: Books
-  link: '[https://www.zumayapublications.com/ebook-store/](https://www.zumayapublications.com/ebook-store/
+  link: '[Ebook Store](https://www.zumayapublications.com/ebook-store/
     "https://www.zumayapublications.com/ebook-store/")'
   description: 'Zumaya Publications: Supporting Irresponsible Reading for 20 Years'
   restrictions: Only able to handle US sales via the bookstore, but overseas sales
