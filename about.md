@@ -41,6 +41,7 @@ Worldcon 78 (2020) will be held in Wellington, New Zealand. Visit [https://conze
   * **RoFCon** Joy Ward (co-editor with Eric Flynt of Ring of Fire Press)
   * **General & Art** Jeff Beeler
   * **Filk** Roberta Slocumb
+  * **Participatory Music** Jeff Keller
 * **Events** Alan Bond nasfictransition@gmail.com
   * **Opening and Closing Ceremonies** Rob Stewart
   * **Masquerade** Jackie Nordquist
