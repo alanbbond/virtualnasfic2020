@@ -304,6 +304,17 @@
   - Sherwood Smith
   - L.D. Lewis
   published: false
+- title: The Future of Anthologies
+  datetime: Saturday 11:00 AM
+  room: "[Olentangy Odd](/olentangy-room)"
+  programparticipants:
+  - Beth Meacham
+  - Dominik Parisien
+  - Lucy A. Snyder
+  - Neil Clarke
+  description: Our highly-regarded panel of editors discuss current trends in and
+    future of anthologies.
+  published: true
 - title: 'Women of a Certain Age: Writing Older Women Protagonists'
   datetime: Saturday 12:00 PM
   room: "[Scioto Even](/scioto-room)"
@@ -562,22 +573,22 @@
     entering public consciousness
   - Premee Mohamed
   published: true
-- title: Live Tiara Demonstration
-  datetime: Saturday 11:00 AM
-  room: "[Auditorium Odd](/auditorium)"
-  moderators:
-  - Sara Felix
-  published: false
-- title: The Future of Anthologies
-  datetime: Saturday 11:00 AM
-  room: "[Olentangy Odd](/olentangy-room)"
+- title: Researching the Golden Age
+  datetime: Sunday 10:00 AM
+  room: "[Scioto Even](/scioto-room)"
   programparticipants:
-  - Beth Meacham
-  - Dominik Parisien
-  - Lucy A. Snyder
-  - Neil Clarke
-  description: Our highly-regarded panel of editors discuss current trends in and
-    future of anthologies.
+  - Alec Nevala-Lee
+  - Farah Mendlesohn
+  description: 'Hugo nominated non fiction authors Alec Nevala-Lee and Farah Mendlesohn
+    talk about the joys of non fiction research and writing, and the perils of writing
+    about Big Names during a zeitgeist shift. '
+  published: true
+- title: Writing About Space
+  datetime: Sunday 10:00 AM
+  room: "[Olentangy Even](/olentangy-room)"
+  description: Bill Higgins,"The United States may not have a Moon Program, but there's
+    still stuff going on out there! What's the latest on Space! Suitable for writers,
+    space cadets, and AstroNerds."
   published: false
 - title: The Landscape of Jewish Science Fiction & Fantasy
   datetime: Sunday 11:00 AM
@@ -591,16 +602,8 @@
   - Valerie Estelle Frankel
   description: A panel of Jewish writers and creators from across the SF/F universe...
   published: true
-- title: Researching the Golden Age
-  datetime: Sunday 10:00 AM
-  room: "[Scioto Even](/scioto-room)"
-  programparticipants:
-  - Alec Nevala-Lee
-  - Farah Mendlesohn
-  description: 'Hugo nominated non fiction authors Alec Nevala-Lee and Farah Mendlesohn
-    talk about the joys of non fiction research and writing, and the perils of writing
-    about Big Names during a zeitgeist shift. '
-  published: false
+  moderators:
+  - Isabel Schechter
 - title: 'The Technological Dreams of AfroFuturism  '
   datetime: Sunday 11:00AM
   room: Olentangy
@@ -618,37 +621,31 @@
     all? Drawing from examples in books, graphic novels and film, our group discuss
     the technological dreams of AfroFuturism. '
   published: true
-- title: Writing About Space
-  datetime: Sunday 10:00 AM
-  room: "[Olentangy Even](/olentangy-room)"
-  description: Bill Higgins,"The United States may not have a Moon Program, but there's
-    still stuff going on out there! What's the latest on Space! Suitable for writers,
-    space cadets, and AstroNerds."
-  published: false
 - title: Women Who Run Sh*t
   datetime: Sunday 12:00 PM
   room: "[Scioto Even](/scioto-room)"
-  moderators:
-  - Eileen Gunn
+  moderators: []
   programparticipants:
   - Cheryl Morgan
+  - Eileen Gunn
   - Mary Anne Mohanraj
   - Sumana Harihareswara
   description: 'Our panel of women creators/directors/publishers discuss the trials
     and victories of running organizations, magazines, publishing companies and other
     SF/F businesses. '
-  published: false
+  published: true
 - title: 'Predicting the Post-Apocalypse: How Will We Be Saved?'
   datetime: Sunday 12:00 PM
   room: "[Olentangy Even](/olentangy-room)"
   programparticipants:
   - Ada Palmer
   - dave ring
+  - Premee Mohamed
   - Tobias S. Buckell
   description: It's the post-apocalypse - how will humanity be saved? Our panel mine
     their favorite stories about the post-apocalypse for clues at what might rescue
     or restore humanity.
-  published: false
+  published: true
 - title: Ohio Fan Clubs & Cons
   datetime: Sunday 1:00 PM
   room: "[Scioto Odd](/scioto-room)"
@@ -658,7 +655,6 @@
   - Chris M. Barkley
   - Doug Piero Carey
   - Julie Washington
-  - Lucy A. Snyder
   - Michael Grossberg
   published: true
 - title: 'Worldbuilding: Useful Adaptations for Disabled Characters'
@@ -681,13 +677,22 @@
   datetime: Sunday 2:00 PM
   room: "[Scioto Even](/scioto-room)"
   programparticipants:
+  - dave ring
   - Neil Clark
+  - Pablo Defendini
   description: Our panel of traditional publishers talk about the state of SF/F publishing
     since the pandemic. What's changed, what's not?
-  published: false
+  published: true
 - title: 'Graphic Novels: Creators Edition'
   datetime: Sunday 2:00 PM
   room: "[Olentangy Even](/olentangy-room)"
   programparticipants:
   - Jamar Nicholas
   description: Panel of comic book artists, writers, and makers.
+  published: true
+- title: Live Tiara Demonstration
+  datetime: Saturday 11:00 AM
+  room: "[Auditorium Odd](/auditorium)"
+  moderators:
+  - Sara Felix
+  published: false
