@@ -3,8 +3,14 @@
   datetime: Friday, 7:00pm to 9:00pm
   room: Auditorium
   moderators: ''
-  programparticipants: 'Laura Resnick, Eric Flint,  Sue Francis, Steven H. Silver,
-    Kevin J. Anderson, Cat Rambo, Beth Meacham '
+  programparticipants:
+  - Laura Resnick
+  - Eric Flint
+  - Sue Francis
+  - Steven H. Silver
+  - Kevin J. Anderson
+  - Cat Rambo
+  - Beth Meacham
   description: 'Colleagues, friends, and family gather to say goodbye to the late
     great author and editor, Mike Resnick. '
   published: true
@@ -609,7 +615,11 @@
   datetime: Saturday, 9:00-9:50pm
   room: Scioto
   moderators: ''
-  programparticipants: Caitlin Starling,Jeannette Ng,Jordan Kurella,Mari Ness
+  programparticipants:
+  - Caitlin Starling
+  - Jeannette Ng
+  - Jordan Kurella
+  - Mari Ness
   description: Four contemporary authors of Gothic fiction discuss some of the latest
     trends in the genre, and how today's Gothics are in dialogue - or direct confrontation
     - with the works of the past.
