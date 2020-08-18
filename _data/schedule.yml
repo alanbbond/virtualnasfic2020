@@ -575,7 +575,11 @@
   datetime: Saturday 8:00 PM
   room: "[Scioto](/scioto-room)"
   moderators: " "
-  programparticipants: Christine Taylor-Butler,dave ring,Eileen Gunn,Steven Gould
+  programparticipants:
+  - Christine Taylor-Butler
+  - dave ring
+  - Eileen Gunn
+  - Steven Gould
   description: Writers helping writers (paying forward) and its role in increasing
     dIversity in the profession (and possibly its role in keeping marginalized groups
     out as well.) How who we choose to associate with, assist, promote, and read can
