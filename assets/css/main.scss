@@ -30,7 +30,6 @@ body {
   font-family: "Josefin Sans", "Proxima Nova", Helvetica, Corbel, sans-serif;
   line-height: 1.1rem;
   margin: 0;
-  background: radial-gradient(circle 100vh at center top, rgba(245,251,255,1) 0%, rgba(244,251,255,1) 50%, rgba(223,233,241,0.1) 56%, rgba(244,251,255,1) 62%, rgba(223,233,241,0.1) 68%, rgba(244,251,255,1) 74%, rgba(223,233,241,0) 78%, rgba(223,233,241,0) 100%);
 }
 
 h1 {
@@ -188,11 +187,6 @@ header {
   min-height: calc(100vh - 12rem);
   margin: 0 auto;
   position: relative;
-  background-image: url('data:image/svg+xml;utf8,#{$background}');
-  background-size: 100%;
-  background-position: center;
-  background-repeat-x: no-repeat;
-  background-repeat-y: repeat;
 
   h1, h2 {
     margin-top: 5rem;
@@ -646,6 +640,14 @@ ul.social-links-menu {
 }
 
 @media (min-width:1025px) {
+
+  body {
+    background-image: url('data:image/svg+xml;utf8,#{$background}');
+    background-size: 90vw;
+    background-position: center;
+    background-repeat-x: no-repeat;
+    background-repeat-y: repeat;
+  }
 
   header {
     flex-direction: row;
