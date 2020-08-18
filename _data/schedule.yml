@@ -146,7 +146,9 @@
   room: "[Olentangy](/olentangy-room)"
   moderators:
   - Raven Oak
-  programparticipants: Jennifer Blackstream,Laurence Raphael Brothers,
+  programparticipants:
+  - Jennifer Blackstream
+  - Laurence Raphael Brothers
   description: Mask wearing vampires? Quarantine empty streets? From grocery delivery
     to working-from-home, our normal lives have changed in the face of Covid-19. How
     will these changes impact the feature creatures and characters of urban fantasy?
