@@ -8,7 +8,8 @@
   published: true
 - title: Writing Real History Into Fictional Pasts
   datetime: Friday 12:00PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Alma Alexander
   - Eric Flint
@@ -19,7 +20,7 @@
   published: true
 - title: 'Youth & YA Fiction: Who''s Reading Who?'
   datetime: Sunday 11:00 AM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Kathryn Sullivan
   programparticipants:
@@ -32,7 +33,7 @@
   published: true
 - title: 'COVID-FX: Staying Connected'
   datetime: Friday 1:00PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Walter Parker
   programparticipants:
@@ -46,14 +47,16 @@
   published: true
 - title: Alt & Self Publishers Panel
   datetime: Friday 1:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
+  moderators: ''
   programparticipants:
   - Sherwood Smith
   - Valerie Estelle Frankel
   published: false
 - title: How Game Titles Work
   datetime: Friday 2:00PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Leonard Richardson
   description: In 2009, while writing a novel about alien video games, Leonard Richardson
@@ -66,7 +69,8 @@
   published: true
 - title: 'Isaac Asimov at 100: Our Favorites'
   datetime: Friday 12:00PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
+  moderators: ''
   programparticipants:
   - Alec Nevala-Lee
   - Bill Higgins
@@ -76,7 +80,8 @@
   published: false
 - title: 'Nuts & Bolts: Running a Non-Profit Lit Organization'
   datetime: Friday 4:00PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Mary Anne Mohanraj
   description: Join Mary Anne Mohanraj for a presentation + Q&A on non-profits and
@@ -86,7 +91,7 @@
   published: true
 - title: 'Fandom Check-In: Where Are We At?'
   datetime: Friday 4:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Ben Yalow
   programparticipants:
@@ -98,7 +103,8 @@
   published: true
 - title: 'COVID-FX: Selling Your Wares'
   datetime: Friday 5:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Alison Scott
   - Michael R. Underwood
@@ -110,7 +116,7 @@
   published: true
 - title: 'COVID-FX: Quarantine & the Future of Urban Fantasy'
   datetime: Friday 5:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Raven Oak
   programparticipants:
@@ -125,7 +131,7 @@
     impact everything from world building and characters to plot.
   published: false
 - title: 'SF/F Artists Talk Art '
-  datetime: Friday 6:00
+  datetime: Friday 6:00PM
   room: Scioto
   moderators: ''
   programparticipants:
@@ -137,7 +143,8 @@
   published: true
 - title: Weekend Science Update
   datetime: Friday 6:00PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
+  moderators: ''
   programparticipants:
   - Bill Thomasson
   - Bogi Takács
@@ -150,7 +157,8 @@
   published: true
 - title: Librarians, Booksellers, Collectors, Oh My!
   datetime: Friday 7:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Isabel Schechter
   - Marev Hofman
@@ -162,7 +170,7 @@
   published: true
 - title: Imaginary Book Club
   datetime: Friday 7:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Sumana Harihareswara
   programparticipants:
@@ -175,12 +183,12 @@
   published: true
 - title: BIPOC Roundtable
   datetime: Friday 8:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Valerie Valdes
   programparticipants:
   - Andrea Hairston
-  - Chris "Silver Spook" Miller
+  - "Chris \"Silver Spook\" Miller"
   - Vikram Paralker
   description: Our panel of Black, Indigenous People of Color have a roundtable about
     the ways they've used their work to shed light on social injustices and the need
@@ -188,16 +196,17 @@
   published: true
 - title: Emergent Gameplay
   datetime: Friday 9:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Jeremy Holcomb
   - J Holtham
   - Victor Raymond
-  - Whitney "Strix" Beltrán
+  - "Whitney \"Strix\" Beltrán"
   published: true
 - title: 'Lessons Not Learned: The Future of Dystopian & Utopian Stories'
   datetime: Friday 9:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Brandon Wilson
   programparticipants:
@@ -213,7 +222,8 @@
   published: true
 - title: Fantasy for YA vs Aduts
   datetime: Friday 10:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Alma Alexander
   - Farah Mendlesohn
@@ -224,7 +234,8 @@
   published: true
 - title: 'COVID-FX: Horror Beyond 2020'
   datetime: Friday 10:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
+  moderators: ''
   programparticipants:
   - Jordan Kurella
   - Leigh Harlen
@@ -235,7 +246,7 @@
   published: true
 - title: Big Hearts Award
   datetime: Saturday 10:00 AM
-  room: "[Auditorium Odd](/auditorium)"
+  room: "[Auditorium](/auditorium)"
   moderators:
   - Ben Yalow
   programparticipants:
@@ -243,14 +254,15 @@
   published: true
 - title: Surveillance & Society in SF
   datetime: Saturday 10:00 AM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Dr. Nakeema Stefflbauer
   - Gadi Evron
   published: true
 - title: COVID-FX Writing & Reading About Pandemics During a Pandemic
   datetime: Saturday 10:00 AM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Pablo Defendini
   programparticipants:
@@ -262,7 +274,8 @@
   published: true
 - title: 'Worldbuilding: Rituals and Symbols'
   datetime: Saturday 11:00 AM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Kathyrn Sullivan
   - Valerie Estelle Frankel
@@ -271,7 +284,8 @@
   published: true
 - title: The Future of Anthologies
   datetime: Saturday 11:00 AM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
+  moderators: ''
   programparticipants:
   - Beth Meacham
   - Dominik Parisien
@@ -282,7 +296,8 @@
   published: true
 - title: 'Women of a Certain Age: Writing Older Women Protagonists'
   datetime: Saturday 12:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Andrea Hairston
   - Farah Mendlesohn
@@ -295,7 +310,7 @@
   published: true
 - title: The Ever-Expanding Universe of New Space Opera
   datetime: Saturday 12:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Laurence Raphael Brothers
   programparticipants:
@@ -312,12 +327,15 @@
   published: false
 - title: Favorite Queer SF/F Fiction
   datetime: Saturday 1:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
+  programparticipants:
+  - ""
   description: Panelists review their favorite queer Youth/YA fiction.
   published: true
 - title: Today in Audio Dramas!
   datetime: Saturday 1:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Chris Garcia
   programparticipants:
@@ -329,7 +347,8 @@
   published: true
 - title: If Aliens Came To Earth
   datetime: Saturday 2:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderators: ''
   programparticipants:
   - Daniel M. Kimmel
   - Douglas Johnson
@@ -338,7 +357,7 @@
   published: false
 - title: 'Roots in Two Places: Writing from a Dual Culture Experience'
   datetime: Saturday 2:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Cheryl Morgan
   programparticipants:
@@ -350,9 +369,10 @@
   published: false
 - title: Future Worldcon Q&A
   datetime: Saturday 3:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Anne Gray
+  programparticipants: ""
   published: true
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
@@ -376,8 +396,8 @@
     years.
   published: true
 - title: Prometheus Awards’ 40th Anniversary Ceremony
-  room: ''
   datetime: Saturday Afternoon
+  room: ''
   moderators:
   - Michael Grossberg
   - Tom Jackson
@@ -417,17 +437,17 @@
   published: true
 - title: 'Common Threads: Game Writers & Designers'
   datetime: Saturday 4:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   programparticipants:
-  - Chris "Silver Spook" Miller
+  - "Chris \"Silver Spook\" Miller"
   - Jeremy Holcomb
   - Phoebe Barton
-  - Whitney "Strix" Beltrán
+  - "Whitney \"Strix\" Beltrán"
   description: Game writers and designers from several disciplines talk about the
     common threads of what they do, irrespective of media and form.
   published: false
 - title: 'Deconstructing the Novella  '
-  datetime: 'Saturday, 4:00pm '
+  datetime: 'Saturday, 4:00pm'
   room: ''
   moderators:
   - dave ring
@@ -443,7 +463,7 @@
   published: true
 - title: Information, Please!
   datetime: Saturday 5:00pm
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Steven H Silver
   description: A panel of four experts are asked questions and can respond individually
@@ -455,7 +475,7 @@
   - Tom Smith
 - title: 'Worldbuilding: Innovations in Leadership & Governance'
   datetime: Saturday 5:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   programparticipants:
   - Ada Palmer
   - Andrea Hairston
@@ -465,7 +485,7 @@
   published: true
 - title: Feminist Fables & Fairy Tales
   datetime: Saturday 6:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   programparticipants:
   - Jennifer Blackstream
   - Jim C. Hines
@@ -475,7 +495,7 @@
   - Sherwood Smith
 - title: 'COVID-FX: Film & Television Industries'
   datetime: Saturday 6:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Steven Gould
   programparticipants:
@@ -490,12 +510,12 @@
   published: true
 - title: 'Myths & Legends: Culture Shifts & Societal Transformation'
   datetime: Saturday 7:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Victor Raymond
   programparticipants:
   - Alma Alexander
-  - Chris "Silver Spook" Miller
+  - "Chris \"Silver Spook\" Miller"
   description: 'Our cross-genre and cross-discipline panel shares their favorite stories
     of great shifts and transformation. From resistance and collapse to evolution
     and re-emergence: it is the stuff of myths and legends!'
@@ -518,7 +538,7 @@
   published: true
 - title: Writers Helping Writers
   datetime: Saturday 8:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Steven Gould
   programparticipants:
@@ -534,7 +554,7 @@
   published: false
 - title: 'Weathering the Storm: Creating in Times of Trouble'
   datetime: Saturday 8:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Jason Sanford
   programparticipants:
@@ -549,7 +569,7 @@
   published: true
 - title: Steampunk Lessons for a Post-Fossil Fuel Future
   datetime: Saturday, 9:00-9:50pm
-  room: Olentangy
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Cat Rambo
   programparticipants:
@@ -564,26 +584,32 @@
   published: true
 - title: Fanzines Panel
   datetime: Saturday 10:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Chris M. Barkley
   programparticipants:
-  - James Bacon, Steven H Silver
+  - James Bacon
+  - Steven H Silver
   description: Our panelists discuss the current state of fanzines - what's hot and
     what's next?
   published: false
 - title: 'Worldbuilding: Crime and Punishment'
   datetime: Saturday 10:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
+  moderators: ''
   programparticipants:
-  - Chris "Silver Spook" Miller
-  - Foz Meadows","With calls to Defund the Police and conversations of prison abolition
-    entering public consciousness
+  - "Chris \"Silver Spook\" Miller"
+  - Foz Meadows
   - Premee Mohamed
-  published: true
+  description: "With calls to Defund the Police and conversations of prison abolition 
+    entering public consciousness, our panelists discuss alternative takes on 
+    traditional crime and punishment. What gets called a crime? Who or what entities 
+    enforce the law?  What does justice and restitution look like -- and what can be 
+    re-imagined?"
+  published: false
 - title: Researching the Golden Age
   datetime: Sunday 10:00 AM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   programparticipants:
   - Alec Nevala-Lee
   - Farah Mendlesohn
@@ -593,7 +619,7 @@
   published: true
 - title: The Landscape of Jewish Science Fiction & Fantasy
   datetime: Sunday 11:00 AM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderator:
   - Isabel Schechter
   programparticipants:
@@ -607,7 +633,7 @@
   - Isabel Schechter
 - title: 'The Technological Dreams of AfroFuturism  '
   datetime: Sunday 11:00AM
-  room: Olentangy
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Brandon Wilson
   programparticipants:
@@ -624,7 +650,7 @@
   published: true
 - title: Women Who Run Sh*t
   datetime: Sunday 12:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators: []
   programparticipants:
   - Cheryl Morgan
@@ -637,7 +663,7 @@
   published: false
 - title: 'Predicting the Post-Apocalypse: How Will We Be Saved?'
   datetime: Sunday 12:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   programparticipants:
   - Ada Palmer
   - dave ring
@@ -649,7 +675,7 @@
   published: true
 - title: Ohio Fan Clubs & Cons
   datetime: Sunday 1:00 PM
-  room: "[Scioto Odd](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
   moderators:
   - Joel Zakem
   programparticipants:
@@ -660,7 +686,7 @@
   published: true
 - title: 'Worldbuilding: Useful Adaptations for Disabled Characters'
   datetime: Sunday 1:00 PM
-  room: "[Olentangy Odd](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Raven Oak
   programparticipants:
@@ -676,7 +702,9 @@
   published: true
 - title: 'COVID-FX: Traditional Publishing'
   datetime: Sunday 2:00 PM
-  room: "[Scioto Even](/scioto-room)"
+  room: "[Scioto](/scioto-room)"
+  moderator:
+  - ""
   programparticipants:
   - dave ring
   - Neil Clark
@@ -686,14 +714,15 @@
   published: true
 - title: Graphic Novels Panel
   datetime: Sunday 2:00 PM
-  room: "[Olentangy Even](/olentangy-room)"
+  room: "[Olentangy](/olentangy-room)"
   programparticipants:
   - Jamar Nicholas
   description: " "
   published: true
 - title: Live Tiara Demonstration
   datetime: Saturday 11:00 AM
-  room: "[Auditorium Odd](/auditorium)"
+  room: "[Auditorium](/auditorium)"
   moderators:
   - Sara Felix
   published: false
+  description: " "
