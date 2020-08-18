@@ -5,8 +5,6 @@
   <a href="#top">Jump to top</a>
 </p>
 {% for item in include.content %}
-{% endfor %}
-{% for item in include.content %}
 {% if item.published %}
 <p class="jump">
   <a href="#listing-{{ item.title | slugify}}">{{ item.title }}</a>

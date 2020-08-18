@@ -17,7 +17,7 @@ order: 4
 {% for day in days %}
 {% for event in site.data.schedule %}
 {% assign dt = event.datetime | downcase %}
-{%   if dt == day %}
+{%   if event.published and dt == day %}
 {%     include schedule_listing.html %}
 {%   endif %}
 {% endfor %}
@@ -55,7 +55,7 @@ order: 4
 {% endfor %}
 {% endfor %}
 {% for event in site.data.schedule %}
-{%   if event.datetime.size == 0 %}
+{%   if event.published and event.datetime.size == 0 %}
 {%     include schedule_listing.html %}
 {%   endif %}
 {% endfor %}
