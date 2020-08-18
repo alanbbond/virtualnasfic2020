@@ -4,11 +4,76 @@
 <p class="jump to-top">
   <a href="#top">Jump to top</a>
 </p>
+{% assign days = "friday,saturday,sunday" | split: "," %}
+{% assign meridians = "am,pm" | split: "," %}
+{% assign times = "12,1,2,3,4,5,6,7,8,9,10,11" | split: "," %}
+{% for day in days %}
+{% for event in include.content %}
+{% assign dt = event.datetime | downcase %}
+{%   if event.published and dt == day %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%   endif %}
+{% endfor %}
+{% for meridian in meridians %}
+{% for event in include.content %}
+{%   assign dt = event.datetime | downcase %}
+{%   if event.published and dt contains day and meridian == "am" and dt contains "morning" %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%   endif %}
+{%   if event.published and dt contains day and meridian == "pm" and dt contains "afternoon" %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%   endif %}
+{% endfor %}
+{% for time in times %}
+{%   for event in include.content %}
+{%     assign dt = event.datetime | downcase %}
+{%     assign start_time = dt | split: ":" | first %}
+{%     if event.published and dt contains day and dt contains meridian %}
+{%       if time == "12" and start_time contains "12" %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%       elsif time == "1" and start_time contains "1" %}
+{%         unless start_time contains "10" or start_time contains "11" or start_time contains "12" %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%         endunless %}
+{%       elsif time == "2" and start_time contains "2" %}
+{%         unless start_time contains "12" %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%         endunless %}
+{%       elsif start_time contains time %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%       endif %}
+{%     endif %}
+{%   endfor %}
+{% endfor %}
+{% endfor %}
+{% endfor %}
+{% for event in include.content %}
+{%   if event.published and event.datetime.size == 0 %}
+<p class="jump">
+  <a href="#listing-{{ event.title | slugify}}">{{ event.title }}</a>
+</p>
+{%   endif %}
+{% endfor %}
+
+
+
 {% for item in include.content %}
 {% if item.published %}
-<p class="jump">
-  <a href="#listing-{{ item.title | slugify}}">{{ item.title }}</a>
-</p>
+
 {% endif %}
 {% endfor %}
 
