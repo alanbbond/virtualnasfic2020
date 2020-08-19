@@ -1,4 +1,22 @@
 ---
+- title: ''
+  datetime: ''
+  room: ''
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Bogi Takács and RJ Lembert"
+  datetime: Sunday, 2:00 PM
+  room: Readings
+  moderators: ''
+  programparticipants:
+  - Bogi Takács
+  - RJ Lembert
+  description: ''
+  music: ''
+  published: true
 - title: Mike Resnick Memorial
   datetime: Friday, 7:00pm to 9:00pm
   room: Auditorium
@@ -497,7 +515,6 @@
 - title: "(Reading) Broad Universe Rapid Fire Reading"
   datetime: Saturday 1:00 PM
   room: Readings
-  moderators: ''
   programparticipants:
   - Cynthia Diamond
   - DH Timpko
@@ -922,7 +939,7 @@
     and guaranteed to be entertaining!
   music: true
   published: true
-- title: "Participatory Music Chantey Sing"
+- title: "Participatory Music\tChantey Sing"
   datetime: Saturday 1:00PM
   room: "[Auditorium](/auditorium)"
   programparticipants:
@@ -936,7 +953,7 @@
     verisimilitude, and we won’t mind if you drop a few verses or change a few words.)
   music: true
   published: true
-- title: "Participatory Music Chantey Sing"
+- title: "Participatory Music\tChantey Sing"
   datetime: Saturday 2:30PM
   room: Participatory Music
   programparticipants:
