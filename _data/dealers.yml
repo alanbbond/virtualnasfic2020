@@ -243,8 +243,8 @@
   link: |2-
 
     [https://paperangelpress.com](https://paperangelpress.com "https://paperangelpress.com")
-  description: To bring new works of fiction and art to light. To give people a chance
-    to realize their dreams.
+  description: "To bring new works of fiction and art to light. \n\nTo give people
+    a chance to realize their dreams."
   restrictions: ''
   image_filenames:
   - "/assets/images/paper_angel_press_01.jpg"
@@ -258,8 +258,10 @@
   state: California
   what_is_sold: Books, Fine Art (Sculpture, Paintings, similar)
   link: "[Celtic Art Store](https://www.CelticArtStore.net)"
-  description: Mindfulness Art - Celtic Mandalynths and Finger Labyrinths. "Gray Warrior"
-    Fantasy-Action Novel
+  description: |-
+    Mindfulness Art - Celtic Mandalynths and Finger Labyrinths.
+
+    "Gray Warrior" Fantasy-Action Novel
   restrictions: ''
   image_filenames:
   - "/assets/images/celtic-art-at-worldcon-2016.jpg"
