@@ -1,11 +1,27 @@
 ---
+- name: Eye-Deas Fantasy Cat Art
+  contact: Esther Reese
+  city: Eugene
+  state: Oregon
+  what_is_sold: Fine Art (Sculpture, Paintings, similar)
+  link: '[Fantasycatart.com, www.etsy.com/shop/EYEDEAS](https://Fantasycatart.com,
+    www.etsy.com/shop/EYEDEAS "https://Fantasycatart.com, www.etsy.com/shop/EYEDEAS")'
+  description: Fantasy art prints featuring cats and dragons.
+  restrictions: U.S. Only
+  image_filenames:
+  - "/assets/images/eye-deas-fantasy-cat-art-01.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-02.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-03.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-04.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-05.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
   state: Washington
   what_is_sold: Jewelry
-  link: "[Etsy](https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav) \n\nPlaces
-    to browse Angelwear Creations Jewelry:\n\n[www.angelwearcreations.com](http://www.angelwearcreations.com)  \n[Pinterest](https://www.pinterest.com/angelwear01/)  \n[Facebook](https://www.facebook.com/AngelwearCreations/?ref=bookmarks)"
+  link: "[Etsy](https://www.etsy.com/shop/AngelwearCreations?ref=seller-platform-mcnav)
+    \n\nPlaces to browse Angelwear Creations Jewelry:\n\n[www.angelwearcreations.com](http://www.angelwearcreations.com)
+    \ \n[Pinterest](https://www.pinterest.com/angelwear01/)  \n[Facebook](https://www.facebook.com/AngelwearCreations/?ref=bookmarks)"
   description: Angelwear has your pretty shiny things! Take a look at my selection
     online!
   restrictions: Shipping outside the US is minimum $18.
@@ -20,7 +36,7 @@
   city: Oregon City
   state: Oregon
   what_is_sold: Books
-  link: '[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)'
+  link: "[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
   description: Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology,
     kindle, paperback
   restrictions: ''
@@ -35,7 +51,7 @@
   city: Cambridge
   state: Cambridgeshire
   what_is_sold: Jewerlry & Hand-made notebooks
-  link: '[Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)'
+  link: "[Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)"
   description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
   restrictions: ''
   image_filenames:
@@ -49,7 +65,7 @@
   city: Andover
   state: MA
   what_is_sold: Fine Art (Sculpture, Paintings, similar), Jewelry
-  link: '[Website](http://www.cogitation.org)'
+  link: "[Website](http://www.cogitation.org)"
   description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
     sculpture, and more.
   restrictions: ''
@@ -78,7 +94,7 @@
   city: Methuen
   state: MA
   what_is_sold: Plush
-  link: '[www.plushiezoo.biz](https://www.plushiezoo.biz)'
+  link: "[www.plushiezoo.biz](https://www.plushiezoo.biz)"
   description: Huge selection of plush from aardvark to zebra
   restrictions: ''
   image_filenames:
@@ -92,7 +108,7 @@
   city: Buckeye
   state: AZ
   what_is_sold: Books
-  link: '[esmbooks on eBay](https://www.ebay.com/str/esmbooks)'
+  link: "[esmbooks on eBay](https://www.ebay.com/str/esmbooks)"
   description: Online bookstore specializing in signed SF, Fantasy, and Mystery books.
   restrictions: ''
   image_filenames:
@@ -102,7 +118,7 @@
   - "/assets/images/esm-books-4.JPG"
   - "/assets/images/esm-books-5.JPG"
 - name: Fantaminals
-  link: '[www.Fantaminals.com](http://www.fantaminals.com/)'
+  link: "[www.Fantaminals.com](http://www.fantaminals.com/)"
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
   image_filenames:
   - "/assets/images/fantaminals-05.jpg"
@@ -120,7 +136,7 @@
   city: Kent
   state: Ohio
   what_is_sold: Fine art prints
-  link: '[Lora Gray Prints on Deviantart](https://www.deviantart.com/loragray/shop/prints)'
+  link: "[Lora Gray Prints on Deviantart](https://www.deviantart.com/loragray/shop/prints)"
   description: Dark fantasy and science fiction paintings, drawings and illustrations.
   restrictions: ''
   image_filenames:
@@ -134,9 +150,7 @@
   city: Cuyahoga Falls
   state: Ohio
   what_is_sold: Costume Accessories
-  link: |-
-    [Etsy](https://www.etsy.com/shop/mskittyscloset/) 
-    [Facebook](https://www.facebook.com/MsKittysCloset)
+  link: "[Etsy](https://www.etsy.com/shop/mskittyscloset/) \n[Facebook](https://www.facebook.com/MsKittysCloset)"
   description: Ms. Kitty's Closet creates quality faux fur accessories including various
     animal ears, tails, hoods in cuffs in a variety of style, colors and patterns.
   restrictions: ''
@@ -176,7 +190,7 @@
   city: San Jose
   state: California
   what_is_sold: Books
-  link: '[Website](https://paperangelpress.com)'
+  link: "[Website](https://paperangelpress.com)"
   description: To bring new works of fiction and art to light. To give people a chance
     to realize their dreams.
   restrictions: ''
@@ -191,7 +205,7 @@
   city: Crestline
   state: California
   what_is_sold: Books, Fine Art (Sculpture, Paintings, similar)
-  link: '[Celtic Art Store](https://www.CelticArtStore.net)'
+  link: "[Celtic Art Store](https://www.CelticArtStore.net)"
   description: Mindfulness Art - Celtic Mandalynths and Finger Labyrinths. "Gray Warrior"
     Fantasy-Action Novel
   restrictions: ''
@@ -222,7 +236,7 @@
   city: Melba
   state: ACT
   what_is_sold: Books, Comics/Graphic Novels
-  link: '[Website](https://www.ShootingStar.pub)'
+  link: "[Website](https://www.ShootingStar.pub)"
   description: Telling stories, connecting people, building communities, one world
     at a time.
   restrictions: ''
@@ -274,8 +288,7 @@
   city: Austin
   state: Texas
   what_is_sold: Books
-  link: '[Ebook Store](https://www.zumayapublications.com/ebook-store/
-    "https://www.zumayapublications.com/ebook-store/")'
+  link: '[Ebook Store](https://www.zumayapublications.com/ebook-store/ "https://www.zumayapublications.com/ebook-store/")'
   description: 'Zumaya Publications: Supporting Irresponsible Reading for 20 Years'
   restrictions: Only able to handle US sales via the bookstore, but overseas sales
     can go through the third-party sellers
