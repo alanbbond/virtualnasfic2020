@@ -21,7 +21,9 @@
   city: Oregon City
   state: Oregon
   what_is_sold: Books
-  link: "[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
+  link: |2-
+
+    [Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)
   description: Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology,
     kindle, paperback
   restrictions: ''
@@ -36,7 +38,9 @@
   city: Cambridge
   state: Cambridgeshire
   what_is_sold: Jewerlry & Hand-made notebooks
-  link: "[Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)"
+  link: |2-
+
+    [Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)
   description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
   restrictions: ''
   image_filenames:
