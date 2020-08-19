@@ -17,6 +17,15 @@
       </li>
 {%     endif %}
 {%   endfor %}
+{%   for moderator in event.moderators %}
+{%     if moderator == programparticipant.name %}
+      <li class='{{pub | replace: "(", "" | replace: ")", "" | slugify }}'>
+        <span class="datetime">{{event.datetime}}</span>
+        <span class="room">{{event.room | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</span>
+        <span class="title"><strong>(Moderator)</strong> {{event.title}}</span>
+      </li>
+{%     endif %}
+{%   endfor %}
 {% endfor %}
     </ul>
   </div>
