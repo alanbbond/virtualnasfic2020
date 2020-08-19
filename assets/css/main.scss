@@ -651,7 +651,7 @@ ul.social-links-menu {
       url('data:image/svg+xml;utf8,#{$side_stripe}'),
       url('data:image/svg+xml;utf8,#{$center_stripe}'),
       url('data:image/svg+xml;utf8,#{$side_stripe}');
-    background-size: calc(0.5 * calc(100vw - 50rem)), 70vw, calc(0.5 * calc(100vw - 50rem));
+    background-size: calc(0.5 * calc(100vw - 50rem)), 90vw, calc(0.5 * calc(100vw - 50rem));
     background-position-x: calc(100vw - calc(0.25 * calc(100vw - 50rem))), center, calc(0.25 * calc(50rem - 100vw));
     background-position-y: 0, 6rem, 3rem;
     background-repeat-x: no-repeat;
