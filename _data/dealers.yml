@@ -189,8 +189,12 @@
   state: Ohio
   what_is_sold: Costume Accessories
   link: "[Etsy](https://www.etsy.com/shop/mskittyscloset/) \n[Facebook](https://www.facebook.com/MsKittysCloset)"
-  description: Ms. Kitty's Closet creates quality faux fur accessories including various
-    animal ears, tails, hoods in cuffs in a variety of style, colors and patterns.
+  description: |-
+    Ms. Kitty's Closet creates quality faux fur accessories
+
+    including various animal ears, tails, hoods in cuffs in
+
+     a variety of style, colors and patterns.
   restrictions: ''
   image_filenames:
   - "/assets/images/kittys-01.jpg"
