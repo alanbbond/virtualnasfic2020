@@ -737,17 +737,6 @@ ul.social-links-menu {
           content: "Not published -> "
         }
       }
-      &:not(.not-published):before {
-        content: "Pubished";
-        position: absolute;
-        left: -6rem;
-        top: -0.25rem;
-        color: $light;
-        background-color: $dark;
-        padding: 0.25rem 0.25rem 0 0.25rem;
-        border-radius: 0.1rem;
-        font-weight: bold;
-      }
     }
   }
 
