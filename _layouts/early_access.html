@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+  <title>Virtual NASFiC 2020 {{ page.title }}</title>
+  <meta name="description"
+    content="The 2020 North American Science Fiction Convention online. {{ page.title }}." />
+  <meta property="og:url"
+    content="{{ page.url | replace:'index.html','' | prepend: absolute_url }}" />
+  <meta property="og:title" content="{{ page.title | append: ' - ' }}Virtual NASFiC 2020" />
+  <meta property="og:description"
+    content="The 2020 North American Science Fiction Convention online." />
+  <meta property="og:image" content="{{ absolute_url }}/assets/images/Columbus-NASFIC-2020_landing_image.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico"  | absolute_url }}" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,500;1,700&display=swap" rel="stylesheet">
+  <script data-ad-client="ca-pub-4689582579230513" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body class="pages">
+  <main class="main">
+    <header id="top">
+      <div class="logo-link">
+        <a href="/" alt="Home" title="Home" class="home-link">COLUMBUS 2020 NASFIC</a>
+      </div>
+      <div class="header-content">
+        <h1>Virtual Access Portal</h1>
+        <h2>NASFiC 2020, Friday, August 21 - Sunday, August 23</h2>
+        <nav>
+          <ul class="rooms-menu" style="display: none;">
+          {% assign rooms = site.pages | sort: "order" %}
+          {% for room in rooms %}
+          {% if room.title and room.public == false %}
+            {% if room.title == page.title %}
+            <li class="this-page room">
+            {% else %}
+            <li class="room">
+            {% endif %}
+              <a
+                href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
+              >
+              {{ room.title }}
+              </a>
+            </li>
+          {% endif %}
+          {% endfor %}
+          </ul>
+          <ul class="public-menu">
+          {% assign navs = site.pages | sort: "order" %}
+          {% for nav in navs %}
+            {% if nav.public %}
+            {% unless nav.title == "404" %}
+              {% if nav.title == page.title %}
+            <li class="this-page public" >
+              {{ nav.title }}
+              {% else %}
+            <li class="public">
+              <a 
+                href="{{ nav.url | prepend: site.baseurl | prepend: site.url }}"
+              >
+              {{ nav.title }}
+              </a>
+              {% endif %}
+            </li>
+            {% endunless %}
+            {% endif %}
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section class="public-container">
+      {{ content }}
+    </section>
+    {% include footer.html %}
+  </main>
+  <script>
+    const agreement = localStorage.getItem('NASFiC_2020_agreement');
+    const agreement_container = document.getElementsByClassName('agreement-container')[0];
+    if (agreement) {
+      const form = document.getElementById('agreement-form');
+      if (form) {
+        form.style.display = "flex";
+      }
+      if (agreement_container) {
+        agreement_container.style.display = "block";
+      }
+    }
+    if (window.document.documentMode) {
+      var main = document.getElementsByClassName('main')[0];
+      var iesupportmsg = document.createElement('div');
+      iesupportmsg.innerText = "We're sorry, but Internet Explorer is not supported."
+      main.appendChild(iesupportmsg);
+    }
+  </script>
+</body>
+</html>
