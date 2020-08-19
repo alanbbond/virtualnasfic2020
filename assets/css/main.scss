@@ -304,8 +304,12 @@ p.jump {
     text-decoration: none;
     display: inline-block;
     color: $very-light;
-    padding: 0.35rem 0.5rem 0.15em 0.5rem;
+    padding: 0.35rem 0.5rem 0 0.5rem;
     white-space: nowrap;
+    height: 0.95rem;
+    width: 96%;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }
 
