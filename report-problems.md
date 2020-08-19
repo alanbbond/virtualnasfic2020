@@ -3,7 +3,7 @@ title: Report Problems
 layout: default
 category: info
 public: false
-order: "18"
+order: 18
 
 ---
 # Report Problems
