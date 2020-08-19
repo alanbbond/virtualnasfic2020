@@ -25,12 +25,9 @@
   description: |-
     We feature
 
-    * Apocalypse
-    * Post-Apocalypse
-    * Dystopia
-    * Horror
-    * Sci-Fi
-    * anthology
+    * Apocalypse, Post-Apocalypse
+    * Dystopia, Horror
+    * Sci-Fi, Anthology
   restrictions: ''
   image_filenames:
   - "/assets/images/thumbnail_image0.jpg"
