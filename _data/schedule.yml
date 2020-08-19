@@ -553,7 +553,7 @@
   description: Game writers and designers from several disciplines talk about the
     common threads of what they do, irrespective of media and form.
   music: false
-  published: false
+  published: true
 - title: 'Deconstructing the Novella  '
   datetime: Saturday, 4:00pm
   room: Olentangy
