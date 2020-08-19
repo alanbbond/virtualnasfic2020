@@ -103,7 +103,8 @@
   state: AZ
   what_is_sold: Books
   link: "[esmbooks on eBay](https://www.ebay.com/str/esmbooks)"
-  description: Online bookstore specializing in signed SF, Fantasy, and Mystery books.
+  description: "Online bookstore specializing in \n\nsigned SF, Fantasy, and Mystery
+    books."
   restrictions: ''
   image_filenames:
   - "/assets/images/esm-books-1.png"
@@ -128,7 +129,10 @@
   - "/assets/images/eye-deas-fantasy-cat-art-05.jpg"
 - name: Fantaminals
   link: "[www.Fantaminals.com](http://www.fantaminals.com/)"
-  description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
+  description: |-
+    Puzzles, dragons, puzzles, dinosaurs, puzzles, animals,
+
+    and more puzzles
   image_filenames:
   - "/assets/images/fantaminals-05.jpg"
   - "/assets/images/fantaminals-04.jpg"
@@ -160,7 +164,10 @@
   state: Ohio
   what_is_sold: Fine art prints
   link: "[Lora Gray Prints on Deviantart](https://www.deviantart.com/loragray/shop/prints)"
-  description: Dark fantasy and science fiction paintings, drawings and illustrations.
+  description: |-
+    Dark fantasy and science fiction paintings,
+
+    drawings and illustrations.
   restrictions: ''
   image_filenames:
   - "/assets/images/loragray01.jpg"
