@@ -265,8 +265,8 @@
   state: IL
   what_is_sold: Jewelry
   link: "[Etsy](http://www.ravenwingwearableart.etsy.com)"
-  description: i make handmade jewelry including ear cuffs, ear wraps, earrings, and
-    feather hair ornaments
+  description: "I make handmade jewelry including ear cuffs, \n\near wraps, earrings,
+    and feather hair ornaments"
   restrictions: 'not sure how to do overseas (pricing and insurance) '
   image_filenames:
   - "/assets/images/ravenwing1.JPG"
@@ -281,8 +281,8 @@
   state: ACT
   what_is_sold: Books, Comics/Graphic Novels
   link: "[Website](https://www.ShootingStar.pub)"
-  description: Telling stories, connecting people, building communities, one world
-    at a time.
+  description: "Telling stories, connecting people, \n\nbuilding communities, one
+    world at a time."
   restrictions: ''
   image_filenames:
   - "/assets/images/shootingstar8.jpg"
