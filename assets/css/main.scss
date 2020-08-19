@@ -658,7 +658,7 @@ ul.social-links-menu {
     background-size: calc(0.5 * calc(100vw - 50rem)), 90vw, calc(0.5 * calc(100vw - 50rem));
     background-position-x: calc(100vw - calc(0.25 * calc(100vw - 50rem))), center, calc(0.25 * calc(50rem - 100vw));
     background-position-y: 0, 6rem, 3rem;
-    background-repeat: no-repeat, repeat;
+    background-repeat: repeat-y, repeat-y;
   }
 
   header {
