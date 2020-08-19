@@ -18,42 +18,60 @@
     <ul class="social-links-menu">
       {% if programparticipant.facebook.size > 0 %}
       <li class="facebook social-link">
-        <a href="https://www.facebook.com/{{ programparticipant.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/" target="_blank">
-        <span class="screen-reader-text">Facebook</span>
+        <a href="https://www.facebook.com/{{ programparticipant.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/"
+          target="_blank"
+          aria-label="Find this program participant on Facebook"
+        >
+          <span class="screen-reader-text">Facebook</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.twitter.size > 0 %}
       <li class="twitter social-link">
-        <a href="https://twitter.com/{{ programparticipant.twitter | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'twitter.com' }}" target="_blank">
+        <a href="https://twitter.com/{{ programparticipant.twitter | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'twitter.com' }}"
+          target="_blank"
+          aria-label="Find this program participant on Twitter"
+        >
           <span class="screen-reader-text">Twitter</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.instagram.size > 0 %}
       <li class="instagram social-link">
-        <a href="https://www.instagram.com/{{ programparticipant.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/" target="_blank">
+        <a href="https://www.instagram.com/{{ programparticipant.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/"
+          target="_blank"
+          aria-label="Find this program participant on Instagram"
+        >
           <span class="screen-reader-text">Instagram</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.patreon.size > 0 %}
       <li class="patreon social-link">
-        <a href="https://patreon.com/{{ programparticipant.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'patreon.com' }}/" target="_blank">
+        <a href="https://patreon.com/{{ programparticipant.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'patreon.com' }}/"
+          target="_blank"
+          aria-label="Find this program participant on Patreon"
+        >
           <span class="screen-reader-text">Patreon</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.discord.size > 0 %}
       <li class="discord social-link">
-        <a href="https://discord.gg/{{ programparticipant.discord | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'discord.gg' }}/" target="_blank">
+        <a href="https://discord.gg/{{ programparticipant.discord | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'discord.gg' }}/"
+          target="_blank"
+          aria-label="Find this program participant on Discord"
+        >
           <span class="screen-reader-text">Discord</span>
         </a>
       </li>
       {% endif %}
       {% if programparticipant.mastodon.size > 0 %}
       <li class="mastodon social-link">
-        <a href="https://{{ programparticipant.mastodon | remove: '://' | remove: 'https' | remove: 'http' }}/" target="_blank">
+        <a href="https://{{ programparticipant.mastodon | remove: '://' | remove: 'https' | remove: 'http' }}/"
+          target="_blank"
+          aria-label="Find this program participant on Mastodon"
+        >
           <span class="screen-reader-text">Mastodon</span>
         </a>
       </li>
