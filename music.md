@@ -3,7 +3,7 @@ title: Music
 layout: default
 category: info
 public: true
-order: 15
+order: 7
 
 ---
 # Participatory Music
