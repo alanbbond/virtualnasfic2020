@@ -43,7 +43,8 @@
   link: |2-
 
     [Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)
-  description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
+  description: "Hand-made jewellery and notebooks from Cambridge UK. \n\nCommissions
+    welcome!"
   restrictions: ''
   image_filenames:
   - "/assets/images/city-of-dreaming-pylons-2.jpg"
@@ -59,8 +60,8 @@
   link: |2-
 
     [http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")
-  description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
-    sculpture, and more.
+  description: "Custom pottery, yarn bowls, coasters, pet portraits, \n\namulets,
+    tech sculpture, and more."
   restrictions: ''
   image_filenames:
   - "/assets/images/hertel01-1.jpg"
@@ -318,8 +319,8 @@
   state: Ontario
   what_is_sold: Books
   link: "[Amazon](http://www.amazon.com/author/stephenpearl)"
-  description: Speculative fiction novels and anthologies featuring the work of Stephen
-    B. Pearl. Post-apocalyptic, Urban fantasy, Norse Fantasy, and more.
+  description: "Speculative fiction novels and anthologies featuring \n\nthe work
+    of Stephen B. Pearl. \n\nPost-apocalyptic, Urban fantasy, Norse Fantasy, and more."
   restrictions: ''
   image_filenames:
   - "/assets/images/stephenbpearl-books.jpg"
