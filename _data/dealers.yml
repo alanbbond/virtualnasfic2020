@@ -1,4 +1,20 @@
 ---
+- name: Magpie Curios
+  contact: Marcia Illingworth
+  city: Powell
+  state: TN
+  what_is_sold: Decorative items, candlabra, wine goblets, wall hangings, odities
+  link: '[magpiecurios.com](http://magpiecurios.com "http://magpiecurios.com")'
+  description: Fannish general store
+  restrictions: Will ship anywhere that shipping delivery can be confirmed. International
+    buyers please contact before purchase, to be sure that we are able to ship to
+    your location.
+  image_filenames:
+  - "/assets/images/20150628_093449.jpg"
+  - "/assets/images/img_20191106_171212.jpg"
+  - "/assets/images/20151212_024218.jpg"
+  - "/assets/images/20150628_093626.jpg"
+  - "/assets/images/20140404_220451.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
