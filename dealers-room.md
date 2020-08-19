@@ -48,6 +48,20 @@ As this will be primarily an online experience you will need to have an online p
 * Some kind of process for accepting sales while not physically present with a customer. This includes a shipping process. While NASFiC will not interfere with individual dealer practices we would really like attendees to be able to buy from dealers and if can’t or won’t ship your merchandise this isn’t a good fit for you.
 * If you wish to participate during the convention you will need to be able to access the Discord server. Instructions for how to do so will be posted on the NASFiC website but the minimum computer capability you will need is a computer with online access running Windows 7 or Mac OS 10.10 or a cell phone with iOS 10+ or Android 5+ as the OS. This will allow both text and voice chat. We anticipate “core hours” for dealer room Discord interaction and these times will be posted closer to the convention dates.
 
+## How to use Discord for Dealers
+
+If you have already joined the server (if you don’t understand this you haven’t already joined the server) use [https://discord.com/channels/@me](https://discord.com/channels/@me "https://discord.com/channels/@me")
+
+if you have not joined Discord, please refer to the link in the email that was sent to you. If you can't find the email, please email Angela or Walter for the link.
+
+Once you are there you will see in a text box “Alan Bond Invited You To Join NASFiC Columbus” along with how many people are online and how many members. Click “Accept Invite”.
+
+Once you have done that you will be taken to the Code Of Conduct landing page. Please read it. Below that you will see a smaller “thumbs up” icon beneath a larger one. If you have already claimed and verified your account (text below the thumbs up icon will appear if you have not), click on it. If you have NOT claimed and verified your account do so now. You will need to give a birth date, an email, select a password and click on a link via an email sent to the email address you used for this in order to claim and verify your account.
+
+Once you have clicked on the smaller “thumbs up” icon you have joined the Discord Server and may join any of the channels on the left side of the screen. If you wish to visit the dealer room mouse over and select “dealers-room”. Click on that link. You should see “Welcome to #dealers-room!” and a text box below for typing into.
+
+If you wish to have moderator rights to the individual Discord channel you requested please send Walter Parker ([walterp@gmail.com](mailto:walterp@gmail.com)) your Discord name so he may add it.
+
 ## Apply:
 
 [Click here to go to the Dealer Application Form.](https://docs.google.com/forms/d/e/1FAIpQLSfuCzyut-dGxY33RgyNWReSl0girUJK9Ws8BkrON3LGU0MScQ/viewform?usp=sf_link "Dealer Application Form")
