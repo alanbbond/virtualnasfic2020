@@ -131,6 +131,20 @@
   state: New York
   what_is_sold: Free standing hardwood jigsawn puzzles and dragons
   restrictions: ''
+- name: FIAWOL Books
+  contact: Tim Illingworth
+  city: Powell
+  state: TN
+  what_is_sold: Books, Comics/Graphic Novels
+  link: '[https://fiawol-books.square.site/](https://fiawol-books.square.site/ "https://fiawol-books.square.site/")'
+  description: Pre-loved sf and fantasy books all at one low price.
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/20200819_132206.jpg"
+  - "/assets/images/20200819_132152.jpg"
+  - "/assets/images/20200819_132135.jpg"
+  - "/assets/images/20200819_132120.jpg"
+  - "/assets/images/20200113_124757.jpg"
 - name: Lora Gray, Artist
   contact: Lora Gray
   city: Kent
