@@ -21,9 +21,7 @@
   city: Oregon City
   state: Oregon
   what_is_sold: Books
-  link: |2-
-
-    [Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)
+  link: "Available from \n\n[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
   description: Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology,
     kindle, paperback
   restrictions: ''
@@ -226,7 +224,9 @@
   city: San Jose
   state: California
   what_is_sold: Books
-  link: "[Website](https://paperangelpress.com)"
+  link: |2-
+
+    [https://paperangelpress.com](https://paperangelpress.com "https://paperangelpress.com")
   description: To bring new works of fiction and art to light. To give people a chance
     to realize their dreams.
   restrictions: ''
