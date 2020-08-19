@@ -13,6 +13,7 @@
   - Beth Meacham
   description: 'Colleagues, friends, and family gather to say goodbye to the late
     great author and editor, Mike Resnick. '
+  music: false
   published: true
 - title: Writing Real History Into Fictional Pasts
   tags:
@@ -28,6 +29,7 @@
   - Michael Grossberg
   description: Historical fiction writers discuss approaches and techniques for writing
     major events of the past into stories.
+  music: false
   published: true
 - title: 'Youth & YA Fiction: Who''s Reading Who?'
   datetime: Friday 12:00 PM
@@ -41,6 +43,7 @@
   - Phoebe North
   description: What do trends in SF/F youth and young adult fiction tell us about
     the values and perspectives of Gen Z?
+  music: false
   published: true
 - title: 'COVID-FX: Staying Connected'
   tags:
@@ -58,6 +61,7 @@
   description: How are local SF/F clubs and fan communities staying connected during
     COVID-19? What's working, what's not, what have we learned and what has yet to
     be tried?
+  music: false
   published: true
 - title: Alt & Self Publishers Panel
   tags:
@@ -69,6 +73,7 @@
   programparticipants:
   - Sherwood Smith
   - Valerie Estelle Frankel
+  music: false
   published: false
 - title: How Game Titles Work
   tags:
@@ -85,6 +90,7 @@
     developers in the real world have subverted and played with these rules, expanding
     what a game's title can say about the experience of play. In this presentation,
     Leonard goes over the rules and talks about how they've changed over time.
+  music: false
   published: true
 - title: 'Isaac Asimov at 100: Our Favorites'
   tags:
@@ -99,6 +105,7 @@
   description: Isaac Asimov, born 100 years ago, penned (well, typed) an immense number
     of books, both fiction and nonfiction. Join our panel of Asimov fans as they share
     their favorites.
+  music: false
   published: false
 - title: 'Nuts & Bolts: Running a Non-Profit Lit Organization'
   tags:
@@ -113,6 +120,7 @@
     their role in the field. Mohanraj will talk about conventions, magazines, and
     the Speculative Literature Foundation (www.speclit.org) -- a nuts-and-bolts presentation
     for those interested in running such things.
+  music: false
   published: true
 - title: 'Fandom Check-In: Where Are We At?'
   tags:
@@ -129,6 +137,7 @@
   - Isabel Schechter
   - Nicholas Whyte
   description: Welcome to NASFiC! What's going on in the world of fandom?
+  music: false
   published: true
 - title: 'COVID-FX: Selling Your Wares'
   tags:
@@ -145,6 +154,7 @@
   description: How has the pandemic affected our SF/F professionals and creatives
     who've relied on foot traffic to sell their wares? Join our panel of booksellers,
     artists, musicians and other creatives as they share impacts stories and strategies.
+  music: false
   published: true
 - title: 'COVID-FX: Quarantine & the Future of Urban Fantasy'
   tags:
@@ -162,6 +172,7 @@
     will these changes impact the feature creatures and characters of urban fantasy?
     Join us as we discuss the future of writing urban fantasy and how quarantine will
     impact everything from world building and characters to plot.
+  music: false
   published: true
 - title: 'SF/F Artists Talk Art '
   tags:
@@ -176,6 +187,7 @@
   - Rachel Quinlan
   - Ray VanTilburg
   description: ''
+  music: false
   published: true
 - title: Weekend Science Update
   tags:
@@ -193,6 +205,7 @@
   description: Our panel of scientists (and science-adjacents) take turns sharing
     news (and fake news) on their favorite areas of expertise (or not). Prepare to
     be informed (and entertained)!
+  music: false
   published: true
 - title: Librarians, Booksellers, Collectors, Oh My!
   tags:
@@ -208,6 +221,7 @@
   - Sarah Loch
   description: Panelists discuss the different roles that librarians, booksellers,
     and collectors play in keeping science fiction alive.
+  music: false
   published: true
 - title: Imaginary Book Club
   tags:
@@ -224,6 +238,7 @@
   - Julia Rios
   description: 'Panelists discuss amazing books they''ve read in the past year! The
     catch: none of those books exist.'
+  music: false
   published: true
 - title: BIPOC Roundtable
   datetime: Friday 8:00 PM
@@ -237,6 +252,7 @@
   description: Our panel of Black, Indigenous People of Color have a roundtable about
     the ways they've used their work to shed light on social injustices and the need
     for systemic change.
+  music: false
   published: true
 - title: Emergent Gameplay
   datetime: Friday 9:00 PM
@@ -247,6 +263,7 @@
   - J Holtham
   - Victor Raymond
   - Whitney "Strix" Beltrán
+  music: false
   published: true
 - title: 'Lessons Not Learned: The Future of Dystopian & Utopian Stories'
   datetime: Friday 9:00 PM
@@ -263,6 +280,7 @@
     world look like in a post-COVID, post-Trump, melting-polar caps world? Can we
     ever move back to utopianism? Should we do away with utopian and dystopian scenarios
     altogether?'
+  music: false
   published: true
 - title: Fantasy for YA vs Aduts
   datetime: Friday 10:00 PM
@@ -275,6 +293,7 @@
   - Sherwood Smith
   description: Panel of fantasy writers and afficionados explore the ways fantasy
     stories differ depending on the age market.
+  music: false
   published: true
 - title: 'COVID-FX: Horror Beyond 2020'
   datetime: Friday 10:00 PM
@@ -287,6 +306,7 @@
   - Premee Mohamed
   description: But is there anything scarier than 2020? Horror inspired by the pandemic,
     quarantine, chaotic media narratives and other COVID-Effects.
+  music: false
   published: true
 - title: Big Hearts Award
   datetime: Saturday 10:00 AM
@@ -295,6 +315,7 @@
   - Ben Yalow
   programparticipants:
   - Sue & Steve Francis
+  music: false
   published: true
 - title: Surveillance & Society in SF
   datetime: Saturday 10:00 AM
@@ -303,6 +324,7 @@
   programparticipants:
   - Dr. Nakeema Stefflbauer
   - Gadi Evron
+  music: false
   published: true
 - title: COVID-FX Writing & Reading About Pandemics During a Pandemic
   datetime: Saturday 10:00 AM
@@ -315,6 +337,7 @@
   - Lucy M. Snyder
   description: 'Panelists discuss pandemic stories they have written and are reading
     during COVID-times. Which begs the question: Is doing that even a good idea?'
+  music: false
   published: true
 - title: 'Worldbuilding: Rituals and Symbols'
   datetime: Saturday 11:00 AM
@@ -325,6 +348,7 @@
   - Valerie Estelle Frankel
   - Sherwood Smith
   - L.D. Lewis
+  music: false
   published: true
 - title: The Future of Anthologies
   datetime: Saturday 11:00 AM
@@ -337,6 +361,7 @@
   - Neil Clarke
   description: Our highly-regarded panel of editors discuss current trends in and
     future of anthologies.
+  music: false
   published: true
 - title: 'Women of a Certain Age: Writing Older Women Protagonists'
   datetime: Saturday 12:00 PM
@@ -351,6 +376,7 @@
     -- how does changing the age of the heroine change the story? How do older heroines
     change in contrast to their younger counterparts? What are the advantages of having
     an older heroine?
+  music: false
   published: true
 - title: The Ever-Expanding Universe of New Space Opera
   datetime: Saturday 12:00 PM
@@ -368,6 +394,7 @@
     in space opera and how they reflect changing demographics of readers and writers,
     sociopolitical realities and concerns, and broader personal and cultural interests
     and narratives.  '
+  music: false
   published: false
 - title: Favorite Queer SF/F Fiction
   datetime: Saturday 1:00 PM
@@ -375,6 +402,7 @@
   moderators: ''
   programparticipants: ''
   description: Panelists review their favorite queer Youth/YA fiction.
+  music: false
   published: true
 - title: Today in Audio Dramas!
   datetime: Saturday 1:00 PM
@@ -387,6 +415,7 @@
   - Phoebe Barton
   description: Today in Audio Dramas! A look at Audio dramas, audiobooks, and fiction
     podcasts and why the time is now!
+  music: false
   published: true
 - title: If Aliens Came To Earth
   datetime: Saturday 2:00 PM
@@ -397,6 +426,7 @@
   - Douglas Johnson
   - Stephen Leigh
   description: Would they, though? Our esteemed panelists discuss....
+  music: false
   published: false
 - title: 'Roots in Two Places: Writing from a Dual Culture Experience'
   datetime: Saturday 2:00 PM
@@ -409,6 +439,7 @@
   description: Our panelists, all with roots in two or more separate cultures -- look
     at the ways having dual culture and language has guided their worldbuilding and
     storytelling.
+  music: false
   published: false
 - title: Future Worldcon Q&A
   datetime: Saturday 3:00 PM
@@ -416,6 +447,7 @@
   moderators:
   - Anne Gray
   programparticipants: ''
+  music: false
   published: true
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
@@ -437,6 +469,7 @@
     tensions between Liberty and Power and cooperation versus coercion, as reflected
     in these and other authors’ diverse Prometheus Award winners over the past 40
     years.
+  music: false
   published: true
 - title: Prometheus Awards’ 40th Anniversary Ceremony
   datetime: Saturday Afternoon
@@ -459,6 +492,7 @@
     Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles
     Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton,
     Jack Williamson, Wilson and Robert Anton Wilson.)'
+  music: false
   published: true
 - title: The Legal Implications of Monster Hunting
   datetime: Saturday 3:00PM
@@ -477,6 +511,7 @@
     exorcism? If it is murder to kill a monster, is being chosen or cursed to do so
     a plausible defense? Could ghosts have property rights to the houses they haunt
     if they lived there first? If they do, is expelling them an unlawful eviction?'
+  music: false
   published: true
 - title: 'Common Threads: Game Writers & Designers'
   datetime: Saturday 4:00 PM
@@ -488,6 +523,7 @@
   - Whitney "Strix" Beltrán
   description: Game writers and designers from several disciplines talk about the
     common threads of what they do, irrespective of media and form.
+  music: false
   published: false
 - title: 'Deconstructing the Novella  '
   datetime: Saturday, 4:00pm
@@ -503,6 +539,7 @@
     as well as other celebrated titles, highlight some of the publishers putting them
     out, dig into some craft questions, and pull apart a few of the novella's tricks
     and challenges.
+  music: false
   published: true
 - title: Information, Please!
   datetime: Saturday 5:00pm
@@ -511,6 +548,7 @@
   - Steven H Silver
   description: A panel of four experts are asked questions and can respond individually
     or in discussion. Can you stump the experts?
+  music: false
   published: true
   programparticipants:
   - Alec Nevala-Lee
@@ -525,6 +563,7 @@
   - Malka Older
   description: Our panel draw from the wide range of speculative and science fiction
     to offer up their new visions of leadership and innovations in governance.
+  music: false
   published: true
 - title: Feminist Fables & Fairy Tales
   datetime: Saturday 6:00 PM
@@ -533,6 +572,7 @@
   - Jennifer Blackstream
   - Jim C. Hines
   - Valerie Estelle Frankel
+  music: false
   published: true
   moderators:
   - Sherwood Smith
@@ -550,6 +590,7 @@
     limitations, how do those decisions impact the creatives within their ranks -
     and the culture of storytelling? What will be different, and what opportunities
     lie ahead?'
+  music: false
   published: true
 - title: 'Myths & Legends: Culture Shifts & Societal Transformation'
   datetime: Saturday 7:00 PM
@@ -562,6 +603,7 @@
   description: 'Our cross-genre and cross-discipline panel shares their favorite stories
     of great shifts and transformation. From resistance and collapse to evolution
     and re-emergence: it is the stuff of myths and legends!'
+  music: false
   published: true
 - title: 'The Power of Love: The Intersection of Speculative Fiction and Romance'
   datetime: Saturday 7:00PM
@@ -578,6 +620,7 @@
     the "genre" subspace of fiction. Join panelists to discuss how worldbuilding can
     inform your romance plot (and vice versa) and how characterization tricks help
     you generate a strong romantic A or B plot.
+  music: false
   published: true
 - title: Writers Helping Writers
   datetime: Saturday 8:00 PM
@@ -595,6 +638,7 @@
     and cultures represented in that writing. Who held out their hand to you when
     you were starting out? How do you decide who you hold your hand out to now that
     you’re established?
+  music: false
   published: true
 - title: 'Weathering the Storm: Creating in Times of Trouble'
   datetime: Saturday 8:00 PM
@@ -610,6 +654,7 @@
   description: 'A mixed panel of writers and artists discuss the challenges of making
     art and stories during a pandemic, as well as strategies for managing health and
     being active creators. '
+  music: false
   published: true
 - title: Contemporary Gothic Fiction
   datetime: Saturday, 9:00-9:50pm
@@ -623,6 +668,7 @@
   description: Four contemporary authors of Gothic fiction discuss some of the latest
     trends in the genre, and how today's Gothics are in dialogue - or direct confrontation
     - with the works of the past.
+  music: false
   published: true
 - title: Steampunk Lessons for a Post-Fossil Fuel Future
   datetime: Saturday, 9:00-9:50pm
@@ -638,6 +684,7 @@
     stories would you take with you to learn how to thrive in a de-industrialized
     world? What can be applied from steampunk when writing fiction set in the post-fossil
     fuel age? '
+  music: false
   published: true
 - title: Fanzines Panel
   datetime: Saturday 10:00 PM
@@ -649,6 +696,7 @@
   - Steven H Silver
   description: Our panelists discuss the current state of fanzines - what's hot and
     what's next?
+  music: false
   published: false
 - title: 'Worldbuilding: Crime and Punishment'
   datetime: Saturday 10:00 PM
@@ -662,6 +710,7 @@
     entering public consciousness, our panelists discuss alternative takes on traditional
     crime and punishment. What gets called a crime? Who or what entities enforce the
     law?  What does justice and restitution look like -- and what can be re-imagined?
+  music: false
   published: false
 - title: Researching the Golden Age
   datetime: Sunday 10:00 AM
@@ -672,6 +721,7 @@
   description: 'Hugo nominated non fiction authors Alec Nevala-Lee and Farah Mendlesohn
     talk about the joys of non fiction research and writing, and the perils of writing
     about Big Names during a zeitgeist shift. '
+  music: false
   published: true
 - title: 'Future of Policing: A Journey Planet Fanzine Workshop'
   datetime: Sunday 10:00 AM
@@ -694,6 +744,7 @@
     potential for exploring new law enforcement options?  Is there a solution in SF
     that can help to deconstruct, redesign, and rebuild a police force that truly
     reflects a better future? What questions do you want to ask and answer?
+  music: false
   published: true
 - title: The Landscape of Jewish Science Fiction & Fantasy
   datetime: Sunday 11:00 AM
@@ -706,6 +757,7 @@
   - Steven H Silver
   - Valerie Estelle Frankel
   description: A panel of Jewish writers and creators from across the SF/F universe...
+  music: false
   published: true
   moderators:
   - Isabel Schechter
@@ -725,6 +777,7 @@
     more or less technology? What would it look like if technology truly served us
     all? Drawing from examples in books, graphic novels and film, our group discuss
     the technological dreams of AfroFuturism. '
+  music: false
   published: true
 - title: Running SF/F Organizations
   datetime: Sunday 12:00 PM
@@ -740,6 +793,7 @@
     businesses and organizations. They discuss logistics, strategy, budgets, and the
     effects of gender and race on their experiences as leaders. And they share what
     they wish they'd known ten years ago.
+  music: false
   published: true
 - title: 'Predicting the Post-Apocalypse: How Will We Be Saved?'
   datetime: Sunday 12:00 PM
@@ -752,6 +806,7 @@
   description: It's the post-apocalypse - how will humanity be saved? Our panel mine
     their favorite stories about the post-apocalypse for clues at what might rescue
     or restore humanity.
+  music: false
   published: true
 - title: Ohio Fan Clubs & Cons
   datetime: Sunday 1:00 PM
@@ -763,6 +818,7 @@
   - Doug Piero Carey
   - Julie Washington
   - Michael Grossberg
+  music: false
   published: true
 - title: 'Worldbuilding: Useful Adaptations for Disabled Characters'
   datetime: Sunday 1:00 PM
@@ -779,6 +835,7 @@
     the disability doesn''t matter because the protagonist has special eyes, or hearing
     powers, etc. Our panel of disabled folks discuss worldbuilding adaptive devices
     that are actually *adaptive* and don''t make the protagonist function as able-bodied.  '
+  music: false
   published: true
 - title: 'COVID-FX: Traditional Publishing'
   datetime: Sunday 2:00 PM
@@ -791,6 +848,7 @@
   - Pablo Defendini
   description: Our panel of traditional publishers talk about the state of SF/F publishing
     since the pandemic. What's changed, what's not?
+  music: false
   published: true
 - title: Graphic Novels Panel
   datetime: Sunday 2:00 PM
@@ -798,12 +856,14 @@
   programparticipants:
   - Jamar Nicholas
   description: ''
+  music: false
   published: true
 - title: Live Tiara Demonstration
   datetime: Saturday 11:00 AM
   room: "[Auditorium](/auditorium)"
   moderators:
   - Sara Felix
+  music: false
   published: false
   description: ''
 - title: 'Concert: Chris Conway'
@@ -811,18 +871,21 @@
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Chris Conway
+  music: true
   published: true
 - title: 'Concert: Roberta Rogow'
   datetime: Friday, 5:00PM
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Roberta Rogow
+  music: true
   published: true
 - title: 'Concert: Tom Smith'
   datetime: Friday, 6:00PM
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Tom Smith
+  music: true
   published: true
 - title: Open Filk with Tom Smith
   datetime: Friday, 9:00PM
@@ -833,6 +896,7 @@
     song circle. We’ll go around the room giving everyone a chance to perform (play),
     request a song (pick), or pass. All types of music are welcome, but expect to
     hear a bunch of songs related to science fiction, fantasy, science, and fandom.
+  music: true
   published: true
 - title: Filk History & Stories
   datetime: Saturday, 11:00AM
@@ -843,6 +907,7 @@
   description: An informal chat with Filk legend Juanita Coulson, who has been there
     from the beginning -- since before it was called Filk.  A unique opportunity,
     and guaranteed to be entertaining!
+  music: true
   published: true
 - title: "Participatory Music\tChantey Sing"
   datetime: Saturday 1:00PM
@@ -856,12 +921,14 @@
     of sail are particularly welcome, but let’s try to avoid the most offensive bits.
     (The old salts were famously lacking in delicacy, but we don’t need _that_ much
     verisimilitude, and we won’t mind if you drop a few verses or change a few words.)
+  music: true
   published: true
 - title: "Participatory Music\tChantey Sing"
   datetime: Saturday 2:30PM
   room: Participatory Music
   programparticipants:
   - Marilisa Valtazanou
+  music: true
   published: true
 - title: Open Filking
   datetime: Saturday 3:00PM
@@ -873,6 +940,7 @@
     song circle. We’ll go around the room giving everyone a chance to perform (play),
     request a song (pick), or pass. All types of music are welcome, but expect to
     hear a bunch of songs related to science fiction, fantasy, science, and fandom.
+  music: true
   published: true
 - title: Online-Performance Workshop
   datetime: Saturday 6:00PM
@@ -885,6 +953,7 @@
     for several years. You will receive feedback, where relevant, on voice, movement,
     costume, and lighting.  You don’t need a lot of fancy equipment, come to learn
     to use what you have effectively.
+  music: true
   published: true
 - title: 'Concert: Tom Smith'
   datetime: Saturday 7:00PM
@@ -892,6 +961,7 @@
   programparticipants:
   - Tom Smith
   description: ''
+  music: true
   published: true
 - title: Bawdy Songs
   datetime: Saturday 10:00PM
@@ -903,6 +973,7 @@
     joy of procreation: songs about sex that are fun, funny and wonderful are all
     welcome; violence and coercion are not, and the scatalogical is discouraged. Bawdiness
     in any orientation is welcome. A virtual sing like no other!'
+  music: false
   published: true
 - title: Open Filking
   datetime: Saturday 11:00PM
@@ -913,6 +984,7 @@
     song circle. We’ll go around the room giving everyone a chance to perform (play),
     request a song (pick), or pass. All types of music are welcome, but expect to
     hear a bunch of songs related to science fiction, fantasy, science, and fandom.
+  music: true
   published: true
 - title: Traditional Ballad Bingo
   datetime: Saturday 12:00PM
@@ -924,6 +996,7 @@
     your Ballad Bingo cards when you detect such classic tropes as drowning, pregnancy
     out of wedlock, or murder of a loved one. Web-based bingo cards will be provided.  Attendees
     are encouraged to lead songs, but you needn’t sing to play!
+  music: true
   published: true
 - title: 'Concert: Tom Smith'
   datetime: Sunday 1:00PM
@@ -931,6 +1004,7 @@
   programparticipants:
   - Tom Smith
   description: ''
+  music: true
   published: true
 - title: Dead Dog Filk
   datetime: Sunday 4:00PM
@@ -939,4 +1013,5 @@
   description: Haven’t gotten enough? Still looking to catch up with friends? Too
     tired to sign off? Come to the dead dog session! Music is encouraged, but structure
     is eschewed.
+  music: true
   published: true
