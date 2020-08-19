@@ -21,11 +21,13 @@
   city: Oregon City
   state: Oregon
   what_is_sold: Books
-  link: "Available from \n\n[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
+  link: "[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
   description: |-
-    We feature the following:
+    We feature
 
-    Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology, kindle, paperback
+    * Apocalypse, Post-Apocalypse
+    * Dystopia, Horror
+    * Sci-Fi, Anthology
   restrictions: ''
   image_filenames:
   - "/assets/images/thumbnail_image0.jpg"
@@ -41,7 +43,8 @@
   link: |2-
 
     [Etsy](https://www.etsy.com/uk/shop/CityOfDreamingPylons)
-  description: Hand-made jewellery and notebooks from Cambridge UK. Commissions welcome!
+  description: "Hand-made jewellery and notebooks from Cambridge UK. \n\nCommissions
+    welcome!"
   restrictions: ''
   image_filenames:
   - "/assets/images/city-of-dreaming-pylons-2.jpg"
@@ -57,8 +60,8 @@
   link: |2-
 
     [http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")
-  description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
-    sculpture, and more.
+  description: "Custom pottery, yarn bowls, coasters, pet portraits, \n\namulets,
+    tech sculpture, and more."
   restrictions: ''
   image_filenames:
   - "/assets/images/hertel01-1.jpg"
@@ -187,8 +190,12 @@
   state: Ohio
   what_is_sold: Costume Accessories
   link: "[Etsy](https://www.etsy.com/shop/mskittyscloset/) \n[Facebook](https://www.facebook.com/MsKittysCloset)"
-  description: Ms. Kitty's Closet creates quality faux fur accessories including various
-    animal ears, tails, hoods in cuffs in a variety of style, colors and patterns.
+  description: |-
+    Ms. Kitty's Closet creates quality faux fur accessories
+
+    including various animal ears, tails, hoods in cuffs in
+
+     a variety of style, colors and patterns.
   restrictions: ''
   image_filenames:
   - "/assets/images/kittys-01.jpg"
@@ -259,8 +266,8 @@
   state: IL
   what_is_sold: Jewelry
   link: "[Etsy](http://www.ravenwingwearableart.etsy.com)"
-  description: i make handmade jewelry including ear cuffs, ear wraps, earrings, and
-    feather hair ornaments
+  description: "I make handmade jewelry including ear cuffs, \n\near wraps, earrings,
+    and feather hair ornaments"
   restrictions: 'not sure how to do overseas (pricing and insurance) '
   image_filenames:
   - "/assets/images/ravenwing1.JPG"
@@ -275,8 +282,8 @@
   state: ACT
   what_is_sold: Books, Comics/Graphic Novels
   link: "[Website](https://www.ShootingStar.pub)"
-  description: Telling stories, connecting people, building communities, one world
-    at a time.
+  description: "Telling stories, connecting people, \n\nbuilding communities, one
+    world at a time."
   restrictions: ''
   image_filenames:
   - "/assets/images/shootingstar8.jpg"
@@ -312,8 +319,8 @@
   state: Ontario
   what_is_sold: Books
   link: "[Amazon](http://www.amazon.com/author/stephenpearl)"
-  description: Speculative fiction novels and anthologies featuring the work of Stephen
-    B. Pearl. Post-apocalyptic, Urban fantasy, Norse Fantasy, and more.
+  description: "Speculative fiction novels and anthologies featuring \n\nthe work
+    of Stephen B. Pearl. \n\nPost-apocalyptic, Urban fantasy, Norse Fantasy, and more."
   restrictions: ''
   image_filenames:
   - "/assets/images/stephenbpearl-books.jpg"
