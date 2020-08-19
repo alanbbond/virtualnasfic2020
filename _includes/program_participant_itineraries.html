@@ -1,104 +1,19 @@
-<section class="program-participant-listing" id="listing-{{ programparticipant.name | slugify }}">
-  {% if programparticipant.filename.size > 0 %}
-  <div
-    class="floatimage"
-    role="img"
-    {% assign html_safe_name = programparticipant.name | replace: '"','' | replace: "'","" %}
-    aria-label='A photo of {{ html_safe_name }}.'
-    style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ programparticipant.filename | remove: "/assets/images/" }}');"
-  >
-  </div>
-  {% endif %}
+<section class="program-participant-itinerary" id="listing-{{ programparticipant.name | slugify }}">
   <div class="program-participant-info">
-    <h2>{{ programparticipant.name }}</h2>
-    {% if programparticipant.role.size > 0 %}
-    <h3>{{ programparticipant.role }}</h3>
-    {% endif %}
-    {% if programparticipant.facebook or programparticipant.twitter or programparticipant.instagram or programparticipant.patreon or programparticipant.discord %}
-    <ul class="social-links-menu">
-      {% if programparticipant.facebook.size > 0 %}
-      <li class="facebook social-link">
-        <a href="https://www.facebook.com/{{ programparticipant.facebook | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'facebook.com' }}/"
-          target="_blank"
-          aria-label="Find this program participant on Facebook"
-        >
-          <span class="screen-reader-text">Facebook</span>
-        </a>
-      </li>
-      {% endif %}
-      {% if programparticipant.twitter.size > 0 %}
-      <li class="twitter social-link">
-        <a href="https://twitter.com/{{ programparticipant.twitter | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'twitter.com' }}"
-          target="_blank"
-          aria-label="Find this program participant on Twitter"
-        >
-          <span class="screen-reader-text">Twitter</span>
-        </a>
-      </li>
-      {% endif %}
-      {% if programparticipant.instagram.size > 0 %}
-      <li class="instagram social-link">
-        <a href="https://www.instagram.com/{{ programparticipant.instagram | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'instagram.com' }}/"
-          target="_blank"
-          aria-label="Find this program participant on Instagram"
-        >
-          <span class="screen-reader-text">Instagram</span>
-        </a>
-      </li>
-      {% endif %}
-      {% if programparticipant.patreon.size > 0 %}
-      <li class="patreon social-link">
-        <a href="https://patreon.com/{{ programparticipant.patreon | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'patreon.com' }}/"
-          target="_blank"
-          aria-label="Find this program participant on Patreon"
-        >
-          <span class="screen-reader-text">Patreon</span>
-        </a>
-      </li>
-      {% endif %}
-      {% if programparticipant.discord.size > 0 %}
-      <li class="discord social-link">
-        <a href="https://discord.gg/{{ programparticipant.discord | remove: ':' | remove: '/' | remove: 'https' | remove: 'http' | remove: 'www.' | remove: 'discord.gg' }}/"
-          target="_blank"
-          aria-label="Find this program participant on Discord"
-        >
-          <span class="screen-reader-text">Discord</span>
-        </a>
-      </li>
-      {% endif %}
-      {% if programparticipant.mastodon.size > 0 %}
-      <li class="mastodon social-link">
-        <a href="https://{{ programparticipant.mastodon | remove: '://' | remove: 'https' | remove: 'http' }}/"
-          target="_blank"
-          aria-label="Find this program participant on Mastodon"
-        >
-          <span class="screen-reader-text">Mastodon</span>
-        </a>
-      </li>
-      {% endif %}
-    </ul>
-    {% endif %}
-    {% if programparticipant.website1.size > 0 %}
-    {{ programparticipant.website1 | markdownify }}
-    {% endif %}
-    {% if programparticipant.website2.size > 0 %}
-    {{ programparticipant.website2 | markdownify }}
-    {% endif %}
-    {% if programparticipant.website3.size > 0 %}
-    {{ programparticipant.website3 | markdownify }}
-    {% endif %}
-    <p>{{ programparticipant.description | markdownify }}</p>
-  </div>
-</section>
-<section class="presenter-itinerary">
-  <h3>Itinerary</h3>
-  <ul>
+    <h3>{{ programparticipant.name }}</h3>
+    <ul>
 {% for event in site.data.schedule %}
+{% capture pub %}
+{% if event.published %}
+(not published)
+{% endif %}
+{% endcapture %}
 {%   for pp in event.programparticipants %}
 {%     if pp == programparticipant.name %}
-<li>{{event.datetime}} - {{event.title}}</li>
+      <li class='{{pub | replace: "(", "" | replace: ")", "" | slugify }}'>{{event.datetime}}, {{event.room | markdownify | replace: "<p>", "" | replace: "</p>", "" }}- {{event.title}} {{pub}}</li>
 {%     endif %}
 {%   endfor %}
 {% endfor %}
-  </ul>
+    </ul>
+  </div>
 </section>

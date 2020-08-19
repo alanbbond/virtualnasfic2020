@@ -711,6 +711,31 @@ ul.social-links-menu {
     .program-participant-info {
       width: 40rem;
     }
+    ul {
+      margin-top: 0;
+
+      li {
+        a {
+          color: inherit;
+        }
+        a {
+          color: inherit;
+          &:link,
+          &:visited,
+          &:hover,
+          &:active {
+            color: inherit;
+          }
+        }
+      }
+
+      .not-published {
+        color: $medium-dark;
+        background-color: $light;
+        border: .01rem solid $medium;
+        padding: 0.25rem;
+      }
+    }
   }
 
   .byline {
