@@ -21,11 +21,17 @@
   city: Oregon City
   state: Oregon
   what_is_sold: Books
-  link: "Available from \n\n[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
-  description: |-
-    We feature the following:
+  link: "[Amazon](https://www.amazon.com/Timothy-Caw/e/B07997W7X7?ref=sr_ntt_srch_lnk_1&qid=1597347923&sr=8-1)"
+  description: |2-
 
-    Apocalypse, Post-Apocalypse, Dystopia, Horror, Sci-Fi, novels, anthology, kindle, paperback
+    * Apocalypse
+    * Post-Apocalypse
+    * Dystopia
+    * Horror
+    * Sci-Fi
+    * novels
+    * anthology
+    * paperback
   restrictions: ''
   image_filenames:
   - "/assets/images/thumbnail_image0.jpg"
