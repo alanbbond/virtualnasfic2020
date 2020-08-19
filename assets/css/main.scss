@@ -7,6 +7,7 @@ $medium: rgb(159,167,199);
 $medium-light: rgb(202, 205, 224);
 $light: rgb(237,240,252);
 $very-light: rgb(245, 247, 255);
+$very-very-light: rgb(247, 250, 255);
 $white: rgb(250,250,250);
 $highlight: rgb(201, 242, 253);
 $complement-medium: rgb(170, 140, 114);
@@ -23,7 +24,8 @@ $mastodon:  '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.1 185.6"><
 $left-arrow: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="black" d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"/></svg>';
 $right-arrow: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="black" d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"/></svg>';
 
-$background: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.6 792"><path fill="rgb(237,240,252)" d="M10.3 0c-13.1 110.5-19 235.7 15.9 396 29.7 136.7 1 254.3-15.9 396h147.9c12.9-89.9 17.3-203.1-17.9-396-34.7-189.8-.1-270.1 17.9-396H10.3z"/></svg>';
+$side_stripe: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.6 792"><path fill="rgb(237,240,252)" d="M10.3 0c-13.1 110.5-19 235.7 15.9 396 29.7 136.7 1 254.3-15.9 396h147.9c12.9-89.9 17.3-203.1-17.9-396-34.7-189.8-.1-270.1 17.9-396H10.3z"/></svg>';
+$center_stripe: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.6 792"><path fill="rgb(250, 250, 250)" d="M10.3 0c-13.1 110.5-19 235.7 15.9 396 29.7 136.7 1 254.3-15.9 396h147.9c12.9-89.9 17.3-203.1-17.9-396-34.7-189.8-.1-270.1 17.9-396H10.3z"/></svg>';
 
 $main-padding: 0.25rem;
 
@@ -31,6 +33,7 @@ body {
   font-family: "Josefin Sans", "Proxima Nova", Helvetica, Corbel, sans-serif;
   line-height: 1.1rem;
   margin: 0;
+  background-color: $very-light;
 }
 
 h1 {
@@ -644,9 +647,13 @@ ul.social-links-menu {
 @media (min-width:1025px) {
 
   body {
-    background-image: url('data:image/svg+xml;utf8,#{$background}');
-    background-size: 106vw;
-    background-position: center;
+    background-image:
+      url('data:image/svg+xml;utf8,#{$side_stripe}'),
+      url('data:image/svg+xml;utf8,#{$center_stripe}'),
+      url('data:image/svg+xml;utf8,#{$side_stripe}');
+    background-size: calc(0.5 * calc(100vw - 50rem)), 70vw, calc(0.5 * calc(100vw - 50rem));
+    background-position-x: calc(100vw - calc(0.25 * calc(100vw - 50rem))), center, calc(0.25 * calc(50rem - 100vw));
+    background-position-y: 0, 6rem, 3rem;
     background-repeat-x: no-repeat;
     background-repeat-y: repeat;
   }
