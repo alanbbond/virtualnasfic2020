@@ -663,12 +663,6 @@ ul.social-links-menu {
   }
 
   header {
-    flex-direction: row;
-
-    .logo-link {
-      height: 5rem;
-      width: 18rem;
-    }
 
     .header-content {
       h1 {
@@ -747,5 +741,17 @@ ul.social-links-menu {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+  }
+}
+
+@media (min-width: 1350px) {
+
+  header: {
+    flex-direction: row;
+    
+    .logo-link {
+      height: 5rem;
+      width: 18rem;
+    }
   }
 }
