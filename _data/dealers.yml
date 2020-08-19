@@ -305,14 +305,11 @@
   city: Sunnyvale
   state: California
   what_is_sold: Books
-  link: |-
-    [Website](https://vefrankel.wordpress.com/silicon-valley-authors)
-
-    We’re all on Bookshop and Amazon!
-
-    C. Sanford Lowe, G. David Nordley, Valerie Estelle Frankel, Sandra Saidak, J. Malcom Stewart, Sarah Stegall
-  description: Horror, fantasy, parodies, prehistoric goddess fiction, science fiction
-    with actual physics & guides to Thrones, Star Wars, Buffy, Dr Who…
+  link: "[Website](https://vefrankel.wordpress.com/silicon-valley-authors)\n\nWe’re
+    all on Bookshop and Amazon!\n\nC. Sanford Lowe, G. David Nordley, \n\nValerie
+    Estelle Frankel, Sandra Saidak,\n\nJ. Malcom Stewart, Sarah Stegall"
+  description: "Horror, fantasy, parodies, prehistoric goddess fiction, \n\nscience
+    fiction with actual physics & guides to Thrones, \n\nStar Wars, Buffy, Dr Who…"
   restrictions: International shipping for higher flat fee
   image_filenames:
   - "/assets/images/siliconvalleyauthors.jpg"
