@@ -3,7 +3,8 @@
   <div
     class="floatimage"
     role="img"
-    aria-label="A photo of {{programparticipant.name | replace '"' | replace "'" }}."
+    {% assign html_safe_name = programparticipant.name | replace: '"','' | replace: "'","" %}
+    aria-label='A photo of {{ html_safe_name }}.'
     style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ programparticipant.filename | remove: "/assets/images/" }}');"
   >
   </div>
