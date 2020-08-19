@@ -1,4 +1,4 @@
-<section class="schedule-listing" id="listing-{{event.title || slugify}}">
+<section class="schedule-listing" id="listing-{{event.title | slugify}}-{{event.datetime | slugify}}">
   <h2>{{ event.title }}</h2>
   <p class="time">{% if event.datetime.size > 0 %}{{ event.datetime }}{% endif %} 
   </p>
