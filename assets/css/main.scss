@@ -711,29 +711,42 @@ ul.social-links-menu {
     .program-participant-info {
       width: 40rem;
     }
-    ul {
-      margin-top: 0;
+  }
+  ul {
 
-      li {
-        a {
-          color: inherit;
+    li {
+      display: flex;
+      margin-left: -2.5rem;
+      position: relative;
+
+      span {
+        &.datetime {
+          width: 12rem;
         }
-        a {
-          color: inherit;
-          &:link,
-          &:visited,
-          &:hover,
-          &:active {
-            color: inherit;
-          }
+        &.room {
+          width: 6rem;
         }
       }
 
-      .not-published {
+      &.not-published {
         color: $medium-dark;
-        background-color: $light;
-        border: .01rem solid $medium;
-        padding: 0.25rem;
+
+        &:before {
+          position: absolute;
+          left: -9rem;
+          content: "Not published -> "
+        }
+      }
+      &:not(.not-published):before {
+        content: "Pubished";
+        position: absolute;
+        left: -6rem;
+        top: -0.25rem;
+        color: $light;
+        background-color: $dark;
+        padding: 0.25rem 0.25rem 0 0.25rem;
+        border-radius: 0.1rem;
+        font-weight: bold;
       }
     }
   }

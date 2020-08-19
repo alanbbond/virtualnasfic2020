@@ -10,7 +10,11 @@
 {% endcapture %}
 {%   for pp in event.programparticipants %}
 {%     if pp == programparticipant.name %}
-      <li class='{{pub | replace: "(", "" | replace: ")", "" | slugify }}'>{{event.datetime}}, {{event.room | markdownify | replace: "<p>", "" | replace: "</p>", "" }}- {{event.title}} {{pub}}</li>
+      <li class='{{pub | replace: "(", "" | replace: ")", "" | slugify }}'>
+        <span class="datetime">{{event.datetime}}</span>
+        <span class="room">{{event.room | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</span>
+        <span class="title">{{event.title}}</span>
+      </li>
 {%     endif %}
 {%   endfor %}
 {% endfor %}
