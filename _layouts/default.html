@@ -51,7 +51,7 @@
           {% assign navs = site.pages | sort: "order" %}
           {% for nav in navs %}
             {% if nav.public %}
-            {% unless nav.title == "404" or nav.title == "early access" %}
+            {% unless nav.title == "404" or nav.title == "Early Access" %}
               {% if nav.title == page.title %}
             <li class="this-page public" >
               {{ nav.title }}
