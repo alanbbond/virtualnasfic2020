@@ -1,19 +1,4 @@
 ---
-- name: Eye-Deas Fantasy Cat Art
-  contact: Esther Reese
-  city: Eugene
-  state: Oregon
-  what_is_sold: Fine Art (Sculpture, Paintings, similar)
-  link: '[Fantasycatart.com, www.etsy.com/shop/EYEDEAS](https://Fantasycatart.com,
-    www.etsy.com/shop/EYEDEAS "https://Fantasycatart.com, www.etsy.com/shop/EYEDEAS")'
-  description: Fantasy art prints featuring cats and dragons.
-  restrictions: U.S. Only
-  image_filenames:
-  - "/assets/images/eye-deas-fantasy-cat-art-01.jpg"
-  - "/assets/images/eye-deas-fantasy-cat-art-02.jpg"
-  - "/assets/images/eye-deas-fantasy-cat-art-03.jpg"
-  - "/assets/images/eye-deas-fantasy-cat-art-04.jpg"
-  - "/assets/images/eye-deas-fantasy-cat-art-05.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -117,6 +102,21 @@
   - "/assets/images/esm-books-3.JPG"
   - "/assets/images/esm-books-4.JPG"
   - "/assets/images/esm-books-5.JPG"
+- name: Eye-Deas Fantasy Cat Art
+  contact: Esther Reese
+  city: Eugene
+  state: Oregon
+  what_is_sold: Fine Art (Sculpture, Paintings, similar)
+  link: '[Fantasycatart.com, www.etsy.com/shop/EYEDEAS](https://Fantasycatart.com,
+    www.etsy.com/shop/EYEDEAS "https://Fantasycatart.com, www.etsy.com/shop/EYEDEAS")'
+  description: Fantasy art prints featuring cats and dragons.
+  restrictions: U.S. Only
+  image_filenames:
+  - "/assets/images/eye-deas-fantasy-cat-art-01.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-02.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-03.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-04.jpg"
+  - "/assets/images/eye-deas-fantasy-cat-art-05.jpg"
 - name: Fantaminals
   link: "[www.Fantaminals.com](http://www.fantaminals.com/)"
   description: Puzzles, dragons, puzzles, dinosaurs, puzzles, animals, and more puzzles
@@ -145,6 +145,22 @@
   - "/assets/images/loragray03.jpg"
   - "/assets/images/loragray04.jpg"
   - "/assets/images/loragray05.jpg"
+- name: Magpie Curios
+  contact: Marcia Illingworth
+  city: Powell
+  state: TN
+  what_is_sold: Decorative items, candlabra, wine goblets, wall hangings, odities
+  link: '[magpiecurios.com](http://magpiecurios.com "http://magpiecurios.com")'
+  description: Fannish general store
+  restrictions: Will ship anywhere that shipping delivery can be confirmed. International
+    buyers please contact before purchase, to be sure that we are able to ship to
+    your location.
+  image_filenames:
+  - "/assets/images/20150628_093449.jpg"
+  - "/assets/images/img_20191106_171212.jpg"
+  - "/assets/images/20151212_024218.jpg"
+  - "/assets/images/20150628_093626.jpg"
+  - "/assets/images/20140404_220451.jpg"
 - name: Ms. Kittys Closet
   contact: Carolyn Perkins
   city: Cuyahoga Falls
