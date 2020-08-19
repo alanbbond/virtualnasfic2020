@@ -54,7 +54,9 @@
   city: Andover
   state: MA
   what_is_sold: Fine Art (Sculpture, Paintings, similar), Jewelry
-  link: "[Website](http://www.cogitation.org)"
+  link: |2-
+
+    [http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")
   description: Custom pottery, yarn bowls, coasters, pet portraits, amulets, tech
     sculpture, and more.
   restrictions: ''
