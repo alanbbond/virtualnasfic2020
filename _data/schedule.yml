@@ -1,4 +1,25 @@
 ---
+- title: Kaffeeklatch with Tom Smith
+  datetime: Sunday 11:00AM
+  room: Kaffeeklatches
+  programparticipants:
+  - Tom Smith
+  description: " You must sign up in advance. The sign up form opens at 3 pm on Friday,
+    August 21 and is open until the group is maxed out or the event begins, whichever
+    happens first. "
+  music: ''
+  published: true
+- title: Kaffeeklatch with Marc Miller
+  datetime: Saturday 10:00AM
+  room: Kaffeeklatches
+  programparticipants:
+  - Marc Miller
+  description: 'Ten lucky attendees get to hang out with Guest of Honor Marc Miller.
+    You must sign up in advance. The sign up form opens at 3 pm on Friday, August
+    21 and is open until the group is maxed out or the event begins, whichever happens
+    first.  '
+  music: ''
+  published: true
 - title: "(Reading) Bogi Takács and R.B. Lemberg"
   datetime: Sunday 2:30PM
   room: "[Readings](/readings)"
