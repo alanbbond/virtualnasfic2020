@@ -36,28 +36,63 @@ Here the audience sits and listens to a presentation. And you can almost count t
 
 ### MARCON X : [Program Guide](/assets/pdfs/MARCON-X.pdf) (1975)
 
-![](/assets/images/img814-mirror.jpg)
-![](/assets/images/img815-mirror.jpg)
+<div class="gallery">
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img814-mirror.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img815-mirror.jpg')"
+  >
+  </div>
+    <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img823-mirror.jpg')"
+  >
+  </div>
+</div>
 
-These are hall shots from the convention, showing the fashion of the time. Note the person coming out of the doorway clutching their copy of the program.
-
-![](/assets/images/img823-mirror.jpg)
-
-Here we see several people enjoying themselves at one of the room parties.
+1. These are hall shots from the convention, showing the fashion of the time. 
+2. Note the person coming out of the doorway clutching their copy of the program.
+3. Here we see several people enjoying themselves at one of the room parties.
 
 ### MARCON XII : [Program Guide](/assets/pdfs/MARCON-XII.pdf) (1977)
 
-![](/assets/images/img716.jpg)
+<div class="gallery">
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img716.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img717.jpg')"
+  >
+  </div>
+    <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img722.jpg')"
+  >
+  </div>
+</div>
 
-Here are Mark Evans (left) and Ross Pavlac (right) who were the vice chair and chair respectively for this MARCON.
-
-![](/assets/images/img717.jpg)
-
-Here we have Bob Hillis and others working the registration desk, with a good line of people waiting to get into the convention.
-
-![](/assets/images/img722.jpg)
-
-One of the notable attendees was Howard Devore (left) who participated frequently in Columbus fan activities. He is pictured with John Miesel.
+1. Here are Mark Evans (left) and Ross Pavlac (right) who were the vice chair and chair respectively for this MARCON.
+2. Here we have Bob Hillis and others working the registration desk, with a good line of people waiting to get into the convention.
+3. One of the notable attendees was Howard Devore (left) who participated frequently in Columbus fan activities. He is pictured with John Miesel.
 
 ## MidWestCon
 
@@ -69,21 +104,65 @@ These photos appear to be from MidWestCons in 1974/1975 or around that time.
 
 Steve and Sue Francis, our fan GoHs have attended a few MidWestCons, so you can sit down with them sometime this weekend and see if you can get them to tell you some tales.
 
-![](/assets/images/img303.jpg) ![](/assets/images/img627.jpg)
+<div class="gallery">
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img303.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img627.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img314.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img316.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img624.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img320.jpg')"
+  >
+  </div>
+  <div
+    class="gallery-image"
+    role="img"
+    aria-label=""
+    style="background-image: url('/assets/images/img319.jpg')"
+  >
+  </div>
+</div>
 
-Clearly some hanging out by the pool is called for. Or in view of the pool, as the case may be.
-
-![](/assets/images/img314.jpg) ![](/assets/images/img316.jpg)
-
-And there are different kinds of art, which of course were on display. And some were available for purchase in the "hucksters room."
-
-![](/assets/images/img624.jpg)
-
-Rumor has it on Saturday night of the convention there was a banquet!
-
-![](/assets/images/img319.jpg) ![](/assets/images/img320.jpg)
-
-Of course after the day is done and all of the strenuous hanging out by the pool is over, it is good to relax with a room party which sometimes even involves a cat.
+1. Clearly some hanging out by the pool is called for.
+2. Or in view of the pool, as the case may be.
+3. And there are different kinds of art, which of course were on display.
+4. And some were available for purchase in the "hucksters room."
+5. Rumor has it on Saturday night of the convention there was a banquet!
+6. Of course after the day is done and all of the strenuous hanging out by the pool is over, it is good to relax with a room party...
+7. ... which sometimes even involves a cat.
 
 ## The Central Ohio SF Society
 
