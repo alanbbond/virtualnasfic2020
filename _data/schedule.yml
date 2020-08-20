@@ -192,14 +192,6 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Dara Naghari"
-  datetime: Saturday 12:00PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Dara Naghari
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Sheree Renée Thomas"
   datetime: Saturday 10:00AM
   room: "[Readings](/readings)"
