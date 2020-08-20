@@ -1,5 +1,15 @@
 <section class="artist-listing" id="listing-{{ artist.name | slugify }}">
   <div class="gallery">
+    {% if artist.image_of_artist.size > 0 %}
+    <div
+      class="floatimage"
+      role="img"
+      {% assign html_safe_name = artist.name | replace: '"','' | replace: "'","" %}
+      aria-label='A photo of {{ html_safe_name }}.'
+      style="margin-top: 1rem; background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ artist.image_of_artist | remove: "/assets/images/" }}');"
+    >
+    </div>
+    {% endif %}
     <div class="artist-info">
       <h2>{{ artist.name }}</h2>
       <ul class="social-links-menu">
