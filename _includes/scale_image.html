@@ -1,0 +1,2 @@
+{% assign scale = include.scale | remove: '"' | remove: "''" %}
+<div class="floatimage" style="background-image: url('{{  site.url | append: site.baseurl  }}/assets/images/{{ include.filename }}'); width: {{ scale }};"></div>
