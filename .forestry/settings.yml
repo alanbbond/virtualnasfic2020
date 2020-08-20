@@ -6,7 +6,8 @@ webhook_url:
 sections:
 - type: document
   path: _data/schedule.yml
-  label: Scheduled Event Entries
+  label: Schedule Entries
+  match: "**/*"
 - type: document
   path: _data/artists.yml
   label: Artist Entries
