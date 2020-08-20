@@ -1,23 +1,4 @@
 ---
-- name: Wendy Van Camp
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/wendy-vancamp.jpg"
-  description: 'Wendy Van Camp is an author, poet, and illustrator. Her writing blog
-    "No Wasted Ink" features essays about the craft of writing, poetry, and author
-    interviews. Wendy’s short stories and poems have appeared in science fiction magazines
-    such as “Quantum Visions”, “Scifaikuest”, and “Far Horizons”. She is the poet
-    and illustrator of The Planets: a scifaiku poetry collection which is nominated
-    for a 2020 Elgin Award. Her books can be found on Amazon. Her illustrated poetry
-    art prints can be found on etsy.'
-  website1: "[Etsy Print Shop](https://www.etsy.com/shop/NoWastedInk)"
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Ace Tilton Ratcliff
   guest_of_honor: false
   role: ''
@@ -1693,6 +1674,25 @@
     interdependent. Bill, who has been legally blind for the past 20 years, is also
     active in the disability community and has worked Access at a number of Worldcons.
   website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Wendy Van Camp
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/wendy-vancamp.jpg"
+  description: 'Wendy Van Camp is an author, poet, and illustrator. Her writing blog
+    "No Wasted Ink" features essays about the craft of writing, poetry, and author
+    interviews. Wendy’s short stories and poems have appeared in science fiction magazines
+    such as “Quantum Visions”, “Scifaikuest”, and “Far Horizons”. She is the poet
+    and illustrator of The Planets: a scifaiku poetry collection which is nominated
+    for a 2020 Elgin Award. Her books can be found on Amazon. Her illustrated poetry
+    art prints can be found on etsy.'
+  website1: "[Etsy Print Shop](https://www.etsy.com/shop/NoWastedInk)"
   website2: ''
   website3: ''
   facebook: ''
