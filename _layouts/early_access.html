@@ -79,14 +79,12 @@
   <script>
     const agreement = localStorage.getItem('NASFiC_2020_agreement');
     const agreement_container = document.getElementsByClassName('agreement-container')[0];
-    if (agreement) {
+    if (agreement_container) {
       const form = document.getElementById('agreement-form');
       if (form) {
         form.style.display = "flex";
       }
-      if (agreement_container) {
-        agreement_container.style.display = "block";
-      }
+      agreement_container.style.display = "block";
     }
     if (window.document.documentMode) {
       var main = document.getElementsByClassName('main')[0];
