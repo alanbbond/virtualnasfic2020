@@ -1,4 +1,12 @@
 ---
+- title: "(Reading) Caitlin Starling"
+  datetime: Saturday 2:00PM
+  room: Readings
+  programparticipants:
+  - Caitlin Starling
+  description: ''
+  music: ''
+  published: true
 - title: "(Reading) Danian Darrell Jerry"
   datetime: Saturday 12:30PM
   room: Readings
@@ -767,7 +775,6 @@
   programparticipants:
   - Erin Underwood
   - John Medaille
-  - Michael R. Underwood
   description: Today in Audio Dramas! A look at Audio dramas, audiobooks, and fiction
     podcasts and why the time is now!
   music: false
