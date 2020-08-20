@@ -7,13 +7,11 @@
   description: ''
   music: ''
   published: ''
-- title: "(Reading) Bogi Takács and RJ Lembert"
+- title: "(Reading) Bogi Takács and RJ Lemberg"
   datetime: Sunday, 2:00 PM
   room: Readings
   moderators: ''
-  programparticipants:
-  - Bogi Takács
-  - RJ Lembert
+  programparticipants: Bogi Takács,RJ Lemberg
   description: ''
   music: ''
   published: true
