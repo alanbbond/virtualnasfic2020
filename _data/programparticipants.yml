@@ -613,6 +613,24 @@
   website2: ''
   website3: ''
   patreon: ''
+- name: Foz Meadows
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/foz-meadows-jpg.png"
+  description: Foz Meadows is a queer Australian SFF author and critic based in California.
+    She has won a Ditmar Award for Best FanWriter (2017), the Norma K. Hemming Award
+    for her novella _Coral Bones_ (2018),and a Hugo Award for Best Fan Writer (2019),
+    and has also made the Hugo FanWriter shortlist a further three times. Her most
+    recent novels, _An Accident of Stars_ and _A Tyranny of Queens_, are a feminist
+    portal fantasy duology published by Angry Robot.
+  website1: "[Fozmeadows.wordpress.com](http://fozmeadows.wordpress.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Freya Marske
   guest_of_honor: false
   role: ''
