@@ -55,5 +55,3 @@ Worldcon 78 (2020) was to be held in Wellington, New Zealand. Visit [https://con
 And a whole-lot more.  There have been so many of you who have helped us through the bidding process and with planning for the in person convention who are not represented on this list.  So many who volunteered and then got waylay-ed by our new realities and where unable to continue through to the convention. There are many of you volunteering to help us as Moderators, Zoom hosts, and Chat Wranglers. We appreciate all of you!!
 
 ## As always, volunteering is the lifeblood of events like this.  Please thank all the volunteers!
-
-* 
