@@ -214,7 +214,7 @@
   - science
   datetime: Friday 6:00PM
   room: "[Olentangy](/olentangy-room)"
-  moderators: ''
+  moderators: Jim Beall
   programparticipants:
   - W.A. (Bill) Thomasson
   - Bogi Takács
@@ -317,7 +317,7 @@
 - title: 'COVID-FX: Horror Beyond 2020'
   datetime: Friday 10:00 PM
   room: "[Olentangy](/olentangy-room)"
-  moderators: ''
+  moderators: Anne Gray
   programparticipants:
   - Jordan Kurella
   - Leigh Harlen
@@ -325,15 +325,6 @@
   - Premee Mohamed
   description: But is there anything scarier than 2020? Horror inspired by the pandemic,
     quarantine, chaotic media narratives and other COVID-Effects.
-  music: false
-  published: true
-- title: Big Hearts Award
-  datetime: Saturday 10:00 AM
-  room: "[Auditorium](/auditorium)"
-  moderators:
-  - Ben Yalow
-  programparticipants:
-  - Sue and Steve Francis
   music: false
   published: true
 - title: Surveillance & Society in SF
@@ -358,6 +349,20 @@
     during COVID-times. Which begs the question: Is doing that even a good idea?'
   music: false
   published: true
+- title: Big Heart Award
+  datetime: Saturday 10:00 AM
+  room: "[Auditorium](/auditorium)"
+  moderators:
+  - Ben Yalow
+  programparticipants: Sue and Steve Francis, Joe Siclari
+  music: false
+  published: true
+  description: 'The Big Heart is presented annually at the World Science Fiction Convention,
+    to recipients that embody "good work and great spirit long contributed" to the
+    sf community. In 2001 it was awarded to our Fan Guests of Honor, who are now part
+    of the committee that administers the award. Come find out more about the history
+    of the award and how to get involved if you''d like to have input in the selection
+    process. '
 - title: 'Worldbuilding: Rituals and Symbols'
   datetime: Saturday 11:00 AM
   room: "[Scioto](/scioto-room)"
@@ -372,7 +377,7 @@
 - title: The Future of Anthologies
   datetime: Saturday 11:00 AM
   room: "[Olentangy](/olentangy-room)"
-  moderators: ''
+  moderators: Jason Sanford
   programparticipants:
   - Beth Meacham
   - Dominik Parisien
@@ -385,12 +390,8 @@
 - title: 'Women of a Certain Age: Writing Older Women Protagonists'
   datetime: Saturday 12:00 PM
   room: "[Scioto](/scioto-room)"
-  moderators: ''
-  programparticipants:
-  - Andrea Hairston
-  - Farah Mendlesohn
-  - Gillian Polack
-  - Jennifer Blackstream
+  moderators: Farah Mendlesohn
+  programparticipants: Andrea Hairston,Gillian Polack,Jennifer Blackstream
   description: What is 'older' in SF/F fiction? Examples of older heroines and protagonists
     -- how does changing the age of the heroine change the story? How do older heroines
     change in contrast to their younger counterparts? What are the advantages of having
@@ -418,8 +419,8 @@
 - title: Favorite Queer SF/F Fiction
   datetime: Saturday 1:00 PM
   room: "[Scioto](/scioto-room)"
-  moderators: ''
-  programparticipants: ''
+  moderators: Charles Payseur
+  programparticipants: Julia Rios, Valerie Estelle Frankel
   description: Panelists review their favorite queer Youth/YA fiction.
   music: false
   published: true
@@ -428,9 +429,7 @@
   room: "[Olentangy](/olentangy-room)"
   moderators:
   - Christopher J. Garcia
-  programparticipants:
-  - John Medaille
-  - Michael R. Underwood
+  programparticipants: Erin Underwood,John Medaille,Michael R. Underwood
   description: Today in Audio Dramas! A look at Audio dramas, audiobooks, and fiction
     podcasts and why the time is now!
   music: false
@@ -438,12 +437,10 @@
 - title: If Aliens Came To Earth
   datetime: Saturday 2:00 PM
   room: "[Scioto](/scioto-room)"
-  moderators: ''
-  programparticipants:
-  - Daniel M. Kimmel
-  - Douglas Johnson
-  - Stephen Leigh
-  description: Would they, though? Our esteemed panelists discuss....
+  moderators: Kathryn Sullivan
+  programparticipants: Christine Taylor-Butler, Daniel M. Kimmel,Douglas Johnson,Stephen
+    Leigh
+  description: Would they, though? (Have they?) Our esteemed panelists discuss....
   music: false
   published: false
 - title: 'Roots in Two Places: Writing from a Dual Culture Experience'
@@ -451,22 +448,12 @@
   room: "[Olentangy](/olentangy-room)"
   moderators:
   - Cheryl Morgan
-  programparticipants:
-  - Alma Alexander
-  - Vikram Paralkar
+  programparticipants: Alma Alexander,Silvia Moreno-Garcia,Vikram Paralkar
   description: Our panelists, all with roots in two or more separate cultures -- look
     at the ways having dual culture and language has guided their worldbuilding and
     storytelling.
   music: false
   published: false
-- title: Future Worldcon Q&A
-  datetime: Saturday 3:00 PM
-  room: "[Scioto](/scioto-room)"
-  moderators:
-  - Anne Gray
-  programparticipants: ''
-  music: false
-  published: true
 - title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
     from F. Paul Wilson and Robert Heinlein to Today'
   datetime: Saturday afternoon
@@ -524,6 +511,14 @@
   description: A group of women with a strict time limit to read a tidbit of a story.
   music: true
   published: ''
+- title: Future Worldcon Q&A
+  datetime: Saturday 3:00 PM
+  room: "[Scioto](/scioto-room)"
+  moderators:
+  - Anne Gray
+  programparticipants: ''
+  music: false
+  published: true
 - title: The Legal Implications of Monster Hunting
   datetime: Saturday 3:00PM
   room: Olentangy
@@ -580,10 +575,7 @@
     or in discussion. Can you stump the experts?
   music: false
   published: true
-  programparticipants:
-  - Alec Nevala-Lee
-  - Christopher J. Garcia
-  - Tom Smith
+  programparticipants: Alec Nevala-Lee,Anne Gray, Christopher J. Garcia,Tom Smith
 - title: 'Worldbuilding: Innovations in Leadership & Governance'
   datetime: Saturday 5:00 PM
   room: "[Olentangy](/olentangy-room)"
@@ -595,6 +587,7 @@
     to offer up their new visions of leadership and innovations in governance.
   music: false
   published: true
+  moderators: Gadi Evron
 - title: Feminist Fables & Fairy Tales
   datetime: Saturday 6:00 PM
   room: "[Scioto](/scioto-room)"
