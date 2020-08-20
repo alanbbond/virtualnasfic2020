@@ -158,6 +158,20 @@
   - "/assets/images/20200819_132135.jpg"
   - "/assets/images/20200819_132120.jpg"
   - "/assets/images/20200113_124757.jpg"
+- name: First Fandom Experience
+  contact: Daniel Ritter
+  city: Cambridge
+  state: 'Massachusetts '
+  what_is_sold: Books
+  link: '[https://firstfandomexperience.org/](https://firstfandomexperience.org/ "https://firstfandomexperience.org/")'
+  description: "First Fandom Experience brings the history of \n\nscience fiction
+    fandom to life through \n\nrare artifacts and in-depth research. \n\nOur latest
+    work is on the earliest fan writings of Ray Bradbury."
+  restrictions: We ship within continental US for a flat rate, and ask that Alaska,
+    Hawaii, and international orders contact us for a shipping quote.
+  image_filenames:
+  - "/assets/images/visual-history-cover.jpg"
+  - "/assets/images/the-earliest-bradbury-cover.jpg"
 - name: Lora Gray, Artist
   contact: Lora Gray
   city: Kent
