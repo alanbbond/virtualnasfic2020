@@ -63,3 +63,5 @@ fields:
     max: 
     labelField: 
   label: event
+pages:
+- _data/schedule.yml
