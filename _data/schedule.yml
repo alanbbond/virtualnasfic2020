@@ -11,7 +11,9 @@
   datetime: Sunday, 2:00 PM
   room: Readings
   moderators: ''
-  programparticipants: Bogi Takács,R.B. Lemberg
+  programparticipants:
+  - Bogi Takács
+  - R.B. Lemberg
   description: ''
   music: ''
   published: true
