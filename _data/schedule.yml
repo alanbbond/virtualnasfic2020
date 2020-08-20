@@ -1,4 +1,276 @@
 ---
+- title: "(Reading) Jordan Kurella"
+  datetime: Saturday 10:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Ace Tilton Ratcliff"
+  datetime: Saturday 10:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Gillian Polack"
+  datetime: Saturday 9:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Steven Gould"
+  datetime: Saturday 9:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Premee Mohamed"
+  datetime: Saturday 8:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Andrea Hairston"
+  datetime: Saturday 7:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) dave ring"
+  datetime: Saturday 6:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Raven Oak"
+  datetime: Saturday 6:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Wendy Van Camp"
+  datetime: Saturday 5:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Leigh Harlen"
+  datetime: Saturday 5:00
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Silvia Moreno-Garcia"
+  datetime: Saturday 4:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Vikram Paralkar"
+  datetime: Saturday 4:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Alma Alexander"
+  datetime: Saturday 3:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Mary Anne Mohanraj"
+  datetime: Saturday 3:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Tobias S. Buckell"
+  datetime: Saturday 2:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Daniel M. Kimmel"
+  datetime: Saturday 2:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Dara Naghari"
+  datetime: Saturday 12:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Sheree Renée Thomas"
+  datetime: Saturday 10:00AM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Alaya Dawn Johnson"
+  datetime: Saturday 11:30
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Valjeanne Jeffers"
+  datetime: 10:30AM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Phoebe Barton"
+  datetime: Friday 10:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Eboni Dunbar"
+  datetime: Friday 10:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading)  Leonard Richardson"
+  datetime: Friday 9:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Cat Rambo"
+  datetime: Friday 9:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Jude-Marie Green"
+  datetime: Friday 8:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Michael Underwood"
+  datetime: Friday 8:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Laurence Raphael Brothers"
+  datetime: Friday 7:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Ada Palmer"
+  datetime: Friday 4:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Kathryn Sullivan"
+  datetime: Friday 2:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Stephen Leigh"
+  datetime: Friday 2:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Jim C. Hines"
+  datetime: Friday 1:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) John Wiswell"
+  datetime: Friday 1:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Phoebe North"
+  datetime: Friday 12:30PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
+- title: "(Reading) Elsa Sjunneson"
+  datetime: Friday 12:00PM
+  room: Readings
+  moderators: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
 - title: "(Reading) Science Fiction & Fantasy Poetry Association"
   datetime: Sunday 11:00AM
   room: Readings
@@ -183,9 +455,7 @@
   room: "[Olentangy](/olentangy-room)"
   moderators:
   - Raven Oak
-  programparticipants:
-  - Jennifer Blackstream
-  - Laurence Raphael Brothers
+  programparticipants: Jennifer Blackstream,Laurence Raphael Brothers, Wendy Van Camp
   description: Mask wearing vampires? Quarantine empty streets? From grocery delivery
     to working-from-home, our normal lives have changed in the face of Covid-19. How
     will these changes impact the feature creatures and characters of urban fantasy?
@@ -709,16 +979,12 @@
     fuel age? '
   music: false
   published: true
-- title: Fanzines Panel
+- title: Fanzines!
   datetime: Saturday 10:00 PM
   room: "[Scioto](/scioto-room)"
-  moderators:
-  - Chris M. Barkley
-  programparticipants:
-  - James Bacon
-  - Steven H Silver
-  description: Our panelists discuss the current state of fanzines - what's hot and
-    what's next?
+  moderators: Anne Gray
+  programparticipants: Chris M. Barkley, Joel Zakem, Steven H Silver
+  description: Our panel of fanzine experts talk about the ins and outs of fanzines.
   music: false
   published: false
 - title: 'Worldbuilding: Crime and Punishment'
@@ -802,6 +1068,14 @@
     the technological dreams of AfroFuturism. '
   music: false
   published: true
+- title: Live Tiara Demonstration
+  datetime: Saturday 11:00 AM
+  room: "[Auditorium](/auditorium)"
+  moderators:
+  - Sara Felix
+  music: false
+  published: false
+  description: ''
 - title: Running SF/F Organizations
   datetime: Sunday 12:00 PM
   room: "[Scioto](/scioto-room)"
@@ -821,16 +1095,13 @@
 - title: 'Predicting the Post-Apocalypse: How Will We Be Saved?'
   datetime: Sunday 12:00 PM
   room: "[Olentangy](/olentangy-room)"
-  programparticipants:
-  - Ada Palmer
-  - dave ring
-  - Premee Mohamed
-  - Tobias S. Buckell
+  programparticipants: Ada Palmer,Boi Takács,dave ring,Premee Mohamed,Tobias S. Buckell
   description: It's the post-apocalypse - how will humanity be saved? Our panel mine
     their favorite stories about the post-apocalypse for clues at what might rescue
     or restore humanity.
   music: false
   published: true
+  moderators: Anne Gray
 - title: Ohio Fan Clubs & Cons
   datetime: Sunday 1:00 PM
   room: "[Scioto](/scioto-room)"
@@ -860,7 +1131,7 @@
     that are actually *adaptive* and don''t make the protagonist function as able-bodied.  '
   music: false
   published: true
-- title: 'COVID-FX: Traditional Publishing'
+- title: 'COVID-FX: Publishing'
   datetime: Sunday 2:00 PM
   room: "[Scioto](/scioto-room)"
   moderator:
@@ -873,22 +1144,17 @@
     since the pandemic. What's changed, what's not?
   music: false
   published: true
-- title: Graphic Novels Panel
+- title: 'Graphic Novels: Adaptations'
   datetime: Sunday 2:00 PM
   room: "[Olentangy](/olentangy-room)"
-  programparticipants:
-  - Jamar Nicholas
-  description: ''
+  programparticipants: Jamar Nicholas, Tobias S. Buckell, Valerie Estelle Frankel
+  description: 'What happens when a story is adapted into a graphic novel? What is
+    gained and what is, perhaps, lost? New adaptations of old narratives can potentially
+    improve the representation of women and minorities in the genre. Come find out
+    about recent developments and the issues inherent to the process. '
   music: false
   published: true
-- title: Live Tiara Demonstration
-  datetime: Saturday 11:00 AM
-  room: "[Auditorium](/auditorium)"
-  moderators:
-  - Sara Felix
-  music: false
-  published: false
-  description: ''
+  moderators: Anne Gray
 - title: 'Concert: Chris Conway'
   datetime: Friday, 4:00PM
   room: "[Auditorium](/auditorium)"
