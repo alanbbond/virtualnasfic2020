@@ -1,0 +1,27 @@
+<div class="program-participant-info">
+  <h3>{{ programparticipant.name }} Itinerary</h3>
+  <ul>
+{% for event in site.data.schedule %}
+{% if event.published %}
+{%   for pp in event.programparticipants %}
+{%     if pp == programparticipant.name %}
+    <li class='{{pub | replace: "(", "" | replace: ")", "" | slugify }}'>
+      <span class="datetime">{{event.datetime}}</span>
+      <span class="room">{{event.room | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</span>
+      <span class="title">{{event.title}}</span>
+    </li>
+{%     endif %}
+{%   endfor %}
+{%   for moderator in event.moderators %}
+{%     if moderator == programparticipant.name %}
+    <li class='{{pub | replace: "(", "" | replace: ")", "" | slugify }}'>
+      <span class="datetime">{{event.datetime}}</span>
+      <span class="room">{{event.room | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</span>
+      <span class="title">(Moderator) {{event.title}}</span>
+    </li>
+{%     endif %}
+{%   endfor %}
+{% endif %}
+{% endfor %}
+  </ul>
+</div>
