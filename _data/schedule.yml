@@ -7,7 +7,7 @@
   - R.B. Lemberg
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Eileen Gunn"
   datetime: "Sunday 2:00PM"
   room: "[Readings](/readings)"
@@ -15,7 +15,7 @@
   - Eileen Gunn
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Malka Older"
   datetime: "Sunday 1:30PM"
   room: "[Readings](/readings)"
@@ -23,7 +23,7 @@
   - Malka Older
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Valerie Valdes"
   datetime: "Sunday 1:00PM"
   room: "[Readings](/readings)"
@@ -31,7 +31,7 @@
   - Valerie Valdes
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Jennifer Blackstream"
   datetime: "Sunday 12:30PM"
   room: "[Readings](/readings)"
@@ -39,7 +39,7 @@
   - Jennifer Blackstream
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Steven H Silver"
   datetime: "Sunday 12:00PM"
   room: "[Readings](/readings)"
@@ -47,7 +47,7 @@
   - Steven H Silver
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Eric Flint"
   datetime: "Sunday 10:30PM"
   room: "[Readings](/readings)"
@@ -55,7 +55,7 @@
   - Eric Flint
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Juliet McKenna"
   datetime: "Sunday 10:00AM"
   room: "[Readings](/readings)"
@@ -63,7 +63,7 @@
   - Juliet McKenna
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Jordan Kurella"
   datetime: "Saturday 10:30PM"
   room: "[Readings](/readings)"
@@ -71,7 +71,7 @@
   - Jordan Kurella
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Ace Tilton Ratcliff"
   datetime: "Saturday 10:30PM"
   room: "[Readings](/readings)"
@@ -79,15 +79,15 @@
   - Ace Tilton Ratcliff
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Gillian Polack"
   datetime: "Saturday 9:30PM"
   room: "[Readings](/readings)"
   programparticipants:
-  - 
+  - Gillian Polack
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Steven Gould"
   datetime: "Saturday 9:00PM"
   room: "[Readings](/readings)"
@@ -95,7 +95,7 @@
   - Steven Gould
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Premee Mohamed"
   datetime: "Saturday 8:00PM"
   room: "[Readings](/readings)"
@@ -103,7 +103,7 @@
   - Premee Mohamed
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Andrea Hairston"
   datetime: "Saturday 7:30PM"
   room: "[Readings](/readings)"
@@ -111,7 +111,7 @@
   - Andrea Hairston
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) dave ring"
   datetime: "Saturday 6:30PM"
   room: "[Readings](/readings)"
@@ -119,7 +119,7 @@
   - dave ring
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Raven Oak"
   datetime: "Saturday 6:00PM"
   room: "[Readings](/readings)"
@@ -127,7 +127,7 @@
   - Raven Oak
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Wendy Van Camp"
   datetime: "Saturday 5:30PM"
   room: "[Readings](/readings)"
@@ -135,7 +135,7 @@
   - Wendy Van Camp
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Leigh Harlen"
   datetime: "Saturday 5:00"
   room: "[Readings](/readings)"
@@ -143,7 +143,7 @@
   - Leigh Harlen
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Silvia Moreno-Garcia"
   datetime: "Saturday 4:30PM"
   room: "[Readings](/readings)"
@@ -151,7 +151,7 @@
   - Silvia Moreno-Garcia
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Vikram Paralkar"
   datetime: "Saturday 4:00PM"
   room: "[Readings](/readings)"
@@ -159,7 +159,7 @@
   - Vikram Paralkar
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Alma Alexander"
   datetime: "Saturday 3:30PM"
   room: "[Readings](/readings)"
@@ -167,7 +167,7 @@
   - Alma Alexander
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Mary Anne Mohanraj"
   datetime: "Saturday 3:00PM"
   room: "[Readings](/readings)"
@@ -175,7 +175,7 @@
   - Mary Anne Mohanraj
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Tobias S. Buckell"
   datetime: "Saturday 2:30PM"
   room: "[Readings](/readings)"
@@ -183,7 +183,7 @@
   - Tobias S. Buckell
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Daniel M. Kimmel"
   datetime: "Saturday 2:00PM"
   room: "[Readings](/readings)"
@@ -191,7 +191,7 @@
   - Daniel M. Kimmel
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Dara Naghari"
   datetime: "Saturday 12:00PM"
   room: "[Readings](/readings)"
@@ -199,7 +199,7 @@
   - Dara Naghari
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Sheree Renée Thomas"
   datetime: "Saturday 10:00AM"
   room: "[Readings](/readings)"
@@ -207,7 +207,7 @@
   - Sheree Renée Thomas
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Alaya Dawn Johnson"
   datetime: "Saturday 11:30"
   room: "[Readings](/readings)"
@@ -215,7 +215,7 @@
   - Alaya Dawn Johnson
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Valjeanne Jeffers"
   datetime: "Saturday 10:30AM"
   room: "[Readings](/readings)"
@@ -223,7 +223,7 @@
   - Valjeanne Jeffers
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Phoebe Barton"
   datetime: "Friday 10:30PM"
   room: "[Readings](/readings)"
@@ -231,7 +231,7 @@
   - Phoebe Barton
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Eboni Dunbar"
   datetime: "Friday 10:00PM"
   room: "[Readings](/readings)"
@@ -239,7 +239,7 @@
   - Eboni Dunbar
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Leonard Richardson"
   datetime: "Friday 9:30PM"
   room: "[Readings](/readings)"
@@ -247,7 +247,7 @@
   - Leonard Richardson
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Cat Rambo"
   datetime: "Friday 9:00PM"
   room: "[Readings](/readings)"
@@ -255,7 +255,7 @@
   - Cat Rambo
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Jude-Marie Green"
   datetime: "Friday 8:30PM"
   room: "[Readings](/readings)"
@@ -263,7 +263,7 @@
   - Jude-Marie Green
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Michael Underwood"
   datetime: "Friday 8:00PM"
   room: "[Readings](/readings)"
@@ -271,7 +271,7 @@
   - Michael R. Underwood
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Laurence Raphael Brothers"
   datetime: "Friday 7:30PM"
   room: "[Readings](/readings)"
@@ -279,7 +279,7 @@
   - Laurence Raphael Brothers
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Ada Palmer"
   datetime: "Friday 4:00PM"
   room: "[Readings](/readings)"
@@ -287,7 +287,7 @@
   - Ada Palmer
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Kathryn Sullivan"
   datetime: "Friday 2:30PM"
   room: "[Readings](/readings)"
@@ -295,7 +295,7 @@
   - Kathryn Sullivan
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Stephen Leigh"
   datetime: "Friday 2:00PM"
   room: "[Readings](/readings)"
@@ -303,7 +303,7 @@
   - Stephen Leigh
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Jim C. Hines"
   datetime: "Friday 1:30PM"
   room: "[Readings](/readings)"
@@ -311,7 +311,7 @@
   - Jim C. Hines
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) John Wiswell"
   datetime: "Friday 1:00PM"
   room: "[Readings](/readings)"
@@ -319,7 +319,7 @@
   - John Wiswell
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Phoebe North"
   datetime: "Friday 12:30PM"
   room: "[Readings](/readings)"
@@ -327,7 +327,7 @@
   - Phoebe North
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Elsa Sjunneson"
   datetime: "Friday 12:00PM"
   room: "[Readings](/readings)"
@@ -335,7 +335,7 @@
   - Elsa Sjunneson
   description: ''
   music: false
-  published: false
+  published: true
 - title: "(Reading) Science Fiction & Fantasy Poetry Association"
   datetime: "Sunday 11:00AM"
   room: "[Readings](/readings)"
