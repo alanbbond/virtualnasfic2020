@@ -87,7 +87,8 @@
   - publishing
   datetime: Friday 1:00 PM
   room: "[Olentangy](/olentangy-room)"
-  moderators: Raven Oak
+  moderators:
+  - Raven Oak
   programparticipants:
   - Jude-Marie Green
   - Sherwood Smith
