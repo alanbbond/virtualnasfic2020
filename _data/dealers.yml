@@ -144,6 +144,22 @@
   state: New York
   what_is_sold: Free standing hardwood jigsawn puzzles and dragons
   restrictions: ''
+- name: Fantastic Books
+  contact: Ian Strock
+  city: Brooklyn
+  state: New York
+  what_is_sold: Books
+  link: "[FantasticBooks.biz](http://FantasticBooks.biz \"FantasticBooks.biz\") \n\nFacebook"
+  description: "Small-press publisher of new and reprint speculative fiction,\n\nincluding
+    works by Allen Steele and Tanith Lee. \n\nWe published the recent anthologies
+    \n\n\"Release the Virgins\" and \"Across the Universe\"."
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/fantasticbooks1.jpg"
+  - "/assets/images/fantasticbooks2.jpg"
+  - "/assets/images/fantasticbooks3.jpg"
+  - "/assets/images/fantasticbooks4.jpg"
+  - "/assets/images/fantasticbooks5.jpg"
 - name: FIAWOL Books
   contact: Tim Illingworth
   city: Powell
