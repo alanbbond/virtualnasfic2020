@@ -21,6 +21,11 @@ chat widget will load the current channel. You may also change channels by click
 <span class="hamburger-menu-image">&nbsp;&nbsp;&nbsp;&nbsp;</span>
 in the top left of the chat widget.
 
+Captions are being provided by REV automatic transcriptions.  They boast an 85% 
+accuracy rate. We are aware that they will mangle many names and complicated 
+words.  Be aware that the captions are machine generated.  Thank you for your 
+understanding in the case of mistakes.
+
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 <script>
 const even = "742199193837371423";
