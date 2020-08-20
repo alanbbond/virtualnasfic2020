@@ -1,4 +1,12 @@
 ---
+- title: "(Reading) Danian Darrell Jerry"
+  datetime: Saturday 12:30PM
+  room: Readings
+  programparticipants:
+  - Danian Darrell Jerry
+  description: ''
+  music: ''
+  published: true
 - title: Turning Science Fiction into the Beginnings of Science
   datetime: Saturday 4:00PM
   room: Auditorium
@@ -244,7 +252,7 @@
   music: false
   published: true
 - title: "(Reading) Valjeanne Jeffers"
-  datetime: Saturday 10:30AM
+  datetime: Saturday 12:30PM
   room: "[Readings](/readings)"
   programparticipants:
   - Valjeanne Jeffers
@@ -573,7 +581,7 @@
   - Sumana (brainwane) Harihareswara
   programparticipants:
   - Ada Palmer
-  - Alaya Dawn Johnson
+  - Anne Gray
   - Mary Anne Mohanraj
   - Julia Rios
   description: 'Panelists discuss amazing books they''ve read in the past year! The
@@ -700,7 +708,6 @@
   moderators:
   - Jason Sanford
   programparticipants:
-  - Beth Meacham
   - Dominik Parisien
   - Lucy A. Snyder
   - Neil Clarke
