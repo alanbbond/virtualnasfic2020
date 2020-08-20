@@ -58,8 +58,16 @@ fields:
         format: markdown
     label: description
     description: You can use the buttons in this field to add bold, italic, etc.
+  - name: music
+    type: boolean
+    label: music
+  - name: public
+    type: boolean
+    label: public
   config:
     min: 
     max: 
     labelField: 
   label: event
+pages:
+- _data/schedule.yml
