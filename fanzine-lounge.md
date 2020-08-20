@@ -22,77 +22,42 @@ It began in 1965, and the following are years for which some photos exist :
 
 ### MARCON VIII (1973)
 
-![](/assets/images/img083.jpg)
+{% include scale_image.html filename="img083.jpg" scale="45%" %}
 
-This shows the single room where the convention programming took place.
+This shows the single room where the convention programming took place. ([Original Photo](/assets/images/img083.jpg))
 
-![](/assets/images/img091.jpg)
+{% include scale_image.html filename="img091.jpg" scale="45%" %}
 
-And yes, there was a dealers section in the programming room, so that the dealers could attend the programming as well.
+And yes, there was a dealers section in the programming room, so that the dealers could attend the programming as well. ([Original Photo](/assets/images/img091.jpg))
 
-![](/assets/images/img105.jpg)
+{% include scale_image.html filename="img105.jpg" scale="45%" %}
 
-Here the audience sits and listens to a presentation. And you can almost count the number of participants from this photo.
+Here the audience sits and listens to a presentation. And you can almost count the number of participants from this photo. ([Original Photo](/assets/images/img105.jpg))
 
 ### MARCON X : [Program Guide](/assets/pdfs/MARCON-X.pdf) (1975)
 
-<div class="gallery">
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img814-mirror.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img815-mirror.jpg')"
-  >
-  </div>
-    <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img823-mirror.jpg')"
-  >
-  </div>
-</div>
+{% include scale_image.html filename="img814-mirror.jpg" scale="45%" %}
+{% include scale_image.html filename="img815-mirror.jpg" scale="45%" %}
 
-1. These are hall shots from the convention, showing the fashion of the time. 
-2. Note the person coming out of the doorway clutching their copy of the program.
-3. Here we see several people enjoying themselves at one of the room parties.
+These are hall shots from the convention, showing the fashion of the time. Note the person coming out of the doorway clutching their copy of the program. ([Original Top Photo](/assets/images/img814-mirror.jpg), [Original Bottom Photo](/assets/images/img815-mirror.jpg))
+
+{% include scale_image.html filename="img823-mirror.jpg" scale="45%" %}
+
+Here we see several people enjoying themselves at one of the room parties. ([Original Photo](/assets/images/img823-mirror.jpg))
 
 ### MARCON XII : [Program Guide](/assets/pdfs/MARCON-XII.pdf) (1977)
 
-<div class="gallery">
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img716.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img717.jpg')"
-  >
-  </div>
-    <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img722.jpg')"
-  >
-  </div>
-</div>
+{% include scale_image.html filename="img716.jpg" scale="45%" %}
 
-1. Here are Mark Evans (left) and Ross Pavlac (right) who were the vice chair and chair respectively for this MARCON.
-2. Here we have Bob Hillis and others working the registration desk, with a good line of people waiting to get into the convention.
-3. One of the notable attendees was Howard Devore (left) who participated frequently in Columbus fan activities. He is pictured with John Miesel.
+Here are Mark Evans (left) and Ross Pavlac (right) who were the vice chair and chair respectively for this MARCON. ([Original Photo](/assets/images/img716.jpg))
+
+{% include scale_image.html filename="img717.jpg" scale="45%" %}
+
+Here we have Bob Hillis and others working the registration desk, with a good line of people waiting to get into the convention. ([Original Photo](/assets/images/img717.jpg))
+
+{% include scale_image.html filename="img722.jpg" scale="45%" %}
+
+One of the notable attendees was Howard Devore (left) who participated frequently in Columbus fan activities. He is pictured with John Miesel. ([Original Photo](/assets/images/img722.jpg))
 
 ## MidWestCon
 
@@ -104,69 +69,32 @@ These photos appear to be from MidWestCons in 1974/1975 or around that time.
 
 Steve and Sue Francis, our fan GoHs have attended a few MidWestCons, so you can sit down with them sometime this weekend and see if you can get them to tell you some tales.
 
-<div class="gallery">
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img303.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img627.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img314.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img316.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img624.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img320.jpg')"
-  >
-  </div>
-  <div
-    class="gallery-image"
-    role="img"
-    aria-label=""
-    style="background-image: url('/assets/images/img319.jpg')"
-  >
-  </div>
-</div>
+{% include scale_image.html filename="img303.jpg" scale="45%" %}
+{% include scale_image.html filename="img627.jpg" scale="45%" %}
 
-1. Clearly some hanging out by the pool is called for.
-2. Or in view of the pool, as the case may be.
-3. And there are different kinds of art, which of course were on display.
-4. And some were available for purchase in the "hucksters room."
-5. Rumor has it on Saturday night of the convention there was a banquet!
-6. Of course after the day is done and all of the strenuous hanging out by the pool is over, it is good to relax with a room party...
-7. ... which sometimes even involves a cat.
+Clearly some hanging out by the pool is called for. Or in view of the pool, as the case may be. ([Original Top Photo](/assets/images/img303.jpg), [Original Bottom Photo](/assets/images/img627.jpg))
+
+{% include scale_image.html filename="img314.jpg" scale="45%" %}
+{% include scale_image.html filename="img316.jpg" scale="45%" %}
+
+And there are different kinds of art, which of course were on display. And some were available for purchase in the "hucksters room." ([Original Top Photo](/assets/images/img314.jpg), [Original Bottom Photo](/assets/images/img316.jpg))
+
+{% include scale_image.html filename="img624.jpg" scale="45%" %}
+
+Rumor has it on Saturday night of the convention there was a banquet! ([Original Photo](/assets/images/img624.jpg))
+
+{% include scale_image.html filename="img320.jpg" scale="45%" %}
+
+Of course after the day is done and all of the strenuous hanging out by the pool is over, it is good to relax with a room party ...  ([Original Photo](/assets/images/img319.jpg))
+
+{% include scale_image.html filename="img319.jpg" scale="45%" %}
+
+... which sometimes even involves a cat. ([Original Photo](/assets/images/img320.jpg))
+
 
 ## The Central Ohio SF Society
 
-COSFS was a central Ohio fan club which was formed in late 1965 to essentially collect and organize the central Ohio SF/F fans. It quickly became the driving organization behind MARCON. The club had a newsletter, several examples are listed below. If you read Cosign #1, the front has a brief history of how the organization was formed.
+COSFS was a central Ohio fan club which was formed in late 1965 to essentially collect and organize the central Ohio SF/F fans. It quickly became the driving organization behind MARCON. The club had a newsletter, a couple of examples are listed below. If you read Cosign #1, the front has a brief history of how the organization was formed.
 
 Many of the same folks who were involved in the early days of the convention were members of this club, and also had their own fanzines.
 
@@ -219,6 +147,8 @@ One of the pieces the library has come across is this record album, recorded her
 ## Ohio Valley Filk Fest
 
 Another current and long running central Ohio convention aimed much more at the music (filk) community was formed in 1984, the [Ohio Valley Filk Fest](http://www.ovff.org/).
+
+OVFF was started by Van Siegling, and was originally intended to be a convention which took place in different cities (in different states) each year, somewhere around the Ohio River Valley. But it became clear that the driving forces were in Ohio, and so OVFF now takes place in Columbus each year.
 
 * [OVFF X](/assets/pdfs/OVFF X Program.pdf)
 
