@@ -1,4 +1,21 @@
 ---
+- title: Opening Ceremonies
+  datetime: Friday 3:00 PM
+  room: Auditorium
+  programparticipants:
+  - Eric Flynt
+  - Stephanie Law
+  - Marc Millis
+  - Kevin J. Anderson
+  - Brian Herbert
+  - Christopher J. Garcia
+  - Tom Smith
+  - LIsa Garrison
+  description: Welcome to the 2020 NASFiC!  Come meet our Guests of Honor and find
+    out how this whole "virtual" thing is expected to work, anyway. A fantastic weekend
+    lies ahead, and we have some exciting announcements to make about it.
+  music: ''
+  published: ''
 - title: "(Reading) Caitlin Starling"
   datetime: Saturday 2:00PM
   room: Readings
