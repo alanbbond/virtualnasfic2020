@@ -14,7 +14,9 @@ This year the awards will be followed by a Panel about it's history.
 
 ## Prometheus Awards’ 40th Anniversary Ceremony
 
-### Saturday, August 22nd - Afternoon
+### 1:00p.m. - 1:30p.m., Saturday, August 22nd
+
+{% include float_image.html filename="michael-grossberg.jpg" side="left" %}
 
 ### Moderator: Michael Grossberg
 
@@ -42,7 +44,7 @@ Sarah Hoyt, a Colorado resident, is an American science fiction, fantasy, myster
 
 How have our visions of a free, dynamic and better future, with universal respect for each other’s rights, evolved and changed in science fiction/fantasy? What about cautionary dystopian visions, from Orwell’s 1984 and Animal Farm to Doctorow’s Little Brother? Prometheus-winning authors Sarah Hoyt (Darkship Thieves), William H. Stoddard and F. Paul Wilson (An Enemy of the State, Repairman Jack series) will join journalists Michael Grossberg and Tom Jackson in examining the perennial tensions between Liberty and Power and cooperation versus coercion, as reflected in these and other authors’ diverse Prometheus Award winners over the past 40 years.
 
-### Saturday, August 22nd - Afternoon
+### 1:30p.m. - 2:30p.m., Saturday, August 22nd
 
 ### Panelist: Michael Grossberg
 
