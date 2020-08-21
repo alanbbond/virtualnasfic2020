@@ -1,10 +1,15 @@
 ---
-- name: ''
+- name: Cynthia Diamond
   guest_of_honor: false
   role: ''
   filename: ''
-  description: ''
-  website1: ''
+  description: Cynthia is an award-winning paranormal romance author that writes for
+    sassy nerds with a sharp sense of humor. She writes magical worlds with snarky
+    heroines and sexy heroes with a dash of "cinnamon roll". When not telling tales,
+    Cynthia is a geek, a costumer, and an amateur artist. She resides in sunny San
+    Diego, California with her husband Max, two cats of varying intelligence, and
+    a ton of goldfish.
+  website1: "[www.cynthiadiamondauthor.com](http://www.cynthiadiamondauthor.com/)"
   website2: ''
   website3: ''
   facebook: ''
