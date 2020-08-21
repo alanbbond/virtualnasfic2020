@@ -1,15 +1,10 @@
 ---
-- name: Cynthia Diamond
+- name: ''
   guest_of_honor: false
   role: ''
   filename: ''
-  description: Cynthia is an award-winning paranormal romance author that writes for
-    sassy nerds with a sharp sense of humor. She writes magical worlds with snarky
-    heroines and sexy heroes with a dash of "cinnamon roll". When not telling tales,
-    Cynthia is a geek, a costumer, and an amateur artist. She resides in sunny San
-    Diego, California with her husband Max, two cats of varying intelligence, and
-    a ton of goldfish.
-  website1: "[www.cynthiadiamondauthor.com](http://www.cynthiadiamondauthor.com/)"
+  description: ''
+  website1: ''
   website2: ''
   website3: ''
   facebook: ''
@@ -17,13 +12,14 @@
   instagram: ''
   discord: ''
   patreon: ''
-- name: Sally Headford
+- name: Virginia DeMarce
   guest_of_honor: false
   role: ''
-  filename: ''
-  description: Sally Headford has been a long term member of her local Toronto area
-    filk community for over 25 years. She helps moderate FilkBites, a regular online
-    house filk and, prior to COVID, has worked on the Con-Com of over twenty FilKONtario.
+  filename: "/assets/images/virginia-demarce.jpg"
+  description: Virginia DeMarce, a retired historian, has been writing in Eric Flint's
+    1632 universe since 2004. She has co-authored three books with Eric and one solo
+    title from Baen, two from Ring of Fire Press, and had stories in anthologies and
+    the Grantville Gazette. Two more books are forthcoming from Ring of Fire Press.
   website1: ''
   website2: ''
   website3: ''
@@ -430,6 +426,24 @@
     winning debut novel Witchmark, the first novel of the Kingston Cycle. Her newest
     novel, The Midnight Bargain, is upcoming in 2020 from Erehwon Books.
   website1: "[clpolk.com](https://clpolk.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Cynthia Diamond
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/cynthia-diamond.jpg"
+  description: Cynthia is an award-winning paranormal romance author that writes for
+    sassy nerds with a sharp sense of humor. She writes magical worlds with snarky
+    heroines and sexy heroes with a dash of "cinnamon roll". When not telling tales,
+    Cynthia is a geek, a costumer, and an amateur artist. She resides in sunny San
+    Diego, California with her husband Max, two cats of varying intelligence, and
+    a ton of goldfish.
+  website1: "[www.cynthiadiamondauthor.com](http://www.cynthiadiamondauthor.com/)"
   website2: ''
   website3: ''
   facebook: ''
@@ -1945,4 +1959,19 @@
   website1: "[EricFlint.net](https://ericflint.net/)"
   website2: ''
   website3: ''
+  patreon: ''
+- name: Sally Headford
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: Sally Headford has been a long term member of her local Toronto area
+    filk community for over 25 years. She helps moderate FilkBites, a regular online
+    house filk and, prior to COVID, has worked on the Con-Com of over twenty FilKONtario.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
   patreon: ''
