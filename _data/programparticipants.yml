@@ -1,4 +1,17 @@
 ---
+- name: ''
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: ''
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Ace Tilton Ratcliff
   guest_of_honor: false
   role: ''
@@ -757,13 +770,13 @@
   filename: "/assets/images/img_5799-2-philologa-majora.JPG"
   description: 'Dr Gillian Polack is a Jewish-Australian science fiction and fantasy
     writer, researcher and editor. She wrote the first Australian Jewish fantasy novel
-    (The Wizardry of Jewish Women). Her writing was short listed for many awards,
+    _(The Wizardry of Jewish Women_). Her writing was short listed for many awards,
     and won one, once: this was probably a mistake. Gillian is a Medievalist/ethnohistorian,
     currently working on how novels transmit culture. Her work on how writers use
-    history in their fiction (History and Fiction) was a runner-up for an award but
-    will be out in paperback soon anyway. Her hobbies include researching historical
+    history in their fiction (_History and Fiction_) was a runner-up for an award
+    but will be out in paperback soon anyway. Her hobbies include researching historical
     foodways and reading. She has a collection of select and very attractive fans.'
-  website1: '[https://gillianpolack.com/](https://gillianpolack.com/ "https://gillianpolack.com/")'
+  website1: "[gillianpolack.com](https://gillianpolack.com/)"
   website2: ''
   website3: ''
   facebook: Gillian Polack
@@ -950,12 +963,22 @@
   patreon: ''
 - name: Joe Siclari
   filename: "/assets/images/joe-siclari.jpg"
-  website1: ''
-  website2: ''
-  website3: ''
+  website1: "[Fanac.org](http://fanac.org)"
+  website2: "[Fancyclopedia.org](http://fancyclopedia.org)"
+  website3: "[YouTube: Fan History](https://www.youtube.com/c/FanacFanHistory)"
   guest_of_honor: false
   role: ''
-  description: ''
+  description: 'A fan since 1965, Joe Siclari started reading S-F earlier. Joe is
+    active in almost every aspect of fandom: he published 100+ fanzines plus many
+    convention publications, started S-F clubs and conventions (Tropicon, SMOFcon,
+    FanHistoricon and the Travelling Fete), chaired MagiCon, the 50th Worldcon, and
+    many conventions. Joe was 2005 DUFF delegate, 2016 Big Heart recipient with his
+    wife, Edie Stern, and will be the 2022 Fan GoH at Chicon 7. Joe chairs The Fan
+    History Project which sponsors Fancyclopedia 3 and the Fan History YouTube channel.
+    He’s written for reference books, co-edited Hugo nominated Worldcon GoH Speeches,
+    has a large collection of fan publications and memorabilia used for exhibits at
+    many conventions. Joe and Edie also collect S-F art and curated over 15 historical
+    exhibits.'
   facebook: ''
   twitter: ''
   instagram: ''
@@ -1358,6 +1381,26 @@
   website3: ''
   facebook: ''
   twitter: ahsimlibrarian
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Muhammad Aurangzeb Ahmad
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/muhammad-ahmad.png"
+  description: Muhammad Aurangzeb Ahmad is an Affiliate Assistant Professor in the
+    Department of Computer Science at University of Washington and a Research Scientist
+    at KenSci. Muhammad Aurangzeb has published over 50 research papers in machine
+    learning and artificial intelligence. His current research is on Fairness and
+    Bias in Healthcare AI. He has a PhD in Computer Science at University of Minnesota
+    where he worked on modeling human behavior is online games. He is also the founder
+    and editor of the _Islam and Science Fiction_ project, which is the most comprehensive
+    resource on the subject.
+  website1: "[www.aurumahmad.com](http://www.aurumahmad.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
