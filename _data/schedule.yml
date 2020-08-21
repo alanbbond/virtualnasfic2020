@@ -828,7 +828,7 @@
   - Tess McFionn
   description: A group of women with a strict time limit to read a tidbit of a story.
   music: true
-  published: false
+  published: true
 - title: Future Worldcon Q&A
   datetime: Saturday 3:00 PM
   room: "[Scioto](/scioto-room)"

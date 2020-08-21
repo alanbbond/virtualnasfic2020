@@ -1,8 +1,9 @@
 ---
 title: ''
-layout: ''
+layout: default
 category: ''
 order: 
+published: false
 
 ---
 # NASFiC News
