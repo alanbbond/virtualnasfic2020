@@ -681,30 +681,8 @@
     storytelling.
   music: false
   published: false
-- title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
-    from F. Paul Wilson and Robert Heinlein to Today'
-  datetime: Saturday 1:30 pm - 2:30 pm
-  room: ''
-  moderators:
-  - Tom Jackson
-  programparticipants:
-  - Sarah Hoyt
-  - F. Paul Wilson
-  - Michael Grossberg
-  - William H. Stoddard
-  description: How have our visions of a free, dynamic and better future, with universal
-    respect for each other’s rights, evolved and changed in science fiction/fantasy?
-    What about cautionary dystopian visions, from Orwell’s 1984 and Animal Farm to
-    Doctorow’s Little Brother? Prometheus-winning authors Sarah Hoyt (Darkship Thieves)
-    and F. Paul Wilson (An Enemy of the State, Repairman Jack series) will join journalists
-    Michael Grossberg (LFS co-founder) and Tom Jackson in examining the perennial
-    tensions between Liberty and Power and cooperation versus coercion, as reflected
-    in these and other authors’ diverse Prometheus Award winners over the past 40
-    years.
-  music: false
-  published: true
 - title: Prometheus Awards’ 40th Anniversary Ceremony
-  datetime: Saturday 1:00pm - 1:30pm
+  datetime: Saturday 1:00 PM - 1:30 PM
   room: ''
   moderators:
   - Michael Grossberg
@@ -724,6 +702,28 @@
     Jerry Pournelle, Terry Pratchett, Ayn Rand, L. Neil Smith, Neal Stephenson, Charles
     Stross, J.R.R. Tolkien, Harry Turtledove, Vernor Vinge, Kurt Vonnegut, Jo Walton,
     Jack Williamson, Wilson and Robert Anton Wilson.)'
+  music: false
+  published: true
+- title: 'Visions of SF, Liberty, Human Rights: The Prometheus Awards over Four Decades,
+    from F. Paul Wilson and Robert Heinlein to Today'
+  datetime: Saturday 1:30 PM - 2:30 PM
+  room: "[Auditorium](/auditorium)"
+  moderators:
+  - Tom Jackson
+  programparticipants:
+  - Sarah Hoyt
+  - F. Paul Wilson
+  - Michael Grossberg
+  - William H. Stoddard
+  description: How have our visions of a free, dynamic and better future, with universal
+    respect for each other’s rights, evolved and changed in science fiction/fantasy?
+    What about cautionary dystopian visions, from Orwell’s 1984 and Animal Farm to
+    Doctorow’s Little Brother? Prometheus-winning authors Sarah Hoyt (Darkship Thieves)
+    and F. Paul Wilson (An Enemy of the State, Repairman Jack series) will join journalists
+    Michael Grossberg (LFS co-founder) and Tom Jackson in examining the perennial
+    tensions between Liberty and Power and cooperation versus coercion, as reflected
+    in these and other authors’ diverse Prometheus Award winners over the past 40
+    years.
   music: false
   published: true
 - title: "(Reading) Broad Universe Rapid Fire Reading"
