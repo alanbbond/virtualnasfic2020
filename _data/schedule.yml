@@ -117,7 +117,7 @@
   published: ''
 - title: Opening Ceremonies
   datetime: Friday 3:00 PM
-  room: Auditorium
+  room: "[Auditorium](/auditorium)"
   programparticipants:
   - Steve Francis
   - Sue Francis
@@ -378,7 +378,7 @@
   published: true
 - title: 'Youth & YA Fiction: Who''s Reading Who?'
   datetime: Friday 12:00PM
-  room: Olentangy
+  room: "[Olentangy](/olentangy-room)"
   moderators:
   - Kathryn Sullivan
   programparticipants:
