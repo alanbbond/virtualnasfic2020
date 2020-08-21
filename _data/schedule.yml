@@ -158,7 +158,7 @@
   published: true
 - title: Kaffeeklatsch with Tom Smith
   datetime: Sunday 11:00AM
-  room: Kaffeeklatsches
+  room: Kaffeeklatsch
   programparticipants:
   - Tom Smith
   description: " You must sign up in advance. The sign up form opens at 3 pm on Friday,
@@ -168,7 +168,7 @@
   published: true
 - title: Kaffeeklatsch with Marc Millis
   datetime: Saturday 10:00AM
-  room: Kaffeeklatsches
+  room: Kaffeeklatsch
   programparticipants:
   - Marc Millis
   description: 'Ten lucky attendees get to hang out with Guest of Honor Marc Millis.
