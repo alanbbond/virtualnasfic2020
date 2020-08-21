@@ -1,20 +1,58 @@
 ---
-- name: Jim Beall
+- name: Gillian Polack
   guest_of_honor: false
   role: ''
-  filename: ''
-  description: 'Jim Beall (BS-Math, MBA, PE) has been a nuclear engineer for over
-    40 years, a war gamer for over 50, and an avid reader of science fiction for even
-    longer. He began as a nuclear engineering officer aboard USS Long Beach (CGN-9).
-    Civilian experience includes design, construction, inspection, enforcement, and
-    assessment with a nuclear utility, an architect engineering firm, and the US Nuclear
-    Regulatory Commission. Coauthor of Journal of the British Interplanetary Society
-    paper, "Ecological Engineering Considerations for ISU''s Worldship Project." Baen
-    Books published eight of his non-fiction articles, including "Our Worldship Broke!"
-    anthologized in _Stellaris: People of the Stars_.'
+  filename: "/assets/images/img_5799-2-philologa-majora.JPG"
+  description: 'Dr Gillian Polack is a Jewish-Australian science fiction and fantasy
+    writer, researcher and editor. She wrote the first Australian Jewish fantasy novel
+    (The Wizardry of Jewish Women). Her writing was short listed for many awards,
+    and won one, once: this was probably a mistake. Gillian is a Medievalist/ethnohistorian,
+    currently working on how novels transmit culture. Her work on how writers use
+    history in their fiction (History and Fiction) was a runner-up for an award but
+    will be out in paperback soon anyway. Her hobbies include researching historical
+    foodways and reading. She has a collection of select and very attractive fans.'
+  website1: '[https://gillianpolack.com/](https://gillianpolack.com/ "https://gillianpolack.com/")'
+  website2: ''
+  website3: ''
+  facebook: Gillian Polack
+  twitter: "@GillianPolack"
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Joe Siclari
+  filename: "/assets/images/joe-siclari.jpg"
   website1: ''
   website2: ''
   website3: ''
+  guest_of_honor: false
+  role: ''
+  description: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Lizabee Gibson
+  filename: "/assets/images/lizabeegibson.jpg"
+  description: A British folksinger, costumer, and student of history.
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Mike Gibson
+  filename: "/assets/images/mike-gibson.jpg"
+  description: A British chanteyman, session leader, SF fan, and raconteur.
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
   facebook: ''
   twitter: ''
   instagram: ''
@@ -198,6 +236,24 @@
   website3: ''
   facebook: ''
   twitter: AAHairsto
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Anne Gray
+  filename: "/assets/images/anne-gray.jpg"
+  description: On the good days, I dance. On the bad days, I do jigsaw puzzles. Sometimes
+    I sing. Sometimes it's the blues, sometimes it's showtunes, folk rock, or children's
+    songs. Always, I read. For 10 years now, I've been reading up on the history of
+    race issues in America. For 25 years I have run science fiction conventions. The
+    latter lead to the former, after RaceFail '09 proved how much we smofs need to
+    learn, and do better. I am a futurist, dedicated to positive, visionary change.
+  website1: "[www.netmouse.com](http://www.netmouse.com)"
+  website2: ''
+  website3: ''
+  facebook: zer.netmouse
+  guest_of_honor: false
+  role: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
@@ -617,6 +673,43 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Erin Underwood
+  filename: "/assets/images/erin-underwood.jpg"
+  description: Erin Underwood is the chair of Boskone 58, which take place in February
+    2021. She is the editor for Underwords Press, a small press that specializes in
+    young adult science fiction anthologies. Erin is also a science fiction, fantasy,
+    and horror writer with her fiction appearing in various anthologies. Her non-fiction
+    has appeared in the SFWA Bulletin and Amazing Stories Magazine. She is also the
+    editor of several science fiction anthologies.
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Errick Nunnally
+  role: ''
+  filename: "/assets/images/errick-nunnally.jpg"
+  description: Errick Nunnally​ was born and raised in Boston, Massachusetts, ​and
+    ​served one tour in the Marine Corps before deciding art school was a safer pursuit.
+    He enjoys art, comics, and genre novels. A graphic designer, he has trained in
+    Krav Maga and Muay Thai kickboxing. He has appeared in several anthologies and
+    is best described as “dark pulp.” His work can be found in FIYAH MAGAZINE, LAMPLIGHT,
+    THE FINAL SUMMONS, PROTECTORS 2, NIGHTLIGHT PODCAST, and the novels, LIGHTNING
+    WEARS A RED CAPE, BLOOD FOR THE SUN, and ALL THE DEAD MEN.
+  website1: "[www.erricknunnally.us](www.erricknunnally.us)"
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Farah Mendlesohn
   guest_of_honor: false
   role: ''
@@ -847,6 +940,27 @@
     college and DigiPen Institute of Technology, where he now serves as the program
     director for the Bachelor of Arts in Game Design program. His personal quest is
     to play every game that exists at least once.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Jim Beall
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: 'Jim Beall (BS-Math, MBA, PE) has been a nuclear engineer for over
+    40 years, a war gamer for over 50, and an avid reader of science fiction for even
+    longer. He began as a nuclear engineering officer aboard USS Long Beach (CGN-9).
+    Civilian experience includes design, construction, inspection, enforcement, and
+    assessment with a nuclear utility, an architect engineering firm, and the US Nuclear
+    Regulatory Commission. Coauthor of Journal of the British Interplanetary Society
+    paper, "Ecological Engineering Considerations for ISU''s Worldship Project." Baen
+    Books published eight of his non-fiction articles, including "Our Worldship Broke!"
+    anthologized in _Stellaris: People of the Stars_.'
   website1: ''
   website2: ''
   website3: ''
@@ -1602,6 +1716,26 @@
   discord: ''
   patreon: ''
   mastodon: mastodon.social/@brainwane
+- name: Tessa McFionn
+  filename: "/assets/images/tessa-mcfionn.jpg"
+  description: Tessa McFionn has always had a love of all things unreal. Growing up
+    reading Tolkien, Heinlein, and comic books, playing D&D, and watching Thundarr
+    the Barbarian on Saturday mornings, she was immersed in worlds of magic. When
+    her mother introduced her to _Dune_ and _An Interview with a Vampire_, she was
+    hooked on romance in speculative fiction, and after discovering Sherrilyn Kenyon,
+    she realized love can share center stage in the story. With an award-winning paranormal
+    romance and a new sci-fi romance series out in the world, she continues to encourage
+    all to believe in magic.
+  website1: "[www.tessamcfionn.com](http://www.tessamcfionn.com)"
+  website2: ''
+  website3: ''
+  facebook: tmcfionn
+  twitter: TessaMcFionn
+  instagram: tessam2112
+  guest_of_honor: false
+  role: ''
+  discord: ''
+  patreon: ''
 - name: Tobias S. Buckell
   guest_of_honor: false
   role: ''
