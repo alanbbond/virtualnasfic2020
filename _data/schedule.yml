@@ -439,17 +439,19 @@
     Leonard goes over the rules and talks about how they've changed over time.
   music: false
   published: true
-- title: 'Isaac Asimov at 100: Our Favorites'
+- title: 'Isaac Asimov at 100 '
   datetime: Friday 2:00PM
   room: "[Olentangy](/olentangy-room)"
   programparticipants:
   - Alec Nevala-Lee
   - William S. Higgins
-  description: Isaac Asimov, born 100 years ago, penned (well, typed) an immense number
-    of books, both fiction and nonfiction. Join our panel of Asimov fans as they share
-    their favorites.
+  description: 'Isaac Asimov, born 100 years ago, penned (well, typed) an immense
+    number of books, both fiction and nonfiction. Join William S. Higgins and biographer
+    Alec Nevala-Lee as they pay homage to their favorites of Asimov''s works and discuss
+    his cultural influence - both positive and negative - in the science fiction community.
+    (For further context: https://www.publicbooks.org/asimovs-empire-asimovs-wall/'
   music: false
-  published: false
+  published: true
 - title: 'Nuts & Bolts: Running a Non-Profit Lit Organization'
   datetime: Friday 4:00PM
   room: "[Scioto](/scioto-room)"
