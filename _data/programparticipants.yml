@@ -84,6 +84,23 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Alex Wittenberg
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/alex-wittenberg.jpg"
+  description: Alex Wittenberg has been attending cons for over two decades, serving
+    on panels for almost as long, and been an active member of the filk community
+    from the start. He most recently acted as con chair for NEWhere, the virtual version
+    of the annual NEFilk convention. He is also a Trekkie, a long-suffering Mets fan,
+    and an early bird in a community of night owls.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Aliette de Bodard
   guest_of_honor: false
   role: ''
@@ -194,6 +211,23 @@
   facebook: zer.netmouse
   guest_of_honor: false
   role: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Batya "The Toon" Wittenberg
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/batya-wittenberg.png"
+  description: 'Batya “the Toon” Wittenberg is, in no particular order: a successfully
+    transplanted New Yorker, a practicing Orthodox Jew, a happily married woman since
+    1999, a certified master of Pun Fu, an enthusiastic cook and foodie, a founding
+    member of filk group Lady Mondegreen, a fanfic writer, a habitual online and tabletop
+    roleplayer, and in no particular order.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
   twitter: ''
   instagram: ''
   discord: ''
@@ -1131,6 +1165,26 @@
   website3: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Juliet McKenna
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/juliet-mckenna.jpg"
+  description: Juliet E McKenna is a British fantasy author living in the Cotswolds,
+    UK. Loving history, myth and other worlds since she first learned to read, she
+    has written fifteen epic fantasy novels so far. Her debut, _The Thief's Gamble_,
+    began _The Tales of Einarinn_ in 1999, followed by The Aldabreshin Compass sequence,
+    The Chronicles of the Lescari Revolution, and The Hadrumal Crisis trilogy. _The
+    Green Man's Heir_ was her first modern fantasy rooted in British folklore, followed
+    by _The Green Man’s Foe_ and _The Green Man’s Silence_. She writes diverse shorter
+    stories enjoying forays into dark fantasy, steampunk and SF.
+  website1: "[www.julietemckenna.com](http://www.julietemckenna.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: JulietEMcKenna
   instagram: ''
   discord: ''
   patreon: ''
