@@ -1,4 +1,23 @@
 ---
+- name: Stephanie Law
+  description: 'Stephanie Law is a multi-media artist and illustrator from California.
+    Primarily working in watercolor, gold and silver leaf, and ink, she adds texture
+    and dimension both within her pictures and in the frames of them. Stephanie has
+    been a dancer for almost two decades, and she uses her experience of how the human
+    body moves and emotes to create a bridge into her artwork, not only to depict
+    humans, but also trees, other plants, insects, ephemeral guides and strange creatures.
+    Early on, her career moved through the illustration and gaming world, but in recent
+    decades she has focused more on her own body of work, gallery shows, and publications.
+    She taught The Fantastic Workshop of Nashville, TN in 2016 and 2018, and won Best
+    in Show at Dragoncon in 2015 for *When Flowers Dream*.'
+  website1: 'https://www.shadowscapes.com'
+  website2: 'https://www.patreon.com/StephanieLaw'
+  image_of_artist: "/assets/images/stephanie-law.jpeg"
+  image_filenames:
+  - '/assets/images/artshow/4 - Stephanie Law.jpg'
+  - '/assets/images/artshow/allegro2 - Stephanie Law.jpg'
+  - '/assets/images/artshow/moongazing - Stephanie Law.jpg'
+  - 'assets/images/artshow/transition_fb - Stephanie Law.jpg'
 - name: Melanie Unruh
   description: Melanie is a Denver-area artist and maker, specializing in decorative
     and functional pottery, and fantasy and historical sartorial arts. A life-long
@@ -187,3 +206,21 @@
   - "/assets/images/tiara_base - Sara Felix.jpg"
   - "/assets/images/tiara_wings - Sara Felix.jpg"
   - "/assets/images/tiara_writer - Sara Felix.jpg"
+- name: Charles Urbach
+  description: "Charles Urbach is a Chesley award winning writer and colored pencil illustrator with more than 25 years in design, publishing, and illustration. His detailed original concepts and drawings have appeared on merchandise of all kinds, book covers for authors including Timothy Zahn, and hundreds of his illustrations have appeared in gaming products including: Magic: The Gathering, Heroclix, Legend of the Five Rings, A Game of Thrones, Lord of the Rings, various Star Wars products, Das Schwarze Auge, Infinite City, Mage Knight, Everquest, Call of Cthulhu, Esper Genesis, DoomTown Reloaded, and many others. He is frequently a guest and instructor at conventions and tournaments around the world, where his artwork is displayed and sold. Among his accomplishments, he is a two time Chesley Award winner and has won awards at  Gen Con, Dragon Con, Origins, CONvergence, Marcon, and  many other events around the U.S."
+  website1: "[Facebook](http://www.charlesurbach.com)"
+  website2: "[eBay](https://www.ebay.com/str/artofcharlesurbach)"
+  image_filenames:
+  - '/assets/images/artshow/Sample Urbach Noty All Treasure is Gold - Charles Urbach.jpg'
+  - '/assets/images/artshow/Sample Urbach Star To Steer By - Charles Urbach.jpg'
+  - '/assets/images/artshow/Sample Urbach Unbound - Charles Urbach.jpg'
+  - '/assets/images/artshow/Sample Urbach Where Aventures Begin - Charles Urbach.jpg'
+- name: Lisa Sell
+  description: Lisa Sell is a 2D /3D award winning artist with a passion for fantasy art. Many of her works feature dragons and creatures from mythology with graceful compositions and intricate designs. Lisa is best known for her 3D sculptures, along with her graphic design and illustration work. Her sculpted masquerade masks, fantasy sculptures, and illustrations are published, sold, and collected around the world. In addition to masks and freestanding sculptures, her detail oriented creations include jewelry, figurines, and wall art – all hand sculpted, some are hand cast in resin, and hand painted from her original designs.
+  facebook: Lisa-Sell-Artist-421303461249009
+  image_filenames:
+  - '/assets/images/artshow/Hair Clips 2 - Lisa S.jpg'
+  - '/assets/images/artshow/Junior Page - Lisa S.jpg'
+  - '/assets/images/artshow/Mask Page New_ Gen Con - Lisa S.jpg'
+  - '/assets/images/artshow/Orb Dragon NEW3 - Lisa S.jpg'
+  - '/assets/images/artshow/Pic. F. P. Red 1 - Lisa S.jpg'
