@@ -1010,7 +1010,7 @@
   published: true
 - title: 'Future of Policing: A Journey Planet Fanzine Workshop'
   datetime: Sunday 10:00 AM
-  room: Auditorium
+  room: "[Auditorium](/auditorium)"
   moderators:
   - Anne Gray
   programparticipants:
@@ -1343,7 +1343,7 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Eric Flynt"
+- title: "(Reading) Eric Flint"
   datetime: Sunday 10:30 AM
   room: "[Readings](/readings)"
   programparticipants:
