@@ -9,9 +9,9 @@
     Sign-up sheet: https://forms.gle/vYFiFoSgL871cLhw5
   music: ''
   published: true
-- title: Open Filking
+- title: Open Filk
   datetime: Sunday 2:00 pm
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Sybille Maaß
   - Batya Wittenberg
@@ -55,9 +55,9 @@
     maybe not all at once.
   music: 'true'
   published: 'true'
-- title: Open Filking
+- title: Open Filk
   datetime: Sunday 10:00 AM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Sybille Maaß
   - Alex Wittenbrg
@@ -1257,13 +1257,12 @@
   published: true
 - title: Open Filk with Tom Smith
   datetime: Friday, 9:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Tom Smith
-  description: Unthemed open song circle. Come listen and/or make music in this unthemed
-    song circle. We’ll go around the room giving everyone a chance to perform (play),
-    request a song (pick), or pass. All types of music are welcome, but expect to
-    hear a bunch of songs related to science fiction, fantasy, science, and fandom.
+  description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
+    All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
+    fantasy, science, and fandom.
   music: true
   published: true
 - title: Filk History & Stories
@@ -1277,35 +1276,32 @@
     and guaranteed to be entertaining!
   music: true
   published: true
-- title: Participatory Music Chantey Sing
+- title: Chantey Sing
   datetime: Saturday 1:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Mike Gibson
   - Jeff Keller
   - Becca Mandel
-  description: Themed open song circle. Come sing (or just listen to, but we hope
+  description: \[Themed open song circle\]. Come sing (or just listen to, but we hope
     you'll sing) songs of the sea and sailing in all forms! Work songs from the age
-    of sail are particularly welcome, but let’s try to avoid the most offensive bits.
-    (The old salts were famously lacking in delicacy, but we don’t need _that_ much
-    verisimilitude, and we won’t mind if you drop a few verses or change a few words.)
+    of sail are particularly welcome, but so are updates, parodies, and related filks.
   music: true
   published: true
-- title: Open Filking
+- title: Open Filk
   datetime: Saturday 3:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Naomi Hinchen
   - Peggi Warner-Lalonde
-  description: Unthemed open song circle. Come listen and/or make music in this unthemed
-    song circle. We’ll go around the room giving everyone a chance to perform (play),
-    request a song (pick), or pass. All types of music are welcome, but expect to
-    hear a bunch of songs related to science fiction, fantasy, science, and fandom.
+  description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
+    All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
+    fantasy, science, and fandom.
   music: true
   published: true
 - title: Online-Performance Workshop
   datetime: Saturday 6:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Anabel Graetz
   description: Get the most out of your virtual performances including musical presentations
@@ -1326,39 +1322,39 @@
   published: true
 - title: Bawdy Songs
   datetime: Saturday 10:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Anabel Graetz
   - Merav Hoffman
-  description: 'Themed open song circle. Sing or listen to songs of lust, sex, the
+  description: '\[Themed open song circle\]. Sing or listen to songs of lust, sex, the
     joy of procreation: songs about sex that are fun, funny and wonderful are all
     welcome; violence and coercion are not, and the scatalogical is discouraged. Bawdiness
     in any orientation is welcome. A virtual sing like no other!'
   music: 'true'
   published: true
-- title: Open Filking
+- title: Open Filk
   datetime: Saturday 11:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Peggi Warner-Lalonde
-  description: Unthemed open song circle. Come listen and/or make music in this unthemed
-    song circle. We’ll go around the room giving everyone a chance to perform (play),
-    request a song (pick), or pass. All types of music are welcome, but expect to
-    hear a bunch of songs related to science fiction, fantasy, science, and fandom.
+  description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
+    All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
+    fantasy, science, and fandom.
   music: true
   published: true
 - title: Traditional Ballad Bingo
   datetime: Sunday 12:00 PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - Naomi Hinchen
   - Becca Mandel
   - Red Kovach
-  description: Themed open song circle, with a twist! Join the fun as attendees take
+  description: \[Themed open song circle, with a twist!\] Join the fun as attendees take
     turns performing traditional ballads for the assemblage. Listen carefully to mark
     your Ballad Bingo cards when you detect such classic tropes as drowning, pregnancy
     out of wedlock, or murder of a loved one. Web-based bingo cards will be provided.  Attendees
-    are encouraged to lead songs, but you needn’t sing to play!
+    are encouraged to lead songs, but you needn’t sing to play! Winners will get links to photos
+    of valuable prizes.
   music: true
   published: true
 - title: 'Concert: Tom Smith'
@@ -1371,7 +1367,7 @@
   published: true
 - title: Dead Dog Filk
   datetime: Sunday 4:00PM
-  room: "[Participatory Music](/participatory-music)"
+  room: "[Music Room](/participatory-music)"
   programparticipants:
   - ''
   description: Haven’t gotten enough? Still looking to catch up with friends? Too
