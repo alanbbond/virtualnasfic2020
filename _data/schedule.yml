@@ -1041,12 +1041,13 @@
   moderators:
   - Anne Gray
   programparticipants:
+  - Anne Gray
   - Chris M. Barkley
   - Joel Zakem
   - Steven H Silver
   description: Our panel of fanzine experts talk about the ins and outs of fanzines.
   music: false
-  published: false
+  published: true
 - title: 'Worldbuilding: Crime and Punishment'
   datetime: Saturday 10:00 PM
   room: "[Olentangy](/olentangy-room)"
@@ -1059,7 +1060,7 @@
     crime and punishment. What gets called a crime? Who or what entities enforce the
     law?  What does justice and restitution look like -- and what can be re-imagined?
   music: false
-  published: false
+  published: true
 - title: Researching the Golden Age
   datetime: Sunday 10:00 AM
   room: "[Scioto](/scioto-room)"
