@@ -58,7 +58,7 @@
   published: ''
 - title: "(Reading) Caitlin Starling"
   datetime: Saturday 2:00PM
-  room: Readings
+  room: "[Readings](/readings)"
   programparticipants:
   - Caitlin Starling
   description: ''
@@ -750,7 +750,7 @@
   published: true
 - title: The Legal Implications of Monster Hunting
   datetime: Saturday 3:00PM
-  room: Olentangy
+  room: "[Olentangy](/olentangy)"
   moderators:
   - Misha Stone
   programparticipants:
