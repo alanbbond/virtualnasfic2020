@@ -12,5 +12,5 @@
     </span>
     {% endif %}
   </p>
-  <p class="description">{{ event.description }}</p>
+  <p class="description">{{ event.description | markdownify }}</p>
 </section>
