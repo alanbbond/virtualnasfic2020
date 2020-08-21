@@ -1132,6 +1132,8 @@
   room: "[Auditorium](/auditorium)"
   moderators:
   - Sara Felix
+  programparticipants:
+  - ""
   music: false
   published: true
   description: ''
