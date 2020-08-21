@@ -1,4 +1,23 @@
 ---
+- title: Closing Ceremonies
+  datetime: Sunday 3:00 PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants:
+  - Eric Flint
+  - Steve Francis
+  - Sue Francis
+  - Stephanie Law
+  - Marc Millis
+  - Kevin J. Anderson
+  - Brian Herbert
+  - Christopher J. Garcia
+  - Lisa Garrison
+  - Tom Smith
+  description: Well, how did it go?  We will hear some last thoughts from our Guests
+    of Honor and Chair, and also welcome your feedback on this glorious Virtual NASFiC
+    experiment.
+  music: ''
+  published: 'true'
 - title: 'Concert: Amy McNally'
   datetime: Sunday 12:00 PM
   room: "[Auditorium](/auditorium)"
@@ -100,6 +119,8 @@
   datetime: Friday 3:00 PM
   room: Auditorium
   programparticipants:
+  - Steve Francis
+  - Sue Francis
   - Eric Flynt
   - Stephanie Law
   - Marc Millis
