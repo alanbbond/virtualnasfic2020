@@ -3,7 +3,7 @@ title: Register Here
 layout: default
 category: info
 public: true
-order: "2"
+order: 2
 
 ---
 # HOW TO ATTEND?
