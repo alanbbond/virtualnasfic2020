@@ -1,43 +1,4 @@
 ---
-- name: Joe Siclari
-  filename: "/assets/images/joe-siclari.jpg"
-  website1: ''
-  website2: ''
-  website3: ''
-  guest_of_honor: false
-  role: ''
-  description: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
-- name: Lizabee Gibson
-  filename: "/assets/images/lizabeegibson.jpg"
-  description: A British folksinger, costumer, and student of history.
-  website1: ''
-  website2: ''
-  website3: ''
-  guest_of_honor: false
-  role: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
-- name: Mike Gibson
-  filename: "/assets/images/mike-gibson.jpg"
-  description: A British chanteyman, session leader, SF fan, and raconteur.
-  website1: ''
-  website2: ''
-  website3: ''
-  guest_of_honor: false
-  role: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Ace Tilton Ratcliff
   guest_of_honor: false
   role: ''
@@ -987,6 +948,19 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Joe Siclari
+  filename: "/assets/images/joe-siclari.jpg"
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  description: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Joel Zakem
   guest_of_honor: false
   role: ''
@@ -1193,6 +1167,19 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Lizabee Gibson
+  filename: "/assets/images/lizabeegibson.jpg"
+  description: A British folksinger, costumer, and student of history.
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Lucy A. Snyder
   guest_of_honor: false
   role: ''
@@ -1343,6 +1330,19 @@
   website3: ''
   facebook: ''
   twitter: mikechenwriter
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Mike Gibson
+  filename: "/assets/images/mike-gibson.jpg"
+  description: A British chanteyman, session leader, SF fan, and raconteur.
+  website1: ''
+  website2: ''
+  website3: ''
+  guest_of_honor: false
+  role: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
