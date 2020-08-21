@@ -160,6 +160,24 @@
   - "/assets/images/fantasticbooks3.jpg"
   - "/assets/images/fantasticbooks4.jpg"
   - "/assets/images/fantasticbooks5.jpg"
+- name: Festive Ninja
+  contact: Mark Sabalauskas
+  city: Somerville
+  link: '[https://msabalau.itch.io/return-to-the-stars-rpg](https://msabalau.itch.io/return-to-the-stars-rpg
+    "https://msabalau.itch.io/return-to-the-stars-rpg")'
+  state: MA
+  what_is_sold: Games/Gaming Accessories
+  description: |-
+    Creators of Return to the Stars, an optimistic sci-fi RPG,
+
+    2020 Indie Groundbreaker nominee
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/festive-ninja-one.jpg"
+  - "/assets/images/festive-ninja-2.jpg"
+  - "/assets/images/festive-ninja-3.jpg"
+  - "/assets/images/festive-ninja-4.jpg"
+  - "/assets/images/festive-ninja-5.jpg"
 - name: FIAWOL Books
   contact: Tim Illingworth
   city: Powell
