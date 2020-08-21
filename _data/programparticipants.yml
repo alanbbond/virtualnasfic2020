@@ -611,6 +611,23 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Dominik Parisien
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/dominik-parisien.jpg"
+  description: Dominik Parisien's editorial projects have won the Hugo, Shirley Jackson,
+    British Fantasy, and Aurora Awards. His writing has appeared in various literary
+    journals and genre magazines and his debut poetry collection Side Effects May
+    Include Strangers is forthcoming from McGill-Queen's University Press in fall
+    2020. Dominik is a disabled, bisexual French Canadian. He lives in Toronto.
+  website1: "[dominikparisien.ca](https://dominikparisien.ca/)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Doug Piero Carey
   guest_of_honor: false
   role: ''
@@ -725,7 +742,7 @@
     is best described as “dark pulp.” His work can be found in FIYAH MAGAZINE, LAMPLIGHT,
     THE FINAL SUMMONS, PROTECTORS 2, NIGHTLIGHT PODCAST, and the novels, LIGHTNING
     WEARS A RED CAPE, BLOOD FOR THE SUN, and ALL THE DEAD MEN.
-  website1: "[www.erricknunnally.us](https://www.erricknunnally.us)"
+  website1: "[www.erricknunnally.us](www.erricknunnally.us)"
   website2: ''
   website3: ''
   guest_of_honor: false
@@ -1738,6 +1755,22 @@
   instagram: ''
   discord: ''
   patreon: rblemberg
+- name: Roberta Rogow
+  guest_of_honor: false
+  role: ''
+  filename: ''
+  description: Roberta Rogow is a long-time Fan, Filker and Author. Her Filk career
+    began in the med-1970's, and continues to this day. She was inducted into the
+    Filk Hall of Fame in 2013. She has had 15 novels published, as well as short stories.
+    Roberta lives in New Jersey.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ManatasSkyline
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Sally Headford
   guest_of_honor: false
   role: ''
@@ -1833,7 +1866,7 @@
     Books in February 2021. Steve’s work has been nominated for and won awards within
     the sf/fantasy genre. He’s also a frequent contributor to George RR Martin’s WILD
     CARDS series.
-  website1: "[www.stephenleigh.com](https://www.stephenleigh.com)"
+  website1: "[www.stephenleigh.com](www.stephenleigh.com)"
   website2: ''
   website3: ''
   facebook: sleighwriter
