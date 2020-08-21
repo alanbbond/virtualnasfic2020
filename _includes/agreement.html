@@ -1,5 +1,5 @@
 <script type="text/javascript" >
-  let nasfic_agreement_submitted = true;
+  let nasfic_agreement_submitted = false;
 </script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
   onload=""></iframe>
@@ -11,16 +11,16 @@
     target="hidden_iframe"
     onsubmit="nasfic_agreement_submitted=true; localStorage.setItem('NASFiC_2020_agreement', true); setTimeout(()=> { window.location = '/'; }, 500);"
   >
-  <input class="agreement-checkbox" id="coc-agreement" type="checkbox" name="entry.424891793_sentinel" required />
+  <input class="agreement-checkbox" id="coc-agreement" type="checkbox" name="entry.424891793_sentinel" hidden required />
   <label class="agreement button" for="coc-agreement" data-caption="Please click here:">I agree to abide by the Code Of Conduct.</label>
-  <input class="agreement-checkbox" id="recording-agreement" type="checkbox" name="entry.1821752882_sentinel" required />
+  <input class="agreement-checkbox" id="recording-agreement" type="checkbox" name="entry.1821752882_sentinel" hidden required />
   <label class="agreement button" for="recording-agreement" data-caption="... and check here:">
     I grant permission to Columbus NASFiC 2020 to record my
     participation in the online activities of this convention, and to
     distribute the recordings under a Creative Commons Attribution
     Non-Commercial 4.0 license.
   </label>
-  <input class="agreement-checkbox" id="agreement-signature" type="checkbox" aria-hidden="true" name="entry.416960257_sentinel" />
+  <input class="agreement-checkbox" id="agreement-signature" type="checkbox" aria-hidden="true" name="entry.416960257_sentinel" hidden />
   <label class="agreement" for="agreement-name" data-caption="Please enter your name in our logs:">Your name:</label>
   <input id="agreement-name" name="entry.602310442" required />
   <button id="submit-agreement-btn" type="submit" disabled>Submit Form And Access Site</button>

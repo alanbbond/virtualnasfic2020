@@ -74,6 +74,7 @@
     {% if page.public %}
     <section class="public-container {{ page_size}}">
     {% elsif page.category == "room" %}
+    <section id="sign-in-first">Please [sign the agreement](/how-to-attend) before entering this function space room.</section>
     <section class="accesscontrol-container room-container" hidden>
     {% else %}
     <section class="accesscontrol-container" hidden>
@@ -86,6 +87,10 @@
     const agreement = localStorage.getItem('NASFiC_2020_agreement');
     const agreement_container = document.getElementsByClassName('agreement-container')[0];
     if (agreement) {
+      const sign_in_first = document.getElementById('sign-in-first');
+      if (sign_in_first) {
+        sign_in_first.style.display = "none";
+      }
       const form = document.getElementById('agreement-form');
       if (form) {
         form.style.display = "none";
