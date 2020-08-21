@@ -74,7 +74,9 @@
     {% if page.public %}
     <section class="public-container {{ page_size}}">
     {% elsif page.category == "room" %}
-    <section id="sign-in-first">Please [sign the agreement](/how-to-attend) before entering this function space room.</section>
+    <section id="sign-in-first">
+      <p>Please <a href="/how-to-attend">sign the agreement</a> before entering this function space room.</p>
+    </section>
     <section class="accesscontrol-container room-container" hidden>
     {% else %}
     <section class="accesscontrol-container" hidden>
