@@ -102,18 +102,6 @@
         accesscontrolnav.style.display = "flex";
       }
     }
-    const staff_btn = document.getElementsByClassName('reveal-agreement-form-btn')[0];
-    if (staff_btn) {
-      staff_btn.addEventListener('click', function (e) {
-        if (agreement_container) {
-          agreement_container.style.display = "block";
-        }
-        const agreement_form = document.getElementById('agreement-form');
-        if (agreement_form) {
-          agreement_form.style.display = "flex";
-        }
-      }, false);
-    }
     if (window.document.documentMode) {
       var main = document.getElementsByClassName('main')[0];
       var iesupportmsg = document.createElement('div');
