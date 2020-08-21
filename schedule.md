@@ -10,10 +10,6 @@ This schedule is still subject to change. We have asked program participants to 
 
 On the day of the convention, you will see additional pages on this website called "rooms", containing embedded streams and Discord channels. Each listing below on this page will then have a link to its room.
 
-In addition to browsing events on this page, you can search and sort our schedule on [a NASFiC Guide Site](http://nasfic.mcdemarco.net/). 
-Columbus 2020 NASFiC did not make that guide site, and cannot be responsible for what appears in it, and 
-it does not have links to the rooms, but you'll probably find it useful!
-
 {% include jump_to_event.html content=site.data.schedule %}
 
 # Events
