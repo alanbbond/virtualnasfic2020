@@ -198,6 +198,20 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Becca Mandel
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/becca-mandel.jpg"
+  description: Becca is a *definitely human* moss enthusiast who was lasso'd into
+    the world of folk song about 6 years ago and hasn't looked back since.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Ben Yalow
   category:
   - Presenter
@@ -353,6 +367,25 @@
   website3: "[Salon Futura](https://www.salonfutura.net/)"
   facebook: ''
   twitter: cherylmorgan
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Chris Conway
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/chris-conway.jpg"
+  description: 2020 marks "Christo" 's 20th year in filk. He's been Guest of Honour
+    at UK Con, FKO, DFDF, Consonance, Confluence, and Marcon and has won 5 UK Sam
+    Awards and received 10 Pegasus Award nominations. A multi-genre, multi-instrumentalist,
+    he has worked with the late Peter Tork of The Monkees, and members of Jethro Tull
+    and Fairport Convention, and released 2 filk albums – Alien Salad Abduction &
+    Deep Space Love - and 147 others in other genres. Michigan born, he moved to the
+    UK as a child and spends most of his time in his studio loft in Leicester.
+  website1: "[www.chrisconway.org](http://www.chrisconway.org)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
@@ -1273,6 +1306,26 @@
   website3: ''
   facebook: ''
   twitter: mariekeyn
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Marilisa Valtazanou
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/marilisa-valtazanou.jpg"
+  description: Marilisa is a singer, songwriter and multi-instrumentalist who has
+    been part of the UK filk community for nearly 20 years. She is usually found performing
+    as half of award-winning duo Playing Rapunzel. She owns and attempts to play far
+    more instruments than is good for her or anyone else; dabbles in opera, operetta,
+    choral music, early music, and anything else that comes her way; and writes whimsical
+    songs about literary protagonists, cautionary tales about the Internet, and the
+    odd musical. She has won several Sam awards, and was Guest of Honour at the 23rd
+    UK filk convention.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: marilisavaltazanoumusic
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
