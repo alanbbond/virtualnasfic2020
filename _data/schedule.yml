@@ -1,4 +1,20 @@
 ---
+- title: 'Concert: Amy McNally'
+  datetime: Sunday 12:00 PM
+  room: "[Auditorium](/auditorium)"
+  programparticipants: ''
+  description: Amy McNally (also known as Amy McFiddler) is that chick in a skirt
+    and no shoes who sits on the floor with a violin and a stash of Pixy Stix. Yeah,
+    that one, with the hair. She's been hanging around jam circles like that for 20
+    years, and has been playing fiddle for over 30 years now. She plays with The Tooles,
+    The Mad City Jug Band, Wild Mercy, and Play It With Moxie. Singing with Lady Mondegreen,
+    performing guerrilla accompaniment, and on recordings with Seanan McGuire, Adam
+    Selzer, and other assorted musicians and rogues, she does folk, Celtic, and historical
+    music too, but considers herself a filker first. She currently lives in the Midwest,
+    and likes Doctor Who, sugar, roller coasters, single malt, books, and pie, although
+    maybe not all at once.
+  music: 'true'
+  published: 'true'
 - title: Open Filking
   datetime: Sunday 10:00 AM
   room: "[Participatory Music](https://us02web.zoom.us/j/83345303292?pwd=K1ZSUjNKWk5BQ1daaVF1bVUxTWpUQT09)"
