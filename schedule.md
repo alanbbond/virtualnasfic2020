@@ -8,6 +8,10 @@ order: 4
 ---
 After you go to the [Register Here](/how-to-attend) page and sign the log book, you will see additional pages on this website called "rooms", containing embedded streams and Discord channels. Each listing below on this page has a link to its room, which will work after you sign the log book.  All times are in EDT.
 
+In addition to browsing events on this page, you can search and sort our schedule on [a NASFiC Guide Site](http://nasfic.mcdemarco.net/). 
+Columbus 2020 NASFiC did not make that guide site, and cannot be responsible for what appears in it, and 
+it does not have links to the rooms, but you'll probably find it useful!
+
 {% include jump_to_event.html content=site.data.schedule %}
 
 # Events
