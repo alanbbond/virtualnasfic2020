@@ -1,25 +1,17 @@
 ---
-- name: ''
+- name: Jim Beall
   guest_of_honor: false
   role: ''
   filename: ''
-  description: ''
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
-- name: Virginia DeMarce
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/virginia-demarce.jpg"
-  description: Virginia DeMarce, a retired historian, has been writing in Eric Flint's
-    1632 universe since 2004. She has co-authored three books with Eric and one solo
-    title from Baen, two from Ring of Fire Press, and had stories in anthologies and
-    the Grantville Gazette. Two more books are forthcoming from Ring of Fire Press.
+  description: 'Jim Beall (BS-Math, MBA, PE) has been a nuclear engineer for over
+    40 years, a war gamer for over 50, and an avid reader of science fiction for even
+    longer. He began as a nuclear engineering officer aboard USS Long Beach (CGN-9).
+    Civilian experience includes design, construction, inspection, enforcement, and
+    assessment with a nuclear utility, an architect engineering firm, and the US Nuclear
+    Regulatory Commission. Coauthor of Journal of the British Interplanetary Society
+    paper, "Ecological Engineering Considerations for ISU''s Worldship Project." Baen
+    Books published eight of his non-fiction articles, including "Our Worldship Broke!"
+    anthologized in _Stellaris: People of the Stars_.'
   website1: ''
   website2: ''
   website3: ''
@@ -1736,6 +1728,22 @@
   website3: ''
   facebook: ''
   twitter: vikramparalkar
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Virginia DeMarce
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/virginia-demarce.jpg"
+  description: Virginia DeMarce, a retired historian, has been writing in Eric Flint's
+    1632 universe since 2004. She has co-authored three books with Eric and one solo
+    title from Baen, two from Ring of Fire Press, and had stories in anthologies and
+    the Grantville Gazette. Two more books are forthcoming from Ring of Fire Press.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
