@@ -16,6 +16,25 @@
   - "/assets/images/angelwearcreations-03.jpg"
   - "/assets/images/angelwearcreations-04.jpg"
   - "/assets/images/angelwearcreations-05.jpg"
+- name: 'Brad & Jester '
+  contact: Jani Piirainen
+  city: Sastamala
+  state: Pirkanmaa / Finland
+  what_is_sold: Costumes, Costume Accessories, Jewelry, Games/Gaming Accessories
+  link: "Webshop : [https://shop.bardjester.com/en](https://shop.bardjester.com/en
+    \"https://shop.bardjester.com/en\")  \nEtsy Shop : [https://www.etsy.com/shop/BardJester](https://www.etsy.com/shop/BardJester
+    \"https://www.etsy.com/shop/BardJester\")  \nInstagram : [https://www.instagram.com/bardjester/](https://www.instagram.com/bardjester/
+    \"https://www.instagram.com/bardjester/\")  \nFacebook : [https://www.facebook.com/BardJesterShop/](https://www.facebook.com/BardJesterShop/
+    \"https://www.facebook.com/BardJesterShop/\")"
+  description: "Bard & Jester makes Special Leather Works, \n\ncustom hats from Steampunk
+    to Fantasy \n\nand other dimensions\n\n...And other special accessories."
+  restrictions: ''
+  image_filenames:
+  - "/assets/images/tableb-jmaster.jpg"
+  - "/assets/images/plaquedoc.jpg"
+  - "/assets/images/wicked_s.jpg"
+  - "/assets/images/maskhat_s.jpg"
+  - "/assets/images/hats_s.jpg"
 - name: Blackbird Books
   contact: Tim Caw
   city: Oregon City
