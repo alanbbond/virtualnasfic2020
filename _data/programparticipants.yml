@@ -84,6 +84,23 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Alex Wittenberg
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/alex-wittenberg.jpg"
+  description: Alex Wittenberg has been attending cons for over two decades, serving
+    on panels for almost as long, and been an active member of the filk community
+    from the start. He most recently acted as con chair for NEWhere, the virtual version
+    of the annual NEFilk convention. He is also a Trekkie, a long-suffering Mets fan,
+    and an early bird in a community of night owls.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Aliette de Bodard
   guest_of_honor: false
   role: ''
@@ -194,6 +211,37 @@
   facebook: zer.netmouse
   guest_of_honor: false
   role: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Batya "The Toon" Wittenberg
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/batya-wittenberg.png"
+  description: 'Batya “the Toon” Wittenberg is, in no particular order: a successfully
+    transplanted New Yorker, a practicing Orthodox Jew, a happily married woman since
+    1999, a certified master of Pun Fu, an enthusiastic cook and foodie, a founding
+    member of filk group Lady Mondegreen, a fanfic writer, a habitual online and tabletop
+    roleplayer, and in no particular order.'
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Becca Mandel
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/becca-mandel.jpg"
+  description: Becca is a *definitely human* moss enthusiast who was lasso'd into
+    the world of folk song about 6 years ago and hasn't looked back since.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
   twitter: ''
   instagram: ''
   discord: ''
@@ -353,6 +401,25 @@
   website3: "[Salon Futura](https://www.salonfutura.net/)"
   facebook: ''
   twitter: cherylmorgan
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Chris Conway
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/chris-conway.jpg"
+  description: 2020 marks "Christo" 's 20th year in filk. He's been Guest of Honour
+    at UK Con, FKO, DFDF, Consonance, Confluence, and Marcon and has won 5 UK Sam
+    Awards and received 10 Pegasus Award nominations. A multi-genre, multi-instrumentalist,
+    he has worked with the late Peter Tork of The Monkees, and members of Jethro Tull
+    and Fairport Convention, and released 2 filk albums – Alien Salad Abduction &
+    Deep Space Love - and 147 others in other genres. Michigan born, he moved to the
+    UK as a child and spends most of his time in his studio loft in Leicester.
+  website1: "[www.chrisconway.org](http://www.chrisconway.org)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
@@ -525,6 +592,22 @@
   website3: ''
   facebook: ''
   twitter: DayAlMohamed
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Deirdre M. Murphy
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/deirdre-murphy.jpg"
+  description: Deirdre M. Murphy is a fan, writer, artist, and filker. She has a cozy
+    mystery with sea monsters coming out soon, and would be delighted to talk about
+    it or any of her other work. You can find her as @Wyld_Dandelyon on Twitter and
+    Dreamwidth.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: Wyld_Dandelyon
   instagram: ''
   discord: ''
   patreon: ''
@@ -757,13 +840,13 @@
   filename: "/assets/images/img_5799-2-philologa-majora.JPG"
   description: 'Dr Gillian Polack is a Jewish-Australian science fiction and fantasy
     writer, researcher and editor. She wrote the first Australian Jewish fantasy novel
-    (The Wizardry of Jewish Women). Her writing was short listed for many awards,
+    _(The Wizardry of Jewish Women_). Her writing was short listed for many awards,
     and won one, once: this was probably a mistake. Gillian is a Medievalist/ethnohistorian,
     currently working on how novels transmit culture. Her work on how writers use
-    history in their fiction (History and Fiction) was a runner-up for an award but
-    will be out in paperback soon anyway. Her hobbies include researching historical
+    history in their fiction (_History and Fiction_) was a runner-up for an award
+    but will be out in paperback soon anyway. Her hobbies include researching historical
     foodways and reading. She has a collection of select and very attractive fans.'
-  website1: '[https://gillianpolack.com/](https://gillianpolack.com/ "https://gillianpolack.com/")'
+  website1: "[gillianpolack.com](https://gillianpolack.com/)"
   website2: ''
   website3: ''
   facebook: Gillian Polack
@@ -950,12 +1033,22 @@
   patreon: ''
 - name: Joe Siclari
   filename: "/assets/images/joe-siclari.jpg"
-  website1: ''
-  website2: ''
-  website3: ''
+  website1: "[Fanac.org](http://fanac.org)"
+  website2: "[Fancyclopedia.org](http://fancyclopedia.org)"
+  website3: "[YouTube: Fan History](https://www.youtube.com/c/FanacFanHistory)"
   guest_of_honor: false
   role: ''
-  description: ''
+  description: 'A fan since 1965, Joe Siclari started reading S-F earlier. Joe is
+    active in almost every aspect of fandom: he published 100+ fanzines plus many
+    convention publications, started S-F clubs and conventions (Tropicon, SMOFcon,
+    FanHistoricon and the Travelling Fete), chaired MagiCon, the 50th Worldcon, and
+    many conventions. Joe was 2005 DUFF delegate, 2016 Big Heart recipient with his
+    wife, Edie Stern, and will be the 2022 Fan GoH at Chicon 7. Joe chairs The Fan
+    History Project which sponsors Fancyclopedia 3 and the Fan History YouTube channel.
+    He’s written for reference books, co-edited Hugo nominated Worldcon GoH Speeches,
+    has a large collection of fan publications and memorabilia used for exhibits at
+    many conventions. Joe and Edie also collect S-F art and curated over 15 historical
+    exhibits.'
   facebook: ''
   twitter: ''
   instagram: ''
@@ -1072,6 +1165,26 @@
   website3: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Juliet McKenna
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/juliet-mckenna.jpg"
+  description: Juliet E McKenna is a British fantasy author living in the Cotswolds,
+    UK. Loving history, myth and other worlds since she first learned to read, she
+    has written fifteen epic fantasy novels so far. Her debut, _The Thief's Gamble_,
+    began _The Tales of Einarinn_ in 1999, followed by The Aldabreshin Compass sequence,
+    The Chronicles of the Lescari Revolution, and The Hadrumal Crisis trilogy. _The
+    Green Man's Heir_ was her first modern fantasy rooted in British folklore, followed
+    by _The Green Man’s Foe_ and _The Green Man’s Silence_. She writes diverse shorter
+    stories enjoying forays into dark fantasy, steampunk and SF.
+  website1: "[www.julietemckenna.com](http://www.julietemckenna.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: JulietEMcKenna
   instagram: ''
   discord: ''
   patreon: ''
@@ -1250,6 +1363,26 @@
   instagram: ''
   discord: ''
   patreon: ''
+- name: Marilisa Valtazanou
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/marilisa-valtazanou.jpg"
+  description: Marilisa is a singer, songwriter and multi-instrumentalist who has
+    been part of the UK filk community for nearly 20 years. She is usually found performing
+    as half of award-winning duo Playing Rapunzel. She owns and attempts to play far
+    more instruments than is good for her or anyone else; dabbles in opera, operetta,
+    choral music, early music, and anything else that comes her way; and writes whimsical
+    songs about literary protagonists, cautionary tales about the Internet, and the
+    odd musical. She has won several Sam awards, and was Guest of Honour at the 23rd
+    UK filk convention.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: marilisavaltazanoumusic
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
 - name: Mary Anne Mohanraj
   guest_of_honor: false
   role: ''
@@ -1358,6 +1491,26 @@
   website3: ''
   facebook: ''
   twitter: ahsimlibrarian
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Muhammad Aurangzeb Ahmad
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/muhammad-ahmad.png"
+  description: Muhammad Aurangzeb Ahmad is an Affiliate Assistant Professor in the
+    Department of Computer Science at University of Washington and a Research Scientist
+    at KenSci. Muhammad Aurangzeb has published over 50 research papers in machine
+    learning and artificial intelligence. His current research is on Fairness and
+    Bias in Healthcare AI. He has a PhD in Computer Science at University of Minnesota
+    where he worked on modeling human behavior is online games. He is also the founder
+    and editor of the _Islam and Science Fiction_ project, which is the most comprehensive
+    resource on the subject.
+  website1: "[www.aurumahmad.com](http://www.aurumahmad.com)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
   instagram: ''
   discord: ''
   patreon: ''
@@ -1570,6 +1723,21 @@
   instagram: aircool66
   discord: ''
   patreon: ''
+- name: R.B. Lemberg
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/rb-lemberg.jpg"
+  description: R.B. Lemberg is a queer, bigender immigrant and the Nebula and Crawford-nominated
+    author of Birdverse stories and other works. Their Birdverse novella _The Four
+    Profound Weaves_ is forthcoming from Tachyon Press in early Sep. 2020.
+  website1: "[rblemberg.net](http://rblemberg.net)"
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: rb_lemberg
+  instagram: ''
+  discord: ''
+  patreon: rblemberg
 - name: Sally Headford
   guest_of_honor: false
   role: ''
@@ -1906,6 +2074,20 @@
     interdependent. Bill, who has been legally blind for the past 20 years, is also
     active in the disability community and has worked Access at a number of Worldcons.
   website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Wendy S. Delmater
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/wendy-delmater.jpg"
+  description: Wendy S. Delmater is editor and publisher of Abyss & Apex Magazine.
+    As an editor of SF, she tries to keep up with scientific breakthroughs.
+  website1: "[Abyss & Apex](https://www.abyssapexzine.com/ )"
   website2: ''
   website3: ''
   facebook: ''
