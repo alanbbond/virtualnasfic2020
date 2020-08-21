@@ -1252,7 +1252,7 @@
   published: true
 - title: Bawdy Songs
   datetime: Saturday 10:00PM
-  room: "[Auditorium](/auditorium)"
+  room: "[Participatory Music](https://us02web.zoom.us/j/83345303292?pwd=K1ZSUjNKWk5BQ1daaVF1bVUxTWpUQT09)"
   programparticipants:
   - Anabel Graetz
   - Merav Hoffman
@@ -1260,7 +1260,7 @@
     joy of procreation: songs about sex that are fun, funny and wonderful are all
     welcome; violence and coercion are not, and the scatalogical is discouraged. Bawdiness
     in any orientation is welcome. A virtual sing like no other!'
-  music: false
+  music: 'true'
   published: true
 - title: Open Filking
   datetime: Saturday 11:00PM
@@ -1360,7 +1360,7 @@
   music: false
   published: true
 - title: "(Reading) Ace Tilton Ratcliff"
-  datetime: Saturday 10:30PM
+  datetime: Saturday 10:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - Ace Tilton Ratcliff
