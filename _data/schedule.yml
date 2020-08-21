@@ -1,7 +1,7 @@
 ---
 - title: Chesley Award Nominee Showcase
   datetime: Saturday 12:00 PM
-  room: "{Auditorium](/auditorium)"
+  room: "[Auditorium](/auditorium)"
   programparticipants:
   - Sara Felix
   description: The Chesley Awards are the premier art awards in SF, given out by the
@@ -1281,7 +1281,7 @@
   music: true
   published: true
 - title: "(Reading) Danian Darrell Jerry"
-  datetime: Saturday 12:30PM
+  datetime: Saturday 12:00 PM
   room: Readings
   programparticipants:
   - Danian Darrell Jerry
@@ -1394,7 +1394,7 @@
   music: false
   published: true
 - title: "(Reading) Alaya Dawn Johnson"
-  datetime: Saturday 11:30
+  datetime: Saturday 11:30 AM
   room: "[Readings](/readings)"
   programparticipants:
   - Alaya Dawn Johnson
