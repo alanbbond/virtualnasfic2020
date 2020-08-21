@@ -1,18 +1,4 @@
 ---
-- name: Larry Smith Book Seller
-  contact: Sally Kobee
-  city: Upper Arlington
-  state: Ohio
-  what_is_sold: Books
-  link: ''
-  description: new sf, mystery, and fantasy books with vintage jewelry
-  restrictions: only US shipping, no Canada or overseas
-  image_filenames:
-  - "/assets/images/dsc_0390.jpeg"
-  - "/assets/images/book-group-1.jpg"
-  - "/assets/images/book-group-2.jpg"
-  - "/assets/images/book-group-3.jpg"
-  - "/assets/images/book-group-4.jpg"
 - name: Angelwear Creations
   contact: Angela Jones-Parker
   city: Renton
@@ -205,6 +191,20 @@
   - "/assets/images/ffe3.jpg"
   - "/assets/images/visual-history-cover.jpg"
   - "/assets/images/the-earliest-bradbury-cover.jpg"
+- name: Larry Smith Book Seller
+  contact: Sally Kobee
+  city: Upper Arlington
+  state: Ohio
+  what_is_sold: Books
+  link: ''
+  description: new sf, mystery, and fantasy books with vintage jewelry
+  restrictions: only US shipping, no Canada or overseas
+  image_filenames:
+  - "/assets/images/dsc_0390.jpeg"
+  - "/assets/images/book-group-1.jpg"
+  - "/assets/images/book-group-2.jpg"
+  - "/assets/images/book-group-3.jpg"
+  - "/assets/images/book-group-4.jpg"
 - name: Lora Gray, Artist
   contact: Lora Gray
   city: Kent
