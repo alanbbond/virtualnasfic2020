@@ -3,7 +3,7 @@ title: Newsletter
 layout: default
 category: info
 order: 10
-public: true
+public: false
 
 ---
 # NASFiC News
