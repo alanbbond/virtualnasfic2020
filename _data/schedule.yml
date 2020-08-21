@@ -1,4 +1,15 @@
 ---
+- title: Open Filking
+  datetime: Sunday 2:00 pm
+  room: "[Participatory Music](https://us02web.zoom.us/j/83345303292?pwd=K1ZSUjNKWk5BQ1daaVF1bVUxTWpUQT09)"
+  programparticipants:
+  - Sybille Maaß
+  - Batya Wittenberg
+  description: "[Unthemed open song circle] Come listen and/or make music in this
+    unthemed song circle. All types of music are welcome, but expect to hear a bunch
+    of songs related to science fiction, fantasy, science, and fandom."
+  music: 'true'
+  published: true
 - title: Closing Ceremonies
   datetime: Sunday 3:00 PM
   room: "[Auditorium](/auditorium)"
