@@ -1,5 +1,5 @@
 ---
-title: Online Artists
+title: Art Show Room
 layout: default
 category: room
 public: false
@@ -9,7 +9,7 @@ order: 7
 
 {% include jump_to.html content=site.data.artists %}
 
-# Online Art Show
+# Art Show
 
 Welcome to the NASFiC Virtual Art Show! For a closer look, click on gallery images below:
 

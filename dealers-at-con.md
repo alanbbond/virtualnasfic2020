@@ -1,5 +1,5 @@
 ---
-title: Online Dealers
+title: Dealers Room
 layout: default
 category: room
 public: false
