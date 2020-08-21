@@ -12,6 +12,8 @@ After you go to the [Register Here](/how-to-attend) page and sign the log book, 
 
 # Events
 
+## All times are in EDT!
+
 {% assign days = "friday,saturday,sunday" | split: "," %}
 {% assign meridians = "am,pm" | split: "," %}
 {% assign times = "12,1,2,3,4,5,6,7,8,9,10,11" | split: "," %}
