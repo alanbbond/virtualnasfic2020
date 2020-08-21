@@ -1,17 +1,4 @@
 ---
-- name: ''
-  guest_of_honor: false
-  role: ''
-  filename: ''
-  description: ''
-  website1: ''
-  website2: ''
-  website3: ''
-  facebook: ''
-  twitter: ''
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Ace Tilton Ratcliff
   guest_of_honor: false
   role: ''
@@ -538,6 +525,22 @@
   website3: ''
   facebook: ''
   twitter: DayAlMohamed
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Deirdre M. Murphy
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/deirdre-murphy.jpg"
+  description: Deirdre M. Murphy is a fan, writer, artist, and filker. She has a cozy
+    mystery with sea monsters coming out soon, and would be delighted to talk about
+    it or any of her other work. You can find her as @Wyld_Dandelyon on Twitter and
+    Dreamwidth.
+  website1: ''
+  website2: ''
+  website3: ''
+  facebook: ''
+  twitter: Wyld_Dandelyon
   instagram: ''
   discord: ''
   patreon: ''
