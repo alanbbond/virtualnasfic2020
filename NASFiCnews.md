@@ -1,8 +1,8 @@
 ---
-title: ''
+title: Newsletter
 layout: default
-category: ''
-order: 
+category: accesscontrol
+order: 10
 published: false
 
 ---
