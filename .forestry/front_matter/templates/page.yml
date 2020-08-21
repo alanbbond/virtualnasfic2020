@@ -27,6 +27,7 @@ fields:
     the word "two", don't make it a decimal, don't put quotes around it.
 pages:
 - 404.html
+- NASFiCnews.md
 - about.md
 - code-of-conduct-anti-harassment-policy.md
 - contact.md
