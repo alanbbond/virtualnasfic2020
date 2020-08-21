@@ -1386,7 +1386,7 @@
   music: false
   published: true
 - title: "(Reading) Jennifer Blackstream"
-  datetime: Sunday 12:30PM
+  datetime: Sunday 8:30PM
   room: "[Readings](/readings)"
   programparticipants:
   - Jennifer Blackstream
@@ -1422,14 +1422,6 @@
   room: "[Readings](/readings)"
   programparticipants:
   - Gillian Polack
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Andrea Hairston"
-  datetime: Saturday 7:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Andrea Hairston
   description: ''
   music: false
   published: true
