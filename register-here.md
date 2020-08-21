@@ -1,5 +1,5 @@
 ---
-title: How To Attend
+title: Register Here
 layout: default
 category: info
 public: true
