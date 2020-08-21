@@ -7,14 +7,6 @@
   description: ''
   music: ''
   published: true
-- title: "(Reading) Danian Darrell Jerry"
-  datetime: Saturday 12:30PM
-  room: Readings
-  programparticipants:
-  - Danian Darrell Jerry
-  description: ''
-  music: ''
-  published: true
 - title: Turning Science Fiction into the Beginnings of Science
   datetime: Saturday 4:00PM
   room: Auditorium
@@ -50,28 +42,11 @@
     first.  '
   music: ''
   published: true
-- title: "(Reading) Bogi Takács and R.B. Lemberg"
-  datetime: Sunday 2:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Bogi Takács
-  - R.B. Lemberg
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Eileen Gunn"
   datetime: Sunday 2:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - Eileen Gunn
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Malka Older"
-  datetime: Sunday 1:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Malka Older
   description: ''
   music: false
   published: true
@@ -83,14 +58,6 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Jennifer Blackstream"
-  datetime: Sunday 12:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Jennifer Blackstream
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Steven H Silver"
   datetime: Sunday 12:00PM
   room: "[Readings](/readings)"
@@ -99,43 +66,11 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Eric Flint"
-  datetime: Sunday 10:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Eric Flint
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Juliet McKenna"
   datetime: Sunday 10:00AM
   room: "[Readings](/readings)"
   programparticipants:
   - Juliet McKenna
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Jordan Kurella"
-  datetime: Saturday 10:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Jordan Kurella
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Ace Tilton Ratcliff"
-  datetime: Saturday 10:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Ace Tilton Ratcliff
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Gillian Polack"
-  datetime: Saturday 9:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Gillian Polack
   description: ''
   music: false
   published: true
@@ -155,35 +90,11 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Andrea Hairston"
-  datetime: Saturday 7:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Andrea Hairston
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) dave ring"
-  datetime: Saturday 6:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - dave ring
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Raven Oak"
   datetime: Saturday 6:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - Raven Oak
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Wendy Van Camp"
-  datetime: Saturday 5:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Wendy Van Camp
   description: ''
   music: false
   published: true
@@ -195,14 +106,6 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Silvia Moreno-Garcia"
-  datetime: Saturday 4:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Silvia Moreno-Garcia
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Vikram Paralkar"
   datetime: Saturday 4:00PM
   room: "[Readings](/readings)"
@@ -211,27 +114,11 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Alma Alexander"
-  datetime: Saturday 3:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Alma Alexander
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Mary Anne Mohanraj"
   datetime: Saturday 3:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - Mary Anne Mohanraj
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Tobias S. Buckell"
-  datetime: Saturday 2:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Tobias S. Buckell
   description: ''
   music: false
   published: true
@@ -251,43 +138,11 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Alaya Dawn Johnson"
-  datetime: Saturday 11:30
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Alaya Dawn Johnson
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Valjeanne Jeffers"
-  datetime: Saturday 12:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Valjeanne Jeffers
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Phoebe Barton"
-  datetime: Friday 10:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Phoebe Barton
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Eboni Dunbar"
   datetime: Friday 10:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - Eboni Dunbar
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Leonard Richardson"
-  datetime: Friday 9:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Leonard Richardson
   description: ''
   music: false
   published: true
@@ -299,27 +154,11 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Jude-Marie Green"
-  datetime: Friday 8:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Jude-Marie Green
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Michael Underwood"
   datetime: Friday 8:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - Michael R. Underwood
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Laurence Raphael Brothers"
-  datetime: Friday 7:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Laurence Raphael Brothers
   description: ''
   music: false
   published: true
@@ -331,14 +170,6 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Kathryn Sullivan"
-  datetime: Friday 2:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Kathryn Sullivan
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) Stephen Leigh"
   datetime: Friday 2:00PM
   room: "[Readings](/readings)"
@@ -347,27 +178,11 @@
   description: ''
   music: false
   published: true
-- title: "(Reading) Jim C. Hines"
-  datetime: Friday 1:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Jim C. Hines
-  description: ''
-  music: false
-  published: true
 - title: "(Reading) John Wiswell"
   datetime: Friday 1:00PM
   room: "[Readings](/readings)"
   programparticipants:
   - John Wiswell
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Phoebe North"
-  datetime: Friday 12:30PM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Phoebe North
   description: ''
   music: false
   published: true
@@ -1315,13 +1130,6 @@
     verisimilitude, and we won’t mind if you drop a few verses or change a few words.)
   music: true
   published: true
-- title: Participatory Music Chantey Sing
-  datetime: Saturday 2:30PM
-  room: "[Participatory Music](https://us02web.zoom.us/j/83345303292?pwd=K1ZSUjNKWk5BQ1daaVF1bVUxTWpUQT09)"
-  programparticipants:
-  - Marilisa Valtazanou
-  music: true
-  published: true
 - title: Open Filking
   datetime: Saturday 3:00PM
   room: "[Participatory Music](https://us02web.zoom.us/j/83345303292?pwd=K1ZSUjNKWk5BQ1daaVF1bVUxTWpUQT09)"
@@ -1407,4 +1215,196 @@
     tired to sign off? Come to the dead dog session! Music is encouraged, but structure
     is eschewed.
   music: true
+  published: true
+- title: Participatory Music Chantey Sing
+  datetime: Saturday 2:30PM
+  room: "[Participatory Music](https://us02web.zoom.us/j/83345303292?pwd=K1ZSUjNKWk5BQ1daaVF1bVUxTWpUQT09)"
+  programparticipants:
+  - Marilisa Valtazanou
+  music: true
+  published: true
+- title: "(Reading) Danian Darrell Jerry"
+  datetime: Saturday 12:30PM
+  room: Readings
+  programparticipants:
+  - Danian Darrell Jerry
+  description: ''
+  music: ''
+  published: true
+- title: "(Reading) Bogi Takács and R.B. Lemberg"
+  datetime: Sunday 2:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Bogi Takács
+  - R.B. Lemberg
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Malka Older"
+  datetime: Sunday 1:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Malka Older
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Jennifer Blackstream"
+  datetime: Sunday 12:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Jennifer Blackstream
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Eric Flint"
+  datetime: Sunday 10:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Eric Flint
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Jordan Kurella"
+  datetime: Saturday 10:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Jordan Kurella
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Ace Tilton Ratcliff"
+  datetime: Saturday 10:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Ace Tilton Ratcliff
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Gillian Polack"
+  datetime: Saturday 9:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Gillian Polack
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Andrea Hairston"
+  datetime: Saturday 7:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Andrea Hairston
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) dave ring"
+  datetime: Saturday 6:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - dave ring
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Wendy Van Camp"
+  datetime: Saturday 5:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Wendy Van Camp
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Silvia Moreno-Garcia"
+  datetime: Saturday 4:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Silvia Moreno-Garcia
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Alma Alexander"
+  datetime: Saturday 3:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Alma Alexander
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Tobias S. Buckell"
+  datetime: Saturday 2:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Tobias S. Buckell
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Alaya Dawn Johnson"
+  datetime: Saturday 11:30
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Alaya Dawn Johnson
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Valjeanne Jeffers"
+  datetime: Saturday 12:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Valjeanne Jeffers
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Phoebe Barton"
+  datetime: Friday 10:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Phoebe Barton
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Leonard Richardson"
+  datetime: Friday 9:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Leonard Richardson
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Jude-Marie Green"
+  datetime: Friday 8:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Jude-Marie Green
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Laurence Raphael Brothers"
+  datetime: Friday 7:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Laurence Raphael Brothers
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Kathryn Sullivan"
+  datetime: Friday 2:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Kathryn Sullivan
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Jim C. Hines"
+  datetime: Friday 1:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Jim C. Hines
+  description: ''
+  music: false
+  published: true
+- title: "(Reading) Phoebe North"
+  datetime: Friday 12:30PM
+  room: "[Readings](/readings)"
+  programparticipants:
+  - Phoebe North
+  description: ''
+  music: false
   published: true
