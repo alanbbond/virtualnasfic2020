@@ -1,8 +1,9 @@
 ---
 title: Newsletter
 layout: default
-category: accesscontrol
+category: info
 order: 10
+public: true
 
 ---
 # NASFiC News
