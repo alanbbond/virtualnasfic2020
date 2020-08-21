@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: default
-category: info
+category: public
 public: false
 order: 4
 
