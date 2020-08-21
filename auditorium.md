@@ -8,7 +8,7 @@ order: 2
 ---
 # Auditorium
 
-<iframe src="https://player.vimeo.com/video/448011776" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video" ></iframe>
+<iframe src="https://player.vimeo.com/video/449896603" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="nasfic-video" ></iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
