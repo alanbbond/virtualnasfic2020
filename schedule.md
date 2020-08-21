@@ -1,8 +1,8 @@
 ---
 title: Schedule
 layout: default
-category: access-control
-public: true
+category: info
+public: false
 order: 4
 
 ---
