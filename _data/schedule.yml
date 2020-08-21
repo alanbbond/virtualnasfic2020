@@ -1,4 +1,31 @@
 ---
+- title: Columbus Dead Dog Party
+  datetime: Sunday 4:00 PM
+  room: "[Parties]()"
+  programparticipants:
+  - Everyone Welcome!
+  description: Cons over, but some of us don't want to go home...  Join us to celebrate
+    the staff and volunteers who have worked overtime to make this event happen.
+  music: ''
+  published: ''
+- title: Columbus NASFiC Room Parties
+  datetime: Saturday 7:00 PM
+  room: "[Parties](https://zoom.us/j/92942752189?pwd=b01LNEJSZ1ZiYWRwd3NqQWp3bEFEQT09)"
+  programparticipants:
+  - Everyone Welcome!
+  description: 'Join us in the evening for some Zoom parties. Various fan groups have
+    volunteered to host Breakout Rooms.  '
+  music: ''
+  published: ''
+- title: Columbus NASFiC Room Parties
+  datetime: Friday 7:00 PM
+  room: "[Parties](https://zoom.us/j/91833057655?pwd=Q1dqeGpKWmRKRXQ4RzNkL3l3eHhXZz09)"
+  programparticipants:
+  - Everyone Welcome
+  description: 'Join us in the evening for some Zoom parties. Various fan groups have
+    volunteered to host Breakout Rooms.  '
+  music: ''
+  published: ''
 - title: Opening Ceremonies
   datetime: Friday 3:00 PM
   room: Auditorium
@@ -148,7 +175,7 @@
   music: false
   published: true
 - title: "(Reading) Sheree Renée Thomas"
-  datetime: Saturday 10:00AM
+  datetime: Saturday 11:00AM
   room: "[Readings](/readings)"
   programparticipants:
   - Sheree Renée Thomas
