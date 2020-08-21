@@ -1,7 +1,7 @@
 <section class="schedule-listing" id="listing-{{event.title | slugify}}-{{event.datetime | slugify}}">
   <h2>{{ event.title }}</h2>
   <p class="byline">
-    <span class="time">{% if event.datetime.size > 0 %}{{ event.datetime }}{% endif %} 
+    <span class="time">{% if event.datetime.size > 0 %}{{ event.datetime }} EDT{% endif %} 
     </span>
     <span class="room">{% if event.room.size > 0 %}{{ event.room | markdownify | replace: "<p>" | replace: "</p>" }}{% endif %} 
     </span>
