@@ -6,7 +6,7 @@ public: true
 order: 4
 
 ---
-After you go to the [Register Here](/how-to-attend) page and sign the log book, you will see additional pages on this website called "rooms", containing embedded streams and Discord channels. Each listing below on this page has a link to its room, which will work after you sign the log book.
+After you go to the [Register Here](/how-to-attend) page and sign the log book, you will see additional pages on this website called "rooms", containing embedded streams and Discord channels. Each listing below on this page has a link to its room, which will work after you sign the log book.  All times are in EDT.
 
 {% include jump_to_event.html content=site.data.schedule %}
 
