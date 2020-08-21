@@ -1,24 +1,4 @@
 ---
-- name: Gillian Polack
-  guest_of_honor: false
-  role: ''
-  filename: "/assets/images/img_5799-2-philologa-majora.JPG"
-  description: 'Dr Gillian Polack is a Jewish-Australian science fiction and fantasy
-    writer, researcher and editor. She wrote the first Australian Jewish fantasy novel
-    (The Wizardry of Jewish Women). Her writing was short listed for many awards,
-    and won one, once: this was probably a mistake. Gillian is a Medievalist/ethnohistorian,
-    currently working on how novels transmit culture. Her work on how writers use
-    history in their fiction (History and Fiction) was a runner-up for an award but
-    will be out in paperback soon anyway. Her hobbies include researching historical
-    foodways and reading. She has a collection of select and very attractive fans.'
-  website1: '[https://gillianpolack.com/](https://gillianpolack.com/ "https://gillianpolack.com/")'
-  website2: ''
-  website3: ''
-  facebook: Gillian Polack
-  twitter: "@GillianPolack"
-  instagram: ''
-  discord: ''
-  patreon: ''
 - name: Joe Siclari
   filename: "/assets/images/joe-siclari.jpg"
   website1: ''
@@ -807,6 +787,26 @@
   website3: ''
   facebook: ''
   twitter: ''
+  instagram: ''
+  discord: ''
+  patreon: ''
+- name: Gillian Polack
+  guest_of_honor: false
+  role: ''
+  filename: "/assets/images/img_5799-2-philologa-majora.JPG"
+  description: 'Dr Gillian Polack is a Jewish-Australian science fiction and fantasy
+    writer, researcher and editor. She wrote the first Australian Jewish fantasy novel
+    (The Wizardry of Jewish Women). Her writing was short listed for many awards,
+    and won one, once: this was probably a mistake. Gillian is a Medievalist/ethnohistorian,
+    currently working on how novels transmit culture. Her work on how writers use
+    history in their fiction (History and Fiction) was a runner-up for an award but
+    will be out in paperback soon anyway. Her hobbies include researching historical
+    foodways and reading. She has a collection of select and very attractive fans.'
+  website1: '[https://gillianpolack.com/](https://gillianpolack.com/ "https://gillianpolack.com/")'
+  website2: ''
+  website3: ''
+  facebook: Gillian Polack
+  twitter: "@GillianPolack"
   instagram: ''
   discord: ''
   patreon: ''
