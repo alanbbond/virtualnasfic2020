@@ -76,7 +76,7 @@
   published: true
 - title: Turning Science Fiction into the Beginnings of Science
   datetime: Saturday 4:00PM
-  room: Auditorium
+  room: "[Auditorium](/auditorium)"
   programparticipants:
   - Marc Millis
   description: 'See how to convert inspirational science fiction into science and
@@ -790,8 +790,8 @@
   music: false
   published: true
 - title: Deconstructing the Novella
-  datetime: Saturday, 4:00pm
-  room: Olentangy
+  datetime: Saturday 4:00pm
+  room: "[Olentangy](/olentangy)"
   moderators:
   - dave ring
   programparticipants:
