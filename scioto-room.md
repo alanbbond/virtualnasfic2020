@@ -3,7 +3,7 @@ title: Scioto Room
 layout: default
 category: room
 public: false
-order: "3"
+order: 3
 
 ---
 # The Scioto Event Room
