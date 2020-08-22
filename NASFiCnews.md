@@ -29,7 +29,7 @@ There's a lot more to the convention than just the website! Be sure to [join the
 
 ![](/assets/images/discordvoice.jpg)
 
-### Fan GoH Chris Garcia News
+### Editor GoH Chris Garcia News
 
 Please share your positive thoughts, hopes, prayers - as appropriate - and spare a moment of contemplation for Christopher J. Garcia (GOH), his wonderful family Vanessa, John Paul and Ben, as they await news of their home, and neighbourhood, evacuated as they are from Boulder Creek in the Santa Cruz County CZU August Lightning Complex Fire. Certainly, we all wish them well. _(submitted by James Bacon)_
 
