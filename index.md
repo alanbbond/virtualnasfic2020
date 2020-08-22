@@ -22,11 +22,11 @@ Fortunately for all of you, Chris went ROGUE and created a Rogue NASFiC Podcast 
 
 For those wishing to get to know our other Guests of Honor better, the Sign Up Sheets for their Kaffeeklatsches are UP - a bit later than we intended, but better late than never, right?  Right.
 
-Links to the available Kaffeeklatsches can be found in the Guest of Honor profiles on the page of [who's appearing](https://columbus2020nasfic.org/guests.html "Guests"). You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord.
+Links to the available Kaffeeklatsches can be found in the Guest of Honor profiles on the page of [who's appearing](https://columbus2020nasfic.org/guests.html "Guests"). You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord. If you have news you want to share with the rest of us, you can post it there, and also drop it off at # newsletter-submissions so Newsletter Editor Tammy Coxen can run it in \[NASFiC News\]([https://columbus2020nasfic.org/NASFiCnews.html](https://columbus2020nasfic.org/NASFiCnews.html\] "NASFiC News"))
 
 Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session at 5 PM in the (infinitely large)  # consuite, and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
 
-And in case you were wondering WHAT to do with yourself before or between the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show Galactic Journey, on stage in the Auditorium at 9 PM Saturday night.
+And in case you were wondering WHAT to do with yourself before or between the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show Galactic Journey, on stage in the Auditorium at 9 PM Saturday night!
 
 Good night, sleep tight, and we'll see you in the morning.
 
