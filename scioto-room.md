@@ -3,14 +3,14 @@ title: Scioto Room
 layout: default
 category: room
 public: false
-order: 3
+order: "3"
 
 ---
 # The Scioto Event Room
 
 Named for the Scioto River. Pronounced "Psy-Oh-Toe".
 
-<iframe src="https://player.vimeo.com/video/448012416" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video"></iframe>
+<iframe src="https://player.vimeo.com/video/448013153" frameborder="0" allow="autoplay; fullscreen" allowfullscreen  class="nasfic-video"></iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
