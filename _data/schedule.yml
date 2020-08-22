@@ -18,7 +18,7 @@
   description: "[Unthemed open song circle] Come listen and/or make music in this
     unthemed song circle. All types of music are welcome, but expect to hear a bunch
     of songs related to science fiction, fantasy, science, and fandom."
-  music: 'true'
+  music: true
   published: true
 - title: Closing Ceremonies
   datetime: Sunday 3:00 PM
@@ -59,12 +59,12 @@
   datetime: Sunday 10:00 AM
   room: "[Music Room](/participatory-music)"
   programparticipants:
+  - Alex Wittenberg
   - Sybille Maaß
-  - Alex Wittenbrg
   description: "[Unthemed open song circle] Come listen and/or make music in this
     unthemed song circle. All types of music are welcome, but expect to hear a bunch
     of songs related to science fiction, fantasy, science, and fandom."
-  music: 'true'
+  music: true
   published: 'true'
 - title: Stories of RiverCon
   datetime: Saturday 6:00 PM
@@ -1241,6 +1241,11 @@
   - Chris Conway
   music: true
   published: true
+  description: "(20 Min Concert) Chris Conway is difficult to sum up in a few paragraphs as he is active in so 
+    many genres of music – singer-songwriter, new age, jazz, Celtic, world music, and electronic. This genre hopping makes 
+    him a moving target as an artist and keeps him below many people's radar, but there is a growing crowd of those in the 
+    know who enjoy the relentless creative flow of his music. Chris has travelled the world as Guest Of Honour at 5 filk 
+    conventions in the USA, Canada and the UK, and has won 5 Sam Awards (UK filk oscars)."
 - title: 'Concert: Roberta Rogow'
   datetime: Friday, 5:00PM
   room: "[Auditorium](/auditorium)"
@@ -1248,6 +1253,11 @@
   - Roberta Rogow
   music: true
   published: true
+  description: "Roberta Rogow is a long-time fan, who has been active in Filk since the 1970's. 
+    She's known for her Star Trek and other Media filk, but has also written "story songs" to her own tunes. 
+    She was inducted into the Filk Hall of Fame in 20123. Roberta also writes mystery stories, often using historical 
+    characters in fictional settings. When she is not attending SF or Mystery conventions, Roberta is a retired 
+    Children's Librarian living in New Jersey."
 - title: 'Concert: Tom Smith'
   datetime: Friday, 6:00PM
   room: "[Auditorium](/auditorium)"
@@ -1255,11 +1265,17 @@
   - Tom Smith
   music: true
   published: true
+  description: "For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
+    huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
+    Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
+    silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
+    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!"
 - title: Open Filk with Tom Smith
   datetime: Friday, 9:00PM
   room: "[Music Room](/participatory-music)"
   programparticipants:
   - Tom Smith
+  - Jeff Keller
   description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
     All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
     fantasy, science, and fandom.
@@ -1317,7 +1333,11 @@
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Tom Smith
-  description: ''
+  description: 'For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
+    huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
+    Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
+    silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
+    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!'
   music: true
   published: true
 - title: Bawdy Songs
@@ -1336,7 +1356,8 @@
   datetime: Saturday 11:00PM
   room: "[Music Room](/participatory-music)"
   programparticipants:
-  - Peggi Warner-Lalonde
+  - Merav Hoffman
+  - Deirdre M. Murphy
   description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
     All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
     fantasy, science, and fandom.
@@ -1346,9 +1367,9 @@
   datetime: Sunday 12:00 PM
   room: "[Music Room](/participatory-music)"
   programparticipants:
+  - Red Kovach
   - Naomi Hinchen
   - Becca Mandel
-  - Red Kovach
   description: \[Themed open song circle, with a twist!\] Join the fun as attendees take
     turns performing traditional ballads for the assemblage. Listen carefully to mark
     your Ballad Bingo cards when you detect such classic tropes as drowning, pregnancy
@@ -1362,14 +1383,19 @@
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Tom Smith
-  description: ''
+  description: "For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
+    huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
+    Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
+    silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
+    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!"
   music: true
   published: true
 - title: Dead Dog Filk
   datetime: Sunday 4:00PM
   room: "[Music Room](/participatory-music)"
   programparticipants:
-  - ''
+  - Sally Headford
+  - Peggi Warner-Lalonde
   description: Haven’t gotten enough? Still looking to catch up with friends? Too
     tired to sign off? Come to the dead dog session! Music is encouraged, but structure
     is eschewed.
@@ -1382,6 +1408,11 @@
   - Marilisa Valtazanou
   music: true
   published: true
+  description: "(20 min concert) Marilisa Valtazanou (guitar, voice, and most other instruments) 
+    is part of the folk duo Playing Rapunzel. She was born in Iowa, raised in Greece and now 
+    lives in London; she celebrates her multinational background by having a song in an obscure 
+    language for every occasion. She is easily recognised as the band member who will fearlessly play any 
+    instrument, including mandola, flutes, percussion, and even electric double bass."
 - title: "(Reading) Danian Darrell Jerry"
   datetime: Saturday 12:00 PM
   room: "[Readings](/readins)"
