@@ -1,6 +1,6 @@
 ---
 - name: Stephanie Law
-  description: 'Stephanie Law is a multi-media artist and illustrator from California.
+  description: "Stephanie Law is a multi-media artist and illustrator from California.
     Primarily working in watercolor, gold and silver leaf, and ink, she adds texture
     and dimension both within her pictures and in the frames of them. Stephanie has
     been a dancer for almost two decades, and she uses her experience of how the human
@@ -9,16 +9,18 @@
     Early on, her career moved through the illustration and gaming world, but in recent
     decades she has focused more on her own body of work, gallery shows, and publications.
     She taught The Fantastic Workshop of Nashville, TN in 2016 and 2018, and won Best
-    in Show at Dragoncon in 2015 for *When Flowers Dream*.'
-  website1: 'https://www.shadowscapes.com'
-  website2: 'https://www.patreon.com/StephanieLaw'
+    in Show at Dragoncon in 2015 for *When Flowers Dream*.\nSign up [here](https://forms.gle/c65gt4rkc2YRvWdm8)
+    to sit down with Stephanie and nine other attendees at a kaffeeklatsch at noon
+    on Sunday, August 23. "
+  website1: https://www.shadowscapes.com
+  website2: https://www.patreon.com/StephanieLaw
   image_of_artist: "/assets/images/stephanie-law.jpeg"
   image_filenames:
-  - '/assets/images/artshow/4 - Stephanie Law.jpg'
-  - '/assets/images/artshow/allegro2 - Stephanie Law.jpg'
-  - '/assets/images/artshow/moongazing - Stephanie Law.jpg'
-  - '/assets/images/artshow/transition_fb - Stephanie Law.jpg'
-  - '/assets/images/artshow/unicorn_scanphotomerge_fb - Stephanie Law.jpg '
+  - "/assets/images/artshow/4 - Stephanie Law.jpg"
+  - "/assets/images/artshow/allegro2 - Stephanie Law.jpg"
+  - "/assets/images/artshow/moongazing - Stephanie Law.jpg"
+  - "/assets/images/artshow/transition_fb - Stephanie Law.jpg"
+  - "/assets/images/artshow/unicorn_scanphotomerge_fb - Stephanie Law.jpg "
 - name: Melanie Unruh
   description: Melanie is a Denver-area artist and maker, specializing in decorative
     and functional pottery, and fantasy and historical sartorial arts. A life-long
@@ -115,7 +117,8 @@
   website2: ''
   image_filenames:
   - "/assets/images/artshow/heartofforest2 - Debbie Hughes Art and Illustration.jpg"
-  - "/assets/images/artshow/ravenwolfmaiden2.oil.2019.30X14 - Debbie Hughes Art and Illustration.jpg"
+  - "/assets/images/artshow/ravenwolfmaiden2.oil.2019.30X14 - Debbie Hughes Art and
+    Illustration.jpg"
   - "/assets/images/artshow/thedreamingtree - Debbie Hughes Art and Illustration.jpg"
   - "/assets/images/artshow/TheMaiden.debbiehughes - Debbie Hughes Art and Illustration.jpg"
   instagram: ''
@@ -133,8 +136,10 @@
   image_of_artist: "/assets/images/wendy-vancamp.jpg"
   image_filenames:
   - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Crush - Wendy Van Camp.jpg"
-  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Dyson Ring - Wendy Van Camp.jpg"
-  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Exoskeleton - Wendy Van Camp.jpg"
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Dyson Ring - Wendy Van
+    Camp.jpg"
+  - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Exoskeleton - Wendy Van
+    Camp.jpg"
   - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Jupiter - Wendy Van Camp.jpg"
   - "/assets/images/artshow/Poetry Mockup Black Frame 2020 - Miners - Wendy Van Camp.jpg"
   instagram: ''
@@ -162,7 +167,11 @@
   - "/assets/images/artshow/IMG_9238 - sunny jim.JPG"
   - "/assets/images/artshow/IMG_9266 - sunny jim.JPG"
 - name: Kendra Tornheim
-  description: Kendra Tornheim is a software engineer and a jewelry artist who uses primarily wire, antique keys, and brass stampings hand-colored in a process that mimics the brilliant colors of enamels without using a kiln.  Kendra's work focuses on pendants, earrings, and hair jewelry with a fantasy or steampunk flavor, and continues to incorporate new techniques, most recently hand-stamped text.
+  description: Kendra Tornheim is a software engineer and a jewelry artist who uses
+    primarily wire, antique keys, and brass stampings hand-colored in a process that
+    mimics the brilliant colors of enamels without using a kiln.  Kendra's work focuses
+    on pendants, earrings, and hair jewelry with a fantasy or steampunk flavor, and
+    continues to incorporate new techniques, most recently hand-stamped text.
   website1: "[Etsy Shop](https://www.etsy.com/shop/silverowlcreations)"
   facebook: SilverOwlCreations
   image_filenames:
@@ -172,11 +181,31 @@
   - "/assets/images/KTGoddessPendant - Kendra Tornheim.jpg"
   - "/assets/images/KTGreenOakFiligreePendant - Kendra Tornheim.jpg"
 - name: Julie Faith McMurray
-  description: "From early in my childhood I had a passion for art and wanted to create art but sadly I could not draw.
-  Even though I could not draw I would inspire other to create art through my volunteer work. At the local community centre, I would volunteer to work with children that needed external help to create. Be it blind or death, unable to walk or move, I would help children my age to paint pictures, build structures create music and make textured art to touch and feel. They loved it.
-  I discovered art through various avenues be it museums & galleries and books or via my Humanities studies with the OU and my Japanese, Language, History and Cultural studies with Birkbeck. The Humanities course taught me how to study the history of art and write an essay or study the Unwitting testimonies of Art. My Japanese studies I learned about the history of art in many forms and also how to write over 400 Kanji. After a Japanese Lady on a train leaned over to her son and asked him to compliment me on my Japanese writing skills, I realised that I had a skill for art. She said “Your writing is so natural like a Japanese person”. I delighted to hear and thanked her humbly.
-  Over the last 26 years I have been volunteering at Book Conferences and setting up art shows in galleries. The book conferences were mostly science fiction and fantasy although the art did not need to be themed. In fact, the art was wide ranging. I had exhibits of Jewellery, Wood Sculptures, 3D models, Fine art and Illustrative art. Artists from all over the world and different background and education would come to exhibit. The subjects exhibited covered all genres from gothic, space, portrait art to contemporary, modern and political art. I would walk around the exhibits and feel so inspired.
-  On the 1st Feb 2017 Neil McChrystal invited to do his 28day drawing challenge. Since then I have been doing a piece of art every day. Being able to create has given me so much happiness and Joy."
+  description: From early in my childhood I had a passion for art and wanted to create
+    art but sadly I could not draw. Even though I could not draw I would inspire other
+    to create art through my volunteer work. At the local community centre, I would
+    volunteer to work with children that needed external help to create. Be it blind
+    or death, unable to walk or move, I would help children my age to paint pictures,
+    build structures create music and make textured art to touch and feel. They loved
+    it. I discovered art through various avenues be it museums & galleries and books
+    or via my Humanities studies with the OU and my Japanese, Language, History and
+    Cultural studies with Birkbeck. The Humanities course taught me how to study the
+    history of art and write an essay or study the Unwitting testimonies of Art. My
+    Japanese studies I learned about the history of art in many forms and also how
+    to write over 400 Kanji. After a Japanese Lady on a train leaned over to her son
+    and asked him to compliment me on my Japanese writing skills, I realised that
+    I had a skill for art. She said “Your writing is so natural like a Japanese person”.
+    I delighted to hear and thanked her humbly. Over the last 26 years I have been
+    volunteering at Book Conferences and setting up art shows in galleries. The book
+    conferences were mostly science fiction and fantasy although the art did not need
+    to be themed. In fact, the art was wide ranging. I had exhibits of Jewellery,
+    Wood Sculptures, 3D models, Fine art and Illustrative art. Artists from all over
+    the world and different background and education would come to exhibit. The subjects
+    exhibited covered all genres from gothic, space, portrait art to contemporary,
+    modern and political art. I would walk around the exhibits and feel so inspired.
+    On the 1st Feb 2017 Neil McChrystal invited to do his 28day drawing challenge.
+    Since then I have been doing a piece of art every day. Being able to create has
+    given me so much happiness and Joy.
   website1: "[Etsy Shop](https://www.etsy.com/uk/shop/SnowDragonsArt?ref=seller-platform-mcnav)"
   website2: "[SnowDragonsArt Website](https://snowdragonsart.wordpress.com/)"
   image_filenames:
@@ -186,7 +215,13 @@
   - "/assets/images/IMG_2114 - Julie Faith McMurray.jpeg"
   - "/assets/images/IMG_7304 - Julie Faith McMurray.jpeg"
 - name: Dianita
-  description: Dianita is a fantasy artist born in Veracruz, Mexico and currently working and living in Texas.  In her work she explores a world she'd love to live in, where humans and nature live in harmony and from time to time she likes to portray more personal themes, all in fantasy settings. She prefers working with traditional media being her favorites graphite, acrylics and oils.  She's a member of the Mexicanx Initiative and has worked with private clients and book cover and interior illustrations.
+  description: Dianita is a fantasy artist born in Veracruz, Mexico and currently
+    working and living in Texas.  In her work she explores a world she'd love to live
+    in, where humans and nature live in harmony and from time to time she likes to
+    portray more personal themes, all in fantasy settings. She prefers working with
+    traditional media being her favorites graphite, acrylics and oils.  She's a member
+    of the Mexicanx Initiative and has worked with private clients and book cover
+    and interior illustrations.
   facebook: dianitaart
   twitter: dianita_art
   instagram: dianita_art
@@ -199,7 +234,10 @@
   - "/assets/images/Eternitysm - Dianita Ceron.jpg"
   - "/assets/images/Mydearfriend_dianitasm - Dianita Ceron.jpg"
 - name: Sara Felix
-  description: Sara Felix is a two time Hugo finalist and Hugo base creator.  She is the president of ASFA (The Association of Science Fiction and Fantasy artists). A mixed media artist she works primarily in inks and resin. She is a tiara queen and does weekly tiara giveaways on Concellation on Facebook.
+  description: Sara Felix is a two time Hugo finalist and Hugo base creator.  She
+    is the president of ASFA (The Association of Science Fiction and Fantasy artists).
+    A mixed media artist she works primarily in inks and resin. She is a tiara queen
+    and does weekly tiara giveaways on Concellation on Facebook.
   website1: "[SaraFelix.com](http://www.sarafelix.com)"
   image_filenames:
   - "/assets/images/new_blie - Sara Felix.jpg"
@@ -208,20 +246,38 @@
   - "/assets/images/tiara_wings - Sara Felix.jpg"
   - "/assets/images/tiara_writer - Sara Felix.jpg"
 - name: Charles Urbach
-  description: "Charles Urbach is a Chesley award winning writer and colored pencil illustrator with more than 25 years in design, publishing, and illustration. His detailed original concepts and drawings have appeared on merchandise of all kinds, book covers for authors including Timothy Zahn, and hundreds of his illustrations have appeared in gaming products including: Magic: The Gathering, Heroclix, Legend of the Five Rings, A Game of Thrones, Lord of the Rings, various Star Wars products, Das Schwarze Auge, Infinite City, Mage Knight, Everquest, Call of Cthulhu, Esper Genesis, DoomTown Reloaded, and many others. He is frequently a guest and instructor at conventions and tournaments around the world, where his artwork is displayed and sold. Among his accomplishments, he is a two time Chesley Award winner and has won awards at  Gen Con, Dragon Con, Origins, CONvergence, Marcon, and  many other events around the U.S."
+  description: 'Charles Urbach is a Chesley award winning writer and colored pencil
+    illustrator with more than 25 years in design, publishing, and illustration. His
+    detailed original concepts and drawings have appeared on merchandise of all kinds,
+    book covers for authors including Timothy Zahn, and hundreds of his illustrations
+    have appeared in gaming products including: Magic: The Gathering, Heroclix, Legend
+    of the Five Rings, A Game of Thrones, Lord of the Rings, various Star Wars products,
+    Das Schwarze Auge, Infinite City, Mage Knight, Everquest, Call of Cthulhu, Esper
+    Genesis, DoomTown Reloaded, and many others. He is frequently a guest and instructor
+    at conventions and tournaments around the world, where his artwork is displayed
+    and sold. Among his accomplishments, he is a two time Chesley Award winner and
+    has won awards at  Gen Con, Dragon Con, Origins, CONvergence, Marcon, and  many
+    other events around the U.S.'
   website1: "[Facebook](http://www.charlesurbach.com)"
   website2: "[eBay](https://www.ebay.com/str/artofcharlesurbach)"
   image_filenames:
-  - '/assets/images/artshow/Sample Urbach Noty All Treasure is Gold - Charles Urbach.jpg'
-  - '/assets/images/artshow/Sample Urbach Star To Steer By - Charles Urbach.jpg'
-  - '/assets/images/artshow/Sample Urbach Unbound - Charles Urbach.jpg'
-  - '/assets/images/artshow/Sample Urbach Where Aventures Begin - Charles Urbach.jpg'
+  - "/assets/images/artshow/Sample Urbach Noty All Treasure is Gold - Charles Urbach.jpg"
+  - "/assets/images/artshow/Sample Urbach Star To Steer By - Charles Urbach.jpg"
+  - "/assets/images/artshow/Sample Urbach Unbound - Charles Urbach.jpg"
+  - "/assets/images/artshow/Sample Urbach Where Aventures Begin - Charles Urbach.jpg"
 - name: Lisa Sell
-  description: Lisa Sell is a 2D /3D award winning artist with a passion for fantasy art. Many of her works feature dragons and creatures from mythology with graceful compositions and intricate designs. Lisa is best known for her 3D sculptures, along with her graphic design and illustration work. Her sculpted masquerade masks, fantasy sculptures, and illustrations are published, sold, and collected around the world. In addition to masks and freestanding sculptures, her detail oriented creations include jewelry, figurines, and wall art – all hand sculpted, some are hand cast in resin, and hand painted from her original designs.
+  description: Lisa Sell is a 2D /3D award winning artist with a passion for fantasy
+    art. Many of her works feature dragons and creatures from mythology with graceful
+    compositions and intricate designs. Lisa is best known for her 3D sculptures,
+    along with her graphic design and illustration work. Her sculpted masquerade masks,
+    fantasy sculptures, and illustrations are published, sold, and collected around
+    the world. In addition to masks and freestanding sculptures, her detail oriented
+    creations include jewelry, figurines, and wall art – all hand sculpted, some are
+    hand cast in resin, and hand painted from her original designs.
   facebook: Lisa-Sell-Artist-421303461249009
   image_filenames:
-  - '/assets/images/artshow/Hair Clips 2 - Lisa S.jpg'
-  - '/assets/images/artshow/Junior Page - Lisa S.jpg'
-  - '/assets/images/artshow/Mask Page New_ Gen Con - Lisa S.jpg'
-  - '/assets/images/artshow/Orb Dragon NEW3 - Lisa S.jpg'
-  - '/assets/images/artshow/Pic. F. P. Red 1 - Lisa S.jpg'
+  - "/assets/images/artshow/Hair Clips 2 - Lisa S.jpg"
+  - "/assets/images/artshow/Junior Page - Lisa S.jpg"
+  - "/assets/images/artshow/Mask Page New_ Gen Con - Lisa S.jpg"
+  - "/assets/images/artshow/Orb Dragon NEW3 - Lisa S.jpg"
+  - "/assets/images/artshow/Pic. F. P. Red 1 - Lisa S.jpg"
