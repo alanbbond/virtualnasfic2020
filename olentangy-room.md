@@ -3,7 +3,7 @@ title: Olentangy Room
 layout: default
 category: room
 public: false
-order: "4"
+order: 4
 
 ---
 # The Olentangy Event Room
