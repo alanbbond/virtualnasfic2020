@@ -12,23 +12,23 @@ order: 1
 
 (...slightly past Midnight...)
 
-Well, we have made it through the first day of the first fully Virtual NASFiC, and all of you have helped it be entertaining, inspiring, touching, imaginative, and all of the best bits of SF and fannishness that bring us together. This NASFiC is the most International one yet, with attendees from 21 different countries so far, and we are proud and delighted to have every one of you here. 
+Well, we have made it through the first day of the first fully Virtual NASFiC, and all of you have helped it be entertaining, inspiring, touching, imaginative, and all of the best bits of SF and fannishness that bring us together. This NASFiC is the most International one yet, with attendees from 21 different countries so far, and we are proud and delighted to have every one of you here.
 
-We had only minor technical difficulties with the Zoom rooms and streaming on Friday UNTIL very near the end of the day when rooms started to go bust -- our tech crew is working hard to revamp our approach to try to avoid a repeat tomorrow. Thank you for your patience. 
+We had only minor technical difficulties with the Zoom rooms and streaming on Friday UNTIL very near the end of the day when rooms started to go bust -- our tech crew is working hard to revamp our approach to try to avoid a repeat tomorrow. Thank you for your patience.
 
-Meanwhile, Editor Guest of Honor Chris Garcia and his family have unfortunately had to be evacuated from their home in California, which is threatened by oncoming fires. Chris will be unable to attend the rest of the convention.  Our hearts go out to him and his family at this difficult time.  
-  
-Fortunately for all of you, Chris went ROGUE and created a Rogue NASFiC Podcast before the convention even began. You can access that at [https://rogue-nasfic.pinecast.co/](https://rogue-nasfic.pinecast.co/ "https://rogue-nasfic.pinecast.co/") --It is full of awesome interviews and collaborations he has been doing over the summer, and we are glad that you can still get a taste of his awesomeness despite his needing to focus his energy and attention elsewhere for the next few days.
+Meanwhile, Editor Guest of Honor Chris Garcia and his family have unfortunately had to be evacuated from their home in California, which is threatened by oncoming fires. Chris will be unable to attend the rest of the convention.  Our hearts go out to him and his family at this difficult time.
 
-For those wishing to get to know our other Guests of Honor better, the Sign Up Sheets for their Kaffeeklatsches are UP - a bit later than we intended, but better late than never, right?  Right?  
-  
-Links to the available Kaffeeklatsches can be found in the Guest of Honor profiles on the page of [who's appearing](https://columbus2020nasfic.org/guests.html "Guests"). You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord. 
+Fortunately for all of you, Chris went ROGUE and created a Rogue NASFiC Podcast before the convention even began. You can access that at [https://rogue-nasfic.pinecast.co/](https://rogue-nasfic.pinecast.co/ "https://rogue-nasfic.pinecast.co/")  and at [https://www.youtube.com/channel/UC7gMvgB8g8QbTBR-ypQ78Ug](https://www.youtube.com/channel/UC7gMvgB8g8QbTBR-ypQ78Ug "Rogue NASFiC YouTube Channel")  It is full of awesome interviews and collaborations that Chris has been doing over the summer, and we are glad that you can still get a taste of his awesomeness despite his needing to focus his energy and attention elsewhere for the next few days.
 
-Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session, and of course there will also be the exciting announcement of the Chesley Award Nominees. 
+For those wishing to get to know our other Guests of Honor better, the Sign Up Sheets for their Kaffeeklatsches are UP - a bit later than we intended, but better late than never, right?  Right.
 
-And in case you were wondering WHAT to do with yourself before or between the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show Galactic Journey, on stage in the Auditorium at 9 PM Saturday night.   
-  
-Good night, sleep tight, and we'll see you in the morning. 
+Links to the available Kaffeeklatsches can be found in the Guest of Honor profiles on the page of [who's appearing](https://columbus2020nasfic.org/guests.html "Guests"). You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord.
+
+Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session at 5 PM in the (infinitely large)  # consuite, and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
+
+And in case you were wondering WHAT to do with yourself before or between the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show Galactic Journey, on stage in the Auditorium at 9 PM Saturday night.
+
+Good night, sleep tight, and we'll see you in the morning.
 
 ### 08/03/2020
 
