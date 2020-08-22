@@ -2,7 +2,7 @@
 - name: Juanita Coulson
   guest_of_honor: false
   role: ''
-  filename: ''
+  filename: "/assets/images/juanita-coulson.jpg"
   description: Juanita Coulson grew up listening to folk music, way back when the
     term "filk" had yet to be born. She found fandom during college, noting ads for
     sf clubs in the back of the pulp magazine “Other Worlds,” edited by Ray Palmer.
@@ -17,7 +17,7 @@
   website1: ''
   website2: ''
   website3: ''
-  facebook: ''
+  facebook: juanita.coulson.1
   twitter: ''
   instagram: ''
   discord: ''
