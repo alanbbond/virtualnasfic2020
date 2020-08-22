@@ -22,7 +22,9 @@ Fortunately for all of you, Chris went ROGUE and created a Rogue NASFiC Podcast 
 
 For those wishing to get to know our other Guests of Honor better, the Sign Up Sheets for their Kaffeeklatsches are UP - a bit later than we intended, but better late than never, right?  Right.
 
-Links to the available Kaffeeklatsches can be found in the Guest of Honor profiles on the page of [who's appearing](https://columbus2020nasfic.org/guests.html "Guests"). You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord. If you have news you want to share with the rest of us, you can post it there, and also be sure to drop it off at # newsletter-submissions so Newsletter Editor Tammy Coxen can run it in \[NASFiC News\]([https://columbus2020nasfic.org/NASFiCnews.html](https://columbus2020nasfic.org/NASFiCnews.html\] "NASFiC News"))
+Links to the available Kaffeeklatsches can be found in the Guest of Honor profiles on the page of [who's appearing](https://columbus2020nasfic.org/guests.html "Guests"). The first Kaffeeklatsch of the day Saturday will be at 10 AM with Scientist GOH Marc Millis.  \[Sign up now\]([https://forms.gle/BUjhGckubRGvAobL8](https://forms.gle/BUjhGckubRGvAobL8 "https://forms.gle/BUjhGckubRGvAobL8")).  
+  
+You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord. If you have news you want to share with the rest of us, you can post it there, and also be sure to drop it off at # newsletter-submissions so Newsletter Editor Tammy Coxen can run it in \[NASFiC News\]([https://columbus2020nasfic.org/NASFiCnews.html](https://columbus2020nasfic.org/NASFiCnews.html\] "NASFiC News"))
 
 Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session at 5 PM in the (infinitely large)  # consuite, and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
 
