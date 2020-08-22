@@ -1254,7 +1254,7 @@
   music: true
   published: true
   description: "Roberta Rogow is a long-time fan, who has been active in Filk since the 1970's. 
-    She's known for her Star Trek and other Media filk, but has also written "story songs" to her own tunes. 
+    She's known for her Star Trek and other Media filk, but has also written \"story songs\" to her own tunes. 
     She was inducted into the Filk Hall of Fame in 20123. Roberta also writes mystery stories, often using historical 
     characters in fictional settings. When she is not attending SF or Mystery conventions, Roberta is a retired 
     Children's Librarian living in New Jersey."
@@ -1333,11 +1333,11 @@
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Tom Smith
-  description: 'For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
+  description: "For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
     huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
     Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
     silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
-    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!'
+    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!"
   music: true
   published: true
 - title: Bawdy Songs
@@ -1439,7 +1439,7 @@
   music: false
   published: true
 - title: "(Reading) Jennifer Blackstream"
-  datetime: Sunday 8:30PM
+  datetime: Saturday 8:30PM
   room: "[Readings](/readings)"
   programparticipants:
   - Jennifer Blackstream
