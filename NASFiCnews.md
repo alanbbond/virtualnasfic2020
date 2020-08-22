@@ -39,7 +39,7 @@ In better Chris Garcia news, check out his [Rogue NASFiC YouTube](https://www.yo
 
 Fan Funds like GUFF, DUFF and LAFF enable fans to travel to other countries and continents to attend their major conventions and meet the local fans. They are funded through donations and fan fund auctions. The [NASFiC fan fund auction](https://www.facebook.com/events/s/nasfic-fan-fund-auction/322469925862126/ ) is being organized on Facebook. Visit the page to donate an item (any time) or bid on an item (after 4 pm Friday).
 
-Current items include Tuckerizations from Gillian Pollack, a knitted lace shawl from Esther MacCallum-Stewart, a private mixology less from Tammy Coxen (_ed: #shamelessselfpromotion_) and more! Including this fabulous Skele-Posse plush Sabbath from Emily the Strange, donated by Geri Sullivan.
+Current items include Tuckerizations from Gillian Pollack, a knitted lace shawl from Esther MacCallum-Stewart, a private mixology lesson from Tammy Coxen (_ed: #shamelessselfpromotion_) and more! Including this fabulous Skele-Posse plush Sabbath from Emily the Strange, donated by Geri Sullivan.
 
 ![](/assets/images/skelekitty-1.jpg)
 
@@ -49,11 +49,11 @@ Where and why was the first NASFiC held? Which NASFiC misspelled its own name? W
 
 ### Gaming Goes Digital!
 
-Check out the Digital Gaming category in Discord if you'd like to get your game on! There are several options (which you opt into by clicking a particular reaction). Want to go on a spacefaring adventure? Gaming is running Artemis Starship Bridge Simulator 2.4.0 and Horizons Starship Bridge Simulator. For Horizons, you'll just need a broswer window open for game. For Artemis you will need to have the game installed on your device. Windows and Mac users can download the app from the pinned post in #artemis-sbs (the convention has 5 bridge licenses which cover using the app with our servers). On Android or iOS you will have to purchase the app. 
+Check out the Digital Gaming category in Discord if you'd like to get your game on! There are several options (which you opt into by clicking a particular reaction). Want to go on a spacefaring adventure? Gaming is running Artemis Starship Bridge Simulator 2.4.0 and Horizons Starship Bridge Simulator. For Horizons, you'll just need a broswer window open for game. For Artemis you will need to have the game installed on your device. Windows and Mac users can download the app from the pinned post in #artemis-sbs (the convention has 5 bridge licenses which cover using the app with our servers). On Android or iOS you will have to purchase the app.
 
-Looking for something closer to earth? A variety of party games will be offered through Jackbox (you'll just need a browser window to play those) and there's a channel for organizing your own pickup games too, using your online gaming venue of choice. 
+Looking for something closer to earth? A variety of party games will be offered through Jackbox (you'll just need a browser window to play those) and there's a channel for organizing your own pickup games too, using your online gaming venue of choice.
 
-**_That's it for this edition of the newsletter! See you tomorow morning. Submit your news to #newsletter-submissions in Discord!_**
+**_That's it for this edition of the newsletter! See you tomorrow morning. Submit your news (or fan illos, fun quotes, etc) to #newsletter-submissions in Discord!_**
 
 ## Issue 2: Saturday AM
 
